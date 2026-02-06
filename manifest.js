@@ -9,21 +9,10 @@
 //================================================================
 
 const DATABASE_FILES = [
-    'LICHSUDIALI.js',
-    'khoahoctunhien.js',
+
     'CIE6TW6.js',
-    'TOAN6.js',
-  //  'DATABASE/EnglishMrSON.js',
-    // 'DATABASE/IOE.js',
-     'ENGLISHHK1.js',
     'questiontest.js',
-     'IEL90.js',
-     'nguvan6.js',
-
-
-
-// 'DATABASE/	AdvancedEnglishv2.js',
-// 'DATABASE/	checkpointone.js',
+    'nguvan6.js',
 
  // Thêm các tệp .js database khác của bạn ở đây
 ];
@@ -35,5 +24,6 @@ DATABASE_FILES.forEach(filePath => {
 });
 
 // (Đã xóa dấu '}' bị thừa từ đây)
+
 
 
