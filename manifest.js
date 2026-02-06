@@ -9,16 +9,16 @@
 //================================================================
 
 const DATABASE_FILES = [
-    'DATABASE/LICHSUDIALI.js',
-    'DATABASE/khoahoctunhien.js',
-    'DATABASE/CIE6TW6.js',
-    'DATABASE/TOAN6.js',
+    'LICHSUDIALI.js',
+    'khoahoctunhien.js',
+    'CIE6TW6.js',
+    'TOAN6.js',
   //  'DATABASE/EnglishMrSON.js',
     // 'DATABASE/IOE.js',
-     'DATABASE/ENGLISHHK1.js',
-    'DATABASE/questiontest.js',
-     'DATABASE/	IEL90.js',
-     'DATABASE/nguvan6.js',
+     'ENGLISHHK1.js',
+    'questiontest.js',
+     'IEL90.js',
+     'nguvan6.js',
 
 
 

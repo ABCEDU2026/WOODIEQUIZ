@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài Kiểm Tra Trắc Nghiệm Tương Tác v4.5 - A80</title> 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800&family=Pacifico&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+
+    <script>
+    MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+    <div id="mobile-dashboard">
+        <div class="timer-box">⏱️ <span id="mob-timer">00:00</span></div>
+        <div class="progress-box">Câu <span id="mob-progress">1/20</span></div>
+        <button id="mobile-submit-btn">NỘP BÀI</button>
+    </div>
+
+    <div class="print-only-header">
+        <h2>BÀI KIỂM TRA TRẮC NGHIỆM</h2>
+        <p>Họ tên: ........................................................... Lớp: .............</p>
+        <p>Ngày thi: ............................ Điểm số: ............/............</p>
+    </div>
+
+    <div id="app-header" class="app-header hidden"></div>
+
+    <div id="start-screen">
+        <h1>QUIZIZZ LỚP 6 - TỔNG HỢP </h1> <p class="subtitle">CHỌN CHỦ ĐÈ VÀ CHẾ ĐỘ ĐỂ BẮT ĐẦU HÀNH TRÌNH KHÁM PHÁ KIẾN THỨC!</p>
+
+        <div class="start-screen-content">
+            
+            <div class="start-screen-illustration">
+                <div id="daily-slogan" class="slogan-bubble"></div>
+
+                <div id="welcome-user" class="welcome-container hidden">
+                    <svg class="mascot-image" width="180" height="180" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <style>
+                            .book-cover { fill: var(--primary-color); }
+                            .book-page { fill: white; }
+                            .plant-stem { fill: none; stroke: var(--correct-color); stroke-width: 3; stroke-linecap: round; }
+                            .plant-leaf { fill: var(--correct-color); }
+                            .pen-body { fill: var(--secondary-color); }
+                            .pen-tip { fill: #333; }
+                        </style>
+                        <path class="book-cover" d="M10 85 V 15 C 30 5, 70 5, 90 15 V 85 C 70 95, 30 95, 10 85 Z"/>
+                        <path class="book-page" d="M15 80 V 20 C 30 10, 70 10, 85 20 V 80 C 70 90, 30 90, 15 80 Z"/>
+                        <line x1="50" y1="13" x2="50" y2="87" stroke="var(--border-color)" stroke-width="2"/>
+                        <path class="plant-stem" d="M50 50 V 30" />
+                        <path class="plant-leaf" d="M50 30 C 40 30, 40 40, 50 40 C 40 40, 40 50, 50 50 Z" />
+                        <path class="plant-leaf" d="M50 30 C 60 30, 60 40, 50 40 C 60 40, 60 50, 50 50 Z" />
+                        
+                        <g class="animated-pen-group">
+                            <rect x="55" y="35" width="8" height="25" rx="2" transform="rotate(-30 59 47.5)" class="pen-body" />
+                            <path d="M52 62 L56 69 L60 58 Z" class="pen-tip" />
+                        </g>
+                    </svg>
+                    
+                    <div class="welcome-text-wrapper">
+                        <span class="welcome-text">Xin chào mừng trở lại,</span>
+                        <div id="user-signature">Bạn</div>
+                    </div>
+                    
+                    <div id="start-screen-stats" class="start-stats-display">
+                        <span id="start-screen-level">Cấp độ: ...</span>
+                        <span id="start-screen-cups">Cúp: 🏆 0</span>
+                    </div>
+                    
+                    <button id="change-name-btn" class="nav-btn btn-secondary-action">Đổi tên</button>
+                    <button id="reset-db-btn" class="text-danger-link">⚠️ Reset Dữ Liệu</button>
+                    
+                    <div style="margin-top: 10px; display: flex; gap: 10px; justify-content: center;">
+                        <button id="export-btn" class="text-danger-link" style="color:var(--primary-color); border:none; background:none; cursor:pointer;">⬇️ Sao lưu</button>
+                        <button id="import-btn" class="text-danger-link" style="color:var(--correct-color); border:none; background:none; cursor:pointer;">⬆️ Khôi phục</button>
+                        <input type="file" id="import-file" style="display: none;" accept=".json">
+                    </div>
+                </div>
+                
+                <div id="welcome-prompt" class="hidden">
+                     <svg class="mascot-image" width="180" height="180" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                        <style>
+                            .book-cover { fill: var(--primary-color); }
+                            .book-page { fill: white; }
+                            .plant-stem { fill: none; stroke: var(--correct-color); stroke-width: 3; stroke-linecap: round; }
+                            .plant-leaf { fill: var(--correct-color); }
+                            .pen-body { fill: var(--secondary-color); }
+                            .pen-tip { fill: #333; }
+                        </style>
+                        <path class="book-cover" d="M10 85 V 15 C 30 5, 70 5, 90 15 V 85 C 70 95, 30 95, 10 85 Z"/>
+                        <path class="book-page" d="M15 80 V 20 C 30 10, 70 10, 85 20 V 80 C 70 90, 30 90, 15 80 Z"/>
+                        <line x1="50" y1="13" x2="50" y2="87" stroke="var(--border-color)" stroke-width="2"/>
+                        <path class="plant-stem" d="M50 50 V 30" />
+                        <path class="plant-leaf" d="M50 30 C 40 30, 40 40, 50 40 C 40 40, 40 50, 50 50 Z" />
+                        <path class="plant-leaf" d="M50 30 C 60 30, 60 40, 50 40 C 60 40, 60 50, 50 50 Z" />
+                         <g class="animated-pen-group">
+                            <rect x="55" y="35" width="8" height="25" rx="2" transform="rotate(-30 59 47.5)" class="pen-body" />
+                            <path d="M52 62 L56 69 L60 58 Z" class="pen-tip" />
+                        </g>
+                    </svg>
+                    <label for="name-input">Chào mừng bạn!</label>
+                    <p class="slogan">Hãy cho chúng tôi biết tên của nhà vô địch!</p>
+                    <input type="text" id="name-input" placeholder="Nhập tên..." maxlength="20">
+                    <p style="font-size: 0.9rem; color: var(--grey-text); margin-top: 10px;">Nhấn Enter để lưu</p>
+                </div>
+                
+            </div> 
+            
+            <div class="start-controls">
+                <div class="control-group">
+                    <label for="subject-selector">Bước 1: Chọn Môn Học</label>
+                    <select id="subject-selector">
+                        <option value="">--- Vui lòng chọn ---</option>
+                    </select>
+                </div>
+
+                <div class="control-group">
+                    <label for="topic-selector">Bước 2: Chọn Chủ Đề / Bài học</label>
+                    <select id="topic-selector" disabled>
+                        <option value="">--- (Hãy chọn môn học trước) ---</option>
+                    </select>
+                </div>
+
+                <div class="control-group">
+                    <label>Bước 3: Chọn Chế Độ</label>
+                    <div class="mode-selection">
+                        <button id="start-random-btn">🎲 Test Ngẫu Nhiên</button>
+                        <button id="start-full-btn">📚 Luyện Tập Toàn Bộ</button>
+                    </div>
+                </div>
+
+                <p style="margin-top: 15px; font-size: 1rem; color: var(--grey-text); text-align: center; border-top: 1px dashed #e5e7eb; padding-top: 10px;">
+                    Số câu hỏi trong chủ đề: <span id="topic-total-questions" style="font-weight: bold; color: var(--primary-color);">0</span>
+                </p>
+            </div>
+
+        </div>
+
+        <div class="stats-wrapper">
+        
+            <div id="leaderboard-container" class="collapsed">
+                <h3>🏆 BẢNG XẾP HẠNG 🏆</h3>
+                <ul id="leaderboard-list">
+                    <li>Đang tải...</li>
+                </ul>
+                <a id="reset-leaderboard-link">Reset Bảng Xếp Hạng?</a>
+            </div>
+
+            <div id="user-log-container" class="collapsed">
+                <h3>📜 Nhật ký học tập của bạn</h3>
+                
+                <div class="report-controls">
+                    <div class="report-filter">
+                        <label for="report-start-date">Từ ngày:</label>
+                        <input type="date" id="report-start-date">
+                    </div>
+                    <div class="report-filter">
+                        <label for="report-end-date">Đến ngày:</label>
+                        <input type="date" id="report-end-date">
+                    </div>
+                    <button id="print-summary-report-btn" class="nav-btn" title="In Báo cáo Tổng hợp (Loại A)">🖨️ In Báo cáo</button>
+                </div>
+
+                <ul id="user-log-list">
+                    <li>Chưa có kết quả nào.</li>
+                </ul>
+            </div>
+        
+        </div>
+    </div>
+
+    <div id="quiz-screen" class="hidden">
+        <div class="quiz-layout">
+            <div class="main-content">
+                <div id="quiz-container">
+                    <div id="reading-passage-container" class="reading-passage-box hidden"></div>
+                    <p id="question-counter"></p>
+                    <h2 id="question-text"></h2>
+                    <div id="options-container"></div>
+                </div>
+                <div id="explanation-box" class="hidden">
+                    <h4>GIẢI THÍCH CHI TIẾT</h4>
+                    <p id="explanation-text"></p>
+
+                <div id="ai-tutor-container" style="margin-top: 15px; border-top: 2px dashed #6366f1; padding-top: 10px;">
+        <button id="ask-ai-btn" class="nav-btn" style="background: linear-gradient(45deg, #ec4899, #6366f1); font-size: 0.9rem;">
+            ✨ GIẢI THÍCH SÂU BẰNG AI (IVY MODE)
+        </button>
+        <div id="ai-response-area" class="hidden" style="margin-top: 10px; font-style: italic; color: #4338ca; background: #f5f3ff; padding: 10px; border-radius: 8px;">
+            <p id="ai-loading-text">Đang kết nối với trí tuệ nhân tạo...</p>
+            <p id="ai-content-text"></p>
+        </div>
+    </div>
+
+                </div>
+
+
+
+                <div id="navigation-controls">
+                    <button id="prev-question-btn" class="nav-btn">⬅️ Quay Lại</button>
+                    <button id="stop-quiz-btn" class="nav-btn">🛑 Dừng Bài</button>
+                    <button id="next-question-btn" class="nav-btn">Tiếp Tục ➡️</button>
+                </div>
+
+                <div id="review-final-controls" class="hidden">
+                    <button id="final-review-home-btn" class="nav-btn">🏠 Quay về trang chủ</button>
+                    <button id="final-review-new-btn" class="nav-btn" style="background-color: var(--primary-color);">🎲 Làm bài mới</button>
+                </div>
+
+            </div>
+            <aside class="sidebar">
+                <div id="dashboard">
+                    <h3 id="dashboard-header">BẢNG ĐIỀU KHIỂN</h3>
+                    <div id="dashboard-user-stats" class="dashboard-user-info">
+                        <span id="dash-cup">🏆 0</span> | <span id="dash-level">Tân binh</span>
+                    </div>
+                    
+                    <p id="dashboard-quiz-title" class="hidden"></p> 
+                    <p id="dashboard-user-level" class="dashboard-level-display hidden"></p>
+                    
+                    <div class="dashboard-item">
+                        <div class="stat-label"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M12,4A8,8 0 0,1 20,12A8,8 0 0,1 12,20A8,8 0 0,1 4,12A8,8 0 0,1 12,4M12.5,7V12.25L17,14.92L16.25,16.15L11,13V7H12.5Z"></path></svg><span>Thời gian</span></div>
+                        <span id="timer-value" class="stat-value">00:00</span>
+                    </div>
+                    <div class="dashboard-item">
+                        <div class="stat-label"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7,15H21V13H7V15M7,19H21V17H7V19M7,11H21V9H7V11M3,4.5A1.5,1.5 0 0,1 4.5,3A1.5,1.5 0 0,1 6,4.5A1.5,1.5 0 0,1 4.5,6A1.5,1.5 0 0,1 3,4.5M3,10.5A1.5,1.5 0 0,1 4.5,9A1.5,1.5 0 0,1 6,10.5A1.5,1.5 0 0,1 4.5,12A1.5,1.5 0 0,1 3,10.5M3,16.5A1.5,1.5 0 0,1 4.5,15A1.5,1.5 0 0,1 6,16.5A1.5,1.5 0 0,1 4.5,18A1.5,1.5 0 0,1 3,16.5Z"></path></svg><span>Ngân hàng</span></div>
+                        <span id="bank-total-value" class="stat-value">0</span>
+                    </div>
+                    <div class="dashboard-item">
+                        <div class="stat-label"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16,11.78L20.24,4.45L21.97,5.45L16.74,14.5L10.23,10.75L5.46,19H22V21H2V3H4V17.54L9.5,8.25L16,11.78Z"></path></svg><span>Hạt dẻ 🌰</span></div>
+                        <span id="score-value" class="stat-value">0</span>
+                    </div>
+                    <div class="dashboard-item">
+                        <div class="stat-label"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12S6.5 22 12 22 22 17.5 22 12 17.5 2 12 2M12 20C7.59 20 4 16.41 4 12S7.59 4 12 4 20 7.59 20 12 16.41 20 12 20M16.59 7.58L10 14.17L7.41 11.59L6 13L10 17L18 9L16.59 7.58Z"></path></svg><span>Đúng</span></div>
+                        <span id="correct-value" class="stat-value">0</span>
+                    </div>
+                    <div class="dashboard-item">
+                        <div class="stat-label"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,2C17.53,2 22,6.47 22,12C22,17.53 17.53,22 12,22C6.47,22 2,17.53 2,12C2,6.47 6.47,2 12,2M15.59,7L12,10.59L8.41,7L7,8.41L10.59,12L7,15.59L8.41,17L12,13.41L15.59,17L17,15.59L13.41,12L17,8.41L15.59,7Z"></path></svg><span>Sai</span></div>
+                        <span id="incorrect-value" class="stat-value">0</span>
+                    </div>
+                    <div class="dashboard-item">
+                        <div class="stat-label"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12,4C11.45,4 11,4.45 11,5V7H13V5C13,4.45 12.55,4 12,4M17.5,6.5L19,5L17.5,3.5L16.08,4.92C15.05,4.33 13.58,4 12,4C7.58,4 4,7.58 4,12C4,16.42 7.58,20 12,20C16.42,20 20,16.42 20,12C20,10.42 19.67,8.95 19.08,7.92L17.5,6.5M12,18C8.69,18 6,15.31 6,12C6,8.69 8.69,6 12,6C15.31,6 18,8.69 18,12C18,15.31 15.31,18 12,18Z"></path></svg><span>Chính xác</span></div>
+                        <span id="accuracy-value" class="stat-value">0%</span>
+                    </div>
+                    <div class="progress-item" style="flex-direction: column; align-items: flex-start;">
+                        <div class="stat-label"><span>Tiến trình</span></div>
+                        <div id="progress-bar-container"><div id="progress-bar">0%</div></div>
+                    </div>
+                    <div id="question-nav-container" style="margin-top: 25px;"><h4>Điều Hướng</h4><div id="question-nav-grid"></div></div>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    <div id="results-modal" class="modal hidden">
+        <div class="modal-content">
+            <h2>Hoàn thành!</h2>
+            <p><strong>Điểm: <span id="final-score"></span></strong> | Chính xác: <span id="final-accuracy"></span></p>
+            <p>(Đúng <span id="final-correct"></span> / <span id="final-total"></span> câu)</p>
+            <div class="modal-buttons">
+                <button id="new-random-btn">Làm bài mới</button>
+                <button id="review-btn" class="secondary">Xem lại đáp án</button>
+                <button id="print-detail-report-btn" class="secondary">📄 In Báo cáo Chi tiết</button>
+                <button id="go-home-btn" class="secondary">Quay về trang chủ</button>
+            </div>
+        </div>
+    </div>
+    <div id="victory-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="victory-cup-wrapper" style="margin-bottom: 15px;">
+                <img src="images/cup_vang_moi.jpg" alt="Chiếc cúp vàng chiến thắng" style="width: 120px; height: 120px;">
+            </div>
+            <h2 style="color: #d9a400;">XUẤT SẮC!</h2>
+            <p><strong>Điểm: <span id="victory-score"></span></strong></p>
+            <div class="modal-buttons">
+                <button id="new-random-victory-btn">Làm bài mới</button>
+                <button id="review-victory-btn" class="secondary">Xem lại đáp án</button>
+                <button id="print-detail-victory-btn" class="secondary">📄 In Báo cáo Chi tiết</button>
+                <button id="go-home-victory-btn" class="secondary">Quay về trang chủ</button>
+            </div>
+        </div>
+    </div>
+
+    <audio id="sound-correct" src="sounds/sound1.mp3" preload="auto"></audio>
+    <audio id="sound-incorrect" src="sounds/sound2.mp3" preload="auto"></audio>
+    <audio id="sound-start" src="sounds/sound3.mp3" preload="auto"></audio>
+    <audio id="sound-victory" src="sounds/sound3.mp3" preload="auto"></audio>
+
+<div id="all-topics-data" class="hidden">
+    <script src="manifest.js"></script>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
