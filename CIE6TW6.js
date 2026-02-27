@@ -3,14 +3,13 @@ document.write(`
         <script type="text/plain" class="question-data-chunk">
 
 // ==================================================================
----
             </script>
         </div>
 
         <div class="topic-data" data-subject-name="CIE6" data-topic-name="ÔN TẬP GIỮA HỌC KÌ II   - QUETION TEST ">
             <script type="text/plain" class="question-data-chunk">
 
------
+---
 // ==================================================================
 // BATCH 1: CÂU 1 - 50 (PHONOLOGY, MORPHOLOGY, SYNTAX & SEMANTICS)
 // TÀI LIỆU: ĐỀ CƯƠNG ÔN TẬP TIẾNG ANH 6 - GIỮA HỌC KÌ II
@@ -40510,5 +40509,6 @@ giải thích:: **ID: SS_GRA_300.** Dạng đại từ của Their là **Theirs*
         </script>
     </div>
 `);
+
 
 
