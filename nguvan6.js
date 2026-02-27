@@ -7,9 +7,988 @@ document.write(`
 
 // ==================================================================
 
-
+---
+</script>     
+</div>
+        <div class="topic-data" data-subject-name=" NGỮ VĂN 6" data-topic-name="TÓC CỦA MẸ TÔI - PHAN THỊ THANH NHÀN ">
+            <script type="text/plain" class="question-data-chunk">
+---
+loại:: mot_dap_an
+câu 1:: Đọc đoạn thơ sau: "Mẹ tôi hong tóc buổi chiều / Quay quay bụi nước bay theo gió đồng / Tóc dài mẹ xõa sau lưng / Bao nhiêu sợi bạc chen cùng sợi đen". Đoạn thơ trên được viết theo thể thơ nào?
+a:: Thơ bốn chữ
+b:: Thơ năm chữ
+c:: Thơ lục bát
+d:: Thơ tự do
+đáp án:: c
+giải thích:: Đoạn thơ gồm các cặp câu 6 tiếng và 8 tiếng luân phiên, tuân thủ quy luật của thể thơ lục bát truyền thống [cite: 5-8, 16].
+---
+loại:: mot_dap_an
+câu 2:: Trong bài thơ có đoạn: "Tóc sâu của mẹ, tôi tìm / Ngón tay lần giữa ấm mềm yêu thương". Ai là người đang bày tỏ cảm xúc, suy nghĩ trong hai dòng thơ này?
+a:: Người mẹ
+b:: Người con
+c:: Tác giả (ngôi thứ ba)
+d:: Người hàng xóm
+đáp án:: b
+giải thích:: Việc sử dụng đại từ "tôi" và hành động "tìm tóc sâu" cho thấy người bày tỏ cảm xúc là người con[cite: 9, 17].
+---
+loại:: dien_khuyet
+câu 3:: Điền cụm động từ thích hợp vào chỗ trống dựa trên văn bản của Phan Thị Thanh Nhàn: "Mẹ tôi ... buổi chiều / Quay quay bụi nước bay theo gió đồng".
+đáp án:: hong tóc
+giải thích:: Trong văn bản, cụm động từ "hong tóc" miêu tả hành động của mẹ bên hiên nhà vào buổi chiều[cite: 5, 23, 24].
+---
+loại:: dung_sai
+câu 4:: Cho hai dòng thơ: "Bao nhiêu sợi bạc màu sương / Bấy nhiêu lần mẹ lo buồn vì tôi". Nhận định sau đúng hay sai: "Hình ảnh 'màu sương' là một biện pháp ẩn dụ để chỉ mái tóc đã bạc trắng của mẹ do thời gian và sự vất vả."
+đáp án:: đúng
+giải thích:: "Màu sương" là hình ảnh ẩn dụ lấy đặc điểm của sương (trắng, mờ) để chỉ màu tóc bạc, thể hiện sự già đi của mẹ[cite: 11, 20, 21].
+---
+loại:: dropdown
+câu 5:: Đọc dòng thơ: "Ước gì tóc mẹ bạc rồi lại xanh". Trong ngữ cảnh này, từ "xanh" mang nghĩa biểu tượng là [[Sự trẻ trung|Màu sắc đơn thuần|Sự xanh xao]].
+đáp án:: Sự trẻ trung
+giải thích:: Từ "xanh" ở đây không chỉ màu sắc mà tượng trưng cho mong ước mẹ luôn mạnh khỏe, trường thọ và không già đi[cite: 14, 27].
+---
+loại:: phan_loai
+câu 6:: Dựa vào đoạn thơ: "Tóc dài mẹ xõa sau lưng / Bao nhiêu sợi bạc chen cùng sợi đen", hãy phân loại các cụm từ sau:
+nhom:: (A) Cụm danh từ
+nhom:: (B) Cụm động từ
+the:: sợi bạc chen cùng
+the:: sợi đen
+the:: sau lưng
+the:: tóc dài
+đáp án:: sợi bạc chen cùng::2
+đáp án:: sợi đen::1
+đáp án:: sau lưng::1
+đáp án:: tóc dài::1
+giải thích:: "Sợi đen", "sau lưng", "tóc dài" có trung tâm là danh từ; "sợi bạc chen cùng" chứa động từ trung tâm "chen cùng"[cite: 7, 8, 25, 26].
+---
+loại:: noi
+câu 7:: Nối các dòng thơ với nội dung ý nghĩa tương ứng:
+trai:: Tóc sâu của mẹ, tôi tìm
+phai:: Thể hiện sự hiếu thảo, chăm sóc của con.
+trai:: Bấy nhiêu lần mẹ lo buồn vì tôi
+phai:: Sự thấu hiểu những hy sinh của mẹ.
+trai:: Con ngoan rồi đấy mẹ ơi
+phai:: Lời khẳng định sự trưởng thành của con.
+giải thích:: Mỗi câu thơ tương ứng với một hành động hoặc suy nghĩ của nhân vật người con đối với mẹ[cite: 9, 12, 13].
+---
+loại:: nhieu_dap_an
+câu 8:: Trong câu thơ "Mẹ tôi hong tóc buổi chiều", những thành phần nào sau đây có thể đóng vai trò là trạng ngữ nếu tách biệt?
+a:: buổi chiều
+b:: mẹ tôi
+c:: hong tóc
+d:: lúc buổi chiều
+đáp án:: a,d
+giải thích:: "Buổi chiều" là trạng ngữ chỉ thời gian, xác định thời điểm diễn ra hành động[cite: 5, 29].
+---
+loại:: sap_xep
+câu 9:: Sắp xếp các sự việc sau theo đúng mạch cảm xúc của bài thơ "Tóc của mẹ tôi":
+muc:: Mẹ ngồi hong tóc buổi chiều đồng quê.
+muc:: Con lần ngón tay tìm tóc sâu cho mẹ.
+muc:: Con nhận ra tóc mẹ bạc vì lo buồn cho con.
+muc:: Con ước cho tóc mẹ xanh lại như xưa.
+giải thích:: Bài thơ đi từ quan sát thực tế đến hành động yêu thương, sự thấu hiểu và cuối cùng là ước nguyện [cite: 5-14].
+---
+loại:: dung_sai
+câu 10:: Cho đoạn thơ: "Bao nhiêu sợi bạc màu sương / Bấy nhiêu lần mẹ lo buồn vì tôi". Nhận định sau đúng hay sai: "Cấu trúc 'Bao nhiêu... bấy nhiêu' tạo nên sự cân đối, nhấn mạnh nỗi vất vả của mẹ tỉ lệ thuận với sự khôn lớn của con."
+đáp án:: đúng
+giải thích:: Phép điệp cấu trúc này khẳng định sự hy sinh vô bờ bến của người mẹ dành cho đứa con[cite: 11, 12, 21, 22].
 
 ---
+loại:: mot_dap_an
+câu 1:: Đọc đoạn thơ sau và cho biết văn bản được viết theo thể thơ nào? <br> "Mẹ tôi hong tóc buổi chiều <br> Quay quay bụi nước bay theo gió đồng <br> Tóc dài mẹ xõa sau lưng <br> Bao nhiêu sợi bạc chen cùng sợi đen"
+a:: Thể thơ tự do
+b:: Thể thơ lục bát
+c:: Thể thơ song thất lục bát
+d:: Thể thơ năm chữ
+đáp án:: b
+giải thích:: Đoạn thơ có câu lục (6 tiếng) "Mẹ tôi hong tóc buổi chiều" xen kẽ câu bát (8 tiếng) "Quay quay bụi nước bay theo gió đồng", vần "chiều" - "theo", "lưng" - "cùng". Đây là đặc điểm của thể thơ lục bát.
+---
+loại:: dung_sai
+câu 2:: Đọc bài thơ "Tóc của mẹ tôi" (Phan Thị Thanh Nhàn). Nhận định sau đúng hay sai: "Người bày tỏ cảm xúc, suy nghĩ trong bài thơ là người mẹ."
+đáp án:: sai
+giải thích:: Người bày tỏ cảm xúc là người con (nhân vật "tôi" trong "Mẹ tôi hong tóc", "Tóc sâu của mẹ, tôi tìm").
+---
+loại:: dien_khuyet
+câu 3:: Điền từ còn thiếu vào chỗ trống để hoàn thiện câu thơ sau: <br> "Bao nhiêu sợi bạc màu sương <br> Bấy nhiêu lần mẹ lo buồn vì ..."
+đáp án:: tôi
+giải thích:: Dựa vào nguyên tác bài thơ của Phan Thị Thanh Nhàn: "Bao nhiêu sợi bạc màu sương / Bấy nhiêu lần mẹ lo buồn vì tôi".
+---
+loại:: dropdown
+câu 4:: Trong câu "Mẹ tôi hong tóc buổi chiều", thành phần "buổi chiều" đóng vai trò là [[Chủ ngữ|Vị ngữ|Trạng ngữ]].
+đáp án:: Trạng ngữ
+giải thích:: "buổi chiều" là trạng ngữ chỉ thời gian, bổ sung thông tin về thời gian xảy ra sự việc "hong tóc".
+---
+loại:: phan_loai
+câu 5:: Đọc hai câu thơ: "Tóc dài mẹ xoã sau lưng / Bao nhiêu sợi bạc chen cùng sợi đen". Phân loại các cụm từ sau thành Cụm danh từ và Cụm động từ:
+nhom:: (A) Cụm danh từ
+nhom:: (B) Cụm động từ
+the:: Những sợi bạc
+the:: Xoã sau lưng
+the:: Chen cùng sợi đen
+the:: Bao nhiêu sợi bạc
+đáp án:: Những sợi bạc::1
+đáp án:: Xoã sau lưng::2
+đáp án:: Chen cùng sợi đen::2
+đáp án:: Bao nhiêu sợi bạc::1
+giải thích:: "Bao nhiêu sợi bạc", "Những sợi bạc" có danh từ trung tâm là "sợi bạc". "Xoã sau lưng", "Chen cùng sợi đen" có động từ trung tâm là "xoã", "chen".
+---
+loại:: noi
+câu 6:: Nối các dòng thơ ở cột trái với các dòng thơ tiếp nối tương ứng ở cột phải để tạo thành các cặp lục - bát hoàn chỉnh trong bài.
+trai:: Mẹ tôi hong tóc buổi chiều
+phai:: Quay quay bụi nước bay theo gió đồng
+trai:: Tóc dài mẹ xõa sau lưng
+phai:: Bao nhiêu sợi bạc chen cùng sợi đen
+trai:: Tóc sâu của mẹ, tôi tìm
+phai:: Ngón tay lần giữa ấm mềm yêu thương
+trai:: Bao nhiêu sợi bạc màu sương
+phai:: Bấy nhiêu lần mẹ lo buồn vì tôi
+giải thích:: Đây là các cặp câu thơ lục - bát đi liền nhau trong bài thơ "Tóc của mẹ tôi".
+---
+loại:: nhieu_dap_an
+câu 7:: Đọc bài thơ "Tóc của mẹ tôi". Những câu thơ nào sau đây có sử dụng đại từ chỉ số lượng?
+a:: Mẹ tôi hong tóc buổi chiều
+b:: Bao nhiêu sợi bạc chen cùng sợi đen
+c:: Bấy nhiêu lần mẹ lo buồn vì tôi
+d:: Ước gì tóc mẹ bạc rồi lại xanh
+đáp án:: b,c
+giải thích:: Từ "Bao nhiêu" và "Bấy nhiêu" là các đại từ chỉ số lượng phiếm chỉ, được dùng cặp với nhau tạo sự tương ứng.
+---
+loại:: sap_xep
+câu 8:: Sắp xếp các câu thơ sau theo đúng trình tự xuất hiện trong bài thơ "Tóc của mẹ tôi":
+muc:: (1) Bao nhiêu sợi bạc chen cùng sợi đen
+muc:: (2) Tóc sâu của mẹ, tôi tìm
+muc:: (3) Ngón tay lần giữa ấm mềm yêu thương
+muc:: (4) Bao nhiêu sợi bạc màu sương
+giải thích:: Trình tự đúng trong bài thơ là: "Bao nhiêu sợi bạc chen cùng sợi đen" -> "Tóc sâu của mẹ, tôi tìm" -> "Ngón tay lần giữa ấm mềm yêu thương" -> "Bao nhiêu sợi bạc màu sương".
+---
+loại:: mot_dap_an
+câu 9:: Trong câu thơ "Ước gì tóc mẹ bạc rồi lại xanh", từ "xanh" được dùng với ý nghĩa nào sau đây?
+a:: Chỉ màu sắc của lá cây non.
+b:: Chỉ sự thay đổi màu tóc do nhuộm.
+c:: Chỉ sự trẻ trung, sức khoẻ và tuổi thanh xuân của mẹ.
+d:: Chỉ bầu trời trong xanh của mùa thu.
+đáp án:: c
+giải thích:: Từ "xanh" ở đây mang nghĩa chuyển (ẩn dụ), thể hiện mong ước mẹ được trẻ lại, khoẻ mạnh và không còn những lo toan vất vả.
+---
+loại:: dung_sai
+câu 10:: Nhận định: "Cụm từ 'Mẹ tôi' trong câu 'Mẹ tôi hong tóc buổi chiều' là một cụm danh từ."
+đáp án:: đúng
+giải thích:: "Mẹ" là danh từ trung tâm, "tôi" là phần phụ ngữ bổ nghĩa cho danh từ "mẹ". Đây là một cụm danh từ.
+---
+
+loại:: mot_dap_an
+câu 51:: Đọc hai câu thơ sau: <br> "Mẹ tôi hong tóc buổi chiều <br> Quay quay bụi nước bay theo gió đồng". <br> Từ láy "quay quay" trong đoạn trích trên có tác dụng gì?
+a:: Miêu tả hình dáng cong cong của những sợi tóc.
+b:: Gợi tả vòng chuyển động xoay tròn, nhẹ nhàng và liên tục của mái tóc khi được hong gió.
+c:: Nhấn mạnh sự vất vả, chóng mặt của người mẹ sau một ngày làm việc.
+d:: Thể hiện sự tinh nghịch, hiếu động của người con khi đứng xem mẹ hong tóc.
+đáp án:: b
+giải thích:: "Quay quay" là từ láy gợi hình, miêu tả chính xác động tác rũ tóc, xoay nhẹ mái tóc cho nước văng ra để tóc mau khô.
+---
+loại:: dung_sai
+câu 52:: Đọc câu thơ: "Tóc sâu của mẹ, tôi tìm". Nhận định sau đúng hay sai: "Trong câu thơ này, tác giả đã sử dụng biện pháp đảo ngữ đưa cụm từ 'Tóc sâu của mẹ' lên đầu câu để nhấn mạnh đối tượng được quan tâm."
+đáp án:: đúng
+giải thích:: Cấu trúc thông thường là "Tôi tìm tóc sâu của mẹ". Việc đảo ngữ giúp dồn sự chú ý của người đọc vào chi tiết "tóc sâu" - dấu vết của tuổi tác và sự nhọc nhằn.
+---
+loại:: dien_khuyet
+câu 53:: Đọc đoạn thơ sau và điền từ còn thiếu vào chỗ trống: <br> "Ngón tay lần giữa ấm mềm yêu thương <br> Bao nhiêu sợi bạc màu ... <br> Bấy nhiêu lần mẹ lo buồn vì tôi"
+đáp án:: sương
+giải thích:: Theo nguyên tác của nhà thơ Phan Thị Thanh Nhàn, từ cần điền là "sương" (tạo hình ảnh ẩn dụ "màu sương" chỉ mái tóc bạc).
+---
+loại:: dropdown
+câu 54:: Đọc hai câu thơ: <br> "Bao nhiêu sợi bạc màu sương <br> Bấy nhiêu lần mẹ lo buồn vì tôi". <br> Cặp từ "Bao nhiêu... bấy nhiêu" trong đoạn trích trên là biểu hiện của biện pháp tu từ [[So sánh|Nhân hóa|Điệp cấu trúc / Tương hô]].
+đáp án:: Điệp cấu trúc / Tương hô
+giải thích:: Cấu trúc "Bao nhiêu... bấy nhiêu" tạo ra sự tương xứng, nhấn mạnh rằng số lượng sợi tóc bạc của mẹ tỉ lệ thuận với những nỗi lo toan, buồn phiền vì con.
+---
+loại:: phan_loai
+câu 55:: Dựa vào hai câu thơ: "Tóc dài mẹ xõa sau lưng / Bao nhiêu sợi bạc chen cùng sợi đen". Hãy phân loại các từ in đậm sau:
+nhom:: (A) Danh từ chỉ sự vật / bộ phận cơ thể
+nhom:: (B) Động từ chỉ hành động / trạng thái
+the:: tóc
+the:: xõa
+the:: lưng
+the:: chen
+đáp án:: tóc::1
+đáp án:: xõa::2
+đáp án:: lưng::1
+đáp án:: chen::2
+giải thích:: "Tóc", "lưng" là danh từ gọi tên sự vật. "Xõa", "chen" là động từ chỉ hoạt động, trạng thái của đối tượng.
+---
+loại:: noi
+câu 56:: Đọc khổ thơ sau và nối các dòng thơ ở cột trái với ý nghĩa/nội dung tương ứng ở cột phải: <br> "Tóc sâu của mẹ, tôi tìm <br> Ngón tay lần giữa ấm mềm yêu thương <br> Bao nhiêu sợi bạc màu sương <br> Bấy nhiêu lần mẹ lo buồn vì tôi"
+trai:: Tóc sâu của mẹ, tôi tìm
+phai:: Hành động chăm sóc, thể hiện sự gần gũi, quan tâm của con dành cho mẹ.
+trai:: Ngón tay lần giữa ấm mềm yêu thương
+phai:: Cảm nhận bằng xúc giác sự mềm mại và tình mẫu tử thiêng liêng.
+trai:: Bao nhiêu sợi bạc màu sương
+phai:: Quan sát thấy dấu vết của tuổi già và thời gian trên mái tóc mẹ.
+trai:: Bấy nhiêu lần mẹ lo buồn vì tôi
+phai:: Sự thấu hiểu sâu sắc nguyên nhân khiến mẹ già đi là vì lo cho con.
+giải thích:: Đây là mạch logic cảm xúc đi từ hành động thực tế đến sự cảm nhận và cuối cùng là sự thấu hiểu triết lý sâu xa.
+---
+loại:: sap_xep
+câu 57:: Đọc bài thơ "Tóc của mẹ tôi". Sắp xếp các cụm từ sau để tạo thành câu thơ diễn tả sự đan xen giữa tuổi trẻ và tuổi già trên mái tóc mẹ:
+muc:: (1) Bao nhiêu
+muc:: (2) sợi bạc
+muc:: (3) chen cùng
+muc:: (4) sợi đen
+giải thích:: Câu thơ hoàn chỉnh: "Bao nhiêu sợi bạc chen cùng sợi đen".
+---
+loại:: nhieu_dap_an
+câu 58:: Đọc câu thơ: "Ước gì tóc mẹ bạc rồi lại xanh". Trong ngữ cảnh này, từ "xanh" mang những tầng ý nghĩa nào? (Chọn các đáp án đúng)
+a:: Màu sắc đen nhánh tự nhiên của mái tóc khi còn trẻ.
+b:: Sự trẻ trung, thanh xuân và tuổi trẻ của người mẹ.
+c:: Màu xanh của bầu trời hòa bình, không còn chiến tranh.
+d:: Sức sống, sự khỏe mạnh và mong muốn mẹ sống lâu trăm tuổi.
+đáp án:: a,b,d
+giải thích:: Từ "xanh" là một ẩn dụ đa nghĩa, vừa chỉ màu tóc nguyên bản lúc trẻ, vừa tượng trưng cho thanh xuân, sức sống mãnh liệt. Không có ý nghĩa tả bầu trời trong văn cảnh này.
+---
+loại:: mot_dap_an
+câu 59:: Đọc câu thơ: "Con ngoan rồi đấy mẹ ơi". Dấu chấm than (!) nếu được thêm vào cuối câu này (Con ngoan rồi đấy mẹ ơi!) sẽ làm tăng thêm sắc thái gì?
+a:: Sự nghi ngờ, không chắc chắn.
+b:: Cảm xúc dâng trào, lời tự hứa mạnh mẽ và nghẹn ngào của người con.
+c:: Ra lệnh cho người mẹ phải tin mình.
+d:: Hỏi ý kiến người mẹ xem mình đã ngoan chưa.
+đáp án:: b
+giải thích:: Dấu chấm than dùng để bộc lộ cảm xúc mạnh. Nếu đặt ở cuối lời gọi "mẹ ơi", nó thể hiện sự xúc động, nghẹn ngào và quyết tâm cao độ của người con.
+---
+loại:: dung_sai
+câu 60:: Đọc đoạn thơ: <br> "Tóc sâu của mẹ, tôi tìm <br> Ngón tay lần giữa ấm mềm yêu thương". <br> Nhận định: "Từ 'ấm mềm' là một tính từ chỉ cảm giác, được dùng để miêu tả xúc giác của người con khi chạm vào mái tóc mẹ."
+đáp án:: đúng
+giải thích:: "Ấm mềm" miêu tả rất tinh tế cảm giác truyền từ mái tóc của mẹ sang ngón tay của con, gợi lên sự yêu thương vô bờ.
+---
+loại:: dien_khuyet
+câu 61:: Đọc câu thơ: "Mẹ tôi hong tóc buổi chiều". Thành phần chính làm Chủ ngữ trong câu này là cụm từ ".........".
+đáp án:: Mẹ tôi
+giải thích:: "Mẹ tôi" là chủ thể thực hiện hành động "hong tóc".
+---
+loại:: dropdown
+câu 62:: Đọc câu thơ: "Quay quay bụi nước bay theo gió đồng". Hình ảnh "gió đồng" cho người đọc biết không gian sự việc diễn ra ở [[thành phố ồn ào|làng quê yên bình|miền núi hiểm trở]].
+đáp án:: làng quê yên bình
+giải thích:: "Gió đồng" là cơn gió thổi qua những cánh đồng, hình ảnh đặc trưng quen thuộc của không gian nông thôn, làng quê thanh bình.
+---
+loại:: phan_loai
+câu 63:: Đọc bài thơ "Tóc của mẹ tôi" (Phan Thị Thanh Nhàn). Phân loại các chi tiết nghệ thuật sau:
+nhom:: (A) Hình ảnh tả thực
+nhom:: (B) Hình ảnh ẩn dụ
+the:: Mẹ hong tóc buổi chiều
+the:: Tóc dài xõa sau lưng
+the:: Sợi bạc màu sương
+the:: Tóc mẹ bạc rồi lại xanh (sức trẻ)
+đáp án:: Mẹ hong tóc buổi chiều::1
+đáp án:: Tóc dài xõa sau lưng::1
+đáp án:: Sợi bạc màu sương::2
+đáp án:: Tóc mẹ bạc rồi lại xanh (sức trẻ)::2
+giải thích:: Các hành động hong tóc, xõa tóc là quan sát thực tế. "Màu sương" và "xanh" mang ý nghĩa biểu tượng sâu xa về thời gian và tuổi trẻ.
+---
+loại:: noi
+câu 64:: Nối các từ in đậm trong các câu trích xuất từ bài thơ với từ loại của chúng:
+trai:: hong (Mẹ tôi hong tóc)
+phai:: Động từ
+trai:: chiều (buổi chiều)
+phai:: Danh từ (chỉ thời gian)
+trai:: dài (Tóc dài)
+phai:: Tính từ
+trai:: tôi (vì tôi)
+phai:: Đại từ (nhân xưng)
+giải thích:: Nhận diện chính xác từ loại trong ngữ cảnh cụ thể giúp học sinh nắm vững ngữ pháp Tiếng Việt.
+---
+loại:: sap_xep
+câu 65:: Đọc 4 câu thơ sau và sắp xếp chúng lại theo đúng trình tự để hoàn thiện đoạn trích trong bài thơ "Tóc của mẹ tôi":
+muc:: (1) Tóc sâu của mẹ, tôi tìm
+muc:: (2) Bấy nhiêu lần mẹ lo buồn vì tôi
+muc:: (3) Ngón tay lần giữa ấm mềm yêu thương
+muc:: (4) Bao nhiêu sợi bạc màu sương
+giải thích:: Trình tự đúng của đoạn thơ nguyên tác là: (1) -> (3) -> (4) -> (2).
+---
+loại:: nhieu_dap_an
+câu 66:: Đọc hai câu thơ: <br> "Bao nhiêu sợi bạc màu sương <br> Bấy nhiêu lần mẹ lo buồn vì tôi". <br> Hai câu thơ này thể hiện tâm trạng gì của người con? (Chọn các đáp án đúng)
+a:: Vui sướng vì đã đếm được số tóc bạc của mẹ.
+b:: Xót xa, thương cảm trước sự già đi của mẹ.
+c:: Hối hận, tự trách bản thân đã làm mẹ phải buồn lo.
+d:: Tức giận vì mẹ già đi quá nhanh.
+đáp án:: b,c
+giải thích:: Người con nhận ra chính những lần mình làm mẹ buồn đã khiến tóc mẹ thêm bạc, từ đó sinh ra lòng thương xót và sự ân hận sâu sắc.
+---
+loại:: mot_dap_an
+câu 67:: Đọc câu thơ: "Bao nhiêu sợi bạc chen cùng sợi đen". Từ "chen" gợi lên cảm giác gì về sự xuất hiện của những sợi tóc bạc?
+a:: Sự xuất hiện lác đác, hiếm hoi.
+b:: Sự xâm lấn nhanh chóng, mạnh mẽ của tuổi già lên mái tóc thanh xuân của mẹ.
+c:: Sự sắp xếp có trật tự của những sợi tóc.
+d:: Sự rụng đi dần dần của mái tóc.
+đáp án:: b
+giải thích:: Động từ "chen" (thường dùng cho con người) được dùng ở đây gợi tả sự đông đúc, lấn lướt, cho thấy tuổi già đang đến rất nhanh và cướp đi tuổi trẻ của mẹ.
+---
+loại:: dung_sai
+câu 68:: Đọc câu thơ: "Ước gì tóc mẹ bạc rồi lại xanh". Nhận định sau đúng hay sai: "Câu thơ này sử dụng cặp từ trái nghĩa 'bạc' - 'xanh' để làm nổi bật khao khát trái ngược với quy luật tự nhiên của người con."
+đáp án:: đúng
+giải thích:: "Bạc" (tuổi già) và "xanh" (tuổi trẻ) là cặp từ trái nghĩa, qua đó làm nổi bật khao khát mãnh liệt muốn quay ngược thời gian, níu giữ thanh xuân cho mẹ.
+---
+loại:: dien_khuyet
+câu 69:: Đọc hai câu thơ đầu: <br> "Mẹ tôi hong tóc buổi chiều <br> Quay quay bụi nước bay theo gió đồng". <br> Cụm từ ".........." đóng vai trò là trạng ngữ chỉ thời gian.
+đáp án:: buổi chiều
+giải thích:: "buổi chiều" cung cấp thông tin về thời điểm diễn ra sự việc mẹ hong tóc.
+---
+loại:: dropdown
+câu 70:: Đọc câu thơ: "Con ngoan rồi đấy mẹ ơi". Từ "đấy" trong câu thơ đóng vai trò là tình thái từ, có tác dụng [[tạo sắc thái thân mật, khẳng định|đặt câu hỏi nghi vấn|ra lệnh, thúc giục]].
+đáp án:: tạo sắc thái thân mật, khẳng định
+giải thích:: Tình thái từ "đấy" đứng ở cuối câu trần thuật giúp nhấn mạnh lời khẳng định một cách nhẹ nhàng, tình cảm.
+---
+loại:: phan_loai
+câu 71:: Đọc bài thơ "Tóc của mẹ tôi". Hãy phân loại các chi tiết thể hiện "nguyên nhân" và "kết quả" theo logic cảm xúc của tác giả:
+nhom:: (A) Nguyên nhân
+nhom:: (B) Kết quả
+the:: Con làm mẹ lo buồn.
+the:: Mái tóc mẹ xuất hiện nhiều sợi bạc màu sương.
+the:: Con thấu hiểu nỗi vất vả của mẹ.
+the:: Con tự nhủ phải ngoan hơn.
+đáp án:: Con làm mẹ lo buồn.::1
+đáp án:: Mái tóc mẹ xuất hiện nhiều sợi bạc màu sương.::2
+đáp án:: Con thấu hiểu nỗi vất vả của mẹ.::1
+đáp án:: Con tự nhủ phải ngoan hơn.::2
+giải thích:: Việc mẹ lo buồn (nguyên nhân) dẫn đến tóc bạc (kết quả). Việc con thấu hiểu (nguyên nhân) dẫn đến hành động tự hứa sẽ ngoan (kết quả).
+---
+loại:: noi
+câu 72:: Dựa vào bài thơ "Tóc của mẹ tôi", nối các đặc điểm của thể thơ Lục bát với minh chứng tương ứng trong bài:
+trai:: Số tiếng (chữ) trong câu
+phai:: Các câu 6 tiếng xen kẽ các câu 8 tiếng (VD: Mẹ tôi hong tóc buổi chiều / Quay quay bụi nước bay theo gió đồng).
+trai:: Gieo vần lưng (vần giữa câu)
+phai:: Tiếng thứ 6 của câu bát hiệp vần với tiếng cuối của câu lục trước đó (chiều - theo, lưng - cùng).
+trai:: Nhịp thơ
+phai:: Thường ngắt nhịp chẵn 2/2/2 hoặc 4/4 (VD: Mẹ tôi / hong tóc / buổi chiều).
+giải thích:: Việc trích dẫn trực tiếp minh chứng giúp học sinh nhận diện rõ ràng các quy tắc khắt khe của thể thơ Lục bát truyền thống.
+---
+loại:: sap_xep
+câu 73:: Sắp xếp các cụm từ sau để tạo thành câu thơ thể hiện xúc giác đầy tình cảm của người con khi chạm vào tóc mẹ:
+muc:: (1) Ngón tay
+muc:: (2) lần giữa
+muc:: (3) ấm mềm
+muc:: (4) yêu thương
+giải thích:: Câu thơ hoàn chỉnh là: "Ngón tay lần giữa ấm mềm yêu thương".
+---
+loại:: nhieu_dap_an
+câu 74:: Đọc hai câu thơ cuối: <br> "Con ngoan rồi đấy mẹ ơi <br> Ước gì tóc mẹ bạc rồi lại xanh". <br> Theo em, thông điệp mà tác giả muốn gửi gắm qua hai câu thơ này là gì?
+a:: Kêu gọi mọi người hãy tìm cách nhuộm tóc cho cha mẹ.
+b:: Con cái cần hiếu thảo, trưởng thành để cha mẹ bớt lo âu.
+c:: Sự trân trọng, xót xa trước những hy sinh thầm lặng của người mẹ.
+d:: Lời khuyên mẹ nên đi khám bác sĩ để tóc xanh lại.
+đáp án:: b,c
+giải thích:: Đáp án a và d hiểu sai nghĩa ẩn dụ của đoạn thơ. Thông điệp cốt lõi là tình cảm gia đình, lòng hiếu thảo và sự tri ân[cite: 200].
+---
+loại:: mot_dap_an
+câu 75:: Đọc câu thơ: "Quay quay bụi nước bay theo gió đồng". Chủ ngữ của cụm Chủ - Vị "bụi nước bay theo gió đồng" là gì?
+a:: Quay quay
+b:: bụi nước
+c:: bay theo
+d:: gió đồng
+đáp án:: b
+giải thích:: "bụi nước" là chủ thể thực hiện hành động "bay", do đó nó là chủ ngữ của phần này.
+---
+loại:: dung_sai
+câu 76:: Đọc lại câu thơ: "Ước gì tóc mẹ bạc rồi lại xanh". Nhận định: "Từ 'ước gì' đặt ở đầu câu thể hiện một khát vọng mãnh liệt nhưng khó có thể trở thành hiện thực."
+đáp án:: đúng
+giải thích:: "Ước gì" là cụm từ chuyên dùng để biểu đạt những mong muốn lớn lao, thường mang tính chất phi hiện thực (như việc bắt thời gian quay ngược lại).
+---
+loại:: dien_khuyet
+câu 77:: Đọc câu thơ: "Tóc sâu của mẹ, tôi tìm". Từ "tôi" trong câu thơ là một Đại từ nhân xưng ngôi thứ ........
+đáp án:: nhất
+giải thích:: "Tôi" dùng để chỉ chính người đang nói/viết (tác giả hoặc nhân vật trữ tình), thuộc ngôi thứ nhất số ít.
+---
+loại:: dropdown
+câu 78:: Trong hai câu thơ: "Tóc dài mẹ xõa sau lưng / Bao nhiêu sợi bạc chen cùng sợi đen", hình ảnh "sợi đen" tượng trưng cho [[sự u buồn, xui xẻo|tuổi trẻ, sức sống và thanh xuân|sự lam lũ, vất vả]].
+đáp án:: tuổi trẻ, sức sống và thanh xuân
+giải thích:: Tóc đen là màu tóc tự nhiên của con người khi còn trẻ khỏe. Nó đứng đối lập với "sợi bạc" (tuổi già).
+---
+loại:: phan_loai
+câu 79:: Đọc hai câu thơ: <br> "Bao nhiêu sợi bạc màu sương <br> Bấy nhiêu lần mẹ lo buồn vì tôi". <br> Phân loại các cụm từ sau:
+nhom:: (A) Cụm danh từ
+nhom:: (B) Cụm động từ
+the:: Những sợi bạc màu sương
+the:: Bấy nhiêu lần
+the:: lo buồn vì tôi
+đáp án:: Những sợi bạc màu sương::1
+đáp án:: Bấy nhiêu lần::1
+đáp án:: lo buồn vì tôi::2
+giải thích:: "sợi bạc", "lần" là danh từ trung tâm. "lo buồn" là động từ/tính từ chỉ trạng thái tâm lý đóng vai trò làm trung tâm của cụm.
+---
+loại:: noi
+câu 80:: Đọc toàn bộ bài thơ "Tóc của mẹ tôi" và nối các chi tiết tả thực với ý nghĩa biểu tượng của chúng:
+trai:: Hành động "tìm tóc sâu"
+phai:: Biểu hiện của sự quan tâm, yêu thương, gắn kết tình mẫu tử.
+trai:: Tóc "sợi bạc", "màu sương"
+phai:: Sự hao mòn về thể chất, dấu ấn của thời gian và sự hy sinh vất vả.
+trai:: Ước tóc mẹ "xanh" lại
+phai:: Khát vọng mẹ được sống vui vẻ, trẻ khỏe, không vướng bận âu lo.
+giải thích:: Việc giải mã từ tả thực sang biểu tượng là kỹ năng cốt lõi để đạt điểm cao trong đọc hiểu văn bản[cite: 188, 197].
+---
+
+loại:: mot_dap_an
+câu 81:: Đọc hai câu thơ: <br> "Bao nhiêu sợi bạc màu sương <br> Bấy nhiêu lần mẹ lo buồn vì tôi". <br> Tác dụng chính của cặp từ "Bao nhiêu... bấy nhiêu" trong đoạn thơ này là gì?
+a:: Liệt kê số lượng sợi tóc bạc trên đầu mẹ.
+b:: Nhấn mạnh sự tương đương, tỉ lệ thuận giữa nỗi vất vả, lo toan của mẹ và dấu ấn tuổi già.
+c:: So sánh vẻ đẹp của mái tóc mẹ với vẻ đẹp của sương đêm.
+d:: Thể hiện sự ngạc nhiên của người con trước sự thay đổi của thời tiết.
+đáp án:: b
+giải thích:: Cặp từ hô ứng "bao nhiêu - bấy nhiêu" tạo ra một phép đo lường đầy xót xa: cứ mỗi một nỗi lo vì con lại đổi bằng một sợi tóc bạc của mẹ.
+---
+loại:: dung_sai
+câu 82:: Đọc câu thơ: "Mẹ tôi hong tóc buổi chiều". Nhận định sau đúng hay sai: "Xét về cấu tạo ngữ pháp, đây là một câu đơn có đầy đủ thành phần trạng ngữ, chủ ngữ và vị ngữ."
+đáp án:: đúng
+giải thích:: Câu đơn này có cấu trúc rõ ràng: "buổi chiều" (Trạng ngữ), "Mẹ tôi" (Chủ ngữ), "hong tóc" (Vị ngữ).
+---
+loại:: dien_khuyet
+câu 83:: Đọc câu thơ sau và điền từ còn thiếu vào chỗ trống: <br> "Quay quay ... bay theo gió đồng"
+đáp án:: bụi nước
+giải thích:: Theo nguyên tác bài thơ, cụm từ cần điền là "bụi nước", miêu tả những hạt nước nhỏ li ti văng ra khi mẹ rũ tóc.
+---
+loại:: dropdown
+câu 84:: Đọc câu thơ: "Tóc sâu của mẹ, tôi tìm". Dấu phẩy (,) trong câu thơ này có tác dụng [[ngăn cách các vế của câu ghép|ngăn cách thành phần được đảo ngữ nhằm nhấn mạnh|kết thúc một ý trọn vẹn]].
+đáp án:: ngăn cách thành phần được đảo ngữ nhằm nhấn mạnh
+giải thích:: Việc đưa cụm từ "Tóc sâu của mẹ" lên đầu câu và ngăn cách bằng dấu phẩy giúp nhấn mạnh đối tượng mà người con đang tập trung quan tâm, chăm sóc.
+---
+loại:: phan_loai
+câu 85:: Dựa vào đoạn thơ: "Tóc dài mẹ xõa sau lưng / Bao nhiêu sợi bạc chen cùng sợi đen". Phân loại các từ sau đây thành Danh từ và Động từ:
+nhom:: (A) Danh từ
+nhom:: (B) Động từ
+the:: lưng
+the:: sợi
+the:: xõa
+the:: chen
+đáp án:: lưng::1
+đáp án:: sợi::1
+đáp án:: xõa::2
+đáp án:: chen::2
+giải thích:: "Lưng", "sợi" là những từ gọi tên sự vật (bộ phận cơ thể, đơn vị đếm). "Xõa", "chen" là những từ chỉ hoạt động, trạng thái.
+---
+loại:: noi
+câu 86:: Đọc các câu thơ sau và nối nửa câu trước với nửa câu sau cho đúng nguyên tác:
+trai:: Mẹ tôi hong tóc
+phai:: buổi chiều
+trai:: Quay quay bụi nước
+phai:: bay theo gió đồng
+trai:: Bao nhiêu sợi bạc
+phai:: màu sương
+trai:: Bấy nhiêu lần mẹ
+phai:: lo buồn vì tôi
+giải thích:: Đây là các phần được tách ra từ những câu thơ liền mạch trong bài, việc ghép nối giúp kiểm tra trí nhớ và sự liền mạch của ngữ cảnh.
+---
+loại:: sap_xep
+câu 87:: Đọc bài thơ "Tóc của mẹ tôi". Sắp xếp các cụm từ sau để tạo thành câu thơ diễn tả hành động đầy yêu thương của người con:
+muc:: (1) Ngón tay
+muc:: (2) lần giữa
+muc:: (3) ấm mềm
+muc:: (4) yêu thương
+giải thích:: Câu thơ hoàn chỉnh là: "Ngón tay lần giữa ấm mềm yêu thương".
+---
+loại:: nhieu_dap_an
+câu 88:: Đọc hai câu thơ: <br> "Con ngoan rồi đấy mẹ ơi <br> Ước gì tóc mẹ bạc rồi lại xanh". <br> Những cảm xúc nào của người con được bộc lộ qua hai câu thơ này? (Chọn các đáp án đúng)
+a:: Quyết tâm trưởng thành, không làm mẹ buồn lòng thêm nữa.
+b:: Khao khát mãnh liệt mong mẹ được trẻ khỏe, bình an.
+c:: Tức giận vì không thể làm gì để ngăn chặn thời gian.
+d:: Tự hào vì mình đã kiếm được nhiều tiền để phụng dưỡng mẹ.
+đáp án:: a,b
+giải thích:: Lời tự nhủ "Con ngoan rồi" là quyết tâm trưởng thành; điều "Ước gì" là khao khát mẹ được trẻ lại. Bài thơ không đề cập đến vật chất hay sự tức giận.
+---
+loại:: mot_dap_an
+câu 89:: Đọc hai câu thơ: <br> "Tóc dài mẹ xõa sau lưng <br> Bao nhiêu sợi bạc chen cùng sợi đen". <br> Hai câu thơ này gieo vần ở những tiếng nào?
+a:: dài - bạc
+b:: mẹ - chen
+c:: lưng - cùng
+d:: sau - sợi
+đáp án:: c
+giải thích:: Theo luật thơ lục bát, tiếng thứ 6 của câu lục (lưng) vần với tiếng thứ 6 của câu bát (cùng). Đây là cách gieo vần lưng đặc trưng.
+---
+loại:: dung_sai
+câu 90:: Đọc hai câu thơ: "Bao nhiêu sợi bạc chen cùng sợi đen". Nhận định: "Sự đối lập giữa 'sợi bạc' và 'sợi đen' chính là biểu tượng cho sự giao tranh giữa tuổi già và tuổi trẻ trên mái tóc người mẹ."
+đáp án:: đúng
+giải thích:: "Sợi đen" tượng trưng cho thanh xuân còn sót lại, "sợi bạc" tượng trưng cho tuổi già ập đến. Động từ "chen" làm tăng tính hình tượng của sự thay thế nghiệt ngã này.
+---
+loại:: dien_khuyet
+câu 91:: Đọc đoạn thơ: <br> "Mẹ tôi hong tóc buổi chiều <br> Quay quay bụi nước bay theo ..." <br> Cụm từ thích hợp để điền vào chỗ trống là gì?
+đáp án:: gió đồng
+giải thích:: "Gió đồng" là hình ảnh miêu tả không gian nơi mẹ hong tóc, tạo nên vẻ đẹp bình dị, gần gũi của làng quê.
+---
+loại:: dropdown
+câu 92:: Đọc câu thơ: "Con ngoan rồi đấy mẹ ơi". Lời gọi "mẹ ơi" ở cuối câu có tác dụng [[tạo nhịp điệu dồn dập cho câu thơ|bộc lộ cảm xúc trực tiếp và gọi đáp thiết tha|thay thế cho chủ ngữ của câu]].
+đáp án:: bộc lộ cảm xúc trực tiếp và gọi đáp thiết tha
+giải thích:: Từ gọi đáp "mẹ ơi" đặt ở cuối câu vang lên như một lời tự tình nghẹn ngào, làm tăng sức gợi cảm và sự kết nối giữa hai mẹ con.
+---
+loại:: phan_loai
+câu 93:: Đọc bài thơ "Tóc của mẹ tôi". Phân loại các cụm từ sau đây thành Cụm danh từ và Cụm động từ:
+nhom:: (A) Cụm danh từ
+nhom:: (B) Cụm động từ
+the:: Những sợi bạc màu sương
+the:: Bụi nước bay
+the:: Hong tóc buổi chiều
+the:: Xõa sau lưng
+đáp án:: Những sợi bạc màu sương::1
+đáp án:: Bụi nước bay::1
+đáp án:: Hong tóc buổi chiều::2
+đáp án:: Xõa sau lưng::2
+giải thích:: "Sợi", "bụi" là danh từ trung tâm. "Hong", "xõa" là động từ trung tâm.
+---
+loại:: noi
+câu 94:: Đọc bài thơ và nối các hình ảnh miêu tả với tầng ý nghĩa biểu tượng của nó:
+trai:: Sợi đen
+phai:: Tuổi thanh xuân, sự trẻ trung, khỏe mạnh.
+trai:: Sợi bạc màu sương
+phai:: Sự khắc nghiệt của thời gian, tuổi già và sự vất vả.
+trai:: Ấm mềm
+phai:: Tình mẫu tử thiêng liêng, sự che chở và yêu thương.
+trai:: Tóc xanh
+phai:: Điều ước về sự hồi sinh sức sống, mong mẹ không còn âu lo.
+giải thích:: Nghệ thuật thơ ca thường dùng các hình ảnh tả thực để kí thác những ý niệm sâu sắc về cuộc đời và tình người.
+---
+loại:: sap_xep
+câu 95:: Đọc bài thơ "Tóc của mẹ tôi". Sắp xếp các cụm từ sau để tạo thành câu thơ thể hiện khát vọng của người con:
+muc:: (1) Ước gì
+muc:: (2) tóc mẹ
+muc:: (3) bạc rồi
+muc:: (4) lại xanh
+giải thích:: Câu thơ hoàn chỉnh là: "Ước gì tóc mẹ bạc rồi lại xanh".
+---
+loại:: nhieu_dap_an
+câu 96:: Qua việc đọc hiểu bài thơ "Tóc của mẹ tôi", em rút ra được những bài học gì cho bản thân? (Chọn các đáp án đúng)
+a:: Cần phải biết quan sát, thấu hiểu những nỗi vất vả, hy sinh thầm lặng của cha mẹ.
+b:: Luôn đòi hỏi cha mẹ phải đáp ứng mọi sở thích cá nhân của mình.
+c:: Cố gắng rèn luyện, sống ngoan ngoãn để cha mẹ vui lòng, bớt đi những lo âu.
+d:: Trân trọng tình cảm gia đình, biết thể hiện sự quan tâm qua những hành động nhỏ bé.
+đáp án:: a,c,d
+giải thích:: Bài thơ giáo dục lòng hiếu thảo, sự thấu cảm và những hành động đền đáp thiết thực. Việc đòi hỏi cha mẹ là hành động trái ngược với thông điệp của bài.
+---
+loại:: mot_dap_an
+câu 97:: Đọc đoạn thơ: <br> "Ngón tay lần giữa ấm mềm yêu thương <br> Bao nhiêu sợi bạc màu sương". <br> Từ "sương" trong đoạn thơ được dùng để chỉ điều gì?
+a:: Hiện tượng thời tiết xảy ra vào buổi sáng sớm.
+b:: Mái tóc bạc trắng của mẹ được ví như màu của sương mù.
+c:: Hơi nước bốc lên từ mái tóc ướt của mẹ.
+d:: Tên của một loài hoa nở vào buổi chiều.
+đáp án:: b
+giải thích:: "Màu sương" là biện pháp ẩn dụ, lấy màu trắng đục của sương để gợi tả màu tóc đã ngả bạc vì thời gian và sương gió cuộc đời.
+---
+loại:: dung_sai
+câu 98:: Đọc câu thơ: "Mẹ tôi hong tóc buổi chiều". Nhận định: "Động từ 'hong' có nghĩa là làm cho khô bằng cách phơi ra ngoài trời cho gió thổi hoặc nắng chiếu vào."
+đáp án:: đúng
+giải thích:: Trong tiếng Việt, "hong" (hong tóc, hong quần áo) chính là hành động dùng sức nóng tự nhiên (nắng) hoặc sức gió để làm bay hơi nước, giúp đồ vật/tóc mau khô.
+---
+loại:: dien_khuyet
+câu 99:: Đọc hai câu thơ sau và điền từ còn thiếu vào chỗ trống: <br> "Tóc sâu của mẹ, tôi tìm <br> Ngón tay ... ấm mềm yêu thương"
+đáp án:: lần giữa
+giải thích:: "lần giữa" là động từ gợi tả động tác nhẹ nhàng, cẩn thận lùa những ngón tay vào mái tóc của mẹ để tìm sợi tóc sâu.
+---
+loại:: mot_dap_an
+câu 100:: Đọc toàn bộ văn bản "Tóc của mẹ tôi". Giọng điệu bao trùm của bài thơ là gì?
+a:: Sôi nổi, vui tươi, hóm hỉnh.
+b:: Hào hùng, mạnh mẽ, dứt khoát.
+c:: Châm biếm, mỉa mai, hài hước.
+d:: Nhẹ nhàng, sâu lắng, tha thiết và đầy xúc động.
+đáp án:: d
+giải thích:: Bài thơ bộc lộ tình yêu thương, sự xót xa và ân hận của người con dành cho mẹ, do đó giọng điệu phải mang âm hưởng trầm lắng, thiết tha.
+---
+
+loại:: mot_dap_an
+câu 101:: Đọc đoạn thơ: <br> "Mẹ tôi hong tóc buổi chiều <br> Quay quay bụi nước bay theo gió đồng". <br> Theo ngữ cảnh này, "hong tóc" có nghĩa là gì?
+a:: Dùng máy sấy tóc bằng điện để sấy khô.
+b:: Phơi tóc ra ngoài trời để nhờ gió hoặc nắng làm khô tự nhiên.
+c:: Nhuộm lại mái tóc từ màu bạc sang màu đen.
+d:: Chải tóc cho thật mượt mà và gọn gàng.
+đáp án:: b
+giải thích:: "Hong" là từ chỉ hành động làm khô một vật bằng cách để phơi ra ngoài trời cho gió thổi hoặc nắng chiếu vào. Mẹ đang hong tóc nhờ "gió đồng".
+---
+loại:: dung_sai
+câu 102:: Đọc hai câu thơ: "Tóc dài mẹ xõa sau lưng / Bao nhiêu sợi bạc chen cùng sợi đen". Nhận định: "Trong hai câu thơ này, tiếng 'lưng' và tiếng 'cùng' hiệp vần với nhau theo đúng luật gieo vần lưng của thể thơ lục bát."
+đáp án:: đúng
+giải thích:: Tiếng thứ sáu của câu lục (lưng) vần với tiếng thứ sáu của câu bát (cùng). Đây là quy luật gieo vần chuẩn xác của thơ lục bát.
+---
+loại:: dien_khuyet
+câu 103:: Đọc câu thơ sau và điền từ thích hợp vào chỗ trống để hoàn thiện câu thơ tả cảnh: <br> "Quay quay bụi nước bay theo ..."
+đáp án:: gió đồng
+giải thích:: Trích xuất đúng từ nguyên tác bài thơ "Tóc của mẹ tôi".
+---
+loại:: dropdown
+câu 104:: Đọc câu thơ: "Bao nhiêu sợi bạc chen cùng sợi đen". Hình ảnh "sợi đen" trong câu thơ là hình ảnh hoán dụ/ẩn dụ tượng trưng cho [[sự vất vả cực nhọc|tuổi trẻ và thanh xuân|những nỗi buồn phiền]].
+đáp án:: tuổi trẻ và thanh xuân
+giải thích:: Mái tóc đen là biểu tượng đặc trưng cho vẻ đẹp, sức sống và khoảng thời gian tuổi trẻ của con người.
+---
+loại:: phan_loai
+câu 105:: Đọc đoạn thơ: "Mẹ tôi hong tóc buổi chiều / Quay quay bụi nước bay theo gió đồng". Phân loại các từ sau thành từ chỉ sự vật và từ chỉ hoạt động:
+nhom:: (A) Từ chỉ sự vật (Danh từ)
+nhom:: (B) Từ chỉ hoạt động (Động từ)
+the:: mẹ
+the:: hong
+the:: bụi nước
+the:: bay
+đáp án:: mẹ::1
+đáp án:: hong::2
+đáp án:: bụi nước::1
+đáp án:: bay::2
+giải thích:: "Mẹ", "bụi nước" gọi tên sự vật. "Hong", "bay" mô tả hành động.
+---
+loại:: noi
+câu 106:: Nối nửa câu lục (trên) với nửa câu bát (dưới) để tạo thành các cặp câu thơ đúng trong bài:
+trai:: Mẹ tôi hong tóc buổi chiều
+phai:: Quay quay bụi nước bay theo gió đồng
+trai:: Tóc dài mẹ xõa sau lưng
+phai:: Bao nhiêu sợi bạc chen cùng sợi đen
+trai:: Tóc sâu của mẹ, tôi tìm
+phai:: Ngón tay lần giữa ấm mềm yêu thương
+trai:: Bao nhiêu sợi bạc màu sương
+phai:: Bấy nhiêu lần mẹ lo buồn vì tôi
+giải thích:: Khôi phục lại cấu trúc lục bát đúng nguyên tác để kiểm tra kỹ năng ghi nhớ văn bản.
+---
+loại:: sap_xep
+câu 107:: Đọc bài thơ "Tóc của mẹ tôi". Sắp xếp các cụm từ sau để tạo thành câu thơ miêu tả hình dáng mái tóc mẹ:
+muc:: (1) Tóc dài
+muc:: (2) mẹ xõa
+muc:: (3) sau
+muc:: (4) lưng
+giải thích:: Câu thơ hoàn chỉnh là: "Tóc dài mẹ xõa sau lưng".
+---
+loại:: nhieu_dap_an
+câu 108:: Đọc hai câu thơ: <br> "Mẹ tôi hong tóc buổi chiều <br> Quay quay bụi nước bay theo gió đồng". <br> Những từ ngữ nào gợi lên không gian và thời gian trong đoạn trích?
+a:: Mẹ tôi
+b:: buổi chiều
+c:: bụi nước
+d:: gió đồng
+đáp án:: b,d
+giải thích:: "buổi chiều" chỉ thời gian; "gió đồng" gợi không gian đồng quê rộng lớn.
+---
+loại:: mot_dap_an
+câu 109:: Đọc câu thơ: "Bao nhiêu sợi bạc chen cùng sợi đen". Từ "chen" gợi cho người đọc liên tưởng đến điều gì?
+a:: Tóc mẹ mọc quá dày nên chúng chen lấn nhau.
+b:: Sự lấn át, xâm chiếm âm thầm nhưng mạnh mẽ của tuổi già đối với tuổi trẻ.
+c:: Mẹ đang chen lấn trong đám đông ngoài chợ.
+d:: Hành động đan xen các sợi len vào nhau.
+đáp án:: b
+giải thích:: Nghệ thuật nhân hóa qua từ "chen" gợi tả sự tàn phá của thời gian, sợi bạc đang giành chỗ của sợi đen, báo hiệu tuổi già đang đến rất nhanh.
+---
+loại:: dung_sai
+câu 110:: Đọc câu thơ: "Quay quay bụi nước bay theo gió đồng". Nhận định: "Từ láy 'quay quay' diễn tả chuyển động xoay tròn liên tục, nhẹ nhàng của mái tóc khi mẹ rũ nước."
+đáp án:: đúng
+giải thích:: Từ láy "quay quay" miêu tả rất chân thực và sinh động động tác vắt/rũ tóc đặc trưng của phụ nữ nông thôn khi gội đầu xong.
+---
+loại:: dien_khuyet
+câu 111:: Đọc đoạn thơ: <br> "Tóc sâu của mẹ, ... tìm <br> Ngón tay lần giữa ấm mềm yêu thương". <br> Đại từ nhân xưng cần điền vào chỗ trống là gì?
+đáp án:: tôi
+giải thích:: Nhân vật trữ tình xưng "tôi" để bộc lộ trực tiếp tình cảm với mẹ.
+---
+loại:: dropdown
+câu 112:: Đọc câu thơ: "Tóc sâu của mẹ, tôi tìm". Từ "tôi" trong câu thơ là đại từ nhân xưng thuộc ngôi thứ [[nhất|hai|ba]].
+đáp án:: nhất
+giải thích:: "Tôi" là đại từ ngôi thứ nhất số ít, dùng để người nói tự chỉ bản thân mình.
+---
+loại:: phan_loai
+câu 113:: Đọc câu thơ: "Quay quay bụi nước bay theo gió đồng". Phân loại các cụm từ sau:
+nhom:: (A) Cụm danh từ
+nhom:: (B) Cụm động từ
+the:: bụi nước
+the:: gió đồng
+the:: bay theo gió đồng
+đáp án:: bụi nước::1
+đáp án:: gió đồng::1
+đáp án:: bay theo gió đồng::2
+giải thích:: "bụi nước", "gió đồng" có danh từ là trung tâm. "bay theo gió đồng" có động từ "bay" làm trung tâm.
+---
+loại:: noi
+câu 114:: Đọc các câu thơ trong bài "Tóc của mẹ tôi" và nối các từ sau với loại từ tương ứng cấu tạo nên chúng:
+trai:: bụi nước
+phai:: Từ ghép đẳng lập
+trai:: quay quay
+phai:: Từ láy toàn bộ
+trai:: lo buồn
+phai:: Từ ghép đẳng lập
+trai:: ấm mềm
+phai:: Từ ghép đẳng lập
+giải thích:: Phân biệt cấu tạo từ phức giúp học sinh nắm vững từ vựng Tiếng Việt.
+---
+loại:: sap_xep
+câu 115:: Sắp xếp các từ sau để hoàn thiện câu thơ diễn tả hành động tìm tóc sâu của người con:
+muc:: (1) Tóc sâu
+muc:: (2) của mẹ
+muc:: (3) tôi
+muc:: (4) tìm
+giải thích:: Câu hoàn chỉnh: "Tóc sâu của mẹ, tôi tìm" (có đảo ngữ để nhấn mạnh).
+---
+loại:: nhieu_dap_an
+câu 116:: Đọc hai câu thơ: <br> "Tóc sâu của mẹ, tôi tìm <br> Ngón tay lần giữa ấm mềm yêu thương". <br> Những chi tiết nào thể hiện hành động của người con?
+a:: Tóc sâu
+b:: tôi tìm
+c:: Ngón tay lần giữa
+d:: ấm mềm
+đáp án:: b,c
+giải thích:: Hành động của con bao gồm việc "tìm" tóc và "lần giữa" mái tóc của mẹ.
+---
+loại:: mot_dap_an
+câu 117:: Đọc câu thơ: "Ngón tay lần giữa ấm mềm yêu thương". Cụm từ "ấm mềm" diễn tả cảm nhận của người con thông qua giác quan nào?
+a:: Thị giác (nhìn)
+b:: Thính giác (nghe)
+c:: Khứu giác (ngửi)
+d:: Xúc giác (chạm)
+đáp án:: d
+giải thích:: Cảm giác "ấm mềm" truyền đến từ ngón tay lùa vào tóc mẹ, đây là sự cảm nhận bằng xúc giác.
+---
+loại:: dung_sai
+câu 118:: Đọc câu thơ: "Ngón tay lần giữa ấm mềm yêu thương". Nhận định: "Trong ngữ cảnh này, 'yêu thương' không chỉ là động từ mà còn mang sắc thái của một danh từ/tính từ chỉ trạng thái cảm xúc đong đầy trong cái chạm tay."
+đáp án:: đúng
+giải thích:: Sự chuyển đổi linh hoạt của từ loại tạo nên một cái chạm không chỉ có vật lý (ấm mềm) mà còn chứa đựng cả tình cảm tinh thần (yêu thương).
+---
+loại:: dien_khuyet
+câu 119:: Đọc hai câu thơ: <br> "Ngón tay lần giữa ấm mềm yêu thương <br> Bao nhiêu sợi bạc ... sương". <br> Từ còn thiếu là gì?
+đáp án:: màu
+giải thích:: Theo đúng nguyên tác bài thơ là "Bao nhiêu sợi bạc màu sương".
+---
+loại:: dropdown
+câu 120:: Đọc câu thơ: "Tóc sâu của mẹ, tôi tìm". Tác giả đã sử dụng biện pháp nghệ thuật [[đảo ngữ|nhân hóa|so sánh]] bằng cách đưa cụm từ "Tóc sâu của mẹ" lên đầu câu.
+đáp án:: đảo ngữ
+giải thích:: Việc thay đổi trật tự cú pháp thông thường (Tôi tìm tóc sâu của mẹ) giúp nhấn mạnh vào đối tượng "Tóc sâu".
+---
+loại:: phan_loai
+câu 121:: Đọc bài thơ "Tóc của mẹ tôi". Phân loại các hình ảnh sau thành hình ảnh mang tính tả thực và hình ảnh mang tính ẩn dụ biểu tượng:
+nhom:: (A) Hình ảnh tả thực
+nhom:: (B) Hình ảnh ẩn dụ
+the:: Ngón tay lần giữa
+the:: Tóc dài mẹ xõa
+the:: Bạc màu sương
+the:: Tóc bạc rồi lại xanh
+đáp án:: Ngón tay lần giữa::1
+đáp án:: Tóc dài mẹ xõa::1
+đáp án:: Bạc màu sương::2
+đáp án:: Tóc bạc rồi lại xanh::2
+giải thích:: Hành động xõa tóc, lần ngón tay là tả thực. Màu sương (tuổi già), màu xanh (tuổi trẻ) là ẩn dụ.
+---
+loại:: noi
+câu 122:: Đọc câu thơ: "Bao nhiêu sợi bạc màu sương". Nối hình ảnh "màu sương" với nét nghĩa biểu tượng của nó:
+trai:: Màu trắng đục của sương
+phai:: Tượng trưng cho màu bạc của mái tóc người lớn tuổi.
+trai:: Sương giăng lạnh lẽo, mờ ảo
+phai:: Tượng trưng cho những dãi dầu sương gió, vất vả của cuộc đời mẹ.
+giải thích:: Biện pháp ẩn dụ "màu sương" mang tính đa nghĩa, vừa gợi hình ảnh thị giác vừa gợi chiều sâu suy tưởng.
+---
+loại:: sap_xep
+câu 123:: Đọc bài thơ "Tóc của mẹ tôi". Sắp xếp các cụm từ sau để tạo thành câu thơ chỉ nguyên nhân làm mái tóc mẹ bạc:
+muc:: (1) Bấy nhiêu
+muc:: (2) lần mẹ
+muc:: (3) lo buồn
+muc:: (4) vì tôi
+giải thích:: Câu hoàn chỉnh: "Bấy nhiêu lần mẹ lo buồn vì tôi".
+---
+loại:: nhieu_dap_an
+câu 124:: Đọc hai câu thơ: <br> "Bao nhiêu sợi bạc màu sương <br> Bấy nhiêu lần mẹ lo buồn vì tôi". <br> Nguyên nhân sâu xa nào khiến mái tóc mẹ bạc đi nhanh chóng?
+a:: Do sử dụng sai loại dầu gội đầu.
+b:: Do mẹ phải suy nghĩ, lo toan, buồn phiền vì sự khôn lớn của đứa con.
+c:: Do gen di truyền của gia đình.
+d:: Do sự hy sinh thầm lặng, dầm sương dãi nắng nuôi con.
+đáp án:: b,d
+giải thích:: Tóc bạc "màu sương" là hệ quả của cả sự vất vả ngoài đời (sương gió) và những ưu tư, "lo buồn vì tôi" trong tâm hồn người mẹ.
+---
+loại:: mot_dap_an
+câu 125:: Đọc hai câu thơ: <br> "Bao nhiêu sợi bạc màu sương <br> Bấy nhiêu lần mẹ lo buồn vì tôi". <br> Biện pháp nghệ thuật nổi bật nhất trong hai câu thơ này là gì?
+a:: Nhân hóa
+b:: Nói quá
+c:: Điệp cấu trúc (hô ứng)
+d:: Câu hỏi tu từ
+đáp án:: c
+giải thích:: Cấu trúc hô ứng "Bao nhiêu... bấy nhiêu" tạo sự đối xứng tuyệt đối giữa sự đong đếm số lượng tóc bạc và đong đếm nỗi nhọc nhằn của mẹ.
+---
+loại:: dung_sai
+câu 126:: Đọc câu thơ: "Bấy nhiêu lần mẹ lo buồn vì tôi". Nhận định: "Từ 'lo buồn' là một từ ghép đẳng lập, kết hợp giữa hai trạng thái tâm lý là lo lắng và buồn phiền."
+đáp án:: đúng
+giải thích:: "Lo buồn" được ghép từ "lo" (lo âu) và "buồn" (buồn rầu), cả hai tiếng bình đẳng về mặt ngữ pháp, cộng hưởng tạo thành nỗi ưu tư trĩu nặng.
+---
+loại:: dien_khuyet
+câu 127:: Đọc câu thơ: <br> "Bấy nhiêu lần mẹ lo buồn ... tôi" <br> Điền giới từ chỉ nguyên nhân thích hợp vào chỗ trống.
+đáp án:: vì
+giải thích:: Theo nguyên tác là "vì tôi" - thừa nhận con chính là nguyên nhân khiến mẹ phải bận tâm.
+---
+loại:: dropdown
+câu 128:: Đọc hai câu thơ: "Bao nhiêu sợi bạc màu sương / Bấy nhiêu lần mẹ lo buồn vì tôi". Hai câu thơ này thể hiện mối quan hệ [[tương phản - đối lập|nguyên nhân - kết quả|điều kiện - giả thiết]].
+đáp án:: nguyên nhân - kết quả
+giải thích:: Nỗi lo buồn vì con (nguyên nhân) dẫn đến hệ quả là mái tóc điểm bạc màu sương (kết quả).
+---
+loại:: phan_loai
+câu 129:: Đọc bài thơ "Tóc của mẹ tôi". Phân loại các từ ngữ sau thành nhóm từ chỉ số lượng và nhóm từ chỉ màu sắc:
+nhom:: (A) Chỉ số lượng
+nhom:: (B) Chỉ màu sắc
+the:: bao nhiêu
+the:: bấy nhiêu
+the:: bạc
+the:: đen
+the:: xanh
+đáp án:: bao nhiêu::1
+đáp án:: bấy nhiêu::1
+đáp án:: bạc::2
+đáp án:: đen::2
+đáp án:: xanh::2
+giải thích:: "Bao nhiêu", "bấy nhiêu" là đại từ phiếm chỉ số lượng. Bạc, đen, xanh là các tính từ chỉ màu sắc.
+---
+loại:: noi
+câu 130:: Dựa vào ngữ cảnh bài thơ, nối các từ chỉ màu sắc với lớp nghĩa ẩn dụ của nó:
+trai:: Bạc (màu sương)
+phai:: Dấu ấn thời gian, tuổi già, sự vất vả cực nhọc.
+trai:: Đen
+phai:: Màu tóc nguyên bản, biểu tượng của thời gian chưa bị mài mòn.
+trai:: Xanh
+phai:: Sức sống tràn trề, thanh xuân rực rỡ, hy vọng hồi sinh.
+giải thích:: Hệ thống màu sắc trong bài thơ tạo nên một bức tranh về dòng chảy thời gian trên cuộc đời người mẹ.
+---
+loại:: sap_xep
+câu 131:: Đọc bài thơ "Tóc của mẹ tôi". Sắp xếp các cụm từ sau để tạo thành câu thơ thể hiện lời tự hứa đầy nghẹn ngào của người con:
+muc:: (1) Con ngoan
+muc:: (2) rồi đấy
+muc:: (3) mẹ
+muc:: (4) ơi
+giải thích:: Câu hoàn chỉnh: "Con ngoan rồi đấy mẹ ơi".
+---
+loại:: nhieu_dap_an
+câu 132:: Đọc câu thơ: "Con ngoan rồi đấy mẹ ơi". Lời tự bạch này chứa đựng những cảm xúc gì của người con?
+a:: Sự tự hào vì mình được điểm cao ở trường.
+b:: Sự thấu hiểu và xót xa trước những nỗi lo toan của mẹ.
+c:: Quyết tâm trưởng thành để mẹ không còn phải bận lòng.
+d:: Lời an ủi, dỗ dành gửi tới mẹ.
+đáp án:: b,c,d
+giải thích:: Lời khẳng định "con ngoan" là hệ quả của việc thấu hiểu "mẹ lo buồn vì tôi", là lời dỗ dành mẹ hãy an tâm nghỉ ngơi, con đã lớn khôn.
+---
+loại:: mot_dap_an
+câu 133:: Đọc câu thơ: "Ước gì tóc mẹ bạc rồi lại xanh". Câu thơ này được xếp vào kiểu câu nào theo mục đích nói?
+a:: Câu trần thuật (câu kể)
+b:: Câu nghi vấn (câu hỏi)
+c:: Câu cảm thán / Câu cầu khiến (bộc lộ mong ước)
+d:: Câu phủ định
+đáp án:: c
+giải thích:: Cụm từ "Ước gì" đặt ở đầu câu biến câu thơ thành một lời cầu nguyện, một khát vọng bộc lộ cảm xúc mãnh liệt (cảm thán/cầu khiến).
+---
+loại:: dung_sai
+câu 134:: Đọc câu thơ: "Ước gì tóc mẹ bạc rồi lại xanh". Nhận định: "Điều ước trong câu thơ là một điều phi lý trái quy luật tự nhiên, vì vậy nó làm giảm đi giá trị thực tế của bài thơ."
+đáp án:: sai
+giải thích:: Dù trái quy luật tự nhiên, nhưng trong thơ ca, chính sự "phi lý" ấy lại đẩy cao giá trị nhân văn, cho thấy tình yêu thương mãnh liệt tột độ của đứa con muốn cãi lại mệnh trời để mẹ được trẻ lại.
+---
+loại:: dien_khuyet
+câu 135:: Đọc câu thơ sau và điền từ còn thiếu vào chỗ trống: <br> "Con ngoan rồi đấy ... ơi"
+đáp án:: mẹ
+giải thích:: Tiếng gọi "mẹ ơi" vang lên thiết tha ở cuối câu khẳng định.
+---
+loại:: dropdown
+câu 136:: Đọc câu thơ: "Con ngoan rồi đấy mẹ ơi". Từ "ơi" trong câu thơ là một [[thán từ gọi đáp|tình thái từ|quan hệ từ]], dùng để bộc lộ tình cảm trực tiếp.
+đáp án:: thán từ gọi đáp
+giải thích:: Từ "ơi" đứng sau danh từ chỉ người (mẹ ơi) là thán từ dùng để gọi đáp, tạo âm hưởng ngân vang, tha thiết.
+---
+loại:: phan_loai
+câu 137:: Dựa vào toàn bộ bài thơ "Tóc của mẹ tôi", phân loại các câu thơ sau theo mục đích nói:
+nhom:: (A) Câu trần thuật (Kể, miêu tả sự việc)
+nhom:: (B) Câu bộc lộ cảm xúc, mong ước (Cảm thán)
+the:: Mẹ tôi hong tóc buổi chiều
+the:: Tóc dài mẹ xõa sau lưng
+the:: Con ngoan rồi đấy mẹ ơi
+the:: Ước gì tóc mẹ bạc rồi lại xanh
+đáp án:: Mẹ tôi hong tóc buổi chiều::1
+đáp án:: Tóc dài mẹ xõa sau lưng::1
+đáp án:: Con ngoan rồi đấy mẹ ơi::2
+đáp án:: Ước gì tóc mẹ bạc rồi lại xanh::2
+giải thích:: Những câu đầu đơn thuần kể và tả. Hai câu cuối bùng nổ cảm xúc của nhân vật trữ tình.
+---
+loại:: noi
+câu 138:: Nối các từ in đậm trong các câu sau với tác dụng ngữ pháp của chúng:
+trai:: bao nhiêu ... bấy nhiêu (Bao nhiêu sợi bạc... Bấy nhiêu lần mẹ...)
+phai:: Tạo sự liên kết hô ứng, biểu thị tỷ lệ thuận.
+trai:: rồi đấy (Con ngoan rồi đấy)
+phai:: Tình thái từ nhấn mạnh sự khẳng định hoàn thành.
+trai:: ước gì (Ước gì tóc mẹ...)
+phai:: Cụm từ chuyên dùng để bắt đầu một câu nêu khát vọng.
+giải thích:: Các hư từ và cụm từ cố định đóng vai trò quan trọng trong việc định hình sắc thái ý nghĩa của câu thơ.
+---
+loại:: sap_xep
+câu 139:: Đọc hai câu thơ cuối. Sắp xếp các cụm từ sau để hoàn thiện lời khấn nguyện của người con:
+muc:: (1) Ước gì
+muc:: (2) tóc mẹ
+muc:: (3) bạc rồi
+muc:: (4) lại xanh
+giải thích:: Trình tự chuẩn: "Ước gì tóc mẹ bạc rồi lại xanh".
+---
+loại:: nhieu_dap_an
+câu 140:: Những thành công về mặt nghệ thuật của bài thơ "Tóc của mẹ tôi" là gì? (Chọn các đáp án đúng)
+a:: Sử dụng thể thơ lục bát truyền thống, âm điệu nhịp nhàng, dung dị.
+b:: Ngôn từ châm biếm, mỉa mai sâu sắc.
+c:: Kết hợp khéo léo giữa miêu tả sự việc (hong tóc, tìm tóc sâu) và biểu cảm trực tiếp.
+d:: Hình ảnh thơ giàu tính ẩn dụ, gợi hình gợi cảm (màu sương, lại xanh).
+đáp án:: a,c,d
+giải thích:: Bài thơ mang âm hưởng ngọt ngào của tình mẫu tử, hoàn toàn không có yếu tố châm biếm hay mỉa mai.
+---
+loại:: mot_dap_an
+câu 141:: Đọc câu thơ: "Ước gì tóc mẹ bạc rồi lại xanh". Từ "lại" trong câu thơ có ý nghĩa gì?
+a:: Sự lặp lại một hành động đã từng xảy ra (quay trở về trạng thái thanh xuân ban đầu).
+b:: Sự phủ định một sự việc.
+c:: Chỉ một sự việc ngược đời, phi lý.
+d:: Thay thế cho từ "và".
+đáp án:: a
+giải thích:: Phó từ "lại" bổ sung ý nghĩa phục hồi, quay trở về trạng thái "xanh" ban đầu trước khi bị bạc, thể hiện mong muốn mẹ trẻ lại như xưa.
+---
+loại:: dung_sai
+câu 142:: Đọc câu thơ: "Ước gì tóc mẹ bạc rồi lại xanh". Nhận định: "Việc tác giả chọn kết thúc bài thơ bằng một điều ước không thể thành hiện thực nhằm mục đích gieo sự tuyệt vọng cho người đọc."
+đáp án:: sai
+giải thích:: Điều ước ấy không gieo sự tuyệt vọng mà khắc sâu lòng hiếu thảo, sự xót thương vô hạn, làm rung động trái tim người đọc bằng tình cảm chân thành nhất.
+---
+loại:: dien_khuyet
+câu 143:: Đọc câu thơ: <br> ".......... tóc mẹ bạc rồi lại xanh". <br> Điền cụm từ thể hiện sự mong mỏi vào chỗ trống.
+đáp án:: Ước gì
+giải thích:: "Ước gì" là chìa khóa mở ra khát vọng mãnh liệt ở cuối bài thơ.
+---
+loại:: dropdown
+câu 144:: Đọc câu thơ lục bát: "Mẹ tôi / hong tóc / buổi chiều". Nhịp ngắt phổ biến trong câu thơ này là nhịp [[2/2/2|3/3|4/2]].
+đáp án:: 2/2/2
+giải thích:: Thơ lục bát truyền thống thường ngắt nhịp chẵn, ở đây ngắt nhịp 2/2/2 tạo sự nhịp nhàng, êm ái như một lời ru.
+---
+loại:: phan_loai
+câu 145:: Đọc toàn bộ bài thơ. Hãy phân loại các dòng thơ sau theo phương thức biểu đạt chính (Miêu tả hay Biểu cảm):
+nhom:: (A) Phương thức Miêu tả
+nhom:: (B) Phương thức Biểu cảm
+the:: Quay quay bụi nước bay theo gió đồng
+the:: Tóc dài mẹ xõa sau lưng
+the:: Con ngoan rồi đấy mẹ ơi
+the:: Ước gì tóc mẹ bạc rồi lại xanh
+đáp án:: Quay quay bụi nước bay theo gió đồng::1
+đáp án:: Tóc dài mẹ xõa sau lưng::1
+đáp án:: Con ngoan rồi đấy mẹ ơi::2
+đáp án:: Ước gì tóc mẹ bạc rồi lại xanh::2
+giải thích:: Miêu tả vẽ lại bức tranh ngoại cảnh. Biểu cảm bộc lộ trực tiếp trạng thái cảm xúc bên trong.
+---
+loại:: noi
+câu 146:: Nối các đại từ nhân xưng trong bài thơ với vai trò của chúng:
+trai:: Tôi (Con)
+phai:: Nhân vật trữ tình, người quan sát và bộc lộ cảm xúc.
+trai:: Mẹ
+phai:: Đối tượng trữ tình, nguồn cảm hứng và trung tâm của tình yêu thương.
+giải thích:: Hiểu rõ nhân vật trữ tình và đối tượng trữ tình giúp học sinh phân tích đúng trọng tâm tư tưởng của tác phẩm.
+---
+loại:: sap_xep
+câu 147:: Sắp xếp các nội dung sau theo đúng mạch phát triển cảm xúc của tác phẩm "Tóc của mẹ tôi":
+muc:: (1) Gợi mở không gian bình dị khi mẹ hong tóc buổi chiều.
+muc:: (2) Con lùa tay tìm tóc sâu, nhận ra dấu vết thời gian trên mái tóc mẹ.
+muc:: (3) Con thấu hiểu nguyên nhân mẹ già đi là do lo buồn vì mình.
+muc:: (4) Con tự hứa trưởng thành và ước mong mẹ mãi tươi trẻ.
+giải thích:: Đây là bố cục 4 phần rất logic đi từ ngoại cảnh -> hành động -> nhận thức -> khát vọng.
+---
+loại:: nhieu_dap_an
+câu 148:: Đọc văn bản "Tóc của mẹ tôi". Những hành động cụ thể nào dưới đây thể hiện sự hiếu thảo của người con? (Chọn các đáp án đúng)
+a:: Giúp mẹ tìm tóc sâu.
+b:: Quan tâm, để ý đến sự thay đổi trên mái tóc mẹ.
+c:: Mua cho mẹ nhiều quà cáp đắt tiền.
+d:: Tự nhủ bản thân phải ngoan ngoãn, không làm mẹ buồn.
+đáp án:: a,b,d
+giải thích:: Bài thơ không đề cập đến giá trị vật chất, tình yêu thương được dệt từ những quan tâm nhỏ bé và sự trưởng thành trong nhận thức.
+---
+loại:: mot_dap_an
+câu 149:: Đọc văn bản "Tóc của mẹ tôi". Giá trị nhân văn sâu sắc nhất mà bài thơ mang lại là gì?
+a:: Khuyên con người nên biết cách chăm sóc tóc để không bị bạc.
+b:: Ca ngợi vẻ đẹp của người phụ nữ nông thôn Việt Nam.
+c:: Đánh thức lòng hiếu thảo, tình yêu thương và sự trân trọng sự hy sinh của đấng sinh thành.
+d:: Miêu tả chi tiết kỹ thuật làm khô tóc tự nhiên.
+đáp án:: c
+giải thích:: Bài thơ chạm đến trái tim người đọc bằng thông điệp muôn thuở: sự hy sinh vô bờ của cha mẹ và lòng biết ơn sâu sắc của đạo làm con.
+---
+loại:: dung_sai
+câu 150:: Nhận định tổng quát: "Bài thơ 'Tóc của mẹ tôi' của Phan Thị Thanh Nhàn là tiếng lòng thổn thức của đứa con thấu hiểu sự vất vả của mẹ, qua đó giáo dục bài học đạo đức về lòng hiếu thảo cho học sinh lớp 6."
+đáp án:: đúng
+giải thích:: Đây là nhận định tóm tắt chính xác toàn bộ giá trị nội dung và ý nghĩa giáo dục của tác phẩm khi được đưa vào chương trình Ngữ Văn THCS.
+---
+
 </script>     
 
 
@@ -3985,6 +4964,7 @@ giải thích:: Sức hấp dẫn đến từ sự "trong veo" của thế giớ
         </script>
     </div>
 `);
+
 
 
 
