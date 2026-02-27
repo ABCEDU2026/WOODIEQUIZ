@@ -3,8 +3,2440 @@ document.write(`
         <script type="text/plain" class="question-data-chunk">
 
 // ==================================================================
+---
+            </script>
+        </div>
+
+        <div class="topic-data" data-subject-name="CIE6" data-topic-name="ÔN TẬP GIỮA HỌC KÌ II   - QUETION TEST ">
+            <script type="text/plain" class="question-data-chunk">
+
+-----
+// ==================================================================
+// BATCH 1: CÂU 1 - 50 (PHONOLOGY, MORPHOLOGY, SYNTAX & SEMANTICS)
+// TÀI LIỆU: ĐỀ CƯƠNG ÔN TẬP TIẾNG ANH 6 - GIỮA HỌC KÌ II
+// ==================================================================
 
 ---
+loại:: mot_dap_an
+câu 1:: Choose the word whose underlined part is pronounced differently from that of the others: Th_i_nk, Th_i_s, Th_a_t, Th_e_n.
+a:: Think
+b:: This
+c:: That
+d:: Then
+đáp án:: a
+giải thích:: Phân tích Âm vị học (Phonology): Phụ âm ghép "th" trong "Think" tạo ra âm xát răng vô thanh (voiceless dental fricative /θ/). Các lựa chọn còn lại là âm xát răng hữu thanh (voiced dental fricative /ð/).
+---
+loại:: mot_dap_an
+câu 2:: Choose the word whose underlined part is pronounced differently: Th_o_se, Th_e_se, Th_r_ough, Th_e_re.
+a:: Those
+b:: These
+c:: Through
+d:: There
+đáp án:: c
+giải thích:: "Through" chứa âm vô thanh /θ/. Các từ chỉ định (Demonstratives) như Those, These, There luôn bắt đầu bằng âm hữu thanh /ð/.
+---
+loại:: mot_dap_an
+câu 3:: Choose the word whose underlined part is pronounced differently: Mo_th_er, Bro_th_er, Tho_r_ough, Fa_th_er.
+a:: Mother
+b:: Brother
+c:: Thorough
+d:: Father
+đáp án:: c
+giải thích:: Danh từ chỉ mối quan hệ gia đình (Mother, Brother, Father) có đuôi -ther luôn phát âm là /ð/. "Thorough" (tính từ) bắt đầu bằng /θ/.
+---
+loại:: mot_dap_an
+câu 4:: Choose the word whose underlined part is pronounced differently: Th_r_ee, Th_e_re, Th_e_y, Th_i_s.
+a:: Three
+b:: There
+c:: They
+d:: This
+đáp án:: a
+giải thích:: Số đếm "Three" sử dụng âm vô thanh /θ/. Đại từ (They) và từ chỉ định (There, This) dùng âm hữu thanh /ð/.
+---
+loại:: mot_dap_an
+câu 5:: Choose the word whose underlined part is pronounced differently: Wea_th_er, Al_th_ough, Th_i_n, Th_a_t.
+a:: Weather
+b:: Although
+c:: Thin
+d:: That
+đáp án:: c
+giải thích:: Lỗ hổng phát âm phổ biến: "Thin" là /θ/. Các từ liên kết (Although) và danh từ thời tiết (Weather) sử dụng âm /ð/. (Lưu ý: Câu gốc trong đề cương bị lỗi typo, hệ thống Architect đã tự động hiệu chỉnh để đảm bảo tính logic).
+---
+loại:: mot_dap_an
+câu 6:: Choose the word whose underlined part is pronounced differently: Th_i_s, Th_i_nk, Th_a_nk, Th_i_rd.
+a:: This
+b:: Think
+c:: Thank
+d:: Third
+đáp án:: a
+giải thích:: "This" /ð/. Ba từ còn lại đều là /θ/ (âm bật hơi nhẹ qua kẽ răng).
+---
+loại:: mot_dap_an
+câu 7:: Choose the word whose underlined part is pronounced differently: Th_a_t, Th_i_n, Th_o_ught, Th_a_nk.
+a:: That
+b:: Thin
+c:: Thought
+d:: Thank
+đáp án:: a
+giải thích:: "That" /ð/. Tư duy quy luật: Đa phần các từ chức năng (function words) dùng /ð/, các từ mang nghĩa từ vựng (content words) thường dùng /θ/.
+---
+loại:: mot_dap_an
+câu 8:: Choose the word whose underlined part is pronounced differently: Th_o_se, Th_i_nk, Th_a_nk, Th_i_n.
+a:: Those
+b:: Think
+c:: Thank
+d:: Thin
+đáp án:: a
+giải thích:: "Those" /ð/ (từ chức năng). Think, Thank, Thin đều là /θ/.
+---
+loại:: mot_dap_an
+câu 9:: Choose the word whose underlined part is pronounced differently: Th_i_n, Th_i_nk, Th_e_n, Th_o_ught.
+a:: Thin
+b:: Think
+c:: Then
+d:: Thought
+đáp án:: c
+giải thích:: Trạng từ chỉ thời gian "Then" phát âm là /ð/.
+---
+loại:: mot_dap_an
+câu 10:: Choose the word whose underlined part is pronounced differently: Th_a_nk, Th_i_n, Th_o_ught, Th_e_se.
+a:: Thank
+b:: Thin
+c:: Thought
+d:: These
+đáp án:: d
+giải thích:: Đại từ chỉ định số nhiều "These" dùng âm /ð/.
+---
+loại:: mot_dap_an
+câu 11:: Which word is stressed differently from the others?
+a:: teacher
+b:: student
+c:: doctor
+d:: erase
+đáp án:: d
+giải thích:: Phân tích Trọng âm (Word Stress): "Erase" là động từ 2 âm tiết, trọng âm rơi vào âm 2. Các từ còn lại là danh từ 2 âm tiết, trọng âm mặc định ở âm 1.
+---
+loại:: mot_dap_an
+câu 12:: Which word is stressed differently from the others?
+a:: picnic
+b:: design
+c:: bedroom
+d:: holiday
+đáp án:: b
+giải thích:: "Design" (động từ/danh từ) có trọng âm rơi vào âm tiết chứa nguyên âm đôi /aɪ/ (âm tiết thứ 2). Picnic, bedroom nhấn âm 1. Holiday nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 13:: Which word is stressed differently from the others?
+a:: famous
+b:: happy
+c:: believe
+d:: useful
+đáp án:: c
+giải thích:: Động từ "believe" nhấn âm 2. Các tính từ 2 âm tiết (famous, happy, useful) tuân thủ quy tắc nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 14:: Which word is stressed differently from the others?
+a:: computer
+b:: attraction
+c:: discover
+d:: furniture
+đáp án:: d
+giải thích:: Danh từ 3 âm tiết "furniture" nhấn âm 1. Các từ còn lại nhấn âm 2 (com-PU-ter, at-TRAC-tion, dis-CO-ver).
+---
+loại:: mot_dap_an
+câu 15:: Which word is stressed differently from the others?
+a:: calculate
+b:: adventure
+c:: important
+d:: conjunction
+đáp án:: a
+giải thích:: Động từ có đuôi -ate từ 3 âm tiết trở lên (calculate) nhấn âm cách nó một âm tiết (nhấn âm 1). Các từ còn lại nhấn âm 2.
+---
+loại:: mot_dap_an
+câu 16:: Which word is stressed differently from the others?
+a:: festival
+b:: universe
+c:: beautiful
+d:: director
+đáp án:: d
+giải thích:: "Director" nhấn âm 2. Các từ còn lại nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 17:: Which word is stressed differently from the others?
+a:: chocolate
+b:: celebrate
+c:: comedy
+d:: volunteer
+đáp án:: d
+giải thích:: Các từ có hậu tố -eer (volunteer, engineer) luôn nhận trọng âm chính vào chính hậu tố đó (nhấn âm 3). Các từ còn lại nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 18:: Which word is stressed differently from the others?
+a:: character
+b:: Portugal
+c:: remember
+d:: visitor
+đáp án:: c
+giải thích:: Động từ "remember" nhấn âm 2. Các từ còn lại đều là danh từ 3 âm tiết nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 19:: Which word is stressed differently from the others?
+a:: conclusion
+c:: especial
+c:: adventure
+d:: entertain
+đáp án:: d
+giải thích:: Động từ "entertain" nhấn âm 3. Các từ có đuôi -sion, -cial, -ture trong trường hợp này đều nhận trọng âm ở âm tiết thứ 2 (con-CLU-sion, es-PE-cial, ad-VEN-ture).
+---
+loại:: mot_dap_an
+câu 20:: Which word is stressed differently from the others?
+a:: advice
+b:: classroom
+c:: kitchen
+d:: window
+đáp án:: a
+giải thích:: Danh từ "advice" là một ngoại lệ, nhấn âm 2. Các danh từ 2 âm tiết còn lại nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 21:: It started to rain, ______ we stopped playing tennis.
+a:: so
+b:: and
+c:: or
+d:: but
+đáp án:: a
+giải thích:: Phân tích Logic mệnh đề: Mệnh đề trước (trời mưa) là nguyên nhân, mệnh đề sau (ngừng chơi) là hệ quả. Liên từ "so" (vì vậy) thiết lập chính xác mối quan hệ nhân-quả này.
+---
+loại:: mot_dap_an
+câu 22:: We ______ part in a running race last summer and won the first prize.
+a:: takes
+b:: taked
+c:: took
+d:: taken
+đáp án:: c
+giải thích:: Dấu hiệu "last summer" yêu cầu thì Quá khứ đơn (Past Simple). "Take" là động từ bất quy tắc, quá khứ là "took". Đáp án "taked" là bẫy nhiễu khái quát hóa quá mức hình thái -ed.
+---
+loại:: mot_dap_an
+câu 23:: Yesterday Hoa had a headache, ______ she couldn’t go to school.
+a:: cause
+b:: because
+c:: so
+d:: therefore
+đáp án:: c
+giải thích:: Tương tự câu 21, diễn đạt hệ quả. "Therefore" cần cấu trúc dấu chấm phẩy và dấu phẩy (; therefore,) nên loại. "So" nối trực tiếp hai mệnh đề độc lập.
+---
+loại:: mot_dap_an
+câu 24:: His daughter ______ a small bicycle to school yesterday.
+a:: ride
+b:: rides
+c:: rode
+d:: ridden
+đáp án:: c
+giải thích:: "Yesterday" chỉ định thì Quá khứ đơn. Động từ bất quy tắc "ride" chuyển thành "rode".
+---
+loại:: mot_dap_an
+câu 25:: ______ did you go last night? “I went to a supermarket with my mother.”
+a:: What
+b:: Why
+c:: Where
+d:: When
+đáp án:: c
+giải thích:: Phân tích Cú pháp: Câu trả lời cung cấp thông tin về địa điểm (to a supermarket). Từ để hỏi tương ứng bắt buộc phải là "Where".
+---
+loại:: mot_dap_an
+câu 26:: Is this your car? That’s not _______.
+a:: me
+b:: mine
+c:: my
+d:: my's
+đáp án:: b
+giải thích:: Cần một Đại từ sở hữu (Possessive Pronoun) để thay thế cho "my car", tránh lặp từ. "Mine" đứng độc lập ở vị trí tân ngữ. "My" (tính từ sở hữu) bắt buộc phải có danh từ theo sau.
+---
+loại:: mot_dap_an
+câu 27:: _________ do you go swimming? – Twice a week.
+a:: How many
+b:: How often
+c:: How long
+d:: How much
+đáp án:: b
+giải thích:: Trạng ngữ "Twice a week" chỉ tần suất. Từ để hỏi duy nhất tương thích để truy vấn tần suất là "How often".
+---
+loại:: mot_dap_an
+câu 28:: I can dance, ______ I can’t sing.
+a:: but
+b:: so
+c:: and
+d:: or
+đáp án:: a
+giải thích:: Hai mệnh đề có cấu trúc đối lập (khẳng định "can" vs phủ định "can't"). Liên từ "but" thiết lập cấu trúc tương phản (Contrast).
+---
+loại:: mot_dap_an
+câu 29:: I ______ playing the piano when I was six, but I don’t think I have much musical talent.
+a:: starts
+b:: started
+c:: startted
+d:: stort
+đáp án:: b
+giải thích:: Mệnh đề thời gian "when I was six" đưa ngữ cảnh về thì Quá khứ đơn. "Start" là động từ có quy tắc, thêm -ed thành "started". "Startted" là bẫy sai chính tả.
+---
+loại:: mot_dap_an
+câu 30:: Kí hiệu vòng tròn đỏ gạch chéo, bên trong có điếu thuốc mang ý nghĩa gì?
+a:: Don’t litter!
+b:: Smoke
+c:: You can smoke here.
+d:: No smoking.
+đáp án:: d
+giải thích:: Phân tích Biển báo (Semiotics): Hình ảnh điếu thuốc kết hợp với vòng tròn đỏ gạch chéo tạo thành lệnh cấm quốc tế. Cụm từ chuẩn hóa là "No smoking".
+---
+loại:: mot_dap_an
+câu 31:: She ______ the gold medal in 1986.
+a:: wins
+b:: won
+c:: win
+d:: wons
+đáp án:: b
+giải thích:: Trạng ngữ thời gian "in 1986" yêu cầu thì Quá khứ đơn. "Win" là động từ bất quy tắc, quá khứ là "won".
+---
+loại:: mot_dap_an
+câu 32:: What did the boys do yesterday? – They ______ chess together.
+a:: play
+b:: do
+c:: played
+d:: did
+đáp án:: c
+giải thích:: Câu hỏi dùng trợ động từ "did" (Quá khứ đơn). Câu trả lời khẳng định bắt buộc chia động từ "play" thêm đuôi -ed.
+---
+loại:: mot_dap_an
+câu 33:: I want to watch the news ______ I want to know what is happening around the world.
+a:: so
+b:: but
+c:: or
+d:: because
+đáp án:: d
+giải thích:: Mệnh đề thứ hai (muốn biết chuyện gì xảy ra) giải thích lý do cho hành động ở mệnh đề thứ nhất (xem tin tức). Liên từ "because" diễn đạt sự phụ thuộc nhân quả (Causality).
+---
+loại:: mot_dap_an
+câu 34:: Can I borrow your book? I forgot ______ at home.
+a:: my
+b:: mine
+c:: her
+d:: hers
+đáp án:: b
+giải thích:: Chủ thể là "I", do đó vật sở hữu phải thuộc về "I". Dùng đại từ sở hữu "mine" thay thế cho "my book" để tránh lặp từ.
+---
+loại:: mot_dap_an
+câu 35:: She ______ a ball for her son yesterday.
+a:: buys
+b:: buy
+c:: buyed
+d:: bought
+đáp án:: d
+giải thích:: Dấu hiệu "yesterday". "Buy" là động từ bất quy tắc -> "bought". "Buyed" là bẫy nhiễu đánh lừa tư duy áp dụng máy móc quy tắc -ed.
+---
+loại:: mot_dap_an
+câu 36:: Kí hiệu vòng tròn đỏ gạch chéo, bên trong có hình chiếc máy ảnh mang ý nghĩa gì?
+a:: Don’t take photos here!
+b:: Don’t taking photos!
+c:: Don’t smoke!
+d:: Take photos!
+đáp án:: a
+giải thích:: Phân tích Cú pháp (Syntax): Câu mệnh lệnh phủ định (Negative Imperative) sử dụng cấu trúc: Don't + V(nguyên thể). "Don't taking" là cấu trúc ngữ pháp sai.
+---
+loại:: mot_dap_an
+câu 37:: Kí hiệu vòng tròn đỏ, bên trong có mũi tên rẽ phải mang ý nghĩa gì?
+a:: Turns right.
+b:: Turn left.
+c:: Turning right.
+d:: Turn right.
+đáp án:: d
+giải thích:: Biển báo điều hướng. Sử dụng câu mệnh lệnh khẳng định (Affirmative Imperative): Động từ ở dạng nguyên thể không "to". Đáp án "Turn right" là chuẩn xác nhất.
+---
+loại:: mot_dap_an
+câu 38:: My house is near ________ house, so I usually go there and play badminton with her.
+a:: hers
+b:: her
+c:: your
+d:: yours
+đáp án:: b
+giải thích:: Phân tích Cú pháp: Khoảng trống đứng trước danh từ "house", do đó bắt buộc phải dùng Tính từ sở hữu (Possessive Adjective). Dựa vào đại từ "her" ở cuối câu, tính từ sở hữu tương ứng là "her".
+---
+loại:: mot_dap_an
+câu 39:: ________ bag is blue. Mine is red.
+a:: Her
+b:: She
+c:: Hers
+d:: You
+đáp án:: a
+giải thích:: Tương tự câu 38, cần một tính từ sở hữu đứng trước danh từ "bag" để làm chủ ngữ. "Her" là lựa chọn duy nhất đúng cấu trúc.
+---
+loại:: mot_dap_an
+câu 40:: The cat is playing with ________ ball.
+a:: its
+b:: it
+c:: it's
+d:: Hers
+đáp án:: a
+giải thích:: Phân tích Hình thái (Morphology): Tính từ sở hữu của danh từ chỉ động vật/đồ vật "it" là "its" (không có dấu phẩy trên). "It's" là dạng viết tắt của "It is" hoặc "It has".
+---
+loại:: mot_dap_an
+câu 41:: Ben Thanh Market is a famous ________ of Ho Chi Minh City.
+a:: museum
+b:: monument
+c:: landmark
+d:: square
+đáp án:: c
+giải thích:: Phân tích Ngữ nghĩa (Semantics): "Landmark" chỉ một công trình, địa danh nổi bật để nhận diện một khu vực. Chợ Bến Thành là một "landmark" đặc trưng của TP.HCM.
+---
+loại:: mot_dap_an
+câu 42:: My brother wants to become a _______ to tell TV viewers what the weather is like.
+a:: newspaper
+b:: actor
+c:: weatherman
+d:: producer
+đáp án:: c
+giải thích:: Dựa vào ngữ cảnh "tell TV viewers what the weather is like" (thông báo thời tiết), danh từ chỉ nghề nghiệp chính xác nhất là "weatherman" (người dẫn chương trình thời tiết).
+---
+loại:: mot_dap_an
+câu 43:: I like ________ soccer because it keeps me healthy.
+a:: doing
+b:: playing
+c:: walking
+d:: jumping
+đáp án:: b
+giải thích:: Phân tích Cụm từ cố định (Collocation): Thể thao dùng với trái bóng hoặc thi đấu đối kháng (soccer, tennis, basketball) bắt buộc đi với động từ "play".
+---
+loại:: mot_dap_an
+câu 44:: I would like to have my house by the _________, so we can see the beach from my window every day.
+a:: mountains
+b:: city
+c:: sea
+d:: countryside
+đáp án:: c
+giải thích:: Dấu hiệu ngữ cảnh "see the beach" (nhìn thấy bãi biển). Vị trí nhà logic nhất để thấy bãi biển là "by the sea" (cạnh bờ biển).
+---
+loại:: mot_dap_an
+câu 45:: HTV7 is a popular TV __________ in Viet Nam.
+a:: channel
+b:: remote
+c:: set
+d:: nation
+đáp án:: a
+giải thích:: Từ vựng chuyên ngành truyền hình: "TV channel" nghĩa là kênh truyền hình.
+---
+loại:: mot_dap_an
+câu 46:: I love _________ programme. It makes me laugh a lot.
+a:: comedy
+b:: news
+c:: weather forecast
+d:: educational
+đáp án:: a
+giải thích:: Suy luận logic từ kết quả: "makes me laugh a lot" (khiến tôi cười nhiều). Thể loại chương trình duy nhất mang mục đích gây cười là "comedy" (hài kịch).
+---
+loại:: mot_dap_an
+câu 47:: I like________ morning exercise because it keeps me healthy.
+a:: jumping
+b:: playing
+c:: walking
+d:: doing
+đáp án:: d
+giải thích:: Phân tích Cụm từ cố định (Collocation): Tập thể dục buổi sáng bắt buộc phải dùng cụm động từ "do morning exercise". Động từ "play" không đi với "exercise".
+---
+loại:: mot_dap_an
+câu 48:: William is very _________ - he runs five kilometres every day.
+a:: small
+b:: fit
+c:: smart
+d:: shy
+đáp án:: b
+giải thích:: Suy luận từ hành động: "runs five kilometres every day" thể hiện một thể lực tốt. Tính từ "fit" (cân đối, khỏe mạnh) là hệ quả logic nhất.
+---
+loại:: mot_dap_an
+câu 49:: Canada is one of 23 _________ in North America.
+a:: countries
+b:: landmarks
+c:: capitals
+d:: Cities
+đáp án:: a
+giải thích:: Kiến thức Địa lý học: Canada là một quốc gia độc lập. Do đó, nó phải là một trong số các "countries" (quốc gia) ở Bắc Mỹ.
+---
+loại:: mot_dap_an
+câu 50:: Quoc Tu Giam is regarded as the first national _________ of Viet Nam.
+a:: capital
+b:: university
+c:: temple
+d:: school
+đáp án:: b
+giải thích:: Kiến thức Lịch sử: Quốc Tử Giám được vinh danh là trường đại học đầu tiên của Việt Nam ("first national university").
+---
+// ==================================================================
+// BATCH 2: CÂU 51 - 100 (READING COMPREHENSION, SYNTAX & ERROR ANALYSIS)
+// TÀI LIỆU: ĐỀ CƯƠNG ÔN TẬP TIẾNG ANH 6 - GIỮA HỌC KÌ II
+// ==================================================================
+
+---
+loại:: dropdown
+câu 51:: Read the passage and choose the correct word: The Sydney Opera House is one of the world’s most famous modern [[tourists|buildings|restaurants]].
+đáp án:: buildings
+giải thích:: Kỹ năng Đọc hiểu (Context Clues): Chủ ngữ là "Sydney Opera House" (Nhà hát Opera Sydney). [cite_start]Về mặt ngữ nghĩa (Semantics), đây là một công trình nhân tạo, do đó danh từ "buildings" là đáp án hợp lý duy nhất. [cite: 125]
+---
+loại:: dropdown
+câu 52:: Read the passage and choose the correct word: (2) ___________ from all over the world visit it. And don’t miss Sydney Harbour Bridge near the Opera House. [[Tourists|Buildings|Restaurants]]
+đáp án:: Tourists
+giải thích:: Phân tích Cú pháp (Syntax): Vị trí cần điền đóng vai trò Chủ ngữ thực hiện hành động "visit" (tham quan). [cite_start]Chỉ có con người (Tourists - du khách) mới có năng lực thực hiện hành động này. [cite: 126]
+---
+loại:: dropdown
+câu 53:: Read the passage and choose the correct word: You can (3) _____ to the top of the mountain and see fantastic views. [[surf|climb|meet]]
+đáp án:: climb
+[cite_start]giải thích:: Phân tích Cụm từ (Collocation): Động từ đi kèm với "mountain" (ngọn núi) và cụm giới từ chỉ hướng lên "to the top" bắt buộc phải là "climb" (leo trèo). [cite: 127]
+---
+loại:: dropdown
+câu 54:: Read the passage and choose the correct word: You can visit the Rocks – a very old and interesting part of the city. It is full of fantastic cafes and (4) ________. [[tourists|restaurants|buildings]]
+đáp án:: restaurants
+giải thích:: Phân tích Song song (Parallelism): Liên từ "and" nối hai danh từ cùng trường từ vựng. [cite_start]"Cafes" (quán cà phê) thuộc lĩnh vực dịch vụ ăn uống, nên từ đồng đẳng đi kèm hợp lý nhất là "restaurants" (nhà hàng). [cite: 128, 129]
+---
+loại:: dropdown
+câu 55:: Read the passage and choose the correct word: Sydney is famous for Bondi Beach. Everybody goes there to (5) ________, swim and play volleyball. [[surf|climb|tourists]]
+đáp án:: surf
+giải thích:: Tương tự câu 54, quy tắc cấu trúc song song yêu cầu một động từ chỉ hoạt động thể thao gắn liền với "Beach" (bãi biển) để đứng cùng "swim" và "play volleyball". [cite_start]"Surf" (lướt sóng) là lựa chọn chuẩn xác. [cite: 130, 131]
+---
+loại:: dropdown
+câu 56:: Read the TV passage and choose the correct word: There are many TV channels for children. They offer interesting (1) ________ for fun and learning. [[programmes|viewer|world]]
+đáp án:: programmes
+giải thích:: Phân tích Ngữ nghĩa: Đại từ "They" thay thế cho "TV channels". [cite_start]Sản phẩm mà các kênh truyền hình cung cấp chính là các chương trình truyền hình ("programmes"). [cite: 135]
+---
+loại:: dropdown
+câu 57:: Read the TV passage and choose the correct word: When children aren’t (2) ________ the programmes, they can visit far-away lands... [[watching|meet|and]]
+đáp án:: watching
+giải thích:: Phân tích Hình thái: Cấu trúc hiện tại tiếp diễn phủ định (aren't + V-ing). [cite_start]Đi kèm với tân ngữ "the programmes", động từ bắt buộc là "watching". [cite: 136]
+---
+loại:: dropdown
+câu 58:: Read the TV passage and choose the correct word: ...meet interesting people, learn about the (3) ________ around them... [[world|viewer|programmes]]
+đáp án:: world
+[cite_start]giải thích:: Phân tích Ngữ cảnh: Cụm từ cố định "the world around them" (thế giới xung quanh họ) biểu đạt sự mở rộng kiến thức. [cite: 136]
+---
+loại:: dropdown
+câu 59:: Read the TV passage and choose the correct word: ...laugh with the comedians, and enjoy the funny (4) ________ colourful cartoon characters. [[and|meet|watching]]
+đáp án:: and
+giải thích:: Phân tích Cú pháp: Cần một liên từ để nối hai tính từ cùng bổ nghĩa cho "cartoon characters" là "funny" (hài hước) và "colourful" (đầy màu sắc). [cite_start]Liên từ bổ sung "and" là bắt buộc. [cite: 136]
+---
+loại:: dropdown
+câu 60:: Read the TV passage and choose the correct word: They can also (5) ________ guests at the studio of a programme. [[meet|watching|world]]
+đáp án:: meet
+giải thích:: Động từ khiếm khuyết "can" yêu cầu động từ chính ở dạng nguyên thể. [cite_start]"Meet guests" (gặp gỡ khách mời) tạo thành một cụm động - tân hoàn chỉnh. [cite: 137]
+---
+loại:: mot_dap_an
+câu 61:: Read the passage about sports. What is the passage mainly about?
+a:: Outdoor activities
+b:: The importance of sports
+c:: Watching TV at the weekend
+d:: School subjects
+đáp án:: b
+giải thích:: Kỹ năng Đọc lướt tìm Ý chính (Skimming for Gist). Câu chủ đề "Sports are very important in students’ lives" đã bao trùm nội dung toàn đoạn văn. [cite_start]Các lựa chọn khác chỉ là ý phụ (supporting details). [cite: 139, 145]
+---
+loại:: mot_dap_an
+câu 62:: Read the passage about sports. Why do students like playing sports in their free time?
+a:: Because it is boring.
+b:: Because it is expensive.
+c:: Because it is fun and relaxing.
+d:: Because it is difficult.
+đáp án:: c
+giải thích:: Kỹ năng Quét thông tin chi tiết (Scanning for Details). [cite_start]Đoạn văn nêu rõ: "Many students like playing sports in their free time because it is fun and relaxing". [cite: 140, 146, 147]
+---
+loại:: mot_dap_an
+câu 63:: Read the passage about sports. Which sport does NOT need expensive equipment according to the passage?
+a:: baseball
+b:: golf
+c:: swimming
+d:: volleyball
+đáp án:: c
+giải thích:: Scanning: Dữ liệu văn bản liệt kê "football, badminton, and swimming are easy to play and do not need expensive equipment". [cite_start]Đối chiếu danh sách, "swimming" là đáp án hợp lệ. [cite: 141, 148, 149]
+---
+loại:: mot_dap_an
+câu 64:: Read the passage about sports. When do students often play sports?
+a:: In the morning
+b:: After classes or at the weekend
+c:: At night
+d:: Before school
+đáp án:: b
+[cite_start]giải thích:: Scanning: Thông tin được định vị tại câu: "At school, students often play sports after classes or at the weekend." [cite: 143, 150]
+---
+loại:: mot_dap_an
+câu 65:: Read the passage about sports. Playing sports helps students NOT to ______.
+a:: stay healthy
+b:: make friends
+c:: feel happy
+d:: watch TV all day
+đáp án:: d
+giải thích:: Phân tích Cú pháp Phủ định: Câu hỏi yêu cầu tìm hành động bị triệt tiêu (NOT to). [cite_start]Văn bản ghi "Doing sports regularly helps students feel happy and not to watch TV all day". [cite: 144, 151, 152]
+---
+loại:: mot_dap_an
+câu 66:: Read the passage about Cairo. Cairo _________
+a:: is a village
+b:: is the capital of Egypt
+c:: has more than ten million people
+d:: B & C are correct
+đáp án:: d
+giải thích:: Scanning & Tổng hợp thông tin: Câu 1 và 2 của đoạn xác nhận Cairo là thủ đô ("capital of Egypt") và có hơn 10 triệu dân ("more than ten million people"). [cite_start]Đáp án D bao hàm cả hai mệnh đề đúng. [cite: 154, 162-164]
+---
+loại:: mot_dap_an
+câu 67:: Read the passage about Cairo. Why do people go to Cairo?
+a:: Because there are more jobs in Cairo than in the countryside.
+b:: Because they want to live in an apartment.
+c:: Because there is a lot of traffic in Cairo.
+d:: A & B are correct.
+đáp án:: a
+giải thích:: Suy luận logic nguyên nhân: Văn bản nêu "come from the countryside because there are more jobs here". [cite_start]Căn hộ hay kẹt xe không phải là động lực di cư. [cite: 155, 165-169]
+---
+loại:: mot_dap_an
+câu 68:: Read the passage about Cairo. We can replace the word “tourists” with the word ___________
+a:: newcomers
+b:: visitors
+c:: guests
+d:: friends
+đáp án:: b
+giải thích:: Từ vựng học (Lexicology) & Từ đồng nghĩa (Synonyms). [cite_start]"Tourists" (người đi du lịch) tương đương sát nghĩa nhất với "visitors" (du khách, người đến thăm). [cite: 170, 171]
+---
+loại:: mot_dap_an
+câu 69:: Read the passage about Cairo. The author likes Cairo because ___________
+a:: it is big
+b:: it is exciting
+c:: he thinks it is easy to meet new people there
+d:: all are correct
+đáp án:: d
+giải thích:: Kỹ năng Tổng hợp (Synthesizing): Tác giả tuyên bố "I like Cairo because it is big and exciting... and it is easy to meet new people". [cite_start]Tất cả các dữ kiện A, B, C đều xuất hiện và là lý do tác giả thích thành phố này. [cite: 159, 172-176]
+---
+loại:: mot_dap_an
+câu 70:: Read the passage about Cairo. Which of the following is NOT true?
+a:: The author has a lot of friends.
+b:: The author likes to meet new people.
+c:: The author lives in a village.
+d:: The author’s mother doesn’t like to live there.
+đáp án:: c
+[cite_start]giải thích:: Đánh giá thông tin sai lệch (Identifying False Statements): Tác giả đã khẳng định "I live in Cairo" (một siêu đô thị), do đó mệnh đề "lives in a village" mâu thuẫn trực tiếp với dữ kiện gốc. [cite: 154, 177-181]
+---
+loại:: mot_dap_an
+câu 71:: Find a mistake: Last summer I (A) went to Nha Trang and (B) buy a lot of (C) souvenirs (D).
+a:: went
+b:: buy
+c:: a lot of
+d:: souvenirs
+đáp án:: b
+giải thích:: Lỗi cấu trúc song song về Thì (Tense Parallelism). Dấu hiệu "Last summer" và động từ trước liên từ "and" là "went" (quá khứ). [cite_start]Động từ "buy" bắt buộc phải được lùi thì về "bought" để cân bằng cấu trúc câu. [cite: 183, 184]
+---
+loại:: mot_dap_an
+câu 72:: Find a mistake: Did (A) you (B) watched (C) the show last night (D)?
+a:: Did
+b:: you
+c:: watched
+d:: last night
+đáp án:: c
+giải thích:: Lỗi cú pháp câu nghi vấn (Interrogative Syntax). Đã sử dụng trợ động từ "Did" thì động từ chính tuyệt đối không chia quá khứ nữa. Sửa "watched" thành "watch". [cite_start]Lỗi do khái quát hóa quá mức nguyên tắc thêm -ed. [cite: 185, 186]
+---
+loại:: mot_dap_an
+câu 73:: Find a mistake: We gave (A) them our ID number, and (B) they gave (C) us their (D).
+a:: gave
+b:: and
+c:: gave
+d:: their
+đáp án:: d
+giải thích:: Lỗi hình thái đại từ (Pronoun Morphology). Ở cuối câu, không có danh từ theo sau, phải dùng Đại từ sở hữu (Possessive Pronoun) "theirs" để thay cho "their ID number". [cite_start]Dùng tính từ sở hữu "their" đứng độc lập là sai ngữ pháp nghiêm trọng. [cite: 187, 188]
+---
+loại:: mot_dap_an
+câu 74:: Find a mistake: Sometimes (A) they listen to music, so (B) sometimes they read (C) books (D).
+a:: Sometimes
+b:: so
+c:: read
+d:: books
+đáp án:: b
+giải thích:: Lỗi logic liên từ (Conjunction Logic). Hai hành động nghe nhạc và đọc sách là hai lựa chọn bổ sung hoặc song song, không có mối quan hệ nguyên nhân - kết quả. [cite_start]Phải thay "so" bằng "and" hoặc "or". [cite: 189, 190]
+---
+loại:: mot_dap_an
+câu 75:: Find a mistake: Ann didn’t come (A) to my birthday party although (B) it rained (C) heavily (D).
+a:: didn't come
+b:: although
+c:: rained
+d:: heavily
+đáp án:: b
+giải thích:: Lỗi logic mệnh đề phụ (Adverbial Clause Logic). Việc trời mưa to là nguyên nhân khiến Ann không đến. Dùng liên từ nhượng bộ "although" (mặc dù) tạo ra sự mâu thuẫn về nghĩa. [cite_start]Phải sửa thành "because" (bởi vì). [cite: 191, 192]
+---
+loại:: mot_dap_an
+câu 76:: Find a mistake: This was (A) not my mistake. It (B) was (C) your (D).
+a:: was
+b:: It
+c:: was
+d:: your
+đáp án:: d
+giải thích:: Lỗi tính từ sở hữu. Tương tự câu 73, "your" không thể đứng độc lập làm bổ ngữ. [cite_start]Cần thay bằng đại từ sở hữu "yours" (thay cho your mistake). [cite: 193, 194]
+---
+loại:: mot_dap_an
+câu 77:: Find a mistake: My brother didn’t (A) ate (B) pancakes (C) yesterday (D).
+a:: didn't
+b:: ate
+c:: pancakes
+d:: yesterday
+đáp án:: b
+giải thích:: Lỗi lặp vĩ tố quá khứ (Double marking of past tense). [cite_start]Trợ động từ "didn't" đã gánh chức năng chỉ thời gian, động từ chính phải về nguyên mẫu "eat". [cite: 195, 196]
+---
+loại:: mot_dap_an
+câu 78:: Find a mistake: What time (A) does (B) Jane watch her favourite film? On (C) Fridays (D).
+a:: What time
+b:: does
+c:: On
+d:: Fridays
+đáp án:: a
+giải thích:: Lỗi truy vấn thông tin (Interrogation Logic). Câu trả lời là "On Fridays" (thứ Sáu hàng tuần) - chỉ thứ trong tuần. Từ để hỏi "What time" chỉ dùng để hỏi giờ cụ thể. [cite_start]Phải sửa thành "When" hoặc "What day". [cite: 197, 198]
+---
+loại:: mot_dap_an
+câu 79:: Find a mistake: Did (A) your uncle took (B) you to watch (C) the football match last week (D)?
+a:: Did
+b:: took
+c:: to watch
+d:: last week
+đáp án:: b
+giải thích:: Lỗi lặp vĩ tố quá khứ. Trong câu hỏi Yes/No với "Did", động từ chính phải là nguyên mẫu không to. [cite_start]Sửa "took" thành "take". [cite: 199, 200]
+---
+loại:: mot_dap_an
+câu 80:: Find a mistake: This laptop is yours (A), but (B) the tablet is her (C). (D) No mistake.
+a:: yours
+b:: but
+c:: her
+d:: No mistake
+đáp án:: c
+giải thích:: Lỗi hình thái đại từ. "her" là tính từ sở hữu hoặc tân ngữ, không thể đứng độc lập thay thế cho "her tablet". [cite_start]Phải sử dụng đại từ sở hữu "hers". [cite: 201, 202]
+---
+loại:: mot_dap_an
+câu 81:: Choose the correct sentence that combines the two given sentences: "I want to watch Pokemon cartoons. I turned to the Disney channel."
+a:: I want to watch Pokemon cartoons, because I turned to the Disney channel.
+b:: I want to watch Pokemon cartoons, so I turned to the Disney channel.
+c:: I turned to the Disney channel, so I want to watch Pokemon cartoons.
+d:: I want to watch Pokemon cartoons, but I turned to the Disney channel.
+đáp án:: b
+giải thích:: Kỹ năng Thiết lập Logic Cú pháp (Syntactical Logic). Việc muốn xem phim hoạt hình là nguyên nhân, và hành động chuyển kênh là hệ quả. [cite_start]Liên từ "so" đứng trước mệnh đề chỉ hệ quả. [cite: 204]
+---
+loại:: mot_dap_an
+câu 82:: Choose the correct sentence that combines the two given sentences: "Phong wants to be a cameraman. He doesn’t have a camera."
+a:: Phong wants to be a cameraman, and he doesn’t have a camera.
+b:: Phong doesn't have a camera, so he wants to be a cameraman.
+c:: Phong wants to be a cameraman, but he doesn’t have a camera.
+d:: Phong wants to be a cameraman, because he doesn’t have a camera.
+đáp án:: c
+giải thích:: Mối quan hệ tương phản (Contrast). Ước mơ làm quay phim đối nghịch với thực tế thiếu thiết bị. [cite_start]Liên từ "but" là lựa chọn bắt buộc. [cite: 206]
+---
+loại:: mot_dap_an
+câu 83:: Choose the correct sentence that combines the two given sentences: "Andrea wants to be an actor. He also wants to be a doctor."
+a:: Andrea wants to be an actor and a doctor.
+b:: Andrea wants to be an actor, but a doctor.
+c:: Andrea wants to be an actor, so he wants to be a doctor.
+d:: Andrea wants to be an actor because a doctor.
+đáp án:: a
+giải thích:: Kỹ năng Gộp câu song song (Sentence Cohesion). [cite_start]Liên từ "and" nối hai danh từ cùng giữ vai trò bổ ngữ (actor, doctor), giúp lược bỏ chủ ngữ và động từ lặp lại để câu sắc bén hơn. [cite: 208, 209]
+---
+loại:: mot_dap_an
+câu 84:: Choose the correct sentence that combines the two given sentences: "This gameshow is interesting. That gameshow is so boring."
+a:: This gameshow is interesting, and that gameshow is so boring.
+b:: This gameshow is interesting, because that gameshow is so boring.
+c:: This gameshow is interesting, so that gameshow is so boring.
+d:: This gameshow is interesting, but that gameshow is so boring.
+đáp án:: d
+[cite_start]giải thích:: Đối lập ngữ nghĩa rõ rệt giữa hai tính từ "interesting" (thú vị) và "boring" (nhàm chán) định vị vị trí của liên từ "but". [cite: 211]
+---
+loại:: mot_dap_an
+câu 85:: Rewrite the sentence using a Possessive Adjective: "He has a beautiful house."
+a:: He is a beautiful house.
+b:: His house is beautiful.
+c:: The beautiful house is his.
+d:: He's house is beautiful.
+đáp án:: b
+giải thích:: Cấu trúc sở hữu "S + have/has + Noun" chuyển đổi tương đương sang cấu trúc "Possessive Adjective + Noun + be + Adjective". "He" -> "His". [cite_start]"His house is beautiful" là cấu trúc chuẩn xác. [cite: 213, 214]
+---
+loại:: mot_dap_an
+câu 86:: Rewrite the sentence using a Possessive Pronoun: "My friends and I have got sweets."
+a:: The sweets are our.
+b:: The sweets belong to us.
+c:: The sweets are ours.
+d:: The sweets are mine.
+đáp án:: c
+giải thích:: Phân tích Tham chiếu (Referencing). Chủ thể "My friends and I" tương đương với đại từ "We". [cite_start]Đại từ sở hữu tương ứng của "We" đóng vai trò bổ ngữ đứng độc lập là "ours". [cite: 215, 216]
+---
+loại:: mot_dap_an
+câu 87:: Rewrite the sentence using a Possessive Pronoun: "Those books belong to me."
+a:: Those books are my.
+b:: Those are mine books.
+c:: Those books are mine.
+d:: Those books are me.
+đáp án:: c
+[cite_start]giải thích:: "belong to me" (thuộc về tôi) quy đổi thành đại từ sở hữu "mine" đứng ở cuối câu thay thế cho danh ngữ lặp lại. [cite: 217, 218]
+---
+loại:: mot_dap_an
+câu 88:: Choose the correct sentence that combines the two given sentences: "I turned on the Kids channel because I wanted to watch cartoons." (Use "so")
+a:: I wanted to watch cartoons, so I turned on the Kids channel.
+b:: I turned on the Kids channel, so I wanted to watch cartoons.
+c:: So I wanted to watch cartoons, I turned on the Kids channel.
+d:: I wanted to watch cartoons because so I turned on the Kids channel.
+đáp án:: a
+giải thích:: Tái cấu trúc logic (Logical Restructuring). [cite_start]Đảo mệnh đề nguyên nhân (want to watch cartoons) lên trước, thêm liên từ chỉ kết quả "so" trước mệnh đề hành động thực thi (turned on the channel). [cite: 219, 220]
+---
+loại:: mot_dap_an
+câu 89:: Rewrite the sentence using a Possessive Pronoun: "This is Harry. He’s one of my classmates."
+a:: Harry is a classmate of my.
+b:: Harry is a classmate of mine.
+c:: Harry is my one classmate.
+d:: Harry is a mine classmate.
+đáp án:: b
+giải thích:: Cấu trúc sở hữu kép (Double Possessive). [cite_start]Cấu trúc "one of my + plural noun" (một trong những...) thường được viết lại sắc bén hơn trong văn phong học thuật bằng cấu trúc "a/an + noun + of + possessive pronoun" -> "a classmate of mine". [cite: 221, 222]
+---
+loại:: mot_dap_an
+câu 90:: Rewrite the sentence using a Possessive Pronoun: "My lunch was noodles and your lunch was fried chicken."
+a:: My lunch was noodles and yours was fried chicken.
+b:: My lunch was noodles and your was fried chicken.
+c:: Mine lunch was noodles and yours was fried chicken.
+d:: My lunch was noodles and yours lunch was fried chicken.
+đáp án:: a
+giải thích:: Lược bỏ danh từ lặp (Noun Ellipsis). [cite_start]Cụm "your lunch" ở vế thứ hai được thay thế hoàn toàn bằng đại từ sở hữu "yours" để tránh diễn đạt rườm rà. [cite: 223, 224]
+---
+loại:: mot_dap_an
+câu 91:: Choose the correct Wh-question for the underlined part: "They study English _on Mondays_."
+a:: What do they study on Mondays?
+b:: When do they study English?
+c:: Where do they study English?
+d:: How do they study English?
+đáp án:: b
+giải thích:: Kỹ năng Truy vấn (Interrogation). Phần bị gạch chân "on Mondays" chỉ thời gian. [cite_start]Từ để hỏi duy nhất tương thích để thiết lập câu hỏi là "When". [cite: 225-227]
+---
+loại:: mot_dap_an
+câu 92:: Choose the correct Wh-question for the underlined part: "My father works _in a hospital_."
+a:: What does your father work?
+b:: Where does your father work?
+c:: When does your father work?
+d:: Where does my father work?
+đáp án:: b
+giải thích:: "in a hospital" chỉ địa điểm. Từ để hỏi là "Where". [cite_start]Lưu ý quy tắc giao tiếp: đổi tính từ sở hữu "My" trong câu trần thuật thành "your" trong câu hỏi. [cite: 228, 229]
+---
+loại:: mot_dap_an
+câu 93:: Choose the correct Wh-question for the underlined part: "We have English _three times a week_."
+a:: How long do you have English?
+b:: How many do you have English?
+c:: How often do you have English?
+d:: What time do you have English?
+đáp án:: c
+giải thích:: "three times a week" chỉ tần suất. Trạng từ để hỏi tần suất chuẩn xác trong tiếng Anh là "How often". [cite_start]Đảo trợ động từ "do" lên trước chủ ngữ quy đổi "you". [cite: 230, 231]
+---
+loại:: mot_dap_an
+câu 94:: Choose the correct Wh-question for the underlined part: "She is watching TV _in the living room_."
+a:: What is she watching in the living room?
+b:: Who is watching TV in the living room?
+c:: Where is she watching TV?
+d:: How is she watching TV?
+đáp án:: c
+giải thích:: "in the living room" định vị không gian. Dùng "Where". [cite_start]Cấu trúc đảo ngữ thì Hiện tại tiếp diễn: Where + is/are + S + V-ing? [cite: 232, 233]
+---
+loại:: mot_dap_an
+câu 95:: Choose the correct Wh-question for the underlined part: "Nam goes to school _by bike_."
+a:: How does Nam go to school?
+b:: What does Nam go to school?
+c:: Why does Nam go to school?
+d:: Where does Nam go to school?
+đáp án:: a
+giải thích:: "by bike" chỉ phương tiện di chuyển. [cite_start]Từ để hỏi tương ứng để truy vấn về cách thức/phương tiện là "How". [cite: 234, 235]
+---
+loại:: mot_dap_an
+câu 96:: Choose the correct Wh-question for the underlined part: "Nam and Mai are talking about _their favourite programme_."
+a:: Who are Nam and Mai talking about?
+b:: What are Nam and Mai talking about?
+c:: Why are Nam and Mai talking about?
+d:: Which are Nam and Mai talking about?
+đáp án:: b
+giải thích:: "their favourite programme" là danh từ chỉ sự vật/chủ đề. [cite_start]Dùng "What" kết hợp với giới từ "about" ở cuối câu hỏi để tạo cấu trúc: "What + are + S + talking about?". [cite: 236, 237]
+---
+loại:: mot_dap_an
+câu 97:: Choose the correct Wh-question for the underlined part: "I _often_ watch cartoons in my free time."
+a:: What do you watch in your free time?
+b:: When do you watch cartoons?
+c:: How often do you watch cartoons in your free time?
+d:: Why do you watch cartoons?
+đáp án:: c
+giải thích:: "often" là trạng từ chỉ tần suất (Adverb of Frequency). [cite_start]Từ để hỏi bắt buộc là "How often". [cite: 238, 239]
+---
+loại:: mot_dap_an
+câu 98:: Choose the correct Wh-question for the underlined part: "The comedy show starts _at 8 p.m._"
+a:: What time does the comedy show start?
+b:: Where does the comedy show start?
+c:: How long does the comedy show start?
+d:: When the comedy show starts?
+đáp án:: a
+giải thích:: "at 8 p.m." là thời điểm giờ giấc cụ thể. "What time" là chính xác nhất (có thể dùng When). [cite_start]Lưu ý lỗi thiếu trợ động từ ở đáp án D. [cite: 240, 241]
+---
+loại:: mot_dap_an
+câu 99:: Choose the correct Wh-question for the underlined part: "We learn English _because it is interesting_."
+a:: What do you learn English?
+b:: Why do you learn English?
+c:: How do you learn English?
+d:: Why you learn English?
+đáp án:: b
+giải thích:: Mệnh đề bắt đầu bằng "because" chỉ lý do. Từ để hỏi là "Why". [cite_start]Cấu trúc bắt buộc phải có Subject-Auxiliary Inversion (Đảo ngữ Chủ - Trợ). [cite: 242, 243]
+---
+loại:: mot_dap_an
+câu 100:: Choose the correct Wh-question for the underlined part: "My sister likes watching _cartoons and music programmes_."
+a:: What does your sister like watching?
+b:: Who does your sister like watching?
+c:: Which does your sister like watching?
+d:: What do your sister like watching?
+đáp án:: a
+giải thích:: Đối tượng bị gạch chân là danh từ chỉ vật/loại hình giải trí. Dùng "What". [cite_start]Cần lưu ý sự tương hợp chủ-vị (Subject-Verb Agreement): Chủ ngữ "your sister" (ngôi thứ 3 số ít) yêu cầu trợ động từ "does", không dùng "do". [cite: 244, 245]
+---
+// ==================================================================
+// BATCH 3: CÂU 101 - 150 (SCALE-UP: ADVANCED SYNTAX & LOGICAL REASONING)
+// TÀI LIỆU: ĐỀ CƯƠNG ÔN TẬP TIẾNG ANH 6 - GIỮA HỌC KÌ II (MỞ RỘNG)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 101:: Choose the best answer: My parents ______ a new TV set last weekend, but they ______ it yet.
+a:: bought / didn't use
+b:: buyed / don't use
+c:: bought / hasn't used
+d:: buy / didn't use
+đáp án:: a
+giải thích:: Phân tích Cú pháp & Thì (Tense & Syntax): Trạng ngữ "last weekend" yêu cầu quá khứ đơn (bought). Vế sau mang ý phủ định kết nối với hành động trong quá khứ, sử dụng "didn't use" là cấu trúc song song logic nhất trong phạm vi kiến thức lớp 6. Bẫy "buyed" nhằm loại bỏ học sinh yếu hình thái học.
+---
+loại:: mot_dap_an
+câu 102:: Choose the best answer: The weather ______ terrible yesterday, so we ______ in the hotel.
+a:: is / stay
+b:: was / stayed
+c:: were / stayed
+d:: was / stay
+đáp án:: b
+giải thích:: Sự hòa hợp Chủ - Vị (Subject-Verb Agreement) trong Quá khứ đơn: "The weather" là danh từ không đếm được (ngôi thứ 3 số ít) -> "was". Hành động hệ quả "stay" là động từ có quy tắc -> "stayed".
+---
+loại:: mot_dap_an
+câu 103:: Find the syntactical error: Why (A) did (B) the children played (C) football in the rain yesterday (D)?
+a:: Why
+b:: did
+c:: played
+d:: yesterday
+đáp án:: c
+giải thích:: Lỗi lặp vĩ tố (Double Marking). Trong câu nghi vấn, trợ động từ "did" đã biểu thị thì quá khứ, động từ chính bắt buộc phải ở dạng nguyên mẫu không "to". Sửa "played" thành "play".
+---
+loại:: mot_dap_an
+câu 104:: Choose the best answer: I lost my pen. Can I borrow ______?
+a:: your
+b:: you
+c:: yours
+d:: your pen
+đáp án:: c
+giải thích:: Phân tích Tham chiếu (Referencing): Cần một Đại từ sở hữu (Possessive Pronoun) để thay thế cho cụm "your pen" nhằm tránh lặp từ (Redundancy). "Yours" là đáp án chính xác.
+---
+loại:: mot_dap_an
+câu 105:: Choose the best answer: _______ backpacks are heavy, but _______ are very light.
+a:: Our / their
+b:: Ours / theirs
+c:: Our / theirs
+d:: Ours / their
+đáp án:: c
+giải thích:: Vị trí 1 đứng trước danh từ "backpacks" -> cần Tính từ sở hữu "Our". Vị trí 2 làm chủ ngữ độc lập, thay thế cho "their backpacks" -> cần Đại từ sở hữu "theirs".
+---
+loại:: mot_dap_an
+câu 106:: Choose the best answer: I didn't have an umbrella, _______ I got completely wet.
+a:: so
+b:: because
+c:: but
+d:: and
+đáp án:: a
+giải thích:: Logic hệ quả (Cause-and-Effect Logic). Việc "không có ô" là nguyên nhân dẫn đến hệ quả "bị ướt". Liên từ chỉ hệ quả là "so".
+---
+loại:: mot_dap_an
+câu 107:: Choose the best answer: She studied very hard for the exam; _______, she failed.
+a:: therefore
+b:: however
+c:: so
+d:: because
+đáp án:: b
+giải thích:: Phân tích Liên từ (Conjunctive Adverbs): Dấu chấm phẩy (;) và dấu phẩy (,) yêu cầu một trạng từ liên kết. Sự đối lập giữa "học chăm" và "thi trượt" đòi hỏi liên từ nhượng bộ/đối lập "however" (tuy nhiên).
+---
+loại:: mot_dap_an
+câu 108:: Choose the best answer: The Eiffel Tower is a famous _______ in Paris.
+a:: capital
+b:: landmark
+c:: country
+d:: ocean
+đáp án:: b
+giải thích:: Ngữ nghĩa học (Semantics): "Landmark" là danh từ định danh các công trình kiến trúc/cảnh quan mang tính biểu tượng của một khu vực. Tháp Eiffel là một landmark chuẩn mực.
+---
+loại:: mot_dap_an
+câu 109:: Choose the best answer: We need to buy some ______ to play badminton.
+a:: balls
+b:: equipment
+c:: teams
+d:: viewers
+đáp án:: b
+giải thích:: Ngữ nghĩa học (Semantics): "Equipment" (thiết bị, dụng cụ) là danh từ không đếm được bao hàm vợt, cầu, lưới cần thiết cho môn cầu lông. "Balls" không dùng cho môn này (dùng shuttlecock).
+---
+loại:: mot_dap_an
+câu 110:: Choose the word whose underlined part is pronounced differently: _Th_eatre, _Th_irsty, _Th_ousand, _Th_erefore.
+a:: Theatre
+b:: Thirsty
+c:: Thousand
+d:: Therefore
+đáp án:: d
+giải thích:: Âm vị học (Phonology): Trạng từ liên kết "Therefore" bắt đầu bằng âm hữu thanh /ð/. Các từ vựng mang nghĩa thực (Theatre, Thirsty, Thousand) bắt đầu bằng âm vô thanh /θ/.
+---
+loại:: mot_dap_an
+câu 111:: Choose the word whose underlined part is pronounced differently: _Th_umb, _Th_ief, Wea_th_er, Heal_th_y.
+a:: Thumb
+b:: Thief
+c:: Weather
+d:: Healthy
+đáp án:: c
+giải thích:: "Weather" phát âm là /ð/. Các từ còn lại chứa âm /θ/. Bẫy nhiễu "Healthy" rất dễ sai nếu học sinh phát âm theo thói quen tiếng Việt.
+---
+loại:: mot_dap_an
+câu 112:: Which word is stressed differently from the others?
+a:: channel
+b:: programme
+c:: remote
+d:: comedy
+đáp án:: c
+giải thích:: Phân tích Trọng âm (Stress Pattern): "Remote" là tính từ/danh từ nhấn âm 2. Các từ còn lại (channel, programme, comedy) đều nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 113:: Which word is stressed differently from the others?
+a:: educational
+b:: documentary
+c:: information
+d:: television
+đáp án:: d
+giải thích:: "Television" nhấn âm 1 (TE-le-vi-sion). Các từ kết thúc bằng đuôi -tional, -tary, -tion thường có trọng âm rơi vào âm tiết ngay trước nó (nhấn âm 3).
+---
+loại:: mot_dap_an
+câu 114:: Rewrite the sentence: "The blue bike is his."
+a:: His is the blue bike.
+b:: The blue bike belongs to him.
+c:: The blue bike belong to his.
+d:: He owns the blue bike.
+đáp án:: b
+giải thích:: Tái cấu trúc (Paraphrasing): Cấu trúc đại từ sở hữu "be + possessive pronoun" (is his) tương đương tuyệt đối về mặt ngữ pháp với cấu trúc sở hữu quyền "belong(s) to + object pronoun" (belongs to him).
+---
+loại:: mot_dap_an
+câu 115:: Rewrite the sentence using "so": "Because the movie was boring, we left early."
+a:: The movie was boring, so we left early.
+b:: We left early, so the movie was boring.
+c:: So the movie was boring, we left early.
+d:: The movie was boring because so we left early.
+đáp án:: a
+giải thích:: Chuyển đổi Logic (Logical Conversion). Lược bỏ liên từ nguyên nhân "Because", đưa mệnh đề nguyên nhân lên trước, thêm "so" vào trước mệnh đề kết quả (we left early).
+---
+loại:: mot_dap_an
+câu 116:: Choose the correct Wh-question: "My brother plays tennis _twice a week_."
+a:: How long does your brother play tennis?
+b:: How much does your brother play tennis?
+c:: How often does your brother play tennis?
+d:: When does your brother play tennis?
+đáp án:: c
+giải thích:: "Twice a week" biểu đạt Tần suất (Frequency). Trạng từ nghi vấn bắt buộc là "How often". Cần đảo trợ động từ "does" lên trước chủ ngữ "your brother".
+---
+loại:: mot_dap_an
+câu 117:: Choose the correct Wh-question: "Columbus discovered America _in 1492_."
+a:: Where did Columbus discover America?
+b:: What time did Columbus discover America?
+c:: When did Columbus discover America?
+d:: Who discovered America in 1492?
+đáp án:: c
+giải thích:: "in 1492" là mốc thời gian trong quá khứ. Từ để hỏi là "When". Bắt buộc sử dụng trợ động từ "did" và động từ chính "discover" đưa về nguyên mẫu.
+---
+loại:: mot_dap_an
+câu 118:: Find the syntactical error: This (A) book is my (B), and (C) that one is hers (D).
+a:: This
+b:: my
+c:: and
+d:: hers
+đáp án:: b
+giải thích:: Lỗi hình thái: Tính từ sở hữu "my" không thể đứng độc lập ở cuối mệnh đề mà không có danh từ. Phải sửa thành đại từ sở hữu "mine".
+---
+loại:: mot_dap_an
+câu 119:: Choose the best answer: The children are playing _______ in the garden.
+a:: happy
+b:: happily
+c:: happiness
+d:: happier
+đáp án:: b
+giải thích:: Phân tích Cú pháp học (Syntax): Động từ thường "play" cần một Trạng từ (Adverb) bổ nghĩa để chỉ cách thức hành động. "Happily" là đáp án chính xác.
+---
+loại:: mot_dap_an
+câu 120:: Choose the best answer: My dog is very smart. _______ name is Max.
+a:: It
+b:: It's
+c:: Its
+d:: Their
+đáp án:: c
+giải thích:: Cần tính từ sở hữu đứng trước danh từ "name". Tính từ sở hữu của danh từ chỉ động vật số ít "My dog" là "Its" (không có dấu phẩy trên).
+---
+loại:: sap_xep
+câu 121:: Arrange the words to form a correct Wh-question:
+muc:: (1) time
+muc:: (2) what
+muc:: (3) start
+muc:: (4) does
+muc:: (5) the
+muc:: (6) news
+giải thích:: Cú pháp chuẩn của câu nghi vấn: Wh-word + Auxiliary Verb + Subject + Main Verb? -> What time does the news start?
+---
+loại:: sap_xep
+câu 122:: Arrange the words to form a correct sentence:
+muc:: (1) match
+muc:: (2) we
+muc:: (3) won
+muc:: (4) yesterday
+muc:: (5) the
+muc:: (6) football
+giải thích:: Cú pháp chuẩn: Subject + Verb + Object + Time Adverb. -> We won the football match yesterday.
+---
+loại:: mot_dap_an
+câu 123:: Choose the best answer: I'd like to visit London _______ it has many historic buildings.
+a:: so
+b:: because
+c:: but
+d:: and
+đáp án:: b
+giải thích:: Mệnh đề sau (nhiều tòa nhà lịch sử) giải thích lý do cho mệnh đề trước (muốn thăm London). Liên từ chỉ lý do "because" là bắt buộc.
+---
+loại:: mot_dap_an
+câu 124:: Choose the best answer: John ______ a letter to his pen pal two days ago.
+a:: writes
+b:: wrote
+c:: writed
+d:: written
+đáp án:: b
+giải thích:: Trạng ngữ "two days ago" yêu cầu Quá khứ đơn. Động từ bất quy tắc "write" -> "wrote". Bẫy "writed" tiếp tục kiểm tra lỗi khái quát hóa quá mức.
+---
+loại:: mot_dap_an
+câu 125:: Choose the best answer: We didn't ______ any photos because it ______ too dark.
+a:: took / is
+b:: take / was
+c:: took / was
+d:: take / is
+đáp án:: b
+giải thích:: Cú pháp đa tầng: Vế 1 có trợ động từ "didn't" -> động từ chính nguyên mẫu "take". Vế 2 đồng bộ thì quá khứ của động từ "to be" -> "was".
+---
+loại:: phan_loai
+câu 126:: Categorize the following words into the correct word classes:
+nhom:: (A) Nouns (Danh từ)
+nhom:: (B) Adjectives (Tính từ)
+the:: equipment
+the:: healthy
+the:: landmark
+the:: famous
+the:: comedy
+đáp án:: equipment::1
+đáp án:: healthy::2
+đáp án:: landmark::1
+đáp án:: famous::2
+đáp án:: comedy::1
+giải thích:: Nền tảng Hình thái học (Morphology): Nhận diện loại từ (Parts of Speech) là kỹ năng cốt lõi để xây dựng câu đúng ngữ pháp. Các hậu tố -ment thường là danh từ, đuôi -ous, -y (từ gốc health) thường là tính từ.
+---
+loại:: mot_dap_an
+câu 127:: Choose the best answer: Which city is the ______ of Japan? - It's Tokyo.
+a:: country
+b:: continent
+c:: capital
+d:: square
+đáp án:: c
+giải thích:: Ngữ nghĩa học: Tokyo giữ vai trò thủ đô hành chính của Nhật Bản. Từ vựng chuyên ngành là "capital".
+---
+loại:: mot_dap_an
+câu 128:: Choose the best answer: The sign says "No Parking". You ______ leave your car here.
+a:: must
+b:: can
+c:: mustn't
+d:: should
+đáp án:: c
+giải thích:: Phân tích Biển báo & Động từ khiếm khuyết (Modals): Lệnh cấm "No Parking" tương đương với sự ngăn cấm tuyệt đối bằng luật lệ, động từ khiếm khuyết chuẩn xác nhất là "mustn't" (không được phép).
+---
+loại:: mot_dap_an
+câu 129:: Find the syntactical error: She (A) bought a new dress (B), so (C) she didn't like it (D).
+a:: bought
+b:: a new
+c:: so
+d:: didn't like
+đáp án:: c
+giải thích:: Lỗi Logic (Logical Fallacy). Hành động "mua váy mới" và thái độ "không thích nó" có tính chất đối lập/nhượng bộ. Phải dùng liên từ "but" (nhưng) thay vì "so" (vì vậy).
+---
+loại:: mot_dap_an
+câu 130:: Choose the correct Wh-question: "They watched an action movie _last night_."
+a:: What did they watch last night?
+b:: When did they watch an action movie?
+c:: Where did they watch an action movie?
+d:: Why did they watch an action movie?
+đáp án:: b
+giải thích:: Phần được gạch chân "last night" là trạng từ chỉ thời gian trong quá khứ. Cấu trúc câu hỏi thời gian: When + did + S + V(nguyên mẫu).
+---
+loại:: mot_dap_an
+câu 131:: Choose the correct sentence:
+a:: My pencil is broken. Can I borrow your?
+b:: My pencil is broken. Can I borrow yours pencil?
+c:: My pencil is broken. Can I borrow yours?
+d:: My pencil is broken. Can I borrow you?
+đáp án:: c
+giải thích:: Cú pháp: Cần một đại từ sở hữu đứng độc lập làm tân ngữ thay thế cho "your pencil". "Yours" là đáp án duy nhất đúng chuẩn ngữ pháp hàn lâm.
+---
+loại:: mot_dap_an
+câu 132:: Choose the best answer: I have two brothers. ______ names are Tom and Jerry.
+a:: Their
+b:: Theirs
+c:: They
+d:: Our
+đáp án:: a
+giải thích:: Tính từ sở hữu "Their" đứng trước danh từ số nhiều "names" để xác định quyền sở hữu của ngôi thứ ba số nhiều (two brothers).
+---
+loại:: mot_dap_an
+câu 133:: Choose the best answer: Did she ______ the homework? - No, she ______.
+a:: did / didn't
+b:: do / didn't
+c:: does / don't
+d:: do / doesn't
+đáp án:: b
+giải thích:: Quá khứ đơn: Câu hỏi Yes/No bắt đầu bằng "Did" -> động từ chính nguyên mẫu "do". Trả lời phủ định ngắn gọn trong quá khứ -> "didn't".
+---
+loại:: mot_dap_an
+câu 134:: Choose the best answer: He wants to pass the exam, ______ he doesn't study at all.
+a:: so
+b:: because
+c:: but
+d:: or
+đáp án:: c
+giải thích:: Sự tương phản (Contrast) giữa ý muốn (muốn đậu) và hành động thực tế (không học). Liên từ "but" là bắt buộc.
+---
+loại:: mot_dap_an
+câu 135:: Choose the best answer: A _______ is a person who reads the news on television or radio.
+a:: viewer
+b:: newsreader
+c:: comedian
+d:: producer
+đáp án:: b
+giải thích:: Định nghĩa từ vựng (Lexical Definition): Dựa vào chức năng "reads the news", danh từ chỉ nghề nghiệp chuyên ngành là "newsreader" (phát thanh viên/người đọc tin tức).
+---
+loại:: mot_dap_an
+câu 136:: Find the error: They didn't (A) went (B) to the cinema (C) yesterday evening (D).
+a:: didn't
+b:: went
+c:: to the cinema
+d:: yesterday evening
+đáp án:: b
+giải thích:: Lỗi hình thái kép thì quá khứ. Sau "didn't" động từ phải là nguyên thể "go".
+---
+loại:: mot_dap_an
+câu 137:: Choose the best answer: Is this your jacket? - No, ______ is the black one.
+a:: my
+b:: I
+c:: mine
+d:: me
+đáp án:: c
+giải thích:: Cần một chủ ngữ cho mệnh đề sau. Thay vì nói "My jacket is...", dùng đại từ sở hữu "Mine is..." để đảm bảo tính súc tích và mạch lạc (Cohesion) của diễn ngôn.
+---
+loại:: mot_dap_an
+câu 138:: Choose the correct Wh-question: "She goes to the gym _to keep fit_."
+a:: Where does she go to the gym?
+b:: Why does she go to the gym?
+c:: What does she go to the gym?
+d:: How does she go to the gym?
+đáp án:: b
+giải thích:: Cụm động từ nguyên mẫu có "to" (to-infinitive phrase) mang chức năng chỉ mục đích (Purpose). Từ để hỏi chỉ mục đích/lý do là "Why".
+---
+loại:: mot_dap_an
+câu 139:: Choose the best answer: We watched a very funny ______ on TV last night.
+a:: documentary
+b:: news
+c:: comedy
+d:: weather forecast
+đáp án:: c
+giải thích:: Suy luận ngữ cảnh: Tính từ "funny" (hài hước) là tín hiệu (context clue) chỉ điểm thể loại chương trình là "comedy" (hài kịch).
+---
+loại:: mot_dap_an
+câu 140:: Choose the best answer: ______ do you play sports? - At the stadium.
+a:: When
+b:: Where
+c:: Why
+d:: How
+đáp án:: b
+giải thích:: Câu trả lời "At the stadium" (sân vận động) cung cấp thông tin về không gian/địa điểm. Trạng từ nghi vấn bắt buộc là "Where".
+---
+loại:: mot_dap_an
+câu 141:: Choose the word whose underlined part is pronounced differently: Ma_th_ematics, _Th_eme, O_th_er, _Th_ick.
+a:: Mathematics
+b:: Theme
+c:: Other
+d:: Thick
+đáp án:: c
+giải thích:: Âm vị học: "Other" có âm /ð/ vô cùng phổ biến nhưng học sinh dễ nhầm. Các từ còn lại chứa âm vô thanh /θ/.
+---
+loại:: mot_dap_an
+câu 142:: Which word is stressed differently from the others?
+a:: volunteer
+b:: engineer
+c:: referee
+d:: passenger
+đáp án:: d
+giải thích:: Quy tắc trọng âm: Các hậu tố -eer, -ee thường nhận trọng âm chính (nhấn âm 3). "Passenger" là danh từ 3 âm tiết nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 143:: Rewrite the sentence: "Because it rained heavily, we cancelled the match."
+a:: It rained heavily, so we cancelled the match.
+b:: We cancelled the match so it rained heavily.
+c:: It rained heavily, but we cancelled the match.
+d:: It rained heavily because we cancelled the match.
+đáp án:: a
+giải thích:: Chuyển đổi Logic: Nguyên nhân -> "so" -> Kết quả. "Trời mưa to nên chúng tôi hủy trận đấu".
+---
+loại:: mot_dap_an
+câu 144:: Choose the best answer: My brother likes watching football, ______ my sister prefers cartoons.
+a:: so
+b:: and
+c:: but
+d:: or
+đáp án:: c
+giải thích:: Mối quan hệ tương phản (Contrast) về sở thích giữa hai chủ thể (anh trai và em gái). Dùng liên từ "but".
+---
+loại:: mot_dap_an
+câu 145:: Choose the best answer: A TV ______ provides viewers with information about events happening around the world.
+a:: comedy
+b:: game show
+c:: news programme
+d:: sports programme
+đáp án:: c
+giải thích:: Ngữ nghĩa học: Chức năng cung cấp thông tin sự kiện thế giới (information about events) là đặc trưng của "news programme" (chương trình thời sự).
+---
+loại:: mot_dap_an
+câu 146:: Find the error: This (A) is her (B) pen, not (C) your (D).
+a:: This
+b:: her
+c:: not
+d:: your
+đáp án:: d
+giải thích:: Lỗi hình thái đại từ: Tính từ sở hữu "your" không thể đứng một mình. Phải dùng đại từ sở hữu "yours" để mang nghĩa "của bạn" ở cuối câu.
+---
+loại:: mot_dap_an
+câu 147:: Choose the best answer: What is the ______ of this mountain? - It's about 3,143 meters.
+a:: length
+b:: height
+c:: width
+d:: heavy
+đáp án:: b
+giải thích:: Đại lượng đo lường vật lý: Đơn vị "meters" kết hợp với đối tượng "mountain" (ngọn núi) dùng để chỉ cao độ. Danh từ chính xác là "height" (chiều cao).
+---
+loại:: mot_dap_an
+câu 148:: Choose the best answer: You must ______ an umbrella. It is raining.
+a:: taking
+b:: to take
+c:: takes
+d:: take
+đáp án:: d
+giải thích:: Cú pháp Động từ khiếm khuyết: Sau "must" (bắt buộc), động từ chính tuyệt đối phải ở dạng nguyên thể không "to".
+---
+loại:: mot_dap_an
+câu 149:: Choose the correct Wh-question: "I felt _tired_ after the long journey."
+a:: How did you feel after the long journey?
+b:: What did you feel after the long journey?
+c:: Why did you feel after the long journey?
+d:: Where did you feel after the long journey?
+đáp án:: a
+giải thích:: "tired" là tính từ chỉ trạng thái thể chất/cảm xúc. Truy vấn trạng thái sử dụng trạng từ nghi vấn "How" kết hợp trợ động từ "did".
+---
+loại:: mot_dap_an
+câu 150:: Choose the best answer: My mother ______ English when she was a university student.
+a:: studies
+b:: study
+c:: studied
+d:: is studying
+đáp án:: c
+giải thích:: Mệnh đề phụ thời gian "when she was..." thiết lập khung thời gian tĩnh trong quá khứ. Động từ chính mệnh đề chính buộc phải chia ở Quá khứ đơn (studied) để đảm bảo tính đồng nhất (Tense Consistency).
+---
+
+loại:: mot_dap_an
+câu 151:: Which of the following describes a "landmark"?
+a:: A small house in the countryside.
+b:: A building or place that is easily recognized.
+c:: A person who works in a museum.
+d:: A type of sport played in winter.
+đáp án:: b
+giải thích:: Theo nghĩa chuyên ngành (Terminology), "landmark" là công trình hoặc địa điểm mang tính biểu tượng, dễ dàng nhận diện[cite: 369, 481].
+---
+loại:: mot_dap_an
+câu 152:: Although the weather was bad, they decided to go swimming. (Choose the sentence with the same meaning)
+a:: The weather was bad, so they decided to go swimming.
+b:: The weather was bad, but they decided to go swimming.
+c:: They decided to go swimming because the weather was bad.
+d:: The weather was bad, and they decided to go swimming.
+đáp án:: b
+giải thích:: Liên từ "although" (mặc dù) và "but" (nhưng) đều dùng để diễn đạt sự tương phản (Contrast)[cite: 374, 446].
+---
+loại:: mot_dap_an
+câu 153:: Choose the word with a different stress pattern: de-li-ci-ous, fa-mi-li-ar, e-ner-ge-tic, con-ve-nient.
+a:: delicious
+b:: familiar
+c:: energetic
+d:: convenient
+đáp án:: c
+giải thích:: "Energetic" nhấn âm 3 (/ˌenərˈdʒetɪk/). Các từ còn lại đều nhấn âm 2[cite: 414, 422].
+---
+loại:: mot_dap_an
+câu 154:: My brother is a ______. He produces movies and television shows.
+a:: weatherman
+b:: producer
+c:: actor
+d:: viewer
+đáp án:: b
+giải thích:: Dựa trên định nghĩa công việc "produces movies" (sản xuất phim), từ vựng chính xác là "producer"[cite: 369, 483].
+---
+loại:: mot_dap_an
+câu 155:: What is the past form of the verb "draw"?
+a:: drawed
+b:: drawn
+c:: drew
+d:: draws
+đáp án:: c
+giải thích:: "Draw" là động từ bất quy tắc (Irregular verb). Dạng quá khứ đơn (Past Simple) là "drew"[cite: 368, 429].
+---
+loại:: mot_dap_an
+câu 156:: Correct the error: She (A) didn't (B) went to the (C) cinema (D) last night.
+a:: She
+b:: didn't
+c:: went
+d:: cinema
+đáp án:: c
+giải thích:: Lỗi lặp vĩ tố quá khứ (Double marking). Sau trợ động từ "didn't", động từ chính phải ở dạng nguyên mẫu "go"[cite: 589].
+---
+loại:: mot_dap_an
+câu 157:: "____ do you like the comedy show?" - "Because it's very funny."
+a:: What
+b:: Why
+c:: How
+d:: When
+đáp án:: b
+giải thích:: Câu trả lời bắt đầu bằng "Because" (chỉ nguyên nhân), do đó từ để hỏi bắt buộc phải là "Why"[cite: 437, 696].
+---
+loại:: mot_dap_an
+câu 158:: This is my pen, and that one is ____. (Use a Possessive Pronoun)
+a:: your
+b:: you
+c:: yours
+d:: you're
+đáp án:: c
+giải thích:: Sử dụng đại từ sở hữu "yours" để thay thế cho "your pen", tránh lặp từ và đóng vai trò bổ ngữ đứng độc lập[cite: 440, 586].
+---
+loại:: mot_dap_an
+câu 159:: Which sign tells you that you CANNOT take pictures? <br> <div style="display: flex; justify-content: center;"><svg width="200" height="100" viewBox="0 0 200 100"><circle cx="50" cy="50" r="40" fill="none" stroke="red" stroke-width="4"/><path d="M 30 50 L 70 50 M 50 30 L 50 70" stroke="red" stroke-width="4"/><circle cx="150" cy="50" r="40" fill="none" stroke="red" stroke-width="4"/><line x1="125" y1="25" x2="175" y2="75" stroke="red" stroke-width="4"/><rect x="135" y="45" width="30" height="20" fill="black"/></svg></div>
+a:: The first one.
+b:: The second one.
+c:: Both are correct.
+d:: None are correct.
+đáp án:: b
+giải thích:: Ký hiệu vòng tròn đỏ gạch chéo máy ảnh là biển báo "No photos" (Cấm chụp ảnh)[cite: 467, 589].
+---
+loại:: mot_dap_an
+câu 160:: Sydney is famous for Bondi Beach. (Identify the adjective)
+a:: Sydney
+b:: famous
+c:: Bondi
+d:: Beach
+đáp án:: b
+giải thích:: "Famous" (nổi tiếng) là tính từ mô tả đặc tính của chủ ngữ[cite: 368, 516].
+---
+loại:: mot_dap_an
+câu 161:: He was tired, ____ he went to bed early.
+a:: but
+b:: because
+c:: so
+d:: although
+đáp án:: c
+giải thích:: Mối quan hệ nguyên nhân (mệt) và hệ quả (đi ngủ sớm) yêu cầu liên từ "so"[cite: 426, 606].
+---
+loại:: mot_dap_an
+câu 162:: Which word has the /ð/ sound?
+a:: Theatre
+b:: Thursday
+c:: Thousand
+d:: There
+đáp án:: d
+giải thích:: "There" phát âm là /ð/ (âm hữu thanh). Ba từ còn lại phát âm là /θ/ (âm vô thanh)[cite: 383, 387].
+---
+loại:: mot_dap_an
+câu 163:: "How ____ do you go to the gym?" - "Three times a week."
+a:: often
+b:: much
+c:: many
+d:: long
+đáp án:: a
+giải thích:: "Three times a week" chỉ tần suất, dùng cấu trúc "How often"[cite: 443, 668].
+---
+loại:: mot_dap_an
+câu 164:: They (A) won (B) the match (C) because (D) they played badly.
+a:: won
+b:: the match
+c:: because
+d:: badly
+đáp án:: c
+giải thích:: Lỗi logic (Semantic error). Không thể "thắng" vì "chơi tệ". Phải dùng "although" hoặc đổi vế sau[cite: 582].
+---
+loại:: mot_dap_an
+câu 165:: In the future, I want to live by the ____ because I love surfing.
+a:: mountains
+b:: sea
+c:: city
+d:: forest
+đáp án:: b
+giải thích:: "Surfing" (lướt sóng) chỉ có thể thực hiện ở biển (sea)[cite: 488, 518].
+---
+loại:: mot_dap_an
+câu 166:: What is the stress pattern of "adventure"?
+a:: ooo (1st syllable)
+b:: Ooo (2nd syllable)
+c:: ooO (3rd syllable)
+d:: None of the above.
+đáp án:: b
+giải thích:: "Adventure" nhấn âm 2 (ad-VEN-ture)[cite: 414, 422].
+---
+loại:: mot_dap_an
+câu 167:: We (A) visited (B) the museum (C) on (D) 2024.
+a:: visited
+b:: the museum
+c:: on
+d:: 2024
+đáp án:: c
+giải thích:: Trước năm (Year) phải dùng giới từ "in", không dùng "on" (dùng cho ngày/thứ)[cite: 371, 453].
+---
+loại:: mot_dap_an
+câu 168:: Choose the correct sentence:
+a:: This book is mine, but that book is her.
+b:: This book is my, but that book is hers.
+c:: This book is mine, but that book is hers.
+d:: This book is mine, but that book is she.
+đáp án:: c
+giải thích:: Sử dụng đúng các đại từ sở hữu "mine" và "hers" đứng độc lập[cite: 440, 600].
+---
+loại:: mot_dap_an
+câu 169:: A ______ makes people laugh by telling jokes on TV.
+a:: weatherman
+b:: comedian
+c:: producer
+d:: newsreader
+đáp án:: b
+giải thích:: "Comedian" (diễn viên hài) có chức năng gây cười (make people laugh)[cite: 493].
+---
+loại:: mot_dap_an
+câu 170:: "____ did you see at the party?" - "I saw my old friends."
+a:: What
+b:: Where
+c:: Who
+d:: Why
+đáp án:: c
+giải thích:: Câu trả lời chỉ người (my old friends), dùng từ để hỏi "Who"[cite: 437, 701].
+---
+loại:: mot_dap_an
+câu 171:: Choose the word with /θ/ sound:
+a:: Mother
+b:: Weather
+c:: Tooth
+d:: Then
+đáp án:: c
+giải thích:: "Tooth" kết thúc bằng âm vô thanh /θ/. Các từ còn lại chứa âm /ð/[cite: 383, 389].
+---
+loại:: mot_dap_an
+câu 172:: Yesterday, they ____ (not / go) to the park because of the rain.
+a:: don't go
+b:: didn't go
+c:: didn't went
+d:: wasn't go
+đáp án:: b
+giải thích:: Phủ định thì Quá khứ đơn: didn't + V(nguyên mẫu)[cite: 589].
+---
+loại:: mot_dap_an
+câu 173:: The movie was very long, ____ it was interesting.
+a:: so
+b:: and
+c:: but
+d:: because
+đáp án:: c
+giải thích:: Liên từ "but" nối hai đặc điểm mang tính bổ sung nhưng có sắc thái đối lập (dài nhưng hay)[cite: 614, 626].
+---
+loại:: mot_dap_an
+câu 174:: Choose the word with a different stress: uni-ver-si-ty, e-du-ca-tion, in-for-ma-tion, con-clu-sion.
+a:: university
+b:: education
+c:: information
+d:: conclusion
+đáp án:: d
+giải thích:: "Conclusion" nhấn âm 2. Ba từ còn lại đều nhấn âm 3 (trước các đuôi -ity, -tion)[cite: 422].
+---
+loại:: mot_dap_an
+câu 175:: "____ is your favorite hobby?" - "I like playing chess."
+a:: Who
+b:: What
+c:: Where
+d:: How
+đáp án:: b
+giải thích:: "Playing chess" là một hoạt động/sự vật, dùng từ hỏi "What"[cite: 683, 701].
+---
+loại:: mot_dap_an
+câu 176:: Cairo is the ____ of Egypt.
+a:: city
+b:: village
+c:: capital
+d:: island
+đáp án:: c
+giải thích:: Kiến thức địa lý: Cairo là thủ đô (capital) của Ai Cập[cite: 146, 548].
+---
+loại:: mot_dap_an
+câu 177:: Choose the correct past form: "He ____ (buy) a new bike two days ago."
+a:: buyed
+b:: buys
+c:: bought
+d:: buying
+đáp án:: c
+giải thích:: Quá khứ của "buy" là "bought"[cite: 463].
+---
+loại:: mot_dap_an
+câu 178:: Which of these is a "TV channel"?
+a:: VTV3
+b:: A remote control
+c:: A television set
+d:: A newsreader
+đáp án:: a
+giải thích:: VTV3 là tên một kênh truyền hình (TV channel)[cite: 490].
+---
+loại:: mot_dap_an
+câu 179:: Rewrite: "This bag belongs to her."
+a:: This bag is her.
+b:: This is hers bag.
+c:: This bag is hers.
+d:: She is this bag.
+đáp án:: c
+giải thích:: Cấu trúc "belong to" chuyển sang đại từ sở hữu "hers" đứng độc lập[cite: 638].
+---
+loại:: mot_dap_an
+câu 180:: Find the error: I (A) often (B) plays (C) soccer (D) on Sundays.
+a:: often
+b:: plays
+c:: soccer
+d:: on Sundays
+đáp án:: b
+giải thích:: Lỗi hòa hợp chủ - vị (Subject-Verb Agreement). Chủ ngữ "I" động từ phải giữ nguyên mẫu "play"[cite: 701].
+---
+loại:: mot_dap_an
+câu 181:: What does the sign "Turn left" look like?
+a:: An arrow pointing right in a red circle.
+b:: An arrow pointing left in a red circle.
+c:: A cigarette with a red line through it.
+d:: A camera with a red line through it.
+đáp án:: b
+giải thích:: Biển báo rẽ trái (Turn left) có hình mũi tên chỉ sang trái[cite: 469].
+---
+loại:: mot_dap_an
+câu 182:: Which word is a synonym of "fun"?
+a:: boring
+b:: exciting
+c:: difficult
+d:: expensive
+đáp án:: b
+giải thích:: Trong ngữ cảnh thể thao, "fun" (vui) gần nghĩa với "exciting" (thú vị)[cite: 537, 556].
+---
+loại:: mot_dap_an
+câu 183:: She (A) speaks (B) English (C) because (D) she lives in England.
+a:: speaks
+b:: English
+c:: because
+d:: No error
+đáp án:: d
+giải thích:: Câu đúng ngữ pháp và logic (Sống ở Anh là lý do cô ấy nói tiếng Anh)[cite: 696].
+---
+loại:: mot_dap_an
+câu 184:: Choose the word with different stress: student, doctor, advice, kitchen.
+a:: student
+b:: doctor
+c:: advice
+d:: kitchen
+đáp án:: c
+giải thích:: "Advice" nhấn âm 2. Các danh từ 2 âm tiết còn lại nhấn âm 1[cite: 424].
+---
+loại:: mot_dap_an
+câu 185:: "Whose book is this?" - "It's ____." (belonging to me)
+a:: my
+b:: mine
+c:: me
+d:: I
+đáp án:: b
+giải thích:: Dùng đại từ sở hữu "mine" để trả lời cho câu hỏi "Whose"[cite: 440].
+---
+loại:: mot_dap_an
+câu 186:: My mother (A) is (B) an (C) accountant (D). (Find the error)
+a:: is
+b:: an
+c:: accountant
+d:: No error
+đáp án:: d
+giải thích:: Câu đúng cấu trúc giới thiệu nghề nghiệp.
+---
+loại:: mot_dap_an
+câu 187:: Choose the word with /ð/ sound:
+a:: Think
+b:: Thin
+c:: Though
+d:: Thought
+đáp án:: c
+giải thích:: "Though" (mặc dù) phát âm là /ð/. Ba từ còn lại phát âm là /θ/[cite: 383, 395].
+---
+loại:: mot_dap_an
+câu 188:: Last week, we ____ (win) the first prize in the chess competition.
+a:: win
+b:: winned
+c:: won
+d:: winning
+đáp án:: c
+giải thích:: Quá khứ của "win" là "won"[cite: 454].
+---
+loại:: mot_dap_an
+câu 189:: We should do morning exercise to stay ____.
+a:: fit
+b:: fat
+c:: tired
+d:: lazy
+đáp án:: a
+giải thích:: "Fit" (khỏe mạnh, cân đối) là mục đích của việc tập thể dục[cite: 498].
+---
+loại:: mot_dap_an
+câu 190:: "____ do you usually have lunch?" - "At 12 o'clock."
+a:: Where
+b:: What time
+c:: Why
+d:: How
+đáp án:: b
+giải thích:: Câu trả lời chỉ giờ cụ thể, dùng từ hỏi "What time"[cite: 692].
+---
+loại:: mot_dap_an
+câu 191:: Sydney Opera House is a modern ____.
+a:: restaurant
+b:: building
+c:: mountain
+d:: beach
+đáp án:: b
+giải thích:: Sydney Opera House là một công trình kiến trúc (building)[cite: 506].
+---
+loại:: mot_dap_an
+câu 192:: Rewrite: "My lunch was noodles. Your lunch was rice."
+a:: My lunch was noodles and yours was rice.
+b:: Mine lunch was noodles and your was rice.
+c:: My lunch was noodles and your was rice.
+d:: My lunch was noodles and yours lunch was rice.
+đáp án:: a
+giải thích:: Sử dụng đại từ sở hữu "yours" để tránh lặp lại "your lunch"[cite: 655].
+---
+loại:: mot_dap_an
+câu 193:: Find the error: He (A) rides (B) his bike (C) to school (D) yesterday.
+a:: rides
+b:: his bike
+c:: to school
+d:: yesterday
+đáp án:: a
+giải thích:: "Yesterday" yêu cầu thì quá khứ đơn "rode"[cite: 435].
+---
+loại:: mot_dap_an
+câu 194:: Which word is stressed on the first syllable?
+a:: important
+b:: beautiful
+c:: attraction
+d:: computer
+đáp án:: b
+giải thích:: "Beautiful" nhấn âm 1. Ba từ còn lại nhấn âm 2[cite: 414, 418].
+---
+loại:: mot_dap_an
+câu 15:: "____ is your favorite teacher?" - "It's Mr. Brown."
+a:: What
+b:: Who
+c:: Which
+d:: Where
+đáp án:: b
+giải thích:: Câu hỏi về người dùng "Who"[cite: 701].
+---
+loại:: mot_dap_an
+câu 196:: Choose the word with different /th/ sound:
+a:: Thank
+b:: Third
+c:: These
+d:: Thought
+đáp án:: c
+giải thích:: "These" /ð/, các từ còn lại /θ/[cite: 383, 408].
+---
+loại:: mot_dap_an
+câu 197:: Ben Thanh Market is in ____.
+a:: Ha Noi
+b:: Ho Chi Minh City
+c:: Da Nang
+d:: Hue
+đáp án:: b
+giải thích:: Chợ Bến Thành nằm ở TP.HCM[cite: 481].
+---
+loại:: mot_dap_an
+câu 198:: He (A) is (B) very (C) smart (D). (Find the error)
+a:: is
+b:: very
+c:: smart
+d:: No error
+đáp án:: d
+giải thích:: Câu đúng cấu trúc miêu tả tính cách[cite: 368].
+---
+loại:: mot_dap_an
+câu 199:: "____ are you late?" - "Because I missed the bus."
+a:: When
+b:: How
+c:: Why
+d:: Where
+đáp án:: c
+giải thích:: Hỏi lý do dùng "Why"[cite: 696].
+---
+loại:: mot_dap_an
+câu 200:: What is the stress pattern of "calculate"?
+a:: Ooo (1st)
+b:: oOo (2nd)
+c:: ooO (3rd)
+d:: Oooo (1st)
+đáp án:: a
+giải thích:: Động từ đuôi -ate từ 3 âm tiết trở lên nhấn âm 1[cite: 416].
+---
+
+
+loại:: mot_dap_an
+câu 201:: Which word contains the voiced dental fricative /ð/?
+a:: Earth
+b:: Math
+c:: Breathe
+d:: Mouth
+đáp án:: c
+giải thích:: Trong từ "Breathe" (động từ), đuôi -the phát âm là âm hữu thanh /ð/. Các danh từ Earth, Math, Mouth đều kết thúc bằng âm vô thanh /θ/.
+---
+loại:: mot_dap_an
+câu 202:: Identify the word with the different stress pattern: op-por-tu-ni-ty, en-vi-ron-men-tal, ad-van-ta-geous, ge-ne-ro-si-ty.
+a:: opportunity
+b:: environmental
+c:: advantageous
+d:: generosity
+đáp án:: b
+giải thích:: "Environmental" nhấn âm 4. Các từ còn lại nhấn âm 3 (quy tắc trước đuôi -ity và -ous).
+---
+loại:: mot_dap_an
+câu 203:: Find the error: The ISS (A) (International Space Station) (B) orbits (C) the Earth in (D) 1998.
+a:: ISS
+b:: Station
+c:: orbits
+d:: in
+đáp án:: c
+giải thích:: Mốc thời gian "1998" đã qua, yêu cầu thì Quá khứ đơn. Phải sửa "orbits" thành "orbited".
+---
+loại:: mot_dap_an
+câu 204:: "Whose tech-neck fanpage is this?" - "It belongs to Woody. It's ____."
+a:: he
+b:: him
+c:: his
+d:: he's
+đáp án:: c
+giải thích:: Đại từ sở hữu "his" thay thế cho "Woody's fanpage".
+---
+loại:: mot_dap_an
+câu 205:: A "landmark" is to a "city" as a "star" is to a "____".
+a:: planet
+b:: universe
+c:: galaxy
+d:: sky
+đáp án:: c
+giải thích:: Tư duy logic (Analogy): Landmark là thành phần đặc trưng của thành phố, tương tự Star là thành phần đặc trưng của thiên hà (galaxy).
+---
+loại:: mot_dap_an
+câu 206:: Why is physical therapy important for people with "tech-neck"?
+a:: Because it helps them play more video games.
+b:: Because it improves their joint health and posture.
+c:: Because it makes them run faster.
+d:: Because it helps them sleep all day.
+đáp án:: b
+giải thích:: Tech-neck liên quan đến tư thế cổ, do đó vật lý trị liệu giúp cải thiện sức khỏe khớp và tư thế.
+---
+loại:: mot_dap_an
+câu 207:: Choose the correct sentence for a 30-day strategy to gain followers:
+a:: Posting high-quality content regularly, so your followers will increase.
+b:: Post high-quality content regularly, and your followers will increase.
+c:: If you post high-quality content, but your followers will increase.
+d:: Because you post high-quality content, so your followers increase.
+đáp án:: b
+giải thích:: Cấu trúc câu mệnh lệnh kết hợp "and" để chỉ kết quả tất yếu.
+---
+loại:: mot_dap_an
+câu 208:: What does a "weatherman" use to predict the weather?
+a:: A camera
+b:: A microphone
+c:: Satellite data and maps
+d:: A musical instrument
+đáp án:: c
+giải thích:: Người dự báo thời tiết dựa trên dữ liệu vệ tinh và bản đồ để đưa ra phân tích chính xác.
+---
+loại:: mot_dap_an
+câu 209:: Although he is only 12, Woody hill aims for IELTS 8.5. This means:
+a:: He is too young to take the test.
+b:: He has very high academic goals.
+c:: He only likes playing games.
+d:: He wants to be an accountant like his mom.
+đáp án:: b
+giải thích:: IELTS 8.5 là mức điểm cực cao, thể hiện mục tiêu học thuật xuất sắc của Woody.
+---
+loại:: mot_dap_an
+câu 210:: Which of the following is an "educational" TV programme?
+a:: Tom and Jerry
+b:: National Geographic
+c:: A comedy show
+d:: A fashion show
+đáp án:: b
+giải thích:: National Geographic cung cấp kiến thức khoa học, tự nhiên nên thuộc loại hình giáo dục (educational).
+---
+loại:: mot_dap_an
+câu 211:: Choose the word with a different stress pattern: par-ti-ci-pate, en-cou-rage-ment, tech-no-lo-gy, con-tri-bu-tion.
+a:: participate
+b:: encouragement
+c:: technology
+d:: contribution
+đáp án:: d
+giải thích:: "Contribution" nhấn âm 3. Các từ còn lại nhấn âm 2.
+---
+loại:: mot_dap_an
+câu 212:: Find the error: Last week, Beny (A) and (B) Woody (C) visits (D) the COVID-19 memorial.
+a:: Last week
+b:: and
+c:: Woody
+d:: visits
+đáp án:: d
+giải thích:: "Last week" yêu cầu quá khứ đơn "visited".
+---
+loại:: mot_dap_an
+câu 213:: "How often do you post on your tech-neck fanpage?" - "____."
+a:: Since January
+b:: Every day
+c:: In Bien Hoa
+d:: With my father
+đáp án:: b
+giải thích:: "Every day" trả lời cho câu hỏi tần suất "How often".
+---
+loại:: mot_dap_an
+câu 214:: In the sentence "The cat played with its ball," what is the function of "its"?
+a:: Subject
+b:: Verb
+c:: Possessive Adjective
+d:: Possessive Pronoun
+đáp án:: c
+giải thích:: "Its" đứng trước danh từ "ball" để chỉ sự sở hữu.
+---
+loại:: mot_dap_an
+câu 215:: Which city is described as "big and exciting" with the Pyramids nearby?
+a:: Sydney
+b:: Cairo
+c:: Nha Trang
+d:: Bien Hoa
+đáp án:: b
+giải thích:: Dựa trên dữ liệu đọc hiểu về Cairo.
+---
+loại:: mot_dap_an
+câu 216:: Choose the word with the /ð/ sound:
+a:: Think
+b:: Through
+c:: Though
+d:: Thought
+đáp án:: c
+giải thích:: "Though" phát âm là /ð/. Các từ còn lại là /θ/.
+---
+loại:: mot_dap_an
+câu 217:: "____ did you go to Nha Trang?" - "By plane."
+a:: When
+b:: How
+c:: Why
+d:: Where
+đáp án:: b
+giải thích:: "By plane" chỉ phương tiện, dùng từ hỏi "How".
+---
+loại:: mot_dap_an
+câu 218:: Rewrite: "The house belongs to them."
+a:: The house is their.
+b:: That is theirs house.
+c:: The house is theirs.
+d:: They are the house.
+đáp án:: c
+giải thích:: Đại từ sở hữu "theirs" thay cho "their house".
+---
+loại:: mot_dap_an
+câu 219:: "Tom Gates" is my favorite book because it is very ____.
+a:: boring
+b:: humorous
+c:: difficult
+d:: sad
+đáp án:: b
+giải thích:: Tom Gates là bộ truyện hài hước (humorous).
+---
+loại:: mot_dap_an
+câu 220:: Find the error: Does (A) your (B) sister (C) likes (D) watching cartoons?
+a:: Does
+b:: your
+c:: sister
+d:: likes
+đáp án:: d
+giải thích:: Sau trợ động từ "Does", động từ chính phải là "like" nguyên mẫu.
+---
+
+
+loại:: mot_dap_an
+câu 251:: Isaac Newton ______ an apple fall from a tree and then discovered gravity.
+a:: see
+b:: saw
+c:: seen
+d:: seeing
+đáp án:: b
+giải thích:: Sự việc xảy ra trong quá khứ và đã kết thúc, dùng thì Quá khứ đơn (Past Simple). Bất quy tắc của "see" là "saw".
+---
+loại:: mot_dap_an
+câu 252:: The Earth ______ around the Sun. (Choose the scientific fact)
+a:: orbit
+b:: orbits
+c:: orbited
+d:: orbiting
+đáp án:: b
+giải thích:: Diễn tả một chân lý hiển nhiên/sự thật khoa học dùng thì Hiện tại đơn. Chủ ngữ số ít "The Earth" đi với động từ thêm "s".
+---
+loại:: mot_dap_an
+câu 253:: Which word has the /ð/ sound?
+a:: Theory
+b:: Therapy
+c:: Therefore
+d:: Thesis
+đáp án:: c
+giải thích:: "Therefore" (vì vậy) phát âm là /ð/. Các từ học thuật khác (Theory, Therapy, Thesis) phát âm là /θ/.
+---
+loại:: mot_dap_an
+câu 254:: Identify the word with a different stress pattern: bi-o-lo-gy, ge-o-gra-phy, pho-to-gra-phy, en-gi-neer.
+a:: biology
+b:: geography
+c:: photography
+d:: engineer
+đáp án:: d
+giải thích:: "Engineer" nhấn âm 3 (hậu tố -eer). Ba từ còn lại nhấn âm 2 (quy tắc đuôi -graphy, -logy).
+---
+loại:: mot_dap_an
+câu 255:: "____ did the first man land on the Moon?" - "In 1969."
+a:: Where
+b:: Why
+c:: When
+d:: How
+đáp án:: c
+giải thích:: Câu trả lời là mốc thời gian, dùng từ hỏi "When".
+---
+loại:: mot_dap_an
+câu 256:: We must reduce plastic waste, ______ it will pollute the oceans.
+a:: so
+b:: and
+c:: or
+d:: but
+đáp án:: c
+giải thích:: Liên từ "or" (nếu không thì) dùng để chỉ một hậu quả tiêu cực nếu hành động trước đó không thực hiện.
+---
+loại:: mot_dap_an
+câu 257:: This laptop is ____. I bought it for my research project.
+a:: my
+b:: mine
+c:: me
+d:: I
+đáp án:: b
+giải thích:: Đại từ sở hữu "mine" đứng độc lập thay thế cho "my laptop".
+---
+loại:: mot_dap_an
+câu 258:: Find the error: The (A) researchers (B) conducts (C) the experiment (D) yesterday.
+a:: The
+b:: researchers
+c:: conducts
+d:: experiment
+đáp án:: c
+giải thích:: "Yesterday" yêu cầu quá khứ đơn. Phải sửa thành "conducted".
+---
+loại:: mot_dap_an
+câu 259:: Which planet is famous for ______ rings?
+a:: it
+b:: its
+c:: it's
+d:: his
+đáp án:: b
+giải thích:: Tính từ sở hữu "its" (không phẩy) thay thế cho sự sở hữu của "planet".
+---
+loại:: mot_dap_an
+câu 260:: "Tech-neck" is a condition caused by ______ down at phones for too long.
+a:: look
+b:: looking
+c:: looked
+d:: looks
+đáp án:: b
+giải thích:: Sau giới từ "by" động từ để ở dạng V-ing.
+---
+loại:: mot_dap_an
+câu 261:: Rewrite: "The project belongs to Woody."
+a:: The project is Woody.
+b:: The project is Woody's.
+c:: Woody is the project.
+d:: Woody's project is he.
+đáp án:: b
+giải thích:: Dùng sở hữu cách (Possessive Case) để chỉ vật thuộc về ai.
+---
+loại:: mot_dap_an
+câu 262:: Which word is stressed on the third syllable?
+a:: information
+b:: calculation
+c:: generation
+d:: All are correct.
+đáp án:: d
+giải thích:: Các từ đuôi -tion đều nhấn vào âm tiết ngay trước nó (âm 3 trong các từ này).
+---
+loại:: mot_dap_an
+câu 263:: Although she was tired, she ______ the coding competition.
+a:: won
+b:: wins
+c:: win
+d:: winned
+đáp án:: a
+giải thích:: Logic câu kể quá khứ: Mặc dù mệt nhưng cô ấy đã thắng (won).
+---
+loại:: mot_dap_an
+câu 264:: "____ is your favorite scientist?" - "It's Albert Einstein."
+a:: What
+b:: Who
+c:: Which
+d:: Where
+đáp án:: b
+giải thích:: Hỏi về người dùng "Who".
+---
+loại:: mot_dap_an
+câu 265:: STEM stands for Science, Technology, Engineering, ______ Mathematics.
+a:: or
+b:: so
+c:: but
+d:: and
+đáp án:: d
+giải thích:: Liên từ "and" dùng để liệt kê thành phần cuối cùng trong một dãy.
+---
+loại:: mot_dap_an
+câu 266:: What does the sign mean? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="45" fill="none" stroke="red" stroke-width="5"/><path d="M 30 70 L 70 30 M 70 70 L 30 30" stroke="red" stroke-width="5"/></svg></div>
+a:: Danger
+b:: No entry
+c:: Turn left
+d:: No parking
+đáp án:: b
+giải thích:: Vòng tròn đỏ với dấu gạch ngang (hoặc chéo) thường là biển báo "No entry" (Cấm vào).
+---
+loại:: mot_dap_an
+câu 267:: Find the error: Woody (A) is (B) very (C) smartness (D).
+a:: is
+b:: very
+c:: smartness
+d:: No error
+đáp án:: c
+giải thích:: Sau trạng từ chỉ mức độ "very" phải là một tính từ (smart), không dùng danh từ (smartness).
+---
+loại:: mot_dap_an
+câu 268:: "____ do you go to the library?" - "Twice a month."
+a:: How many
+b:: How often
+c:: How long
+d:: How much
+đáp án:: b
+giải thích:: Hỏi tần suất dùng "How often".
+---
+loại:: mot_dap_an
+câu 269:: The Sydney Opera House ______ (open) in 1973.
+a:: opens
+b:: opened
+c:: opening
+d:: open
+đáp án:: b
+giải thích:: Sự kiện lịch sử dùng quá khứ đơn "opened".
+---
+loại:: mot_dap_an
+câu 270:: Which of the following is a "remote" area?
+a:: A busy city center.
+b:: A place far away from towns or cities.
+c:: A shopping mall.
+d:: A school classroom.
+đáp án:: b
+giải thích:: "Remote area" là vùng sâu vùng xa, cách biệt với đô thị.
+---
+loại:: mot_dap_an
+câu 271:: Choose the word with a different /th/ sound:
+a:: Teeth
+b:: Truth
+c:: These
+d:: Health
+đáp án:: c
+giải thích:: "These" /ð/, các từ còn lại /θ/.
+---
+loại:: mot_dap_an
+câu 272:: My father (A) usually (B) watch (C) the news (D) at 7 p.m.
+a:: usually
+b:: watch
+c:: the news
+d:: No error
+đáp án:: b
+giải thích:: Chủ ngữ "My father" số ít, động từ phải thêm "es" -> "watches".
+---
+loại:: mot_dap_an
+câu 273:: "Whose fanpage is it?" - "It's ____." (belonging to Woody)
+a:: Woody
+b:: Woody's
+c:: Woodys'
+d:: of Woody
+đáp án:: b
+giải thích:: Sở hữu cách tên riêng số ít.
+---
+loại:: mot_dap_an
+câu 274:: What is the past form of "think"?
+a:: thinked
+b:: thought
+c:: thank
+d:: thinks
+đáp án:: b
+giải thích:: Bất quy tắc của "think" là "thought".
+---
+loại:: mot_dap_an
+câu 275:: Computers are very useful, ______ they can also be distracting.
+a:: so
+b:: and
+c:: but
+d:: because
+đáp án:: c
+giải thích:: Hai vế mang ý nghĩa tương phản (có ích vs gây xao nhãng).
+---
+loại:: mot_dap_an
+câu 276:: Which word is stressed on the first syllable?
+a:: attraction
+b:: museum
+c:: character
+d:: adventure
+đáp án:: c
+giải thích:: "Character" nhấn âm 1. Ba từ còn lại nhấn âm 2.
+---
+loại:: mot_dap_an
+câu 277:: "____ did you finish the project?" - "I finished it last night."
+a:: What
+b:: Where
+c:: When
+d:: Why
+đáp án:: c
+giải thích:: Hỏi thời điểm dùng "When".
+---
+loại:: mot_dap_an
+câu 278:: We (A) didn't (B) had (C) any (D) homework yesterday.
+a:: didn't
+b:: had
+c:: any
+d:: yesterday
+đáp án:: b
+giải thích:: Sau "didn't" dùng nguyên mẫu "have".
+---
+loại:: mot_dap_an
+câu 279:: Surfing is an ______ sport.
+a:: boring
+b:: exciting
+c:: expensive
+d:: easy
+đáp án:: b
+giải thích:: Lướt sóng là môn thể thao thú vị, hào hứng (exciting).
+---
+loại:: mot_dap_an
+câu 280:: Cairo is a (A) busy (B) city (C) because (D) it has a lot of traffic.
+a:: busy
+b:: city
+c:: because
+d:: No error
+đáp án:: d
+giải thích:: Câu đúng cấu trúc và logic nguyên nhân - kết quả.
+---
+loại:: mot_dap_an
+câu 281:: Choose the word with /ð/ sound:
+a:: Mouth
+b:: South
+c:: Southern
+d:: Youth
+đáp án:: c
+giải thích:: "Southern" (thuộc về phương Nam) phát âm là /ð/. Các danh từ gốc (Mouth, South, Youth) là /θ/.
+---
+loại:: mot_dap_an
+câu 282:: "____ is your school?" - "It's in Bien Hoa."
+a:: What
+b:: Where
+c:: Who
+d:: How
+đáp án:: b
+giải thích:: Trả lời về địa điểm dùng "Where".
+---
+loại:: mot_dap_an
+câu 283:: Find the error: He (A) wants (B) to (C) becoming (D) a doctor.
+a:: wants
+b:: to
+c:: becoming
+d:: No error
+đáp án:: c
+giải thích:: Sau "to" dùng động từ nguyên mẫu "become".
+---
+loại:: mot_dap_an
+câu 284:: Which word is stressed differently?
+a:: student
+b:: teacher
+c:: advice
+d:: doctor
+đáp án:: c
+giải thích:: "Advice" nhấn âm 2. Các từ còn lại nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 285:: "Whose sweets are these?" - "They are ____." (ours)
+a:: ours
+b:: our
+c:: their
+d:: theirs
+đáp án:: a
+giải thích:: Dùng đại từ sở hữu "ours" đứng độc lập.
+---
+loại:: mot_dap_an
+câu 286:: A ______ tells people what the weather is like.
+a:: actor
+b:: producer
+c:: weatherman
+d:: director
+đáp án:: c
+giải thích:: Nghề nghiệp dự báo thời tiết là "weatherman".
+---
+loại:: mot_dap_an
+câu 287:: Last year, I ______ (go) to the NASA space center.
+a:: go
+b:: goes
+c:: went
+d:: gone
+đáp án:: c
+giải thích:: Quá khứ đơn của "go" là "went".
+---
+loại:: mot_dap_an
+câu 288:: He (A) don't (B) like (C) playing (D) video games.
+a:: don't
+b:: like
+c:: playing
+d:: No error
+đáp án:: a
+giải thích:: Chủ ngữ "He" dùng trợ động từ "doesn't".
+---
+loại:: mot_dap_an
+câu 289:: Which of these is a "landmark"?
+a:: A pencil
+b:: The Eiffel Tower
+c:: A cat
+d:: A car
+đáp án:: b
+giải thích:: Tháp Eiffel là một địa danh mang tính biểu tượng (landmark).
+---
+loại:: mot_dap_an
+câu 290:: "____ did you solve the math problem?" - "I used a calculator."
+a:: What
+b:: Where
+c:: How
+d:: Who
+đáp án:: c
+giải thích:: Hỏi cách thức thực hiện dùng "How".
+---
+loại:: mot_dap_an
+câu 291:: Choose the word with different /th/ sound:
+a:: Healthy
+b:: Thick
+c:: Though
+d:: Thought
+đáp án:: c
+giải thích:: "Though" /ð/, các từ còn lại /θ/.
+---
+loại:: mot_dap_an
+câu 292:: My brother (A) wants (B) to (C) be (D) an astronaut.
+a:: wants
+b:: to
+c:: be
+d:: No error
+đáp án:: d
+giải thích:: Câu đúng cấu trúc diễn đạt ước mơ nghề nghiệp.
+---
+loại:: mot_dap_an
+câu 293:: Which word is stressed on the second syllable?
+a:: festival
+b:: comedy
+c:: attraction
+d:: beautiful
+đáp án:: c
+giải thích:: "Attraction" nhấn âm 2. Ba từ còn lại nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 294:: "Whose laptop is this?" - "It's ____." (belonging to her)
+a:: hers
+b:: her
+c:: she
+d:: mine
+đáp án:: a
+giải thích:: Đại từ sở hữu "hers" thay thế cho "her laptop".
+---
+loại:: mot_dap_an
+câu 295:: I turned on the TV ______ I wanted to watch the space documentary.
+a:: so
+b:: because
+c:: but
+d:: or
+đáp án:: b
+giải thích:: "Because" dùng để nêu lý do.
+---
+loại:: mot_dap_an
+câu 296:: Find the error: She (A) rode (B) her (C) bike (D) tomorrow.
+a:: rode
+b:: her
+c:: bike
+d:: tomorrow
+đáp án:: d
+giải thích:: "Rode" là quá khứ, không đi với trạng từ tương lai "tomorrow". Sửa thành "yesterday".
+---
+loại:: mot_dap_an
+câu 297:: What is the stress pattern of "calculate"?
+a:: Ooo (1st)
+b:: oOo (2nd)
+c:: ooO (3rd)
+d:: oooo (None)
+đáp án:: a
+giải thích:: "Calculate" nhấn âm 1.
+---
+loại:: mot_dap_an
+câu 298:: "____ does the moon orbit the Earth?" - "Every 27.3 days."
+a:: How long
+b:: How often
+c:: What time
+d:: How far
+đáp án:: b
+giải thích:: Hỏi về chu kỳ/tần suất lặp lại dùng "How often".
+---
+loại:: mot_dap_an
+câu 299:: Scientists (A) discovered (B) a (C) new (D) galaxy last year.
+a:: discovered
+b:: a
+c:: new
+d:: No error
+đáp án:: d
+giải thích:: Câu đúng cấu trúc thuật lại sự kiện khoa học trong quá khứ.
+---
+loại:: mot_dap_an
+câu 300:: Woody (A) study (B) hard (C) every day (D).
+a:: study
+b:: hard
+c:: every day
+d:: No error
+đáp án:: a
+giải thích:: Chủ ngữ "Woody" số ít, động từ phải chia "studies".
+---
+
+
+
+-----
             </script>
         </div>
 
@@ -38078,4 +40510,5 @@ giải thích:: **ID: SS_GRA_300.** Dạng đại từ của Their là **Theirs*
         </script>
     </div>
 `);
+
 
