@@ -28755,7 +28755,4014 @@ giải thích::
 ---
 
 
+---
+            </script>
+        </div>
+
+        <div class="topic-data" data-subject-name="CIE6" data-topic-name="CIE5T3W10- QUETION TEST ">
+            <script type="text/plain" class="question-data-chunk">
+
+
+
+// ==================================================================
+// BỘ CÂU HỎI TỪ VỰNG T3W10 (MATCHING: ENG-VIET & VIET-ENG)
+// ==================================================================
+
+---
+loại:: noi
+câu 1:: Nối từ vựng tiếng Anh chủ đề "Global English - Nature's Power" với nghĩa tiếng Việt tương ứng.
+trai:: bump into
+phai:: va, đụng, đâm sầm vào
+trai:: cloud
+phai:: đám mây
+trai:: cold air
+phai:: không khí lạnh
+trai:: connect
+phai:: kết nối, liên kết
+trai:: electricity
+phai:: điện
+giải thích:: Nhóm từ vựng cơ bản về hiện tượng tự nhiên và vật lý.
+---
+loại:: noi
+câu 2:: Nối nghĩa tiếng Việt với từ tiếng Anh tương ứng (Chủ đề: Global English - Từ vựng mở rộng).
+trai:: không khí nóng
+phai:: hot air
+trai:: điện tích âm
+phai:: negative charges
+trai:: điện tích dương
+phai:: positive charges
+trai:: cơn bão
+phai:: storm
+trai:: đánh
+phai:: strikes
+giải thích:: Phản xạ ngược Việt - Anh giúp tăng cường khả năng chủ động sử dụng từ (Active Vocabulary).
+---
+loại:: noi
+câu 3:: Nối các động từ và danh từ chủ đề "Earthquakes" với nghĩa tiếng Việt.
+trai:: cover
+phai:: bao phủ
+trai:: crawl
+phai:: bò, trườn
+trai:: fault line
+phai:: đường đứt gãy
+trai:: get down
+phai:: đưa xuống, đánh đổ, đánh ngã
+trai:: hold on
+phai:: nắm chặt, giữ chặt, bám chặt
+giải thích:: Các động từ chỉ hành động và thuật ngữ địa chất trong thảm họa động đất.
+---
+loại:: noi
+câu 4:: Nối nghĩa tiếng Việt chủ đề "Earthquakes" với thuật ngữ tiếng Anh chuẩn xác.
+trai:: rung, lắc, lung lay
+phai:: shake
+trai:: bề mặt
+phai:: surface
+trai:: mảng kiến tạo
+phai:: tectonic plates
+trai:: sóng
+phai:: waves
+giải thích:: "Tectonic plates" (mảng kiến tạo) và "fault line" (đường đứt gãy) là các thuật ngữ học thuật (Academic terms) quan trọng.
+---
+loại:: noi
+câu 5:: Nối từ vựng tiếng Anh chủ đề "Volcanoes" với nghĩa tiếng Việt tương ứng.
+trai:: ash
+phai:: tro, tàn
+trai:: crack
+phai:: vết nứt, vỡ
+trai:: crater
+phai:: miệng núi lửa
+trai:: erupt
+phai:: phun (núi lửa)
+trai:: explode
+phai:: nổ bùng, nổ tung
+trai:: lava
+phai:: dung nham
+giải thích:: Trọn bộ thuật ngữ địa chất về hoạt động của núi lửa.
+---
+loại:: noi
+câu 6:: Nối thuật ngữ Vật lý (Science Unit 5.4) từ tiếng Việt sang tiếng Anh.
+trai:: mạch điện
+phai:: circuit
+trai:: sơ đồ mạch
+phai:: circuit diagram
+trai:: mạch song song
+phai:: parallel circuit
+trai:: mạch nối tiếp
+phai:: series circuit
+giải thích:: Từ vựng chuyên ngành Khoa học (STEM) cần ghi nhớ chính xác tuyệt đối để đọc hiểu bản vẽ kỹ thuật.
+---
+loại:: noi
+câu 7:: Nối thuật ngữ Vật lý (Science) phần Đo lường và Ký hiệu từ tiếng Anh sang tiếng Việt.
+trai:: symbol
+phai:: ký hiệu, biểu tượng
+trai:: volt
+phai:: đơn vị đo điện áp
+trai:: voltage
+phai:: điện áp
+giải thích:: Phân biệt "Volt" (Đơn vị đo) và "Voltage" (Đại lượng vật lý).
+---
+loại:: noi
+câu 8:: Nối từ vựng chỉ "Các loại hình nhà ở" (MOET Unit 10) với nghĩa tiếng Việt (Phần 1).
+trai:: apartment
+phai:: căn hộ
+trai:: flat
+phai:: căn hộ
+trai:: condominium
+phai:: chung cư
+trai:: penthouse
+phai:: căn hộ tầng trên cùng của một tòa nhà cao tầng
+trai:: basement apartment
+phai:: căn hộ tầng hầm
+giải thích:: Từ vựng mô tả kiến trúc nhà ở đô thị hiện đại. "Apartment" và "Flat" đồng nghĩa.
+---
+loại:: noi
+câu 9:: Nối nghĩa tiếng Việt chỉ "Các loại hình nhà ở" (MOET Unit 10) với từ tiếng Anh (Phần 2).
+trai:: nhà thuyền
+phai:: houseboat
+trai:: biệt thự
+phai:: villa
+trai:: nhà tranh
+phai:: cottage
+trai:: nhà lưu động (có ô tô kéo)
+phai:: motorhome
+trai:: nhà chọc trời
+phai:: skyscraper
+giải thích:: Tăng tốc độ phản xạ với các loại hình nhà ở đặc biệt và nhà ở tương lai.
+---
+loại:: noi
+câu 10:: Nối từ vựng tiếng Anh (MOET Unit 10) với nghĩa tiếng Việt (Các loại nhà & Thiết bị).
+trai:: UFO
+phai:: vật thể bay không xác định
+trai:: palace / castle
+phai:: lâu đài, cung điện
+trai:: appliance
+phai:: thiết bị, dụng cụ
+trai:: cable television / TV cable
+phai:: truyền hình cáp
+trai:: fridge
+phai:: tủ lạnh
+giải thích:: "Appliance" là danh từ gốc dùng để chỉ chung các thiết bị điện gia dụng.
+---
+loại:: noi
+câu 11:: Nối nghĩa tiếng Việt với các "Thiết bị thông minh & Năng lượng" trong tiếng Anh (MOET Unit 10).
+trai:: năng lượng mặt trời
+phai:: solar energy
+trai:: nồi cơm điện
+phai:: electric cooker
+trai:: máy giặt
+phai:: washing machine
+trai:: máy rửa bát
+phai:: dishwasher
+trai:: ti vi có kết nối mạng không dây
+phai:: wireless TV
+giải thích:: Từ vựng trọng tâm chủ đề công nghệ tự động hóa trong tương lai (Smart houses).
+---
+loại:: noi
+câu 12:: Nối các tính từ miêu tả (Adjectives) từ tiếng Anh sang tiếng Việt (MOET Unit 10).
+trai:: comfortable
+phai:: đầy đủ, tiện nghi
+trai:: automatic
+phai:: tự động
+trai:: modern
+phai:: hiện đại
+trai:: smart
+phai:: thông minh
+trai:: hi-tech
+phai:: kỹ thuật cao
+giải thích:: Những tính từ (Academic adjectives) bắt buộc phải dùng để viết luận về chủ đề công nghệ tương lai.
+---
+loại:: noi
+câu 13:: Nối nghĩa tiếng Việt với từ tiếng Anh tương ứng (Phần tính từ và khái niệm mạng).
+trai:: khác biệt
+phai:: different
+trai:: tuyệt vời
+phai:: fantastic
+trai:: đặc biệt
+phai:: special
+trai:: hệ thống mạng không dây sử dụng sóng vô tuyến
+phai:: wifi
+giải thích:: Nhóm từ vựng cuối cùng hoàn thiện danh sách T3W10.
+
+---
+// ==================================================================
+// BỘ CÂU HỎI TỪ VỰNG NÂNG CAO (MATHS & CROSS-TOPIC MIXED REVIEW)
+// ==================================================================
+
+---
+loại:: noi
+câu 14:: Nối các thuật ngữ Hình học (Maths) với nghĩa tiếng Việt chuẩn xác (Phần 1).
+trai:: Acute angle
+phai:: Góc nhọn (< 90 độ)
+trai:: Right angle
+phai:: Góc vuông (90 độ)
+trai:: Obtuse angle
+phai:: Góc tù (> 90 và < 180 độ)
+trai:: Straight angle
+phai:: Góc bẹt (180 độ)
+trai:: Reflex angle
+phai:: Góc phản (> 180 và < 360 độ)
+giải thích:: Bổ sung nghĩa tiếng Việt cho các thuật ngữ góc trong Toán học. Đây là nền tảng bắt buộc của Hình học.
+---
+loại:: noi
+câu 15:: Nối các thuật ngữ Hình học (Maths) với nghĩa tiếng Việt chuẩn xác (Phần 2).
+trai:: Full turn
+phai:: Vòng tròn đầy / Góc đầy (360 độ)
+trai:: Isosceles triangle
+phai:: Tam giác cân (2 cạnh và 2 góc bằng nhau)
+trai:: Equilateral triangle
+phai:: Tam giác đều (3 cạnh và 3 góc bằng nhau)
+giải thích:: Các thuật ngữ học thuật mô tả tính chất của tam giác và góc quay toàn phần.
+---
+loại:: noi
+câu 16:: Phản xạ ngược Việt - Anh: Nối tên các loại góc và tam giác (Maths).
+trai:: Góc nhọn
+phai:: Acute angle
+trai:: Góc tù
+phai:: Obtuse angle
+trai:: Góc phản
+phai:: Reflex angle
+trai:: Tam giác đều
+phai:: Equilateral triangle
+giải thích:: Rèn luyện tốc độ truy xuất từ vựng Toán học từ tiếng Việt sang tiếng Anh để phục vụ việc giải toán Word Problems.
+---
+loại:: noi
+câu 17:: [MIXED REVIEW 1] Nối từ vựng tiếng Anh (Trộn lẫn các môn) với nghĩa tiếng Việt.
+trai:: crater (Global English)
+phai:: miệng núi lửa
+trai:: circuit diagram (Science)
+phai:: sơ đồ mạch
+trai:: condominium (MOET)
+phai:: chung cư
+trai:: tectonic plates (Global English)
+phai:: mảng kiến tạo
+giải thích:: Phá vỡ lối mòn ghi nhớ theo chủ đề. Bộ não phải liên tục chuyển đổi ngữ cảnh giữa Địa chất, Vật lý và Kiến trúc đô thị.
+---
+loại:: noi
+câu 18:: [MIXED REVIEW 2] Nối nghĩa tiếng Việt với từ tiếng Anh (Trộn lẫn các môn).
+trai:: điện áp
+phai:: voltage
+trai:: dung nham
+phai:: lava
+trai:: máy rửa bát
+phai:: dishwasher
+trai:: đường đứt gãy
+phai:: fault line
+giải thích:: Kiểm tra khả năng nhớ từ vựng ngẫu nhiên không có sự báo trước của chủ đề.
+---
+loại:: noi
+câu 19:: [MIXED REVIEW 3] Nối từ vựng tiếng Anh với nghĩa tiếng Việt.
+trai:: bump into
+phai:: va, đụng, đâm sầm vào
+trai:: parallel circuit
+phai:: mạch song song
+trai:: motorhome
+phai:: nhà lưu động
+trai:: ash
+phai:: tro, tàn
+giải thích:: Xáo trộn hoàn toàn các từ loại (động từ, danh từ) và các môn học để tăng cường phản xạ sâu.
+---
+loại:: noi
+câu 20:: [MIXED REVIEW 4] Phản xạ ngược Việt - Anh (Trộn lẫn cấp độ cao).
+trai:: tủ lạnh
+phai:: fridge
+trai:: mạch nối tiếp
+phai:: series circuit
+trai:: nổ bùng, nổ tung
+phai:: explode
+trai:: nhà chọc trời
+phai:: skyscraper
+giải thích:: Bài tập ép não bộ phải tìm kiếm từ vựng từ nhiều "ngăn kéo" dữ liệu khác nhau cùng một lúc.
+---
+loại:: noi
+câu 21:: Nối các từ vựng chỉ Năng lượng và Thiết bị (Trộn lẫn Science & MOET).
+trai:: electricity
+phai:: điện
+trai:: solar energy
+phai:: năng lượng mặt trời
+trai:: appliance
+phai:: thiết bị, dụng cụ
+trai:: electric cooker
+phai:: nồi cơm điện
+giải thích:: Các từ vựng này có mối liên hệ logic mật thiết với nhau về mặt ứng dụng khoa học trong thực tế.
+---
+loại:: noi
+câu 22:: Nối các thuật ngữ chỉ sự Chuyển động và Tác động (Global English).
+trai:: crawl
+phai:: bò, trườn
+trai:: shake
+phai:: rung, lắc, lung lay
+trai:: strikes
+phai:: đánh
+trai:: cover
+phai:: bao phủ
+giải thích:: Nhóm động từ chỉ hành động thường xuất hiện trong các bài đọc hiểu chuyên sâu về thảm họa thiên nhiên.
+---
+loại:: noi
+câu 23:: Nối các loại hình bất động sản đặc thù (MOET) với nghĩa tiếng Việt.
+trai:: basement apartment
+phai:: căn hộ tầng hầm
+trai:: penthouse
+phai:: căn hộ tầng trên cùng
+trai:: villa
+phai:: biệt thự
+trai:: houseboat
+phai:: nhà thuyền
+giải thích:: Nhận diện chính xác các loại hình bất động sản đa dạng từ dưới hầm lên đến tầng thượng và trên mặt nước.
+---
+loại:: noi
+câu 24:: Phản xạ ngược Việt - Anh: Các từ vựng mô tả (Adjectives).
+trai:: hiện đại
+phai:: modern
+trai:: đầy đủ, tiện nghi
+phai:: comfortable
+trai:: tuyệt vời
+phai:: fantastic
+trai:: tự động
+phai:: automatic
+giải thích:: Tính từ là vũ khí quan trọng để nâng cấp bài viết (Writing) chuẩn học thuật.
+---
+loại:: noi
+câu 25:: Nối từ vựng Anh - Việt (Các khái niệm trừu tượng và ký hiệu).
+trai:: symbol
+phai:: ký hiệu, biểu tượng
+trai:: positive charges
+phai:: điện tích dương
+trai:: negative charges
+phai:: điện tích âm
+trai:: different
+phai:: khác biệt
+giải thích:: Những từ vựng trừu tượng đòi hỏi sự tập trung và ghi nhớ chính xác tuyệt đối.
+---
+// ==================================================================
+// BỘ CÂU HỎI TỪ VỰNG T3W10: TỪ CÂU 26 ĐẾN CÂU 63
+// ==================================================================
+
+---
+loại:: noi
+câu 26:: Nối từ vựng (Global English) với định nghĩa tiếng Anh tương ứng (Phần 1).
+trai:: bump into
+phai:: to meet someone unexpectedly or hit against something
+trai:: cloud
+phai:: a grey or white mass in the sky made of water drops
+trai:: cold air
+phai:: a mass of gas with a low temperature
+trai:: connect
+phai:: to join two or more things together
+giải thích:: Học sinh giỏi cần hiểu định nghĩa tiếng Anh của từ để không bị phụ thuộc vào việc dịch thuật.
+---
+loại:: noi
+câu 27:: Nối từ vựng (Global English) với định nghĩa tiếng Anh tương ứng (Phần 2).
+trai:: electricity
+phai:: a form of energy that provides power to devices
+trai:: hot air
+phai:: a mass of gas with a high temperature that tends to rise
+trai:: negative charges
+phai:: electrical charges that have more electrons (minus)
+trai:: positive charges
+phai:: electrical charges that have fewer electrons (plus)
+giải thích:: Các thuật ngữ Vật lý/Khí tượng bằng tiếng Anh.
+---
+loại:: noi
+câu 28:: Nối từ vựng chủ đề "Storms & Earthquakes" với định nghĩa tiếng Anh.
+trai:: storm
+phai:: extreme weather with strong winds and heavy rain
+trai:: strikes
+phai:: hits or attacks suddenly (like lightning)
+trai:: cover
+phai:: to put something over your head/body to protect it
+trai:: crawl
+phai:: to move on your hands and knees
+giải thích:: Từ vựng mô tả thảm họa và hành động sinh tồn.
+---
+loại:: noi
+câu 29:: Nối thuật ngữ Động đất (Earthquakes) với định nghĩa tiếng Anh.
+trai:: fault line
+phai:: a break in the Earth's crust where earthquakes happen
+trai:: get down
+phai:: to lower your body close to the ground
+trai:: hold on
+phai:: to keep your hands tightly on something
+trai:: shake
+phai:: to move quickly backwards and forwards or up and down
+giải thích:: Hiểu bản chất các hành động khi có động đất bằng tiếng Anh.
+---
+loại:: noi
+câu 30:: Nối từ vựng Địa lý với định nghĩa tiếng Anh tương ứng.
+trai:: surface
+phai:: the outside or top layer of something
+trai:: tectonic plates
+phai:: the large pieces of the Earth's crust that move
+trai:: waves
+phai:: lines of raised water moving across the surface of the sea
+trai:: ash
+phai:: the soft grey powder that remains after something has burned
+giải thích:: "Tectonic plates" và "ash" là các danh từ học thuật quan trọng.
+---
+loại:: noi
+câu 31:: Nối từ vựng chủ đề Núi lửa (Volcanoes) với định nghĩa tiếng Anh.
+trai:: crack
+phai:: a line on a surface where it has broken but not split apart
+trai:: crater
+phai:: the large round hole at the top of a volcano
+trai:: erupt
+phai:: to suddenly throw out smoke, fire, and melted rocks
+trai:: explode
+phai:: to burst loudly with a lot of force
+giải thích:: Động từ "erupt" và "explode" dùng để miêu tả núi lửa hoạt động.
+---
+loại:: noi
+câu 32:: Nối từ vựng môn Khoa học (Science Unit 5.4) với định nghĩa tiếng Anh (Phần 1).
+trai:: lava
+phai:: hot liquid rock that comes out of a volcano
+trai:: circuit
+phai:: a closed system of wires through which electricity can flow
+trai:: circuit diagram
+phai:: a drawing using symbols for all the components
+trai:: parallel circuit
+phai:: a circuit where there is more than one pathway
+giải thích:: Khái niệm mạch điện song song (parallel) rất hay thi.
+---
+loại:: noi
+câu 33:: Nối từ vựng môn Khoa học (Science) với định nghĩa tiếng Anh (Phần 2).
+trai:: series circuit
+phai:: a circuit where the electric current has only one pathway
+trai:: symbol
+phai:: a sign used to represent a real thing
+trai:: volt
+phai:: the unit for measuring the strength of electricity
+trai:: voltage
+phai:: the force of an electric current
+giải thích:: Phân biệt rạch ròi khái niệm mạch nối tiếp (series) và điện áp.
+---
+loại:: noi
+câu 34:: Nối từ vựng về Nhà ở (MOET Unit 10) với định nghĩa tiếng Anh (Phần 1).
+trai:: apartment / flat
+phai:: a set of rooms for living in, usually on one floor of a building
+trai:: condominium
+phai:: a building with individual apartments that people own
+trai:: penthouse
+phai:: an expensive apartment at the top of a tall building
+trai:: basement apartment
+phai:: a living space located below the ground level
+giải thích:: Phân biệt các loại hình bất động sản thuộc tòa nhà cao tầng.
+---
+loại:: noi
+câu 35:: Nối từ vựng về Nhà ở (MOET Unit 10) với định nghĩa tiếng Anh (Phần 2).
+trai:: houseboat
+phai:: a boat that people can live in on a river or canal
+trai:: villa
+phai:: a large house with a garden, often used for holidays
+trai:: cottage
+phai:: a small house, usually in the countryside
+trai:: UFO
+phai:: an unidentified flying object, often thought to be an alien ship
+giải thích:: Các loại nhà ở đặc thù, nhà mặt đất và ngoài không gian.
+---
+loại:: noi
+câu 36:: Nối từ vựng về Nhà ở & Đồ gia dụng với định nghĩa tiếng Anh.
+trai:: palace / castle
+phai:: a very large and impressive building where a king or queen lives
+trai:: motorhome
+phai:: a large motor vehicle equipped as a living space
+trai:: skyscraper
+phai:: a very tall modern city building
+trai:: appliance
+phai:: a device or machine used in the home
+giải thích:: "Appliance" là từ khóa gốc để nói về đồ điện gia dụng.
+---
+loại:: noi
+câu 37:: Nối thiết bị gia dụng với định nghĩa chức năng tiếng Anh (Phần 1).
+trai:: cable television
+phai:: a system of sending TV programs into houses along wires
+trai:: fridge
+phai:: a piece of kitchen equipment that keeps food cold
+trai:: solar energy
+phai:: power obtained from the light of the sun
+trai:: electric cooker
+phai:: a machine powered by electricity used for cooking food
+giải thích:: Hiểu được chức năng cốt lõi của các đồ gia dụng.
+---
+loại:: noi
+câu 38:: Nối thiết bị gia dụng với định nghĩa chức năng tiếng Anh (Phần 2).
+trai:: washing machine
+phai:: a machine that cleans clothes
+trai:: dishwasher
+phai:: a machine that washes dirty plates and cups
+trai:: wifi
+phai:: a system for connecting electronic devices to the internet without wires
+trai:: wireless TV
+phai:: a television that connects to the internet via radio waves
+giải thích:: Phân biệt các loại máy làm sạch và công nghệ không dây.
+---
+loại:: noi
+câu 39:: Nối Tính từ (Adjectives - MOET Unit 10) với định nghĩa tiếng Anh.
+trai:: comfortable
+phai:: providing physical ease and relaxation
+trai:: automatic
+phai:: working by itself without human control
+trai:: modern
+phai:: relating to the present or recent times
+trai:: smart
+phai:: controlled by computers or advanced electronics
+giải thích:: Các tính từ mô tả ngôi nhà và thiết bị trong tương lai.
+---
+loại:: noi
+câu 40:: Nối Tính từ (Adjectives) với định nghĩa tiếng Anh (Phần 2).
+trai:: hi-tech
+phai:: using the most advanced and developed machines and methods
+trai:: different
+phai:: not the same as another thing
+trai:: fantastic
+phai:: extremely good or excellent
+trai:: special
+phai:: not ordinary or usual
+giải thích:: Nâng cấp vốn từ vựng cảm xúc và công nghệ.
+---
+loại:: noi
+câu 41:: Nối thuật ngữ Hình học (Maths) với định nghĩa bằng tiếng Anh.
+trai:: Acute angle
+phai:: An angle measuring less than 90 degrees
+trai:: Right angle
+phai:: An angle measuring exactly 90 degrees
+trai:: Obtuse angle
+phai:: An angle measuring more than 90 but less than 180 degrees
+trai:: Straight angle
+phai:: An angle measuring exactly 180 degrees
+giải thích:: Các định nghĩa gốc của Toán học bằng tiếng Anh.
+---
+loại:: noi
+câu 42:: Nối thuật ngữ Hình học (Maths) với định nghĩa bằng tiếng Anh (Phần 2).
+trai:: Reflex angle
+phai:: An angle measuring more than 180 but less than 360 degrees
+trai:: Full turn
+phai:: A complete rotation measuring 360 degrees
+trai:: Isosceles triangle
+phai:: A triangle with 2 equal sides and 2 equal angles
+trai:: Equilateral triangle
+phai:: A triangle with 3 equal sides and 3 equal angles
+giải thích:: Bắt buộc ghi nhớ thuộc tính của tam giác để làm Word Problems.
+---
+loại:: noi
+câu 43:: Điền khuyết - Chọn từ thích hợp điền vào chỗ trống trong câu (Context Matching 1).
+trai:: I accidentally ... my old teacher at the supermarket.
+phai:: bumped into
+trai:: The dark ... in the sky means it will rain soon.
+phai:: cloud
+trai:: The ... from the AC made the room freezing.
+phai:: cold air
+trai:: We need to ... the wire to the battery.
+phai:: connect
+giải thích:: Học từ vựng thông qua ngữ cảnh câu thực tế (Contextual learning).
+---
+loại:: noi
+câu 44:: Điền khuyết - Chọn từ thích hợp điền vào chỗ trống trong câu (Context Matching 2).
+trai:: Lightning is a powerful form of natural ...
+phai:: electricity
+trai:: A hot air balloon rises because ... is lighter than cold air.
+phai:: hot air
+trai:: When a ... hits the town, there is heavy rain and wind.
+phai:: storm
+trai:: The lightning ... the tall tree, causing it to catch fire.
+phai:: strikes
+giải thích:: Luyện kỹ năng phán đoán từ dựa vào nghĩa của câu.
+---
+loại:: noi
+câu 45:: Điền khuyết - Từ vựng sinh tồn khi có Động đất (Earthquakes).
+trai:: Under the desk, you must ... your head to protect it.
+phai:: cover
+trai:: You should ... on the floor to avoid falling during the quake.
+phai:: crawl
+trai:: The earthquake occurred along a major ... in the Earth's crust.
+phai:: fault line
+trai:: ... and hold onto something sturdy until the shaking stops!
+phai:: Get down
+giải thích:: Các câu lệnh (Imperative sentences) phổ biến trong hướng dẫn an toàn.
+---
+loại:: noi
+câu 46:: Điền khuyết - Kiến thức Khoa học Trái đất (Earthquakes & Tectonic plates).
+trai:: You must ... tight to the table legs during the earthquake.
+phai:: hold on
+trai:: The violent ... caused the buildings to collapse.
+phai:: shake
+trai:: The ... of the Earth broke open during the quake.
+phai:: surface
+trai:: Earthquakes are caused by the movement of massive ...
+phai:: tectonic plates
+giải thích:: Ôn tập cách sử dụng từ loại đúng chỗ trong câu.
+---
+loại:: noi
+câu 47:: Điền khuyết - Từ vựng về Núi lửa (Volcanoes).
+trai:: The volcano sent a massive cloud of ... into the sky.
+phai:: ash
+trai:: A huge ... appeared in the ground before the eruption.
+phai:: crack
+trai:: The lake at the top of the volcano is inside the ...
+phai:: crater
+trai:: Scientists predict the volcano will ... tomorrow.
+phai:: erupt
+giải thích:: Phân biệt "ash" (tro) và "crater" (miệng núi lửa) trong ngữ cảnh.
+---
+loại:: noi
+câu 48:: Điền khuyết - Từ vựng Núi lửa và Điện tích.
+trai:: The pressure builds up until the rocks ... violently.
+phai:: explode
+trai:: Red hot ... flowed down the sides of the mountain.
+phai:: lava
+trai:: The tsunami created giant ... that destroyed the coast.
+phai:: waves
+trai:: Electrons carry ... in a circuit.
+phai:: negative charges
+giải thích:: Khớp đúng các danh từ/động từ đặc thù của hiện tượng.
+---
+loại:: noi
+câu 49:: Điền khuyết - Thuật ngữ Mạch điện (Science).
+trai:: A simple ... consists of a battery, wires, and a bulb.
+phai:: circuit
+trai:: Engineers use a ... to plan how to build the electronics.
+phai:: circuit diagram
+trai:: In a ..., if one bulb breaks, the others stay on.
+phai:: parallel circuit
+trai:: In a ..., if one bulb breaks, the whole loop stops working.
+phai:: series circuit
+giải thích:: Hiểu được đặc tính ưu/nhược điểm của mạch nối tiếp và song song thông qua câu văn.
+---
+loại:: noi
+câu 50:: Điền khuyết - Đo lường Điện học (Science).
+trai:: We use a specific ... to draw a battery on paper.
+phai:: symbol
+trai:: A standard AA battery has 1.5 ...
+phai:: volts
+trai:: The ... tells us how much electrical force is in the system.
+phai:: voltage
+trai:: Protons carry ... in physics.
+phai:: positive charges
+giải thích:: Cách sử dụng "volts" (như danh từ đếm được) và "voltage" (đại lượng).
+---
+loại:: noi
+câu 51:: Điền khuyết - Các loại hình Nhà ở (MOET Unit 10).
+trai:: We live in an ... on the 10th floor of the building.
+phai:: apartment / flat
+trai:: A ... is an apartment that you buy and own legally.
+phai:: condominium
+trai:: The billionaire lives in a luxury ... on the top floor.
+phai:: penthouse
+trai:: Since it is underground, the ... has very small windows.
+phai:: basement apartment
+giải thích:: Các loại hình nhà ở được mô tả chi tiết trong câu thực tế.
+---
+loại:: noi
+câu 52:: Điền khuyết - Kiến trúc đặc biệt (MOET Unit 10).
+trai:: They travel slowly down the river in their floating ...
+phai:: houseboat
+trai:: We rented a beautiful ... near the beach for the summer.
+phai:: villa
+trai:: The old woman lives in a small, traditional ... in the forest.
+phai:: cottage
+trai:: The aliens landed their ... in the middle of the field.
+phai:: UFO
+giải thích:: Bắt từ khóa: floating = houseboat, forest = cottage, alien = UFO.
+---
+loại:: noi
+câu 53:: Điền khuyết - Nơi ở và Thiết bị cơ bản.
+trai:: The king threw a massive party in his grand ...
+phai:: palace / castle
+trai:: We drove our ... across the country and slept inside it.
+phai:: motorhome
+trai:: The Burj Khalifa is a famous ... in Dubai.
+phai:: skyscraper
+trai:: A fridge is a common household ...
+phai:: appliance
+giải thích:: Bắt từ khóa: king = palace/castle, drove = motorhome, tall building = skyscraper.
+---
+loại:: noi
+câu 54:: Điền khuyết - Thiết bị thông minh.
+trai:: We pay a monthly fee to watch premium channels on ...
+phai:: cable television
+trai:: Keep the milk inside the ... so it doesn't spoil.
+phai:: fridge
+trai:: Our house has panels on the roof to collect ...
+phai:: solar energy
+trai:: Use the ... to make the rice perfectly soft.
+phai:: electric cooker
+giải thích:: Ứng dụng của thiết bị bếp và hệ thống năng lượng.
+---
+loại:: noi
+câu 55:: Điền khuyết - Thiết bị tự động hóa (Automation).
+trai:: Put the dirty clothes in the ...
+phai:: washing machine
+trai:: Load the dirty plates into the ... after dinner.
+phai:: dishwasher
+trai:: The ... router allows us to connect to the internet anywhere.
+phai:: wifi
+trai:: A ... doesn't need cables to stream movies.
+phai:: wireless TV
+giải thích:: Những phát minh tiết kiệm sức lao động cho con người.
+---
+loại:: noi
+câu 56:: Điền khuyết - Tính từ (Adjectives).
+trai:: This sofa is very soft and ... to sit on.
+phai:: comfortable
+trai:: The doors are ...; they open when you walk near them.
+phai:: automatic
+trai:: The new building has a very sleek and ... design.
+phai:: modern
+trai:: A ... home can turn off the lights using voice control.
+phai:: smart
+giải thích:: Các tính từ mô tả sự tiện nghi, hiện đại.
+---
+loại:: noi
+câu 57:: Điền khuyết - Tính từ miêu tả công nghệ.
+trai:: The laboratory is full of expensive, ... equipment.
+phai:: hi-tech
+trai:: My new phone is completely ... from my old one.
+phai:: different
+trai:: The food at this restaurant is absolutely ...!
+phai:: fantastic
+trai:: I bought a ... gift for my mother's birthday.
+phai:: special
+giải thích:: Cách sử dụng tính từ đánh giá cảm quan.
+---
+loại:: noi
+câu 58:: [ADVANCED MIXED REVIEW 1] Phản xạ ngược Việt - Anh (Địa chất).
+trai:: dung nham
+phai:: lava
+trai:: mảng kiến tạo
+phai:: tectonic plates
+trai:: miệng núi lửa
+phai:: crater
+trai:: đường đứt gãy
+phai:: fault line
+giải thích:: Phản xạ chéo cực nhanh các từ vựng học thuật.
+---
+loại:: noi
+câu 59:: [ADVANCED MIXED REVIEW 2] Phản xạ ngược Việt - Anh (Vật lý & Nhà ở).
+trai:: mạch song song
+phai:: parallel circuit
+trai:: sơ đồ mạch
+phai:: circuit diagram
+trai:: chung cư
+phai:: condominium
+trai:: nhà lưu động
+phai:: motorhome
+giải thích:: Buộc não bộ phải tìm kiếm ở nhiều "ngăn kéo" thông tin khác nhau.
+---
+loại:: noi
+câu 60:: [ADVANCED MIXED REVIEW 3] Phản xạ ngược Việt - Anh (Thiết bị & Thiên nhiên).
+trai:: máy rửa bát
+phai:: dishwasher
+trai:: nồi cơm điện
+phai:: electric cooker
+trai:: không khí nóng
+phai:: hot air
+trai:: cơn bão
+phai:: storm
+giải thích:: Luyện tập chuyển đổi ngữ cảnh liên tục.
+---
+loại:: noi
+câu 61:: [ADVANCED MIXED REVIEW 4] Phản xạ ngược Việt - Anh (Tính từ & Điện học).
+trai:: kỹ thuật cao
+phai:: hi-tech
+trai:: tự động
+phai:: automatic
+trai:: điện tích âm
+phai:: negative charges
+trai:: điện áp
+phai:: voltage
+giải thích:: Lấp đầy những mảnh ghép từ vựng cuối cùng.
+---
+loại:: noi
+câu 62:: [FINAL RAPID FIRE 1] Nối từ vựng Anh - Việt ngẫu nhiên.
+trai:: skyscraper
+phai:: nhà chọc trời
+trai:: penthouse
+phai:: căn hộ tầng trên cùng
+trai:: series circuit
+phai:: mạch nối tiếp
+trai:: erupt
+phai:: phun (núi lửa)
+giải thích:: Kiểm tra độ ghi nhớ dài hạn (Long-term memory).
+---
+loại:: noi
+câu 63:: [FINAL RAPID FIRE 2] Nối từ vựng Anh - Việt ngẫu nhiên (Hoàn thành 63 Câu).
+trai:: bump into
+phai:: va, đụng, đâm sầm vào
+trai:: full turn
+phai:: vòng tròn đầy (360 độ)
+trai:: isosceles triangle
+phai:: tam giác cân
+trai:: appliance
+phai:: thiết bị, dụng cụ
+giải thích:: Chúc mừng! Bạn đã hoàn thành 63 câu hỏi tương ứng với 63 từ/cụm từ của tuần T3W10.
+---
+
+// ==================================================================
+// BATCH 1: GLOBAL ENGLISH - NATURE'S POWER & CONTINUOUS TENSES (Q1 - Q25)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 1:: Read the following extract from an advanced meteorology lecture: "When a powerful storm develops, the intense friction between ice particles within the cloud generates a massive static electrical charge. This energy must eventually discharge to the ground. The sudden release of this energy creates a blinding flash of light that heats the surrounding air to temperatures five times hotter than the surface of the sun. This rapid heating causes the air to expand explosively, creating a shockwave." Based on this text, what phenomenon is responsible for the "blinding flash of light"?
+a:: Thunder
+b:: Lightning
+c:: Hot air
+d:: Cloud
+đáp án:: b
+giải thích:: Bẫy từ vựng kinh điển: Đọc lướt học sinh dễ nhầm lẫn hai khái niệm. "Blinding flash of light" (tia sáng chói lòa) là định nghĩa của chớp/sét (Lightning). Trong khi đó, "shockwave" tạo ra âm thanh mới là sấm (Thunder).
+---
+loại:: dien_khuyet
+câu 2:: Analyze the incident report written by an emergency responder: "At approximately 8:45 PM yesterday, our unit received multiple distress calls. The entire city block was plunged into darkness. Upon investigation, we discovered that a massive tree branch, weakened by the severe thunderstorm, had completely severed the main power lines. The utility company confirmed that the flow of ... to the residential area was totally cut off, affecting over 5,000 homes." Fill in the blank with the exact vocabulary word from Unit 7.
+đáp án:: electricity
+giải thích:: Ngữ cảnh "plunged into darkness" (chìm trong bóng tối), "power lines" (đường dây điện) và việc bị cắt đứt nguồn cung cấp chỉ ra từ cần điền là "electricity" (điện năng).
+---
+loại:: dung_sai
+câu 3:: Evaluate the grammatical accuracy of the following narrative excerpt from a student's essay: "The scientific expedition in the Amazon rainforest was incredibly challenging. The team was documenting rare plant species near the riverbank. As the lead researcher was taking a photograph of a unique orchid, a massive anaconda was suddenly jumping out of the thick bushes, causing everyone to panic and drop their equipment." Does the student use the Past Continuous tense correctly in the bolded/underlined context of the sudden interruption?
+đáp án:: sai
+giải thích:: Đây là bẫy "Double Continuous" rất phổ biến ở học sinh giỏi. Hành động "nhảy ra" của con trăn là hành động bất thình lình cắt ngang hành động đang chụp ảnh. Vế sau bắt buộc phải dùng Quá khứ đơn: "a massive anaconda suddenly jumped out". 
+---
+loại:: sap_xep
+câu 4:: A news reporter is delivering a live update from the site of a volcanic eruption, but her notes are out of order. She needs to describe a sequence where a continuous background action was interrupted by a violent event. Reorder the words to construct a grammatically perfect sentence that adheres to the rules of the Past Continuous and Past Simple tenses as taught in Unit 7.
+muc:: (1) As
+muc:: (2) the
+muc:: (3) lava
+muc:: (4) was
+muc:: (5) flowing
+muc:: (6) down
+muc:: (7) the
+muc:: (8) mountain,
+muc:: (9) an
+muc:: (10) ash
+muc:: (11) cloud
+muc:: (12) exploded.
+giải thích:: Cấu trúc chuẩn xác: As + S + was/were V-ing (hành động nền đang diễn ra), S + V2/ed (hành động cắt ngang). "As the lava was flowing down the mountain, an ash cloud exploded."
+---
+loại:: noi
+câu 5:: Match the descriptions of atmospheric conditions (Left) with the correct vocabulary terms from Unit 7 (Right), based on the principles of atmospheric physics.
+trai:: A mass of high-temperature gas that naturally rises because it is less dense.
+phai:: Hot air
+trai:: A mass of low-temperature gas that tends to sink because it is denser.
+phai:: Cold air
+trai:: A visible collection of condensed water vapor floating high above the ground.
+phai:: Cloud
+trai:: A severe weather condition characterized by strong winds, heavy rain, and electrical discharges.
+phai:: Thunderstorm
+giải thích:: Nắm vững định nghĩa khoa học bằng tiếng Anh của các hiện tượng thời tiết giúp học sinh không bị bối rối khi đọc các tài liệu chuyên ngành (Cross-curricular English - Science).
+---
+loại:: dropdown
+câu 6:: Read the diary entry of a captain navigating through dangerous waters: "The visibility was practically zero due to the thick fog that had settled over the harbor. I was relying entirely on the radar system, but it suddenly malfunctioned. I had to steer the vessel manually. Because I couldn't see the hazards ahead, my ship violently [[connected|bumped into|flowed|explored]] a submerged reef, causing significant damage to the hull."
+đáp án:: bumped into
+giải thích:: "Bumped into" nghĩa là va chạm, đụng mạnh vào một vật cản (đặc biệt khi không nhìn rõ). Các từ "connected" (kết nối), "flowed" (chảy) hoàn toàn sai ngữ cảnh.
+---
+loại:: phan_loai
+câu 7:: A linguistics professor is assessing students' ability to differentiate between the nuances of Present Continuous usage. While it often describes actions happening exactly now, it can also describe temporary situations occurring around the present time. Classify the following sentences based on their specific function.
+nhom:: Happening exactly right now (Đang xảy ra ngay lúc nói)
+nhom:: Temporary situation around now (Tình huống tạm thời)
+the:: Listen! The thunder is roaring outside.
+the:: My cousins are doing work experience at a technology company for a month.
+the:: Look at the sky! The dark clouds are moving in very fast.
+the:: Right now, my sister is studying at university.
+đáp án:: Listen! The thunder is roaring outside.::1
+đáp án:: My cousins are doing work experience at a technology company for a month.::2
+đáp án:: Look at the sky! The dark clouds are moving in very fast.::1
+đáp án:: Right now, my sister is studying at university.::2
+giải thích:: Các từ "Listen!", "Look at the sky!" nhấn mạnh hành động diễn ra tại thời điểm nói. Việc "thực tập 1 tháng" hay "học đại học" là hành động kéo dài một khoảng thời gian hiện tại (tạm thời, không phải vĩnh viễn như Present Simple).
+---
+loại:: nhieu_dap_an
+câu 8:: You are an editor for a scientific journal. You are reviewing an article about extreme weather safety. The author needs to clearly describe the background setting before a disaster. Which of the following sentences correctly use the Past Continuous tense to establish a background scene, without any grammatical errors? (Select 2 correct answers).
+a:: The researchers were setting up their equipment when the hurricane warning sounded.
+b:: The wind was blowing fiercely and the heavy rain was flooding the streets.
+c:: The lightning was striking the tower, and then it fell down immediately.
+d:: When the earthquake happened, the villagers sleep peacefully in their beds.
+đáp án:: a,b
+giải thích:: Câu (A) kết hợp nền (were setting up) và cắt ngang (sounded) chuẩn xác. Câu (B) dùng hai hành động song song để tả cảnh. Câu (C) sai vì sét đánh là hành động chớp nhoáng, phải dùng "struck". Câu (D) sai ngữ pháp, phải là "were sleeping".
+---
+loại:: mot_dap_an
+câu 9:: Read the transcript of a live news broadcast from a journalist caught in a typhoon: "This is Anderson reporting live from the coastline. The situation here is deteriorating rapidly. The emergency siren ______ loudly in the background, and the ocean waves ______ violently against the sea wall. We strongly advise everyone to evacuate the area immediately." Choose the correct verb pair to complete the broadcast.
+a:: was wailing / were crashing
+b:: is wailing / are crashing
+c:: wails / crash
+d:: wailed / crashed
+đáp án:: b
+giải thích:: Cụm từ "reporting live" (đưa tin trực tiếp) và "deteriorating rapidly" (đang tồi tệ đi nhanh chóng) đặt tình huống ở Hiện tại. Do đó, phải sử dụng thì Hiện tại tiếp diễn (is wailing / are crashing) để tả khung cảnh trực tiếp.
+---
+loại:: dien_khuyet
+câu 10:: Analyze the structural engineering text: "In regions prone to severe weather, architects must design buildings that can withstand extreme forces. When a massive ... (a violent weather event with thunder and lightning) approaches, the structure must be able to ground the massive electrical discharges and resist wind speeds exceeding 150 km/h." Fill in the blank with the exact 12-letter compound noun from your vocabulary list.
+đáp án:: thunderstorm
+giải thích:: "A violent weather event with thunder and lightning" (Sự kiện thời tiết dữ dội có sấm và chớp) là định nghĩa chuẩn của "thunderstorm".
+---
+loại:: dung_sai
+câu 11:: Evaluate the scientific statement written by a 6th-grade student: "During a thunderstorm, we hear the thunder first and then see the lightning because sound waves travel much faster through the atmosphere than light waves." Is the physics reasoning in this statement True or False?
+đáp án:: sai
+giải thích:: Tình huống bẫy kiến thức Khoa học bằng Tiếng Anh. Ánh sáng (light) truyền đi với tốc độ 300,000 km/s, nhanh hơn rất nhiều so với âm thanh (sound - khoảng 343 m/s). Do đó, ta luôn THẤY chớp (lightning) TRƯỚC KHI NGHE thấy sấm (thunder).
+---
+loại:: dropdown
+câu 12:: Read the excerpt about setting up a communication base after a storm: "The hurricane destroyed all the local cell towers. The rescue team brought a satellite dish, but it was useless because the main cable was severed. The engineer had to quickly [[connect|disconnect|explore|bump into]] the broken wires using emergency tape so that the team could send a distress signal to the headquarters."
+đáp án:: connect
+giải thích:: Trong ngữ cảnh cáp bị đứt (severed), kỹ sư phải "kết nối" (connect) các sợi dây lại với nhau để gửi tín hiệu.
+---
+loại:: sap_xep
+câu 13:: Reconstruct the sentence to describe a fortunate past situation regarding a natural disaster. Ensure the grammatical structure perfectly reflects the Past Continuous tense used for an ongoing background state.
+muc:: (1) Luckily
+muc:: (2) people
+muc:: (3) weren't
+muc:: (4) living
+muc:: (5) near
+muc:: (6) to
+muc:: (7) the
+muc:: (8) volcano
+muc:: (9) when
+muc:: (10) it
+muc:: (11) happened.
+giải thích:: Câu mẫu chuẩn trong Unit 7: "Luckily people weren't living near to the volcano when it happened." (May mắn thay người dân đã không đang sống gần núi lửa khi điều đó xảy ra).
+---
+loại:: noi
+câu 14:: Match the clauses to form highly logical and grammatically correct complex sentences detailing extreme weather events and their consequences.
+trai:: While the rescue helicopters were flying over the flooded city,
+phai:: they spotted several people trapped on the roofs.
+trai:: As the temperature was dropping rapidly below freezing,
+phai:: the heavy rain turned into a dangerous ice storm.
+trai:: When the powerful lightning struck the power grid,
+phai:: the entire hospital was relying on backup generators.
+trai:: Because the hot air and cold air were colliding aggressively,
+phai:: a massive tornado began to form on the horizon.
+giải thích:: Kỹ năng ghép câu yêu cầu học sinh vừa phải đúng ngữ pháp (sự phối hợp giữa Past Continuous và Past Simple), vừa phải hợp lý về mặt logic ngữ nghĩa (nguyên nhân - kết quả trong thiên tai).
+---
+loại:: phan_loai
+câu 15:: Distinguish between the proper spelling and incorrect/confusing spelling of critical vocabulary words. Students often lose points in writing tasks due to these exact errors. Classify the following words.
+nhom:: Correct Spelling (Unit 7 Vocabulary)
+nhom:: Incorrect/Confusing Spelling (Do not use)
+the:: Lightning
+the:: Electricity
+the:: Lighting
+the:: Electrisity
+the:: Thunderstorm
+the:: Thundrstorm
+đáp án:: Lightning::1
+đáp án:: Electricity::1
+đáp án:: Lighting::2
+đáp án:: Electrisity::2
+đáp án:: Thunderstorm::1
+đáp án:: Thundrstorm::2
+giải thích:: "Lighting" nghĩa là hệ thống thắp sáng (đèn), không phải sấm chớp. Đây là lỗi chính tả kinh điển nhất của học sinh khi học Unit 7.
+---
+loại:: mot_dap_an
+câu 16:: Read the dialogue between two characters:
+John: "I tried calling you at 9:00 PM last night, but you didn't answer. Where were you?"
+Sarah: "I'm so sorry! I couldn't hear my phone because the storm ______ so loudly outside, and I ______ to calm down my terrified dog."
+Choose the grammatically correct pair to fill in the blanks.
+a:: thunders / am trying
+b:: was thundering / was trying
+c:: is thundering / was trying
+d:: thundered / tried
+đáp án:: b
+giải thích:: Sự việc xảy ra vào một thời điểm xác định trong quá khứ ("at 9:00 PM last night"). Hai hành động (bão ầm ĩ và cố gắng dỗ dành chú chó) xảy ra song song cùng lúc trong quá khứ, nên cả hai đều chia Quá khứ tiếp diễn (was thundering / was trying).
+---
+loại:: dien_khuyet
+câu 17:: Analyze the text about a survival situation: "The hikers were trapped in the cave. They desperately needed to make a fire, but all their matches were wet. They noticed a thick, black storm ... gathering above the mountain peak. They knew they had to find shelter deeper inside because the heavy rain would start pouring within minutes." Fill in the blank with a 5-letter noun.
+đáp án:: cloud
+giải thích:: "A thick, black storm..." tập hợp trên đỉnh núi, báo hiệu mưa lớn sắp trút xuống. Từ chính xác là "cloud" (đám mây bão).
+---
+loại:: dung_sai
+câu 18:: Evaluate the grammar and context of this sentence: "I am sending you an email about the job yesterday."
+đáp án:: sai
+giải thích:: Lỗi cơ bản nhưng học sinh hay sơ ý. Trạng từ thời gian là "yesterday" (hôm qua) nhưng động từ lại chia ở Hiện tại tiếp diễn "I am sending". Câu đúng phải là "I sent" hoặc sửa trạng từ thành "now".
+---
+loại:: dropdown
+câu 19:: Read the scientific explanation of thermal dynamics: "In a controlled experiment, we observe how different gases interact. Due to its lower density, [[cold air|hot air|electricity|thunder]] always rises to the top of the chamber, while the heavier, denser gas sinks to the bottom. This exact principle causes weather patterns in our atmosphere."
+đáp án:: hot air
+giải thích:: Nguyên lý vật lý cơ bản: "Hot air" (không khí nóng) nhẹ hơn nên bay lên cao, trong khi "Cold air" (không khí lạnh) nặng hơn nên chìm xuống.
+---
+loại:: sap_xep
+câu 20:: Reorder the words to form a sentence that describes an action happening at the exact moment of speaking, using the Present Continuous tense.
+muc:: (1) Right
+muc:: (2) now,
+muc:: (3) my
+muc:: (4) sister
+muc:: (5) is
+muc:: (6) studying
+muc:: (7) at
+muc:: (8) university.
+giải thích:: Dấu hiệu "Right now" đi kèm với cấu trúc S + is + V-ing. (Câu mẫu trong giáo trình CIE 6).
+---
+loại:: nhieu_dap_an
+câu 21:: A meteorologist is warning the public about an incoming severe weather system. Which of the following statements made by the meteorologist correctly identify the DANGERS associated with a "Thunderstorm"? (Select 2 correct answers).
+a:: "The sudden drop in temperature is pleasant and completely harmless to people outside."
+b:: "The static electricity discharges can cause fatal injuries if they strike humans."
+c:: "The bright white clouds will provide excellent lighting for photography."
+d:: "The massive electrical energy can strike trees, potentially causing severe forest fires."
+đáp án:: b,d
+giải thích:: Những nguy hiểm thực sự của bão sấm sét (Thunderstorm) là điện giật gây tử vong (fatal injuries) và sấm sét đánh bốc cháy rừng (forest fires). Các phương án A và C mô tả sai lệch bản chất nguy hiểm của thảm họa.
+---
+loại:: mot_dap_an
+câu 22:: Read the short narrative: "The detective carefully examined the crime scene. While he ______ the broken window, he suddenly ______ a crucial piece of evidence hidden under the carpet." Choose the correct tense combination.
+a:: examined / was noticing
+b:: was examining / noticed
+c:: examines / notices
+d:: was examining / was noticing
+đáp án:: b
+giải thích:: Hành động điều tra đang diễn ra kéo dài (was examining), hành động phát hiện ra bằng chứng (noticed) xảy ra đột ngột và cắt ngang. Cấu trúc: While + Past Continuous, Past Simple.
+---
+loại:: dien_khuyet
+câu 23:: Complete the phrasal verb in the following context: "I haven't seen my old science teacher in over five years. However, while I was walking through the shopping mall yesterday, I accidentally bumped ... him. It was a wonderful surprise!"
+đáp án:: into
+giải thích:: "Bump into" ngoài nghĩa đen là va chạm vật lý, còn mang nghĩa bóng là tình cờ gặp lại ai đó (meet someone unexpectedly).
+---
+loại:: noi
+câu 24:: Match the grammatical structures with their intended semantic functions, demonstrating a deep understanding of English verb tenses.
+trai:: Subject + is/am/are + Verb-ing
+phai:: Describes an action happening right now or a temporary state.
+trai:: Subject + was/were + Verb-ing
+phai:: Describes a continuous background action in the past.
+trai:: Subject + Verb-ed / Irregular Verb
+phai:: Describes a sudden, completed action that interrupts a past event.
+giải thích:: Hệ thống hóa công thức ngữ pháp và chức năng của chúng, giúp học sinh giỏi không chỉ thuộc vẹt mà hiểu rõ lý do sử dụng thì.
+---
+loại:: dropdown
+câu 25:: Read the technical scenario: "The new smart house system is completely offline. The solar panels are generating power, but the main circuit is broken. The technician must quickly [[connect|disconnect|bump into|strike]] the external battery to the main grid to restore functionality to the house."
+đáp án:: connect
+giải thích:: Mạch điện bị đứt (broken), kỹ thuật viên cần phải "nối" (connect) hệ thống pin bên ngoài vào mạng lưới để khôi phục hoạt động. Câu hỏi này liên kết nhẹ nhàng giữa từ vựng Unit 7 và concept của Unit 10/Science.
+---
+// ==================================================================
+// BATCH 2: GLOBAL ENGLISH - NATURE'S POWER & CONTINUOUS TENSES (Q26 - Q50)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 26:: Read the following aviation incident report: "Flight 828 was cruising safely at an altitude of 35,000 feet. The weather radar indicated a clear path, but suddenly, the aircraft entered a zone of extreme atmospheric instability. The captain reported witnessing a massive, localized electrical discharge between two towering cumulus structures, which temporarily blinded the co-pilot." Based on this scientific description, what is the exact term for this "electrical discharge"?
+a:: Thunder
+b:: Cloud
+c:: Lightning
+d:: Hot air
+đáp án:: c
+giải thích:: Thuật ngữ "electrical discharge" (sự phóng điện) đi kèm với hiện tượng gây chói mắt (blinded) chính xác là tia chớp/sét (Lightning). "Thunder" chỉ là sóng âm sinh ra sau đó.
+---
+loại:: dien_khuyet
+câu 27:: Analyze the excerpt from a wilderness survival guide: "If you are caught outdoors during a severe meteorological event, avoid seeking shelter under isolated tall trees or standing in open fields. When the violent collision of cold and hot air creates a massive ... (a severe storm characterized by lightning and heavy rain), tall objects act as natural conductors and become prime targets for deadly strikes." Fill in the blank with the correct 12-letter compound noun.
+đáp án:: thunderstorm
+giải thích:: Một cơn bão dữ dội (severe storm) được đặc trưng bởi chớp (lightning) và được hình thành từ sự va chạm của không khí nóng/lạnh chính là "thunderstorm" (bão có sấm sét).
+---
+loại:: phan_loai
+câu 28:: A grammar instructor is evaluating the students' understanding of the Present Continuous tense. While its primary function is to describe actions happening at the exact moment of speaking, it is also frequently used to describe temporary situations or habits occurring around the present period. Classify the following sentences based on their specific semantic function.
+nhom:: Happening exactly right now (Xảy ra ngay lúc nói)
+nhom:: Temporary situation around now (Tình huống tạm thời)
+the:: The mechanic is fixing the solar panels on the roof at this very moment.
+the:: My brother is taking a short course on renewable energy this month.
+the:: Look! The river is rising incredibly fast due to the heavy rain.
+the:: We are living in a rented apartment while our house is being renovated.
+đáp án:: The mechanic is fixing the solar panels on the roof at this very moment.::1
+đáp án:: My brother is taking a short course on renewable energy this month.::2
+đáp án:: Look! The river is rising incredibly fast due to the heavy rain.::1
+đáp án:: We are living in a rented apartment while our house is being renovated.::2
+giải thích:: "This month" và "while our house is being renovated" là các khoảng thời gian có giới hạn, mang tính tạm thời (Temporary). "At this very moment" và "Look!" chỉ hành động tức thời ngay trước mắt.
+---
+loại:: sap_xep
+câu 29:: An investigative journalist is writing a dramatic recount of a power grid failure. She wants to emphasize that a routine, ongoing action was abruptly shattered by a natural force. Reorder the fragmented words below to construct a grammatically flawless sentence using the Past Continuous and Past Simple tenses.
+muc:: (1) As
+muc:: (2) the
+muc:: (3) reporter
+muc:: (4) was
+muc:: (5) speaking
+muc:: (6) to
+muc:: (7) the
+muc:: (8) camera,
+muc:: (9) lightning
+muc:: (10) struck
+muc:: (11) the
+muc:: (12) tree.
+giải thích:: Đây là cấu trúc kinh điển của Unit 7: As + S + was/were V-ing (Hành động nền), S + V2/ed (Hành động cắt ngang). 
+---
+loại:: dropdown
+câu 30:: Read the following article about the physics of flight: "The annual hot air balloon festival was almost canceled today. The basic mechanics of these beautiful balloons rely on the thermodynamic principle that [[hot air|cold air|electricity|cloud]] is much lighter and less dense than the surrounding atmosphere, which naturally causes the balloon's envelope to rise into the sky."
+đáp án:: hot air
+giải thích:: Nguyên lý nhiệt động học: Không khí nóng (hot air) nhẹ hơn không khí lạnh xung quanh nên sẽ bay lên cao, tạo lực nâng cho khinh khí cầu.
+---
+loại:: dung_sai
+câu 31:: Read the following sentence submitted by an advanced ESL student: "Yesterday at 5:00 PM, while the relentless storm was destroying the coastal houses, the emergency services were evacuating the local residents to higher ground." Evaluate the grammar. Does this sentence correctly describe two parallel ongoing actions in the past using the Past Continuous tense?
+đáp án:: đúng
+giải thích:: Khác với cấu trúc một hành động cắt ngang một hành động khác, khi hai hành động diễn ra song song cùng một lúc trong quá khứ (được nối bởi "while"), cả hai vế đều chia ở thì Past Continuous. Câu này hoàn toàn đúng ngữ pháp.
+---
+loại:: noi
+câu 32:: A literature professor wants students to understand how different verb tenses manipulate the pacing of a story. Match the provided narrative sentences (Left) with the correct grammatical explanation of their function (Right).
+trai:: The wind was howling and the rain was beating against the window.
+phai:: Sets the ongoing background scene using Past Continuous.
+trai:: Suddenly, the heavy wooden door burst open.
+phai:: Describes a short, abrupt interrupting action using Past Simple.
+trai:: Right now, the rescue teams are clearing the debris from the roads.
+phai:: Describes an action happening at the exact moment of speaking.
+trai:: The mayor is currently staying in a hotel until his roof is fixed.
+phai:: Describes a temporary situation occurring around the present time.
+giải thích:: Bài tập này yêu cầu học sinh nhận diện chức năng ngữ nghĩa sâu xa của từng thì thay vì chỉ học vẹt công thức.
+---
+loại:: nhieu_dap_an
+câu 33:: A city planner is designing a public awareness campaign about the dangers of extreme weather. Based on the scientific concepts learned in Unit 7, which of the following scenarios accurately describe the real-life dangers associated with the natural "electricity" generated during a thunderstorm? (Select 2 correct answers)
+a:: It can dramatically increase the temperature of ocean water, causing tsunamis.
+b:: It can strike power lines, causing massive surges that destroy household appliances.
+c:: It acts as a permanent, safe, and renewable power source for modern skyscrapers.
+d:: It can strike dry vegetation in forests, instantly igniting devastating wildfires.
+đáp án:: b,d
+giải thích:: Tia sét (natural electricity) vô cùng nguy hiểm vì có thể đánh hỏng lưới điện (b) và gây cháy rừng (d). Phương án (a) sai nguyên lý vật lý, phương án (c) sai vì sét không thể dùng làm nguồn điện ổn định an toàn.
+---
+loại:: mot_dap_an
+câu 34:: Read the historical account: "In 1752, Benjamin Franklin conducted his famous, albeit highly dangerous, kite experiment during a violent storm in Pennsylvania. He wanted to scientifically prove that the brilliant flashes occurring in the sky and the static sparks generated in laboratory experiments were fundamentally the exact same phenomenon." What did Franklin successfully demonstrate that lightning is a natural form of?
+a:: Cold air
+b:: Cloud formation
+c:: Electricity
+d:: Thunder
+đáp án:: c
+giải thích:: Thí nghiệm thả diều nổi tiếng của Benjamin Franklin đã chứng minh rằng tia sét (lightning) chính là một dạng "electricity" (điện) trong tự nhiên.
+---
+loại:: dien_khuyet
+câu 35:: Analyze the meteorological report: "The prolonged heatwave has finally broken. As the sun set, a dense, high-pressure mass of ... (low-temperature gas) moved rapidly down from the northern mountains, aggressively pushing the lighter, warmer gases upward and triggering a sudden, violent storm." Fill in the blank with the correct 2-word term from Unit 7.
+đáp án:: cold air
+giải thích:: Khối khí áp cao, nhiệt độ thấp di chuyển từ trên núi xuống và đẩy khí nóng lên trên là định nghĩa của "cold air" (không khí lạnh).
+---
+loại:: sap_xep
+câu 36:: A police detective is interrogating a suspect regarding a robbery that occurred during a major city blackout. She needs to formulate a precise question to establish the suspect's alibi at the exact time the power failed. Reorder the words to create a grammatically correct question in the Past Continuous tense.
+muc:: (1) What
+muc:: (2) exactly
+muc:: (3) were
+muc:: (4) you
+muc:: (5) doing
+muc:: (6) when
+muc:: (7) the
+muc:: (8) thunderstorm
+muc:: (9) started
+muc:: (10) yesterday?
+giải thích:: Cấu trúc câu hỏi có từ để hỏi (Wh-question) với Past Continuous bị cắt ngang: Wh-word + was/were + S + V-ing + when + S + V2/ed + time?
+---
+loại:: dropdown
+câu 37:: Read the emergency protocol from a hospital's technical manual: "During a severe Category 5 hurricane, the main municipal power grid will inevitably fail. When this happens, the chief engineer must rush to the basement and immediately [[disconnect|bump into|connect|explore]] the heavy-duty cables to the diesel backup generators to ensure life-support systems remain online."
+đáp án:: connect
+giải thích:: Trong tình huống khẩn cấp, kỹ sư phải "kết nối" (connect) hệ thống cáp với máy phát điện dự phòng. Các từ "disconnect" (ngắt kết nối) hoặc "bump into" (va chạm) sẽ gây thảm họa trong ngữ cảnh này.
+---
+loại:: dung_sai
+câu 38:: Read the following definition provided in a student's geography presentation: "A cloud is simply a solid, floating mass of extremely low-temperature gas that always remains permanently attached to the peaks of high mountains." Evaluate the scientific accuracy of this definition based on your Unit 7 vocabulary knowledge.
+đáp án:: sai
+giải thích:: Định nghĩa này sai hoàn toàn về mặt khoa học. Mây (cloud) không phải là vật rắn (solid) hay khí lạnh (low-temp gas), mà là hơi nước ngưng tụ (condensed water vapor) trôi nổi tự do trong không khí.
+---
+loại:: phan_loai
+câu 39:: Distinguishing between Base Verbs and their Noun forms is critical for advanced writing. Students often mistakenly use a noun when a verb is required, and vice versa. Classify the following vocabulary words from Unit 7 into their correct grammatical categories.
+nhom:: Verbs (Action words)
+nhom:: Nouns (Things/Concepts)
+the:: Connect
+the:: Electricity
+the:: Bump into
+the:: Lightning
+the:: Flow
+the:: Thunderstorm
+đáp án:: Connect::1
+đáp án:: Electricity::2
+đáp án:: Bump into::1
+đáp án:: Lightning::2
+đáp án:: Flow::1
+đáp án:: Thunderstorm::2
+giải thích:: Connect (kết nối), bump into (va chạm), flow (chảy) là động từ chỉ hành động. Electricity (điện), lightning (tia sét), thunderstorm (bão) là các danh từ.
+---
+loại:: noi
+câu 40:: Synthesize complex sentences by matching the dependent clause (containing the interrupting action) with the independent clause (containing the ongoing background action). This tests logical reasoning and tense coordination.
+trai:: When the massive lightning bolt struck the transmission tower,
+phai:: the surgeon was performing a critical operation in the hospital.
+trai:: As the dark clouds were gathering ominously overhead,
+phai:: the loud thunder suddenly terrified the grazing animals.
+trai:: While the technician was repairing the broken circuit,
+phai:: a sudden spark of electricity burned his glove.
+trai:: When the severe thunderstorm finally hit the small town,
+phai:: most of the residents were sleeping peacefully.
+giải thích:: Đòi hỏi học sinh phải hiểu logic nguyên nhân - bối cảnh (Ví dụ: đang mổ thì sét đánh mất điện, đang sửa điện thì bị tia lửa xẹt, đang ngủ thì bão ập tới).
+---
+loại:: mot_dap_an
+câu 41:: Read the diary entry of a mountain hiker: "The trail was steep, narrow, and incredibly slippery after the rain. I wasn't paying close attention to the path directly in front of me because I was distracted by the majestic clouds rolling over the peaks. Suddenly, I ______ a large, jagged rock hidden in the tall grass, severely twisting my ankle and falling to the ground." Choose the correct verb to complete the narrative.
+a:: connected
+b:: flowed
+c:: bumped into
+d:: explored
+đáp án:: c
+giải thích:: Đang đi không chú ý và bị vấp ngã/va phải một tảng đá (a large rock), cụm động từ chính xác nhất là "bumped into" (va, đụng, đâm sầm vào).
+---
+loại:: dien_khuyet
+câu 42:: Fill in the blank to complete the grammatical structure of this Past Continuous sentence: "The terrified children ... (be) hiding under their blankets and crying loudly when the deafening thunder shook the entire house at 2:00 AM."
+đáp án:: were
+giải thích:: Chủ ngữ "The terrified children" là danh từ số nhiều, nên động từ to be trong thì Quá khứ tiếp diễn phải chia là "were" (were hiding).
+---
+loại:: nhieu_dap_an
+câu 43:: A common pitfall for English learners is using stative verbs (verbs of feeling, knowing, owning) in the continuous form. Which of the following sentences correctly use dynamic verbs in the continuous tense, avoiding the "stative verb trap"? (Select 2 correct answers).
+a:: Right now, the lead scientist is understanding the cause of the thunderstorm perfectly.
+b:: Look! The river is flowing violently over the bridge due to the heavy rain.
+c:: At the moment, the rescue team is searching for survivors in the collapsed building.
+d:: While the power was out, I was needing a flashlight to read my book.
+đáp án:: b,c
+giải thích:: Câu (B) và (C) sử dụng các động từ hành động (flow, search) ở thể tiếp diễn rất chuẩn xác. Câu (A) sai vì "understand" và câu (D) sai vì "need" là các stative verbs, không được dùng ở dạng V-ing.
+---
+loại:: sap_xep
+câu 44:: An architectural firm is releasing a press statement about their ongoing, temporary project to combat climate change. Reorder the words to create a correct sentence using the Present Continuous tense for a temporary situation.
+muc:: (1) Currently,
+muc:: (2) our
+muc:: (3) best
+muc:: (4) engineers
+muc:: (5) are
+muc:: (6) designing
+muc:: (7) a
+muc:: (8) completely
+muc:: (9) new
+muc:: (10) solar
+muc:: (11) system.
+giải thích:: "Currently" (Hiện tại) là dấu hiệu của Present Continuous. Cấu trúc: Currently, S (our best engineers) + are + V-ing (designing) + O (a completely new solar system).
+---
+loại:: dropdown
+câu 45:: Read the explanation from a geography documentary: "The Earth's climate is a complex engine driven by temperature differences. The meteorologist pointed to the digital map and explained, 'The bright red arrows represent the aggressive movement of [[hot air|cold air|electricity|lightning]], which is rising rapidly from the equator and traveling towards the poles, carrying immense thermal energy.'"
+đáp án:: hot air
+giải thích:: Mũi tên màu đỏ (red arrows), mang năng lượng nhiệt khổng lồ (thermal energy) và có xu hướng bốc lên cao (rising rapidly) là những đặc điểm miêu tả "hot air" (không khí nóng).
+---
+loại:: dung_sai
+câu 46:: Analyze this grammar test question: "As I walked down the street, it was starting to rain heavily." An AI checking software flagged this sentence as "awkward and grammatically flawed" for narrating an interruption in the past. Is the AI software correct in flagging this?
+đáp án:: đúng
+giải thích:: AI bắt lỗi hoàn toàn đúng (nghĩa là mệnh đề trên là sai ngữ pháp). Hành động đi bộ là nền (kéo dài) nên phải là "was walking", còn trời đổ mưa là cắt ngang (đột ngột) nên phải là "started". Câu đúng: "As I was walking down the street, it started to rain heavily."
+---
+loại:: mot_dap_an
+câu 47:: Read the technology and lifestyle article: "Modern smart homes rely heavily on a stable network and constant power. If a severe storm damages the local municipal grid, the house loses its primary source of ______. This renders advanced devices like induction cookers, smart dishwashers, and wireless entertainment systems completely useless until emergency backup generators kick in." What is the missing word?
+a:: Cloud
+b:: Electricity
+c:: Thunder
+d:: Hot air
+đáp án:: b
+giải thích:: Các thiết bị thông minh (smart homes, induction cookers, dishwashers) phụ thuộc hoàn toàn vào "Electricity" (điện năng). Mất điện khiến chúng trở nên vô dụng.
+---
+loại:: phan_loai
+câu 48:: In English, determining whether to use a Simple Past verb or a Past Continuous verb depends entirely on the nature of the action (background vs. interrupter). Classify the following verb phrases based on how they should be typically used in a complex narrative sentence containing "When" or "While".
+nhom:: Use Past Continuous (Background/Long action)
+nhom:: Use Past Simple (Interrupting/Short action)
+the:: ... drive along the highway
+... sleep in the bedroom
+the:: ... strike the tree
+... suddenly drop the phone
+the:: ... repair the broken circuit
+... wait for the bus
+the:: ... explode violently
+... bump into a wall
+đáp án:: ... drive along the highway
+... sleep in the bedroom::1
+đáp án:: ... strike the tree
+... suddenly drop the phone::2
+đáp án:: ... repair the broken circuit
+... wait for the bus::1
+đáp án:: ... explode violently
+... bump into a wall::2
+giải thích:: Lái xe, ngủ, sửa chữa, chờ đợi là các hành động có tính kéo dài (dùng V-ing). Sét đánh, đánh rơi điện thoại, phát nổ, vấp phải tường là các hành động chớp nhoáng (dùng V2/ed).
+---
+loại:: noi
+câu 49:: Understanding antonyms and conceptual contrasts is key to mastering academic vocabulary. Match the Unit 7 vocabulary word with its direct logical opposite or conceptual contrast.
+trai:: Hot air (tends to rise)
+phai:: Cold air (tends to sink)
+trai:: Connect (join together)
+phai:: Disconnect (separate)
+trai:: Thunder (the sound wave)
+phai:: Lightning (the light wave)
+trai:: Present Continuous (happening right now)
+phai:: Past Continuous (happening in the past)
+giải thích:: Nối các cặp từ và khái niệm có tính chất đối lập hoặc tương phản song hành để kiểm tra tư duy hệ thống của học sinh.
+---
+loại:: dien_khuyet
+câu 50:: Read the anxious message sent by a farmer: "Look at those terrifying dark shapes gathering rapidly in the sky above the hills! A massive, nearly black ... is completely blocking the sun, and the wind is picking up. I need to get the animals into the barn because it's going to pour rain very soon." Fill in the blank with a single noun.
+đáp án:: cloud
+giải thích:: "Dark shapes gathering" (những hình thù đen tối đang tập hợp) và "blocking the sun" (che khuất mặt trời) mô tả chính xác một đám "cloud" (mây bão).
+---
+// ==================================================================
+// BATCH 3: GLOBAL ENGLISH (Q51-Q90) & MATHS - ANGLES (Q91-Q100)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 51:: Read the following extract from a science fiction novel: "The spaceship was hovering above the alien planet. Suddenly, a massive surge of natural energy disabled the ship's navigation. The captain looked at the main screen and saw terrifying, jagged lines of pure blue ______ striking the ship's hull repeatedly, accompanied by deafening acoustic shockwaves." What is the blue energy described in the text?
+a:: Thunder
+b:: Cloud
+c:: Hot air
+d:: Lightning
+đáp án:: d
+giải thích:: "Jagged lines of pure blue" (những đường dích dắc màu xanh lam) mô tả tia sáng chói lòa, kết hợp với "acoustic shockwaves" (sóng xung kích âm thanh - sấm) đi kèm, khẳng định đây là tia chớp/sét (Lightning).
+---
+loại:: dien_khuyet
+câu 52:: Analyze the short news brief: "The city council is urging all citizens to remain indoors. A severe ... is currently passing over the metropolitan area, bringing wind gusts of up to 100 km/h, torrential downpours, and intense electrical activity that has already caused three localized fires." Fill in the blank with a 12-letter compound noun.
+đáp án:: thunderstorm
+giải thích:: Hiện tượng thời tiết có "torrential downpours" (mưa xối xả) và "intense electrical activity" (hoạt động điện cường độ cao) là bão có sấm sét (thunderstorm).
+---
+loại:: phan_loai
+câu 53:: A physics teacher wants students to understand the properties of different atmospheric elements based on thermal dynamics. Classify the following characteristics to the correct type of air mass.
+nhom:: Hot air (Không khí nóng)
+nhom:: Cold air (Không khí lạnh)
+the:: Has lower density and tends to rise.
+the:: Has higher density and tends to sink.
+the:: Moves upward, creating low atmospheric pressure at the surface.
+the:: Pushes downward violently, often causing sudden temperature drops.
+đáp án:: Has lower density and tends to rise.::1
+đáp án:: Has higher density and tends to sink.::2
+đáp án:: Moves upward, creating low atmospheric pressure at the surface.::1
+đáp án:: Pushes downward violently, often causing sudden temperature drops.::2
+giải thích:: Nguyên lý: Khí nóng (hot air) nở ra, nhẹ hơn (lower density) nên bay lên. Khí lạnh (cold air) co lại, nặng hơn (higher density) nên chìm xuống.
+---
+loại:: sap_xep
+câu 54:: Reconstruct the sentence from an adventure story to correctly depict a short, sudden action interrupting a longer, continuous background action in the past.
+muc:: (1) As
+muc:: (2) the
+muc:: (3) explorers
+muc:: (4) were
+muc:: (5) walking
+muc:: (6) through
+muc:: (7) the
+muc:: (8) dense
+muc:: (9) forest,
+muc:: (10) it
+muc:: (11) started
+muc:: (12) to rain.
+giải thích:: Cấu trúc As + Past Continuous (were walking) + Past Simple (started). "As the explorers were walking through the dense forest, it started to rain."
+---
+loại:: dropdown
+câu 55:: Read the technician's log: "The generator failed at 0300 hours. The primary circuit board was fried by a power surge. I had to completely [[connect|disconnect|bump into|flow]] the main cables from the damaged board to prevent further electrical fires before I could install the replacement parts."
+đáp án:: disconnect
+giải thích:: Bảng mạch bị cháy (fried), kỹ thuật viên phải "ngắt kết nối" (disconnect) các dây cáp để ngăn hỏa hoạn trước khi sửa chữa.
+---
+loại:: dung_sai
+câu 56:: Evaluate the grammar of the following sentence describing a past event: "While the students were taking their final exam, the fire alarm was suddenly ringing, causing everyone to evacuate the building immediately." Is the use of the continuous tense for the fire alarm grammatically correct here?
+đáp án:: sai
+giải thích:: Lỗi "Double Continuous". Hành động chuông báo cháy reo là sự kiện cắt ngang đột ngột, phải dùng thì Quá khứ đơn: "the fire alarm suddenly rang".
+---
+loại:: mot_dap_an
+câu 57:: Which of the following sentences correctly utilizes the Present Continuous tense to describe a temporary habit or situation, rather than an action happening at the exact moment of speaking?
+a:: Look out the window! The lightning is striking the radio tower!
+b:: I am reading a fascinating book about meteorology this week.
+c:: The technician is connecting the solar panels right now.
+d:: Listen! The wind is howling incredibly loudly tonight.
+đáp án:: b
+giải thích:: Các phương án A, C, D đều có dấu hiệu (Look, right now, Listen) chỉ sự việc đang diễn ra ngay lúc nói. Phương án B với "this week" mô tả một hành động mang tính chất tạm thời kéo dài trong hiện tại.
+---
+loại:: noi
+câu 58:: Match the conditional clauses (Left) with their logical resulting actions (Right) to form coherent sentences about surviving extreme weather.
+trai:: If a severe thunderstorm is rapidly approaching your location,
+phai:: you should immediately disconnect all major electronic appliances.
+trai:: If the visibility drops to zero due to thick fog and heavy rain,
+phai:: you must stop driving to avoid bumping into other vehicles.
+trai:: If you see lightning and hear thunder less than 3 seconds later,
+phai:: the storm is dangerously close, and you must seek indoor shelter.
+trai:: If the local power grid fails completely due to fallen trees,
+phai:: you will have to rely on batteries and flashlights for electricity.
+giải thích:: Kiểm tra khả năng đọc hiểu và tư duy logic nguyên nhân - hệ quả của học sinh trong ngữ cảnh thảm họa tự nhiên (Unit 7).
+---
+loại:: dien_khuyet
+câu 59:: Complete the sentence from a historical text: "Before the invention of the lightbulb in the late 19th century, human societies did not have widespread access to ... for illuminating their homes, relying instead on candles and oil lamps."
+đáp án:: electricity
+giải thích:: Sự phát minh ra bóng đèn gắn liền với việc sử dụng "điện năng" (electricity) để thắp sáng.
+---
+loại:: nhieu_dap_an
+câu 60:: A science test asks students to identify the physical forms that water can take in the atmosphere. Based on your knowledge of Unit 7, which of the following atmospheric phenomena are primarily composed of condensed water vapor or ice crystals? (Select 2 correct answers).
+a:: Cloud
+b:: Hot air
+c:: Lightning
+d:: Fog
+đáp án:: a,d
+giải thích:: Mây (Cloud) và Sương mù (Fog - thực chất là mây ở tầng thấp) đều được cấu tạo từ hơi nước ngưng tụ. Không khí nóng (b) và tia sét (c) không phải là nước.
+---
+loại:: dropdown
+câu 61:: Read the following sentence: "The clumsy waiter was carrying a tall stack of dirty plates. Because he wasn't looking where he was going, he accidentally [[connected|disconnected|bumped into|explored]] a customer's chair and dropped everything."
+đáp án:: bumped into
+giải thích:: Bồi bàn không nhìn đường nên đã vô tình "va chạm, đụng trúng" (bumped into) ghế của khách hàng.
+---
+loại:: sap_xep
+câu 62:: Reorder the following words to form a grammatically correct Wh-question using the Past Continuous tense. This question is commonly asked by investigators after an incident.
+muc:: (1) What
+muc:: (2) were
+muc:: (3) you
+muc:: (4) doing
+muc:: (5) when
+muc:: (6) the
+muc:: (7) lights
+muc:: (8) went
+muc:: (9) out?
+giải thích:: Cấu trúc: Wh-word (What) + were + S (you) + V-ing (doing) + when + S (the lights) + V2 (went out).
+---
+loại:: dung_sai
+câu 63:: Evaluate the following scientific claim: "Lightning only ever strikes the highest point in a given area, such as a skyscraper or a tall tree, and will never strike flat ground."
+đáp án:: sai
+giải thích:: Mặc dù sét có "xu hướng" đánh vào điểm cao nhất để tìm đường dẫn điện ngắn nhất, nhưng nó HOÀN TOÀN CÓ THỂ đánh xuống mặt đất phẳng hoặc mặt nước. Khẳng định "never strike flat ground" là sai kiến thức khoa học.
+---
+loại:: mot_dap_an
+câu 64:: Read this short interaction:
+Mother: "Why are your clothes completely soaked?"
+Son: "I ______ for the school bus, and a passing car suddenly ______ through a massive puddle and splashed me."
+Choose the correct tenses to complete the dialogue.
+a:: was waiting / drove
+b:: waited / was driving
+c:: was waiting / was driving
+d:: am waiting / drives
+đáp án:: a
+giải thích:: Hành động đứng chờ xe buýt là nền, kéo dài (was waiting). Hành động ô tô chạy qua vũng nước làm bắn nước là sự kiện cắt ngang (drove).
+---
+loại:: phan_loai
+câu 65:: Classify the following scenarios to indicate whether they describe a "Background Action" (requires Past Continuous) or an "Interrupting Action" (requires Past Simple) in a narrative context.
+nhom:: Background Action (Past Continuous)
+nhom:: Interrupting Action (Past Simple)
+the:: ... sleeping peacefully in bed.
+the:: ... hearing a loud crash outside.
+the:: ... watching a movie in the living room.
+the:: ... the power suddenly going out.
+đáp án:: ... sleeping peacefully in bed.::1
+đáp án:: ... hearing a loud crash outside.::2
+đáp án:: ... watching a movie in the living room.::1
+đáp án:: ... the power suddenly going out.::2
+giải thích:: Các hành động kéo dài (ngủ, xem phim) đóng vai trò làm nền (Background). Các sự kiện bất ngờ (nghe tiếng động mạnh, mất điện) đóng vai trò cắt ngang (Interrupting).
+---
+loại:: noi
+câu 66:: Match the irregular verbs from your grammar list with their correct Past Simple forms, which are essential for creating accurate "interrupting" clauses.
+trai:: Strike
+phai:: Struck
+trai:: Catch
+phai:: Caught
+trai:: Hear
+phai:: Heard
+trai:: Fall
+phai:: Fell
+giải thích:: Kiểm tra dạng quá khứ của các động từ bất quy tắc thường xuyên xuất hiện trong các bài viết về thảm họa (sét đánh, bắt lửa, nghe tiếng sấm, cây đổ).
+---
+loại:: dien_khuyet
+câu 67:: Analyze the text about weather photography: "Taking pictures of extreme weather requires patience and specialized equipment. To capture a perfect shot of ... (the electrical discharge in the sky), the photographer must set a long exposure on the camera and anticipate exactly where the flash will occur." Fill in the blank with the correct 9-letter word.
+đáp án:: lightning
+giải thích:: Nhiếp ảnh gia chờ chụp "electrical discharge in the sky" (sự phóng điện trên bầu trời), đó chính là tia sét (lightning).
+---
+loại:: dropdown
+câu 68:: Read the instruction manual for a new smart TV: "To set up your device, first plug the power cord into the wall socket to provide [[water|hot air|electricity|thunder]] to the unit. Then, follow the on-screen prompts to connect to your home Wi-Fi network."
+đáp án:: electricity
+giải thích:: Cắm dây nguồn (power cord) vào ổ cắm trên tường là để cung cấp "điện năng" (electricity) cho TV hoạt động.
+---
+loại:: sap_xep
+câu 69:: A student wrote a sentence with scrambled syntax regarding a past continuous action. Reorder the words to make it grammatically correct.
+muc:: (1) The
+muc:: (2) wind
+muc:: (3) was
+muc:: (4) howling
+muc:: (5) loudly
+muc:: (6) while
+muc:: (7) we
+muc:: (8) were
+muc:: (9) hiding
+muc:: (10) in
+muc:: (11) the
+muc:: (12) basement.
+giải thích:: Hai hành động diễn ra song song trong quá khứ được nối bởi "while": The wind was howling loudly while we were hiding in the basement.
+---
+loại:: dung_sai
+câu 70:: Evaluate the sentence: "The sun is shining every day in the desert." Is the Present Continuous tense used correctly here to describe a permanent truth or a regular habit?
+đáp án:: sai
+giải thích:: Hiện tại tiếp diễn (is shining) KHÔNG dùng cho sự thật hiển nhiên hoặc thói quen thường xuyên (every day). Câu này bắt buộc phải dùng Hiện tại đơn: "The sun shines every day in the desert."
+---
+loại:: mot_dap_an
+câu 71:: "Because of the thick ______, the airport canceled all outgoing flights, as pilots had absolutely zero visibility of the runway." Which word best fits the blank?
+a:: electricity
+b:: cloud
+c:: lightning
+d:: hot air
+đáp án:: b
+giải thích:: Tầm nhìn bằng 0 (zero visibility) là do mây mù/sương mù dày đặc che khuất. Từ "cloud" (hoặc fog) là hợp lý nhất trong các lựa chọn.
+---
+loại:: nhieu_dap_an
+câu 72:: Which of the following situations MUST be described using the Past Continuous tense? (Select 2 correct answers).
+a:: Describing the ongoing atmospheric conditions (like raining or blowing) at a specific time yesterday.
+b:: Stating the exact year Benjamin Franklin invented the lightning rod.
+c:: Describing what two different groups of people were doing simultaneously during a blackout.
+d:: Explaining that water boils at 100 degrees Celsius.
+đáp án:: a,c
+giải thích:: Quá khứ tiếp diễn được dùng để tả bối cảnh đang diễn ra tại một thời điểm quá khứ (A) và hai hành động song song trong quá khứ (C). Câu (B) dùng Quá khứ đơn, câu (D) dùng Hiện tại đơn.
+---
+loại:: noi
+câu 73:: Match the dependent clauses starting with "When" or "While" (Left) with their most logical and grammatically appropriate main clauses (Right).
+trai:: While the scientists were analyzing the storm data,
+phai:: the computer system suddenly crashed.
+trai:: When the massive oak tree finally fell over,
+phai:: the terrified neighbors were watching from their windows.
+trai:: As the hot air was rising from the valley,
+phai:: it collided with a cold front, forming dark clouds.
+trai:: When the electricity was completely restored,
+phai:: everyone cheered and turned on their heaters.
+giải thích:: Đánh giá khả năng phối hợp thì (Past Simple vs Past Continuous) dựa trên logic sự kiện.
+---
+loại:: dien_khuyet
+câu 74:: Fill in the blank with the correct verb form: "I couldn't hear the teacher's instructions because my classmates ... (talk) incredibly loudly during the entire experiment yesterday."
+đáp án:: were talking
+giải thích:: Hành động nói chuyện ồn ào diễn ra liên tục trong suốt buổi thí nghiệm hôm qua ("during the entire experiment yesterday") yêu cầu sử dụng thì Quá khứ tiếp diễn (were talking).
+---
+loại:: dropdown
+câu 75:: Read the safety brochure: "If a powerful [[thunderstorm|cloud|hot air|electricity]] strikes your area, avoid using corded phones or taking showers, as electrical currents can travel through the plumbing and phone lines."
+đáp án:: thunderstorm
+giải thích:: Hiện tượng mang theo dòng điện (electrical currents) nguy hiểm là bão có sấm sét (thunderstorm).
+---
+loại:: phan_loai
+câu 76:: Classify the verbs based on whether they are typically "Dynamic" (can be used in continuous tenses) or "Stative" (cannot be used in continuous tenses).
+nhom:: Dynamic Verbs (Can be V-ing)
+nhom:: Stative Verbs (NO V-ing)
+the:: Fly
+the:: Believe
+the:: Connect
+the:: Own
+the:: Strike
+the:: Understand
+đáp án:: Fly::1
+đáp án:: Believe::2
+đáp án:: Connect::1
+đáp án:: Own::2
+đáp án:: Strike::1
+đáp án:: Understand::2
+giải thích:: Các động từ chỉ trạng thái nhận thức, sở hữu (Believe, Own, Understand) không được dùng ở thì tiếp diễn.
+---
+loại:: sap_xep
+câu 77:: Reorder the words to form a correct negative sentence in the Past Continuous tense.
+muc:: (1) The
+muc:: (2) pilot
+muc:: (3) wasn't
+muc:: (4) paying
+muc:: (5) attention
+muc:: (6) to
+muc:: (7) the
+muc:: (8) radar
+muc:: (9) when
+muc:: (10) the
+muc:: (11) storm
+muc:: (12) hit.
+giải thích:: S + wasn't/weren't + V-ing + when + S + V2/ed. "The pilot wasn't paying attention to the radar when the storm hit."
+---
+loại:: dung_sai
+câu 78:: Evaluate the sentence: "As the cold air mass is colliding with the warm air mass yesterday, a massive tornado touched down." Is the verb tense coordination correct?
+đáp án:: sai
+giải thích:: Dấu hiệu thời gian là "yesterday" (hôm qua), do đó vế "is colliding" (Hiện tại tiếp diễn) là sai hoàn toàn. Phải sửa thành "was colliding" (Quá khứ tiếp diễn).
+---
+loại:: mot_dap_an
+câu 79:: "The old explorer had many scars on his body. He claimed that during an expedition in the Amazon, he accidentally ______ a poisonous plant in the dark, which caused a severe allergic reaction."
+a:: bumped into
+b:: connected
+c:: flowed
+d:: thundered
+đáp án:: a
+giải thích:: Va chạm vô tình vào một vật trong bóng tối (in the dark) được diễn đạt bằng cụm động từ "bumped into".
+---
+loại:: dien_khuyet
+câu 80:: Complete the sentence: "Look at the weather app! The red radar blobs are moving straight towards our city. We ... (pack) our emergency kits right now to be prepared."
+đáp án:: are packing
+giải thích:: Dấu hiệu "right now" kết hợp với cảnh báo khẩn cấp yêu cầu thì Hiện tại tiếp diễn (are packing) cho chủ ngữ "We".
+---
+loại:: nhieu_dap_an
+câu 81:: Which of the following words from Unit 7 can function as BOTH a noun and a verb in English? (Select 2 correct answers).
+a:: Cloud
+b:: Electricity
+c:: Thunder
+d:: Hot air
+đáp án:: a,c
+giải thích:: "Cloud" có thể là danh từ (đám mây) hoặc động từ (làm mờ, che phủ). "Thunder" có thể là danh từ (tiếng sấm) hoặc động từ (tạo ra tiếng sấm/quát tháo). Electricity và Hot air chỉ là danh từ.
+---
+loại:: noi
+câu 82:: Match the specific weather scenarios with the most appropriate safety advice.
+trai:: You are swimming in a lake and hear thunder.
+phai:: Immediately get out of the water and seek indoor shelter.
+trai:: You are driving when blinding heavy rain begins.
+phai:: Pull over safely and turn on your hazard lights.
+trai:: You are indoors during a severe lightning storm.
+phai:: Do not use corded electrical devices or take a shower.
+trai:: A thick, low cloud covers the highway, reducing visibility to zero.
+phai:: Drive extremely slowly and do not bump into the car ahead.
+giải thích:: Kết hợp từ vựng về thời tiết với kỹ năng sống thực tế (Real-world Application).
+---
+loại:: dropdown
+câu 83:: Read the excerpt: "The atmosphere is incredibly dynamic. Throughout the day, massive volumes of [[cold air|hot air|electricity|lightning]] are constantly heated by the sun, causing them to expand and rise high into the stratosphere."
+đáp án:: hot air
+giải thích:: Được đun nóng bởi mặt trời (heated by the sun), giãn nở (expand) và bay lên cao (rise) là đặc tính của "hot air" (không khí nóng).
+---
+loại:: sap_xep
+câu 84:: Reorder the words to create a complex sentence describing the interaction between humans and nature's power.
+muc:: (1) While
+muc:: (2) the
+muc:: (3) engineers
+muc:: (4) were
+muc:: (5) connecting
+muc:: (6) the
+muc:: (7) solar
+muc:: (8) panels,
+muc:: (9) it
+muc:: (10) began
+muc:: (11) to
+muc:: (12) pour.
+giải thích:: Hành động đang lắp ráp (were connecting) bị cắt ngang bởi trời đổ mưa (began to pour).
+---
+loại:: dung_sai
+câu 85:: Evaluate the sentence: "I was dropping my glass of water while I was cleaning the kitchen." Is this the most natural and grammatically correct way to express this event?
+đáp án:: sai
+giải thích:: Lỗi "Double Continuous" sai logic. Đánh rơi cốc (drop) là hành động chớp nhoáng, không thể kéo dài. Phải dùng Past Simple: "I dropped my glass of water while I was cleaning the kitchen."
+---
+loại:: mot_dap_an
+câu 86:: "The entire communication network collapsed because a massive bolt of ______ struck the primary satellite dish on the roof."
+a:: thunder
+b:: lightning
+c:: cloud
+d:: hot air
+đáp án:: b
+giải thích:: Đánh trúng đĩa vệ tinh (struck the satellite dish) phải là tia sét (lightning), tiếng sấm (thunder) không có khả năng đánh vật lý.
+---
+loại:: dien_khuyet
+câu 87:: Fill in the exact vocabulary word: "To ensure the hospital's backup generators work during a storm, the maintenance team must test and ... (link together) the massive power cables every month."
+đáp án:: connect
+giải thích:: Từ đồng nghĩa với "link together" (liên kết lại) trong danh sách từ vựng Unit 7 là "connect".
+---
+loại:: dropdown
+câu 88:: Read the warning label on a high-voltage generator: "DANGER! This equipment produces highly lethal amounts of [[cloud|hot air|electricity|thunder]]. Do not touch the internal circuitry while the machine is active."
+đáp án:: electricity
+giải thích:: Máy phát điện sinh ra lượng "điện năng" (electricity) có thể gây chết người (lethal).
+---
+loại:: noi
+câu 89:: Match the grammatical rule of continuous tenses with the corresponding correct example sentence.
+trai:: Present Continuous for an action happening exactly now.
+phai:: Look! The dark clouds are rolling over the mountains.
+trai:: Present Continuous for a temporary habit.
+phai:: I am taking the bus to school this week because my bike is broken.
+trai:: Past Continuous for a background action interrupted by a past event.
+phai:: The children were playing in the garden when the storm hit.
+trai:: Past Continuous for two parallel actions happening at the same time.
+phai:: While mom was reading, dad was cooking dinner.
+giải thích:: Tổng hợp toàn diện 4 cách sử dụng quan trọng nhất của thì Tiếp diễn trong chương trình học.
+---
+loại:: phan_loai
+câu 90:: Classify the words based on their syllable count. This helps with pronunciation and comparative/superlative adjective rules.
+nhom:: 2 Syllables (Hai âm tiết)
+nhom:: 3 or more Syllables (Ba âm tiết trở lên)
+the:: Lightning
+the:: Electricity
+the:: Connect
+the:: Thunderstorm
+the:: Cloudy
+the:: Atmosphere
+đáp án:: Lightning::1
+đáp án:: Electricity::2
+đáp án:: Connect::1
+đáp án:: Thunderstorm::2
+đáp án:: Cloudy::1
+đáp án:: Atmosphere::2
+giải thích:: Phân loại âm tiết: Light-ning (2), Con-nect (2), Clou-dy (2). E-lec-tri-ci-ty (5), Thun-der-storm (3), At-mos-phere (3).
+---
+
+// ==================================================================
+// MATHS - UNIT 13: ANGLES (Q91 - Q100)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 91:: An architect is designing a unique, futuristic skyscraper (from MOET Unit 10). The roof of the building requires a specific angle that is strictly greater than $180^{\\circ}$ but less than $360^{\\circ}$ to accommodate a large solar panel array. What is the mathematical term for this specific type of angle?
+a:: Acute angle
+b:: Obtuse angle
+c:: Reflex angle
+d:: Straight angle
+đáp án:: c
+giải thích:: Định nghĩa toán học cốt lõi: Góc lớn hơn $180^{\\circ}$ và nhỏ hơn $360^{\\circ}$ được gọi là Góc phản (Reflex angle). 
+---
+loại:: phan_loai
+câu 92:: In a geometry test, students are given a list of random angle measurements and must quickly categorize them to solve a complex puzzle. Classify the following angles into their correct geometric categories.
+nhom:: Acute Angle ($< 90^{\\circ}$)
+nhom:: Obtuse Angle ($> 90^{\\circ}$ and $< 180^{\\circ}$)
+the:: $45^{\\circ}$
+the:: $135^{\\circ}$
+the:: $89^{\\circ}$
+the:: $179^{\\circ}$
+the:: $12^{\\circ}$
+the:: $91^{\\circ}$
+đáp án:: $45^{\\circ}$::1
+đáp án:: $135^{\\circ}$::2
+đáp án:: $89^{\\circ}$::1
+đáp án:: $179^{\\circ}$::2
+đáp án:: $12^{\\circ}$::1
+đáp án:: $91^{\\circ}$::2
+giải thích:: Bẫy thị giác: Góc $89^{\\circ}$ rất gần $90^{\\circ}$ nhưng vẫn là góc nhọn (Acute). Góc $91^{\\circ}$ vừa vượt qua $90^{\\circ}$ nên là góc tù (Obtuse). Góc $179^{\\circ}$ là góc tù, không phải góc bẹt.
+---
+loại:: dien_khuyet
+câu 93:: A structural engineer is designing a highly stable roof for a "cottage" (a type of house from Unit 10). To ensure perfect weight distribution, the front face of the roof must form a perfect ... triangle, meaning all three of its internal angles must measure exactly $60^{\\circ}$.
+đáp án:: equilateral
+giải thích:: Định lý hình học: Tam giác có 3 góc bằng nhau (đều bằng $60^{\\circ}$) được gọi là tam giác đều (Equilateral triangle).
+---
+loại:: dung_sai
+câu 94:: Read the following claim made by a student analyzing a clock face: "At exactly 4:00 PM, the minute hand is on the 12 and the hour hand is on the 4. The reflex angle created by these two hands on the outside of the clock measures exactly $240^{\\circ}$." Is the student's mathematical calculation correct?
+đáp án:: đúng
+giải thích:: Một vòng đồng hồ là $360^{\\circ}$ chia cho 12 giờ = $30^{\\circ}$/giờ. Lúc 4:00, góc nhỏ (tù) bên trong là $4 \times 30^{\\circ} = 120^{\\circ}$. Góc phản (Reflex angle) bên ngoài sẽ là $360^{\\circ} - 120^{\\circ} = 240^{\\circ}$. Học sinh tính hoàn toàn chính xác.
+---
+loại:: noi
+câu 95:: Match the strict mathematical definitions (Left) with their correct geometric terms (Right).
+trai:: An angle that measures exactly $90^{\\circ}$.
+phai:: Right angle
+trai:: An angle that measures exactly $180^{\\circ}$.
+phai:: Straight angle
+trai:: A complete, full circle measuring exactly $360^{\\circ}$.
+phai:: Full rotation
+trai:: An angle measuring greater than $90^{\\circ}$ but less than $180^{\\circ}$.
+phai:: Obtuse angle
+giải thích:: Củng cố các định nghĩa Toán học bằng Tiếng Anh (Maths Terminology).
+---
+loại:: dropdown
+câu 96:: When designing a "motorhome" (from Unit 10), space efficiency is critical. If a fold-out table is opened completely flat against the wall, the angle it forms with the wall is a [[right angle|straight angle|reflex angle|acute angle]], measuring exactly $180^{\\circ}$.
+đáp án:: straight angle
+giải thích:: Một đường thẳng phẳng (flat) đo được $180^{\\circ}$ được gọi là góc bẹt (straight angle).
+---
+loại:: mot_dap_an
+câu 97:: In a geometry diagram, $\\angle A$ and $\\angle B$ form a straight line. If $\\angle A$ is an acute angle measuring $50^{\\circ}$, what is the classification and measurement of $\\angle B$?
+a:: Obtuse angle, measuring $130^{\\circ}$.
+b:: Reflex angle, measuring $310^{\\circ}$.
+c:: Acute angle, measuring $40^{\\circ}$.
+d:: Right angle, measuring $90^{\\circ}$.
+đáp án:: a
+giải thích:: Hai góc tạo thành một đường thẳng (straight line) có tổng là $180^{\\circ}$. $\\angle B = 180^{\\circ} - 50^{\\circ} = 130^{\\circ}$. Góc $130^{\\circ}$ lớn hơn $90^{\\circ}$ và nhỏ hơn $180^{\\circ}$ nên nó là góc tù (Obtuse angle).
+---
+loại:: nhieu_dap_an
+câu 98:: Which of the following angle measurements are classified strictly as "Reflex angles"? (Select 2 correct answers).
+a:: $180^{\\circ}$
+b:: $195^{\\circ}$
+c:: $350^{\\circ}$
+d:: $360^{\\circ}$
+đáp án:: b,c
+giải thích:: Reflex angle (Góc phản) phải LỚN HƠN $180^{\\circ}$ VÀ NHỎ HƠN $360^{\\circ}$. Do đó, chỉ có $195^{\\circ}$ và $350^{\\circ}$ thỏa mãn. $180^{\\circ}$ là Straight, $360^{\\circ}$ là Full rotation.
+---
+loại:: sap_xep
+câu 99:: Reorder the following geometric terms based on their angle measurements, from the SMALLEST possible degree to the LARGEST possible degree.
+muc:: (1) Acute angle
+muc:: (2) Right angle
+muc:: (3) Obtuse angle
+muc:: (4) Straight angle
+muc:: (5) Reflex angle
+muc:: (6) Full rotation
+giải thích:: Thứ tự đúng: Nhọn ($<90^{\\circ}$) < Vuông ($=90^{\\circ}$) < Tù ($90^{\\circ}-180^{\\circ}$) < Bẹt ($=180^{\\circ}$) < Phản ($180^{\\circ}-360^{\\circ}$) < Vòng tròn ($=360^{\\circ}$).
+---
+loại:: dien_khuyet
+câu 100:: Solve the geometry problem: If you have a pizza cut into 8 perfectly equal slices, the angle at the tip of one single slice measures exactly ... degrees. (Type the number only).
+đáp án:: 45
+giải thích:: Tổng một vòng tròn là $360^{\\circ}$. Chia đều cho 8 phần, mỗi phần có số đo là $360^{\\circ} \\div 8 = 45^{\\circ}$. (Một góc nhọn - Acute angle).
+---
+// ==================================================================
+// BATCH 4: MATHS - UNIT 13: ANGLES (Q101 - Q150)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 101:: A maritime navigator is plotting a course for a cargo ship. The ship is currently sailing due North. To avoid a severe storm, the captain orders a turn to the East. The angle created by this change in direction is exactly one quarter of a full rotation. What is the mathematical classification and measurement of this angle?
+a:: Acute angle, measuring $45^{\\circ}$.
+b:: Right angle, measuring $90^{\\circ}$.
+c:: Obtuse angle, measuring $135^{\\circ}$.
+d:: Straight angle, measuring $180^{\\circ}$.
+đáp án:: b
+giải thích:: Một vòng quay hoàn chỉnh (full rotation) là $360^{\\circ}$. Một phần tư (one quarter) của $360^{\\circ}$ là $90^{\\circ}$, tương ứng với một góc vuông (Right angle). Hướng từ Bắc (North) sang Đông (East) tạo thành góc vuông.
+---
+loại:: dien_khuyet
+câu 102:: Read the architectural blueprint note: "To ensure water effectively drains off the roof of the cottage during heavy thunderstorms, the pitch of the roof must form an angle strictly greater than $0^{\\circ}$ but less than $90^{\\circ}$." Fill in the blank with the correct geometric term for this type of angle: The roof must form an ... angle.
+đáp án:: acute
+giải thích:: Góc lớn hơn $0^{\\circ}$ và nhỏ hơn $90^{\\circ}$ được định nghĩa là góc nhọn (Acute angle).
+---
+loại:: dung_sai
+câu 103:: Evaluate the mathematical reasoning in this student's homework: "If I have a straight line intersected by another line, and one of the resulting angles is an obtuse angle measuring $110^{\\circ}$, then the adjacent angle next to it must be an acute angle measuring $70^{\\circ}$." Is the student's reasoning and calculation correct?
+đáp án:: đúng
+giải thích:: Tổng hai góc kề bù trên một đường thẳng (straight line) luôn bằng $180^{\\circ}$. Nếu một góc là $110^{\\circ}$ (góc tù), góc còn lại bắt buộc là $180^{\\circ} - 110^{\\circ} = 70^{\\circ}$ (góc nhọn). Học sinh tính hoàn toàn chính xác.
+---
+loại:: sap_xep
+câu 104:: A surveyor is measuring different natural land formations. To organize his data, he needs to sort the recorded angles from the LARGEST measurement to the SMALLEST measurement. Reorder the following geometric terms accordingly.
+muc:: (1) Full rotation
+muc:: (2) Reflex angle
+muc:: (3) Straight angle
+muc:: (4) Obtuse angle
+muc:: (5) Right angle
+muc:: (6) Acute angle
+giải thích:: Thứ tự giảm dần: Một vòng ($360^{\\circ}$) > Phản ($180^{\\circ}-360^{\\circ}$) > Bẹt ($180^{\\circ}$) > Tù ($90^{\\circ}-180^{\\circ}$) > Vuông ($90^{\\circ}$) > Nhọn ($<90^{\\circ}$).
+---
+loại:: noi
+câu 105:: Match the real-world objects or scenarios (Left) with the specific type of angle they most accurately represent (Right).
+trai:: The corner of a standard rectangular piece of A4 paper.
+phai:: Right angle ($90^{\\circ}$)
+trai:: A completely opened, flat folding table against a wall.
+phai:: Straight angle ($180^{\\circ}$)
+trai:: A slice of pizza cut into 8 equal pieces.
+phai:: Acute angle ($45^{\\circ}$)
+trai:: The angle on the outside of a bent elbow.
+phai:: Reflex angle ($>180^{\\circ}$)
+giải thích:: Kết nối kiến thức Toán học trừu tượng với các vật thể trong thế giới thực (Real-world Application) giúp học sinh hiểu sâu bản chất hình học.
+---
+loại:: dropdown
+câu 106:: Read the engineering manual for a solar tracking system: "For the solar panels to function perfectly, they are mounted on a triangular base where all three sides are equal in length. This ensures that every internal angle of the base measures exactly $60^{\\circ}$. This specific shape is known as an [[equilateral|isosceles|scalene|obtuse]] triangle."
+đáp án:: equilateral
+giải thích:: Tam giác có 3 cạnh bằng nhau và 3 góc bằng nhau (mỗi góc $60^{\\circ}$) là tam giác đều (Equilateral triangle).
+---
+loại:: phan_loai
+câu 107:: A teacher presents a clock face to the class. The time changes, and the hands of the clock form different interior angles. Classify the times based on the type of angle formed between the hour hand and the minute hand.
+nhom:: Acute Angle ($<90^{\\circ}$)
+nhom:: Obtuse Angle ($>90^{\\circ}$ and $<180^{\\circ}$)
+the:: 1:00 PM
+the:: 2:00 PM
+the:: 4:00 PM
+the:: 5:00 PM
+đáp án:: 1:00 PM::1
+đáp án:: 2:00 PM::1
+đáp án:: 4:00 PM::2
+đáp án:: 5:00 PM::2
+giải thích:: Mỗi giờ trên đồng hồ tương ứng với $30^{\\circ}$. Lúc 1:00 là $30^{\\circ}$ (Acute), 2:00 là $60^{\\circ}$ (Acute). Lúc 4:00 là $120^{\\circ}$ (Obtuse), 5:00 là $150^{\\circ}$ (Obtuse).
+---
+loại:: nhieu_dap_an
+câu 108:: A robotics engineer is programming a robotic arm to turn and grab an object behind it. The programming requires the arm to rotate through a "Reflex angle". Which of the following rotation commands would satisfy this requirement? (Select 2 correct answers).
+a:: Rotate $90^{\\circ}$
+b:: Rotate $180^{\\circ}$
+c:: Rotate $210^{\\circ}$
+d:: Rotate $300^{\\circ}$
+đáp án:: c,d
+giải thích:: Lệnh yêu cầu quay một góc phản (Reflex angle), tức là phải lớn hơn $180^{\\circ}$ và nhỏ hơn $360^{\\circ}$. Do đó, $210^{\\circ}$ và $300^{\\circ}$ là đáp án đúng.
+---
+loại:: mot_dap_an
+câu 109:: Three angles lie on a straight line, which means their total sum must be exactly $180^{\\circ}$. The first angle is a right angle. The second angle is an acute angle measuring $35^{\\circ}$. What is the measurement and classification of the third angle?
+a:: $55^{\\circ}$, Acute angle
+b:: $90^{\\circ}$, Right angle
+c:: $145^{\\circ}$, Obtuse angle
+d:: $45^{\\circ}$, Acute angle
+đáp án:: a
+giải thích:: Góc thứ nhất là góc vuông ($90^{\\circ}$). Tổng 3 góc là $180^{\\circ}$. Góc thứ ba = $180^{\\circ} - 90^{\\circ} - 35^{\\circ} = 55^{\\circ}$. Góc $55^{\\circ}$ nhỏ hơn $90^{\\circ}$ nên nó là góc nhọn (Acute angle).
+---
+loại:: dien_khuyet
+câu 110:: Complete the geometric theorem: "Angles around a single central point must always add up to a full rotation, which equals exactly ... degrees." (Type the number only).
+đáp án:: 360
+giải thích:: Tổng các góc xung quanh một điểm (Angles around a point) luôn luôn bằng $360^{\\circ}$ (một vòng tròn/full rotation).
+---
+loại:: dung_sai
+câu 111:: Evaluate the statement based on the properties of shapes: "It is mathematically possible to draw a triangle that contains two obtuse angles."
+đáp án:: sai
+giải thích:: Tổng 3 góc trong một tam giác luôn bằng $180^{\\circ}$. Một góc tù (obtuse) đã lớn hơn $90^{\\circ}$. Nếu có hai góc tù thì tổng sẽ vượt quá $180^{\\circ}$, điều này vi phạm định lý hình học cơ bản.
+---
+loại:: sap_xep
+câu 112:: Reorder the steps required to calculate the missing angle $x$ when two angles, $x$ and $65^{\\circ}$, lie together on a straight line.
+muc:: (1) Recognize that angles on a straight line add up to $180^{\\circ}$.
+muc:: (2) Set up the equation: $x + 65^{\\circ} = 180^{\\circ}$.
+muc:: (3) Subtract $65^{\\circ}$ from both sides of the equation.
+muc:: (4) Calculate the final result: $x = 115^{\\circ}$.
+muc:: (5) Conclude that angle $x$ is an obtuse angle.
+giải thích:: Tư duy thuật toán giải toán: Nhận diện định lý -> Lập phương trình -> Thực hiện phép trừ -> Tính kết quả -> Kết luận phân loại góc.
+---
+loại:: dropdown
+câu 113:: Read the following description of a gymnast's routine: "The gymnast performed a perfect split on the balance beam. Her legs formed a completely flat, horizontal line. Mathematically, the angle between her legs was a [[right|acute|straight|reflex]] angle."
+đáp án:: straight
+giải thích:: Tư thế xoạc ngang tạo thành một đường thẳng hoàn hảo (flat, horizontal line), tương ứng với góc bẹt (straight angle) $180^{\\circ}$.
+---
+loại:: noi
+câu 114:: Match the arithmetic operations to find the missing angle with the correct geometric scenario.
+trai:: $180^{\\circ} - 120^{\\circ} = 60^{\\circ}$
+phai:: Finding the missing angle on a straight line.
+trai:: $360^{\\circ} - 90^{\\circ} - 100^{\\circ} = 170^{\\circ}$
+phai:: Finding the missing angle around a point.
+trai:: $180^{\\circ} - 90^{\\circ} - 45^{\\circ} = 45^{\\circ}$
+phai:: Finding the missing angle inside a right-angled triangle.
+trai:: $360^{\\circ} - 150^{\\circ} = 210^{\\circ}$
+phai:: Calculating the reflex angle of an interior $150^{\\circ}$ angle.
+giải thích:: Học sinh phải hiểu bản chất của phép tính (trừ từ $180^{\\circ}$ hay $360^{\\circ}$) ứng với từng quy tắc hình học cụ thể.
+---
+loại:: phan_loai
+câu 115:: Classify the following geometric statements as either True (Correct) or False (Misconception).
+nhom:: True Statement (Đúng)
+nhom:: False Misconception (Sai)
+the:: An equilateral triangle always has three $60^{\\circ}$ angles.
+the:: A right angle is exactly a quarter of a full rotation.
+the:: An obtuse angle can measure $190^{\\circ}$.
+the:: The angles on a straight line add up to $360^{\\circ}$.
+đáp án:: An equilateral triangle always has three $60^{\\circ}$ angles.::1
+đáp án:: A right angle is exactly a quarter of a full rotation.::1
+đáp án:: An obtuse angle can measure $190^{\\circ}$.::2
+đáp án:: The angles on a straight line add up to $360^{\\circ}$.::2
+giải thích:: Góc tù (Obtuse) chỉ tối đa dưới $180^{\\circ}$. Tổng góc trên đường thẳng (straight line) là $180^{\\circ}$, không phải $360^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 116:: A radar system detects an airplane flying exactly Northeast. The control tower instructs the pilot to turn clockwise to fly exactly South. How many degrees must the airplane turn, and what type of angle does this path create?
+a:: $90^{\\circ}$, Right angle
+b:: $135^{\\circ}$, Obtuse angle
+c:: $180^{\\circ}$, Straight angle
+d:: $225^{\\circ}$, Reflex angle
+đáp án:: b
+giải thích:: Hướng Đông Bắc (Northeast) cách hướng Đông $45^{\\circ}$. Từ Đông sang Nam là $90^{\\circ}$. Tổng góc quay = $45^{\\circ} + 90^{\\circ} = 135^{\\circ}$. Đây là góc tù (Obtuse angle).
+---
+loại:: dien_khuyet
+câu 117:: An interior designer is placing a corner sofa into a living room. For the sofa to fit perfectly into the corner of the rectangular room without leaving any gaps, the angle of the sofa's corner must measure exactly ... degrees.
+đáp án:: 90
+giải thích:: Góc của một căn phòng hình chữ nhật (rectangular room) luôn luôn là góc vuông, tức là $90^{\\circ}$.
+---
+loại:: nhieu_dap_an
+câu 118:: Which of the following combinations of angles can successfully form a closed triangle? Remember that the sum of interior angles in any triangle must equal $180^{\\circ}$. (Select 2 correct answers).
+a:: $60^{\\circ}$, $60^{\\circ}$, $60^{\\circ}$
+b:: $90^{\\circ}$, $45^{\\circ}$, $45^{\\circ}$
+c:: $100^{\\circ}$, $90^{\\circ}$, $10^{\\circ}$
+d:: $50^{\\circ}$, $50^{\\circ}$, $90^{\\circ}$
+đáp án:: a,b
+giải thích:: (A) Tổng là $180^{\\circ}$ (tam giác đều). (B) Tổng là $180^{\\circ}$ (tam giác vuông cân). (C) Tổng là $200^{\\circ}$ (Sai). (D) Tổng là $190^{\\circ}$ (Sai).
+---
+loại:: dropdown
+câu 119:: When cutting a square piece of paper diagonally from one corner to the opposite corner, you create two identical triangles. Each of these new triangles contains one right angle and two [[obtuse|reflex|acute|straight]] angles measuring $45^{\\circ}$ each.
+đáp án:: acute
+giải thích:: Hai góc $45^{\\circ}$ nhỏ hơn $90^{\\circ}$, do đó chúng được phân loại là góc nhọn (acute angles).
+---
+loại:: dung_sai
+câu 120:: Read the following claim: "If you have a reflex angle measuring $250^{\\circ}$, the remaining internal angle to complete the full rotation must be an obtuse angle." Calculate to verify if this is correct.
+đáp án:: đúng
+giải thích:: Để hoàn thành một vòng tròn ($360^{\\circ}$), góc còn lại là $360^{\\circ} - 250^{\\circ} = 110^{\\circ}$. Góc $110^{\\circ}$ nằm trong khoảng $90^{\\circ} - 180^{\\circ}$, nên nó CHÍNH XÁC là góc tù (obtuse angle). Lập luận rất sắc bén.
+---
+loại:: sap_xep
+câu 121:: Reorder the following fractions of a full rotation from the SMALLEST angle to the LARGEST angle.
+muc:: (1) One twelfth of a rotation (like 1 hour on a clock)
+muc:: (2) One eighth of a rotation (like a pizza slice)
+muc:: (3) One quarter of a rotation (a right angle)
+muc:: (4) One half of a rotation (a straight angle)
+muc:: (5) Three quarters of a rotation (a reflex angle)
+giải thích:: Quy đổi ra độ: $30^{\\circ}$ < $45^{\\circ}$ < $90^{\\circ}$ < $180^{\\circ}$ < $270^{\\circ}$.
+---
+loại:: noi
+câu 122:: Match the specific time on an analog clock face (Left) with the precise angle formed between the hour and minute hands (Right). Assume it is exactly on the hour.
+trai:: 3:00
+phai:: $90^{\\circ}$
+trai:: 6:00
+phai:: $180^{\\circ}$
+trai:: 1:00
+phai:: $30^{\\circ}$
+trai:: 5:00
+phai:: $150^{\\circ}$
+giải thích:: Công thức tính nhanh góc đúng giờ: Số giờ $\\times 30^{\\circ}$. (Ví dụ 5 giờ $\\times 30^{\\circ} = 150^{\\circ}$).
+---
+loại:: phan_loai
+câu 123:: An engineer is sorting building materials based on their angular cuts. Classify the following angle measurements into the two major categories: angles less than a straight line, and angles greater than a straight line.
+nhom:: Less than $180^{\\circ}$ (Acute, Right, Obtuse)
+nhom:: Greater than $180^{\\circ}$ (Reflex)
+the:: $179^{\\circ}$
+the:: $90^{\\circ}$
+the:: $181^{\\circ}$
+the:: $270^{\\circ}$
+the:: $45^{\\circ}$
+the:: $359^{\\circ}$
+đáp án:: $179^{\\circ}$::1
+đáp án:: $90^{\\circ}$::1
+đáp án:: $181^{\\circ}$::2
+đáp án:: $270^{\\circ}$::2
+đáp án:: $45^{\\circ}$::1
+đáp án:: $359^{\\circ}$::2
+giải thích:: Phân tách rõ ràng ranh giới của đường thẳng ($180^{\\circ}$). $181^{\\circ}$ tuy rất gần nhưng đã vượt qua ngưỡng bẹt và trở thành góc phản (Reflex).
+---
+loại:: mot_dap_an
+câu 124:: "In a special architectural design for a UFO-shaped house, the central room is a perfect hexagon. However, the architect wants to divide the floor using straight lines that cross exactly at the center point. The angles around this center point must be divided equally into 5 parts." What is the measurement of each angle at the center?
+a:: $60^{\\circ}$
+b:: $72^{\\circ}$
+c:: $90^{\\circ}$
+d:: $120^{\\circ}$
+đáp án:: b
+giải thích:: Tổng các góc quanh một điểm trung tâm luôn là $360^{\\circ}$. Chia đều cho 5 phần: $360^{\\circ} \\div 5 = 72^{\\circ}$.
+---
+loại:: dien_khuyet
+câu 125:: Complete the sentence: "When a structural engineer uses a plumb line (a string with a weight) against a perfectly flat floor, the string hangs straight down due to gravity, forming a perfect ... angle of $90^{\\circ}$ with the floor."
+đáp án:: right
+giải thích:: Phương thẳng đứng vuông góc với mặt sàn tạo thành góc $90^{\\circ}$, thuật ngữ tiếng Anh là "right angle".
+---
+loại:: dung_sai
+câu 126:: Analyze the following logic: "Angle A and Angle B are on a straight line. If I know that Angle A is an acute angle, I don't need to measure Angle B to know that it is definitely an obtuse angle." Is this logical deduction correct?
+đáp án:: đúng
+giải thích:: Tổng hai góc trên đường thẳng là $180^{\\circ}$. Nếu góc A là nhọn ($<90^{\\circ}$), thì góc B = $180^{\\circ}$ - (số $<90^{\\circ}$) chắc chắn sẽ ra một số lớn hơn $90^{\\circ}$. Do đó B luôn luôn là góc tù (Obtuse). Lập luận logic toán học xuất sắc.
+---
+loại:: dropdown
+câu 127:: Read the navigation log: "The submarine was facing exactly East ($90^{\\circ}$ on the compass). It received an order to turn to face exactly West ($270^{\\circ}$ on the compass). To execute this maneuver, the submarine had to turn through a [[straight|right|acute|reflex]] angle."
+đáp án:: straight
+giải thích:: Từ Đông (East) sang Tây (West) là quay ngược lại hoàn toàn, tạo thành góc bẹt $180^{\\circ}$ (straight angle).
+---
+loại:: nhieu_dap_an
+câu 128:: Which of the following equations correctly demonstrate how to find a missing angle $x$ when the total sum involves a "Full rotation"? (Select 2 correct answers).
+a:: $x + 120^{\\circ} + 100^{\\circ} = 360^{\\circ}$
+b:: $x = 360^{\\circ} - (90^{\\circ} + 90^{\\circ})$
+c:: $x + 45^{\\circ} = 180^{\\circ}$
+d:: $x = 180^{\\circ} - 90^{\\circ}$
+đáp án:: a,b
+giải thích:: "Full rotation" là $360^{\\circ}$. Các phương trình (A) và (B) sử dụng tổng $360^{\\circ}$. Phương trình (C) và (D) chỉ sử dụng $180^{\\circ}$ (đường thẳng/tam giác).
+---
+loại:: sap_xep
+câu 129:: Reorder the following steps a student must take to accurately measure an unknown angle using a protractor.
+muc:: (1) Place the center mark of the protractor precisely on the vertex (point) of the angle.
+muc:: (2) Align the zero line ($0^{\\circ}$) of the protractor exactly with one of the lines forming the angle.
+muc:: (3) Look at where the second line of the angle crosses the curved edge of the protractor.
+muc:: (4) Read the correct scale (inner or outer) depending on where the zero line was placed.
+muc:: (5) Record the measurement in degrees.
+giải thích:: Quy trình chuẩn 5 bước sử dụng thước đo góc (protractor) trong môn Toán Cambridge.
+---
+loại:: noi
+câu 130:: Match the pairs of angles (Left) with the specific geometric property they possess together (Right).
+trai:: $120^{\\circ}$ and $60^{\\circ}$
+phai:: Form a straight line ($180^{\\circ}$).
+trai:: $45^{\\circ}$ and $45^{\\circ}$
+phai:: Combine to form a right angle ($90^{\\circ}$).
+trai:: $200^{\\circ}$, $100^{\\circ}$, and $60^{\\circ}$
+phai:: Combine to form a full rotation ($360^{\\circ}$).
+trai:: $60^{\\circ}$, $60^{\\circ}$, and $60^{\\circ}$
+phai:: Form the interior of an equilateral triangle.
+giải thích:: Đánh giá khả năng tính nhẩm nhanh và liên kết số liệu với các định lý hình học.
+---
+loại:: mot_dap_an
+câu 131:: A carpenter is building a wooden frame. He joins two pieces of wood. The angle on the *inside* of the joint is $75^{\\circ}$. What is the measurement of the *reflex angle* on the *outside* of the joint?
+a:: $105^{\\circ}$
+b:: $285^{\\circ}$
+c:: $15^{\\circ}$
+d:: $360^{\\circ}$
+đáp án:: b
+giải thích:: Góc phản bên ngoài (reflex angle) và góc bên trong tạo thành một vòng tròn hoàn chỉnh $360^{\\circ}$. Reflex angle = $360^{\\circ} - 75^{\\circ} = 285^{\\circ}$.
+---
+loại:: dien_khuyet
+câu 132:: Fill in the blank: "In geometry, when two lines intersect and cross each other, the opposite angles formed (often called vertically opposite angles) are always ... in measurement." (Type a 5-letter word).
+đáp án:: equal
+giải thích:: Định lý hai góc đối đỉnh (vertically opposite angles) luôn luôn bằng nhau (equal).
+---
+loại:: phan_loai
+câu 133:: Classify the following scenarios into "Angles on a Straight Line" vs "Angles around a Point".
+nhom:: Angles on a Straight Line (Sum to $180^{\\circ}$)
+nhom:: Angles around a Point (Sum to $360^{\\circ}$)
+the:: Finding the missing angle when a line is cut by a diagonal.
+the:: Finding the reflex angle of an acute angle.
+the:: Calculating the slices of a round pie.
+the:: Two adjacent angles forming a flat surface.
+đáp án:: Finding the missing angle when a line is cut by a diagonal.::1
+đáp án:: Finding the reflex angle of an acute angle.::2
+đáp án:: Calculating the slices of a round pie.::2
+đáp án:: Two adjacent angles forming a flat surface.::1
+giải thích:: Flat surface / straight line liên quan đến $180^{\\circ}$. Reflex angle / round pie liên quan đến trọn vòng $360^{\\circ}$.
+---
+loại:: dung_sai
+câu 134:: Evaluate the mathematical logic: "A full rotation is $360^{\\circ}$. Therefore, an angle that is three-eighths (3/8) of a full rotation is an obtuse angle."
+đáp án:: đúng
+giải thích:: Tính toán: $\\frac{3}{8} \\times 360^{\\circ} = 135^{\\circ}$. Góc $135^{\\circ}$ nằm trong khoảng $90^{\\circ} - 180^{\\circ}$, do đó nó CHÍNH XÁC là góc tù (obtuse angle). Lập luận đúng.
+---
+loại:: dropdown
+câu 135:: Read the geometry problem: "Triangle ABC has two interior angles measuring $40^{\\circ}$ and $50^{\\circ}$. Because the sum of the interior angles must be $180^{\\circ}$, the third angle must measure exactly $90^{\\circ}$. Therefore, Triangle ABC is a [[right-angled|equilateral|reflex|obtuse]] triangle."
+đáp án:: right-angled
+giải thích:: Tam giác có chứa một góc $90^{\\circ}$ được gọi là tam giác vuông (right-angled triangle).
+---
+loại:: sap_xep
+câu 136:: Reorder the angle measurements to show the progression of a door opening, from completely closed to swung wide open against the wall behind it.
+muc:: (1) $0^{\\circ}$ (Door is shut tight).
+muc:: (2) $45^{\\circ}$ (Door is slightly open, an acute angle).
+muc:: (3) $90^{\\circ}$ (Door is open perfectly perpendicular, a right angle).
+muc:: (4) $135^{\\circ}$ (Door is pushed far back, an obtuse angle).
+muc:: (5) $180^{\\circ}$ (Door is flat against the wall, a straight angle).
+giải thích:: Ứng dụng vòng quay góc vào tình huống mở cửa thực tế.
+---
+loại:: noi
+câu 137:: Match the incorrect student calculation (Left) with the likely misconception or error they made (Right).
+trai:: Answering $80^{\\circ}$ for a missing angle on a straight line when the given angle is $110^{\\circ}$.
+phai:: Mathematical subtraction error ($180 - 110$ is $70$, not $80$).
+trai:: Calling a $185^{\\circ}$ angle a "Straight angle".
+phai:: Conceptual error: Straight is exactly $180^{\\circ}$, anything more is Reflex.
+trai:: Calculating the reflex angle of $90^{\\circ}$ as $90^{\\circ}$.
+phai:: Using $180^{\\circ}$ instead of $360^{\\circ}$ for the total rotation.
+trai:: Saying an equilateral triangle has angles of $90^{\\circ}$, $45^{\\circ}$, $45^{\\circ}$.
+phai:: Confusing the properties of Right-angled and Equilateral triangles.
+giải thích:: Nắm bắt "Misconceptions" (Các lỗi sai phổ biến) giúp học sinh tự nhận thức và tránh bẫy trong bài thi.
+---
+loại:: mot_dap_an
+câu 138:: A camera is mounted on a tripod and can rotate a full $360^{\\circ}$. It starts facing North. It rotates $150^{\\circ}$ clockwise to take a picture, then rotates $200^{\\circ}$ counter-clockwise (backward) to take another picture. What is the camera's final angle relative to its starting North position, and what type of angle is it?
+a:: $50^{\\circ}$ counter-clockwise, Acute angle.
+b:: $350^{\\circ}$ clockwise, Reflex angle.
+c:: $50^{\\circ}$ clockwise, Acute angle.
+d:: $150^{\\circ}$ counter-clockwise, Obtuse angle.
+đáp án:: a
+giải thích:: Quay tới $150^{\\circ}$, quay lùi $200^{\\circ}$ $\\Rightarrow$ Vị trí cuối là lùi (counter-clockwise) $50^{\\circ}$ so với mốc 0 ban đầu. Góc $50^{\\circ}$ là góc nhọn (Acute).
+---
+loại:: dien_khuyet
+câu 139:: Complete the rule: "When writing geometry answers, you must always include the small circle symbol after the number to indicate that the unit of measurement is ... (spelled in plural)."
+đáp án:: degrees
+giải thích:: Ký hiệu $^{\\circ}$ trong tiếng Anh đọc và viết là "degrees" (độ).
+---
+loại:: nhieu_dap_an
+câu 140:: Which of the following visual descriptions would create an "Obtuse angle"? (Select 2 correct answers).
+a:: The corner of a standard square tile.
+b:: The angle between the hands of a clock at exactly 5:00.
+c:: A laptop screen pushed back slightly further than a perfect upright position.
+d:: A pair of scissors opened just a tiny bit to cut a thread.
+đáp án:: b,c
+giải thích:: (A) là góc vuông $90^{\\circ}$. (B) là $150^{\\circ}$ (tù). (C) màn hình ngửa ra sau hơn $90^{\\circ}$ là góc tù. (D) mở hé là góc nhọn.
+---
+loại:: dropdown
+câu 141:: Read the text: "The London Eye is a giant Ferris wheel. If a passenger cabin travels exactly one-third ($1/3$) of the way around the wheel, it has moved through an angle of [[$120^{\\circ}$|$90^{\\circ}$|$180^{\\circ}$|$60^{\\circ}$]]."
+đáp án:: $120^{\\circ}$
+giải thích:: Một vòng là $360^{\\circ}$. Một phần ba của $360^{\\circ}$ là $120^{\\circ}$ ($360 \\div 3 = 120$).
+---
+loại:: dung_sai
+câu 142:: Evaluate the statement: "If you add two acute angles together, the result will always be an obtuse angle."
+đáp án:: sai
+giải thích:: Lập luận này sai. Ví dụ: $20^{\\circ}$ (acute) + $30^{\\circ}$ (acute) = $50^{\\circ}$ (vẫn là acute). Không phải lúc nào cũng ra góc tù.
+---
+loại:: sap_xep
+câu 143:: Order the following times based on the size of the internal angle created by the clock's hands, from SMALLEST angle to LARGEST angle.
+muc:: (1) 1:00 (Angle is $30^{\\circ}$)
+muc:: (2) 2:00 (Angle is $60^{\\circ}$)
+muc:: (3) 3:00 (Angle is $90^{\\circ}$)
+muc:: (4) 5:00 (Angle is $150^{\\circ}$)
+muc:: (5) 6:00 (Angle is $180^{\\circ}$)
+giải thích:: Xếp theo độ lớn góc: $30^{\\circ} < 60^{\\circ} < 90^{\\circ} < 150^{\\circ} < 180^{\\circ}$.
+---
+loại:: phan_loai
+câu 144:: Classify the angle sizes into their designated names. This is a rapid-fire recognition test.
+nhom:: Reflex
+nhom:: Obtuse
+the:: $185^{\\circ}$
+the:: $300^{\\circ}$
+the:: $95^{\\circ}$
+the:: $175^{\\circ}$
+the:: $220^{\\circ}$
+the:: $110^{\\circ}$
+đáp án:: $185^{\\circ}$::1
+đáp án:: $300^{\\circ}$::1
+đáp án:: $95^{\\circ}$::2
+đáp án:: $175^{\\circ}$::2
+đáp án:: $220^{\\circ}$::1
+đáp án:: $110^{\\circ}$::2
+giải thích:: Reflex > $180^{\\circ}$. Obtuse < $180^{\\circ}$ (và > $90^{\\circ}$).
+---
+loại:: noi
+câu 145:: Match the architectural problem with the geometric solution to calculate the missing angle.
+trai:: A straight support beam has a $45^{\\circ}$ bracket attached. What is the remaining angle on the beam?
+phai:: Calculate: $180^{\\circ} - 45^{\\circ}$
+trai:: A circular table is divided. One section takes up $200^{\\circ}$. What is the remaining angle?
+phai:: Calculate: $360^{\\circ} - 200^{\\circ}$
+trai:: A right-angled corner of a room is split by a wall. One side is $30^{\\circ}$. What is the other?
+phai:: Calculate: $90^{\\circ} - 30^{\\circ}$
+trai:: A triangle roof has two base angles of $40^{\\circ}$. What is the top angle?
+phai:: Calculate: $180^{\\circ} - 40^{\\circ} - 40^{\\circ}$
+giải thích:: Kết nối tình huống với phép tính phù hợp.
+---
+loại:: mot_dap_an
+câu 146:: Four angles are grouped around a central point. Three of the angles measure $100^{\\circ}$, $110^{\\circ}$, and $60^{\\circ}$. What is the measurement of the fourth angle?
+a:: $90^{\\circ}$
+b:: $80^{\\circ}$
+c:: $100^{\\circ}$
+d:: $270^{\\circ}$
+đáp án:: a
+giải thích:: Tổng các góc quanh một điểm là $360^{\\circ}$. Góc thứ tư = $360^{\\circ} - (100^{\\circ} + 110^{\\circ} + 60^{\\circ}) = 360^{\\circ} - 270^{\\circ} = 90^{\\circ}$.
+---
+loại:: dien_khuyet
+câu 147:: Complete the sentence: "An angle that is exactly half the size of a Right angle ($90^{\\circ}$) will measure exactly ... degrees." (Type the number only).
+đáp án:: 45
+giải thích:: Một nửa của góc vuông ($90^{\\circ} \\div 2$) là $45^{\\circ}$.
+---
+loại:: dropdown
+câu 148:: "A wind turbine has 3 perfectly spaced blades. The angle between any two adjacent blades is exactly [[$120^{\\circ}$|$90^{\\circ}$|$60^{\\circ}$|$180^{\\circ}$]], which is classified as an obtuse angle."
+đáp án:: $120^{\\circ}$
+giải thích:: Vòng tròn $360^{\\circ}$ chia cho 3 cánh quạt = $120^{\\circ}$.
+---
+loại:: dung_sai
+câu 149:: Evaluate: "If a shape is described as having 4 right angles, it must logically be either a square or a rectangle, as the internal angles add up to $360^{\\circ}$."
+đáp án:: đúng
+giải thích:: 4 góc vuông ($4 \\times 90^{\\circ} = 360^{\\circ}$) là đặc điểm cơ bản xác định hình chữ nhật (hoặc hình vuông). Nhận định hoàn toàn đúng.
+---
+loại:: sap_xep
+câu 150:: Reorder the instructions to properly draw an angle of $75^{\\circ}$ using a protractor and ruler.
+muc:: (1) Use the ruler to draw a straight horizontal baseline.
+muc:: (2) Place the protractor's center point on one end of the baseline.
+muc:: (3) Ensure the $0^{\\circ}$ line on the protractor matches the baseline perfectly.
+muc:: (4) Find the $75^{\\circ}$ mark on the correct scale and make a small dot on the paper.
+muc:: (5) Remove the protractor and use the ruler to draw a line connecting the end of the baseline to the dot.
+giải thích:: Kỹ năng thực hành vẽ góc (Constructing angles) là một phần bắt buộc trong Unit 13.
+---
+// ==================================================================
+// BATCH 5: SCIENCE - UNIT 5.4: CIRCUITS & DIAGRAMS (Q151 - Q200)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 151:: A student is reading a science manual to build a small robotic toy. The instructions state: "You must provide a power source of exactly 3 Volts to make the motor run." The student looks in the supply box and only finds standard 1.5V power units. What must the student do, and what is the scientific name for this new combined unit?
+a:: Use one 1.5V unit; it is called a cell.
+b:: Join two 1.5V units together; it is called a battery.
+c:: Join three 1.5V units together; it is called a buzzer.
+d:: Cut a 1.5V unit in half; it is called an open switch.
+đáp án:: b
+giải thích:: Một đơn vị 1.5V gọi là "Cell" (Pin đơn). Để có 3V, học sinh phải ghép 2 cells lại. Khi hai hoặc nhiều cells ghép lại với nhau, hệ thống đó mới được gọi chính thức là "Battery" (Bộ pin).
+---
+loại:: dien_khuyet
+câu 152:: Analyze the following text from a physics textbook: "When scientists and engineers design complex electrical systems, they do not draw realistic, detailed pictures of every single component because it takes too much time and space. Instead, they use a universal set of simple, standardized lines and shapes called circuit ... to represent each part clearly." Fill in the blank with a plural noun.
+đáp án:: symbols
+giải thích:: Các đường nét và hình khối tiêu chuẩn dùng để vẽ mạch điện được gọi là "Circuit symbols" (Ký hiệu mạch điện).
+---
+loại:: dung_sai
+câu 153:: Evaluate the following logical deduction made by a 6th-grade student: "In everyday language, my mom tells me to 'open the light' when the room is dark. Therefore, in a scientific circuit diagram, if I want the bulb to light up and shine brightly, I must ensure the diagram shows an 'open switch'."
+đáp án:: sai
+giải thích:: Đây là "Bẫy Tư duy ngược" kinh điển. Trong Khoa học, "Open switch" (công tắc mở) có nghĩa là mạch bị hở/đứt đoạn -> dòng điện KHÔNG chạy qua -> đèn TẮT. Để đèn sáng, ta phải dùng "Closed switch" (công tắc đóng) để tạo mạch kín.
+---
+loại:: phan_loai
+câu 154:: An electrical engineer is testing various circuit configurations on a simulator. Classify the following circuit descriptions based on whether the final output device (bulb/buzzer) will currently ACTIVATE (turn on) or FAIL TO ACTIVATE (stay off).
+nhom:: ACTIVATE (ON / Complete Circuit)
+nhom:: FAIL TO ACTIVATE (OFF / Broken Circuit)
+the:: A circuit with a 3V battery, intact connecting wires, and a closed switch.
+the:: A circuit with a 1.5V cell, a broken wire, and a closed switch.
+the:: A circuit with a battery, intact wires, and an open switch.
+the:: A simple unbroken loop of wire connecting a cell directly to a buzzer with no switch.
+đáp án:: A circuit with a 3V battery, intact connecting wires, and a closed switch.::1
+đáp án:: A circuit with a 1.5V cell, a broken wire, and a closed switch.::2
+đáp án:: A circuit with a battery, intact wires, and an open switch.::2
+đáp án:: A simple unbroken loop of wire connecting a cell directly to a buzzer with no switch.::1
+giải thích:: Mạch bị đứt dây (broken wire) hoặc công tắc hở (open switch) sẽ làm mạch hỏng (FAIL). Mạch kín hoàn toàn, dù có hay không có công tắc, thiết bị vẫn sẽ hoạt động (ACTIVATE).
+---
+loại:: noi
+câu 155:: Match the precise scientific names of the circuit components (Left) with their standard visual representations in a circuit diagram (Right).
+trai:: A Cell
+phai:: A long thin line next to a shorter, thicker line.
+trai:: A Battery
+phai:: Two or more pairs of long and short lines connected together.
+trai:: A Connecting Wire
+phai:: A simple, straight, solid black line.
+trai:: A Bulb
+phai:: A circle with a cross (X) drawn inside it.
+giải thích:: Học sinh bắt buộc phải thuộc lòng các ký hiệu mạch điện (Circuit symbols) cơ bản nhất để làm bài thi Science.
+---
+loại:: sap_xep
+câu 156:: Reorder the steps logically to describe the sequential flow of electrical energy in a successfully operating, simple alarm circuit.
+muc:: (1) Electrical energy leaves the positive terminal of the 3V battery.
+muc:: (2) The current travels along the copper connecting wire.
+muc:: (3) The current passes safely through the closed switch.
+muc:: (4) The energy reaches the buzzer, converting the electrical energy into a loud sound.
+muc:: (5) The current continues along the wire back to the negative terminal, completing the loop.
+giải thích:: Dòng điện chạy từ cực dương, qua dây dẫn, qua công tắc đóng, tới thiết bị tiêu thụ (còi), và trở về cực âm tạo thành một vòng khép kín.
+---
+loại:: dropdown
+câu 157:: Read the scenario: "The security team wants to install a warning system on the vault door. When the door is opened by a thief, it acts as a closed switch, completing a hidden circuit. To ensure the guards hear the alarm immediately, the engineer must include a [[buzzer|bulb|cell|wire]] in the circuit design."
+đáp án:: buzzer
+giải thích:: Hệ thống cảnh báo cần âm thanh để bảo vệ (hear the alarm), do đó thiết bị cần thêm vào là "buzzer" (còi báo). Bulb (bóng đèn) chỉ phát sáng chứ không phát ra tiếng động.
+---
+loại:: nhieu_dap_an
+câu 158:: A student raises their hand in the science lab and says, "Teacher, I built the circuit exactly as shown. I have a battery, a switch, and a bulb. My switch is currently in the 'closed' position, but the bulb is NOT lighting up at all!" Based on troubleshooting logic, which of the following are valid scientific reasons for this failure? (Select 2 correct answers).
+a:: One of the connecting wires has a hidden break inside the plastic cover.
+b:: The battery has completely run out of stored chemical energy (it is dead/flat).
+c:: The switch is successfully creating a continuous, unbroken path for the electricity.
+d:: The circuit contains a cell instead of a buzzer.
+đáp án:: a,b
+giải thích:: Mặc dù công tắc đã đóng (closed), nhưng nếu dây đứt ngầm (a) hoặc pin đã hết điện (b) thì mạch vẫn không hoạt động. Phương án (c) là điều kiện tốt, không phải nguyên nhân gây lỗi.
+---
+loại:: mot_dap_an
+câu 159:: Examine the technical specifications for a new smart home device (MOET Unit 10 integration): "This wireless temperature sensor is extremely small and requires very little voltage to operate. In fact, a 3V battery would overload and fry the system." Based on this, what is the most appropriate power source to draw in the circuit diagram for this sensor?
+a:: A single 1.5V cell (one long line, one short line).
+b:: A 3V battery (two pairs of long and short lines).
+c:: An open switch.
+d:: A bright bulb.
+đáp án:: a
+giải thích:: 3V là quá tải (overload), thiết bị cần điện áp rất nhỏ. Do đó, nguồn điện phù hợp nhất là một "Cell" (Pin đơn) có điện áp 1.5V.
+---
+loại:: dien_khuyet
+câu 160:: Complete the sentence from a laboratory safety guideline: "When you have finished your experiment, you must immediately press the button to create an ... (a state where the circuit is broken). This stops the flow of electricity and prevents the battery from draining unnecessarily."
+đáp án:: open switch
+giải thích:: Trạng thái làm ngắt mạch điện, ngăn dòng điện chạy qua là "open switch" (công tắc mở).
+---
+loại:: dung_sai
+câu 161:: Evaluate this statement made by a peer: "If I draw a circuit diagram with a battery, a wire, and a bulb, but the wire is drawn as a squiggly, messy line instead of a straight line with a ruler, the actual physical circuit built from this diagram will definitely not work."
+đáp án:: sai
+giải thích:: Sơ đồ mạch điện (circuit diagram) thường dùng đường thẳng cho gọn gàng, nhưng việc vẽ dây dẫn ngoằn ngoèo trên giấy KHÔNG làm ảnh hưởng đến nguyên lý hoạt động của mạch thực tế, miễn là các kết nối không bị đứt.
+---
+loại:: dropdown
+câu 162:: A technician is diagnosing a faulty doorbell. The homeowner presses the button, but there is no sound. The technician checks the power source and finds it is a single 1.5V cell. The doorbell's manual states: "Minimum operating voltage requirement: 3 Volts." The technician realizes he needs to replace the cell with a [[battery|bulb|open switch|wire]].
+đáp án:: battery
+giải thích:: Thiết bị cần tối thiểu 3V. Một "cell" chỉ có 1.5V. Kỹ thuật viên cần nâng cấp lên "battery" (bộ pin ghép từ 2 cells trở lên) để đạt 3V.
+---
+loại:: sap_xep
+câu 163:: Reorder the components to correctly construct a standard, scientifically accurate written description of a functioning simple circuit, starting from the power source.
+muc:: (1) A 1.5V cell provides the necessary electrical energy.
+muc:: (2) A connecting wire carries the current away from the cell.
+muc:: (3) A closed switch allows the current to safely pass through without interruption.
+muc:: (4) A bulb receives the current and converts it into light energy.
+muc:: (5) Another connecting wire returns the current to the cell, completing the circuit.
+giải thích:: Mô tả tuần tự các thành phần trên đường đi của dòng điện trong một mạch kín.
+---
+loại:: noi
+câu 164:: Match the visual characteristic of a circuit symbol (Left) with the specific component it represents (Right) to test visual memory of Science Unit 5.4.
+trai:: Two small circles with a straight line bridging the gap between them.
+phai:: Closed switch
+trai:: Two small circles with a line pointing diagonally upwards, creating a gap.
+phai:: Open switch
+trai:: A half-circle shape with two small legs sticking out from the flat bottom.
+phai:: Buzzer
+trai:: A circle containing a large \"X\" through the middle.
+phai:: Bulb
+giải thích:: Học sinh cần nhớ chính xác các chi tiết nhỏ trong ký hiệu (đặc biệt là sự khác biệt giữa open và closed switch, và hình dạng của buzzer).
+---
+loại:: phan_loai
+câu 165:: Classify the following scenarios to determine if they describe a system that is "In Series" (one single continuous path) or "Broken/Incomplete" (current cannot flow).
+nhom:: Complete Series Circuit (Mạch kín)
+nhom:: Incomplete Circuit (Mạch hở)
+the:: Cell $\\rightarrow$ Wire $\\rightarrow$ Closed Switch $\\rightarrow$ Bulb $\\rightarrow$ Cell.
+the:: Battery $\\rightarrow$ Wire $\\rightarrow$ Open Switch $\\rightarrow$ Buzzer $\\rightarrow$ Battery.
+the:: Battery $\\rightarrow$ Wire $\\rightarrow$ Bulb $\\rightarrow$ Wire $\\rightarrow$ (Cut end of wire).
+the:: Cell $\\rightarrow$ Wire $\\rightarrow$ Buzzer $\\rightarrow$ Wire $\\rightarrow$ Cell.
+đáp án:: Cell $\\rightarrow$ Wire $\\rightarrow$ Closed Switch $\\rightarrow$ Bulb $\\rightarrow$ Cell.::1
+đáp án:: Battery $\\rightarrow$ Wire $\\rightarrow$ Open Switch $\\rightarrow$ Buzzer $\\rightarrow$ Battery.::2
+đáp án:: Battery $\\rightarrow$ Wire $\\rightarrow$ Bulb $\\rightarrow$ Wire $\\rightarrow$ (Cut end of wire).::2
+đáp án:: Cell $\\rightarrow$ Wire $\\rightarrow$ Buzzer $\\rightarrow$ Wire $\\rightarrow$ Cell.::1
+giải thích:: Mạch có "Open Switch" hoặc "Cut end of wire" (dây bị cắt) đều là mạch hở (Incomplete). Mạch không có công tắc nhưng khép kín hoàn toàn vẫn là mạch hoạt động (Complete).
+---
+loại:: mot_dap_an
+câu 166:: Look at the mental image of this circuit diagram: There is a 3V battery at the top. A wire goes down to an open switch. From the switch, the wire goes to a bulb. From the bulb, the wire goes to a buzzer. Finally, the wire returns to the battery. If you look at this circuit right now, what is happening?
+a:: The bulb is shining brightly, and the buzzer is loud.
+b:: The bulb is off, but the buzzer is making a sound.
+c:: Neither the bulb nor the buzzer is working.
+d:: The battery is exploding.
+đáp án:: c
+giải thích:: Vì công tắc đang ở trạng thái "open switch" (mở/ngắt mạch), toàn bộ dòng điện bị chặn lại. Do đó, KHÔNG có thiết bị nào (cả đèn và còi) có thể hoạt động.
+---
+loại:: dien_khuyet
+câu 167:: Complete the physics concept: "The electrical pressure that pushes the current through the connecting wires in a circuit is measured in units called ... (a 5-letter word starting with V)."
+đáp án:: volts
+giải thích:: Điện áp (Voltage) đo bằng đơn vị "volts" (V), ví dụ 1.5V hay 3V.
+---
+loại:: nhieu_dap_an
+câu 168:: A homeowner is trying to install a "wireless TV" (from MOET Unit 10) in their motorhome. However, the TV requires a direct connection to the vehicle's internal power circuit to function initially. The engineer draws a circuit diagram. Which of the following symbols MUST be present in the diagram to ensure the TV receives power and can be turned on and off safely? (Select 2 correct answers).
+a:: A battery symbol (to provide strong power).
+b:: A buzzer symbol (to make it loud).
+c:: A switch symbol (to control the power flow).
+d:: A cloud symbol (to connect to Wi-Fi).
+đáp án:: a,c
+giải thích:: Để mạch điện TV hoạt động và có thể điều khiển được, bắt buộc phải có Nguồn điện (Battery) và thiết bị điều khiển đóng/ngắt mạch (Switch).
+---
+loại:: dropdown
+câu 169:: Read the troubleshooting guide for a flashlight: "If the flashlight does not turn on when you slide the button forward, first check the power source. The flashlight requires 3V to operate. If you open the casing and only see a single 1.5V [[cell|battery|bulb|buzzer]], the device will not have enough power to produce light."
+đáp án:: cell
+giải thích:: Một viên pin 1.5V là "cell". Nó không đủ điện áp 3V để đèn pin hoạt động.
+---
+loại:: dung_sai
+câu 170:: Evaluate the statement: "In a circuit diagram, drawing two cells connected together (a long line, a short line, another long line, another short line) represents a 3V battery."
+đáp án:: đúng
+giải thích:: Ký hiệu của "Battery" chính xác là hai hoặc nhiều "Cells" ghép nối tiếp nhau. Mỗi cell 1.5V, hai cells sẽ là 3V. Nhận định này hoàn toàn đúng.
+---
+loại:: noi
+câu 171:: Match the action performed on a physical circuit (Left) with the resulting change in the circuit diagram's scientific symbols (Right).
+trai:: You press the alarm button down to activate the siren.
+phai:: The symbol changes from an 'open switch' to a 'closed switch'.
+trai:: You add a second 1.5V power unit into the battery holder.
+phai:: The symbol changes from a single 'cell' to a 'battery'.
+trai:: You accidentally cut the copper cord with a pair of scissors.
+phai:: The solid 'connecting wire' line now has a gap in it.
+trai:: You replace the light-emitting device with a sound-emitting device.
+phai:: The 'circle with an X' is replaced by a 'half-circle with legs'.
+giải thích:: Đòi hỏi sự liên kết giữa hành động thực tế và cách biểu diễn trừu tượng trên sơ đồ mạch điện.
+---
+loại:: sap_xep
+câu 172:: An architect is designing a circuit for an "electric cooker" (Unit 10) in a modern apartment. Order the steps taken by the electricity from the moment the user interacts with the appliance.
+muc:: (1) The user pushes the power button on the cooker.
+muc:: (2) Inside the machine, an open switch becomes a closed switch.
+muc:: (3) The 220V electrical current flows rapidly through the connecting wires.
+muc:: (4) The electricity reaches the heating elements, converting into thermal energy.
+muc:: (5) The electric cooker successfully heats up the food.
+giải thích:: Quá trình chuyển đổi từ hành động bấm nút -> Đóng mạch -> Dòng điện chạy -> Chuyển hóa năng lượng -> Kết quả.
+---
+loại:: phan_loai
+câu 173:: Distinguish between the vocabulary of Global English (Nature's Power) and Science (Circuits). Classify the following terms based on their primary subject context.
+nhom:: Global English (Natural / Weather Phenomena)
+nhom:: Science (Man-made / Electrical Circuits)
+the:: Lightning
+the:: 1.5V Cell
+the:: Thunderstorm
+the:: Closed Switch
+the:: Cold Air
+the:: Buzzer
+đáp án:: Lightning::1
+đáp án:: 1.5V Cell::2
+đáp án:: Thunderstorm::1
+đáp án:: Closed Switch::2
+đáp án:: Cold Air::1
+đáp án:: Buzzer::2
+giải thích:: Giúp học sinh phân định rõ ràng các thuật ngữ liên môn. (Lightning là dòng điện tự nhiên, Cell/Switch là linh kiện nhân tạo).
+---
+loại:: mot_dap_an
+câu 174:: A student designs a simple circuit to test materials. The circuit consists of a battery, a bulb, and two loose connecting wires. When the student touches the two loose wires to a metal spoon, the bulb lights up. When the student touches the wires to a plastic ruler, the bulb remains dark. What does this experiment prove about the "connecting wires" and the circuit?
+a:: The plastic ruler acts as a closed switch, but the bulb is broken.
+b:: The metal spoon completes the circuit, acting like an extra connecting wire.
+c:: The battery is empty when touching the plastic ruler.
+d:: The metal spoon turns into a 3V battery.
+đáp án:: b
+giải thích:: Kim loại (spoon) dẫn điện, nên nó kết nối hai đầu dây lỏng lẻo, hoàn thành mạch điện (completes the circuit) giống như một đoạn dây dẫn (connecting wire). Nhựa cách điện nên mạch vẫn hở.
+---
+loại:: dien_khuyet
+câu 175:: Complete the definition from the exam review sheet: "A ... (7-letter word) is an electrical component that converts electrical energy into an audible warning sound. Its circuit symbol looks like a mushroom or a half-circle on two legs."
+đáp án:: buzzer
+giải thích:: Thiết bị chuyển điện thành âm thanh (audible sound) có hình nửa vòng tròn (half-circle) là "buzzer" (còi báo).
+---
+loại:: dropdown
+câu 176:: In a circuit diagram, the straight lines representing the [[connecting wires|hot air|clouds|thunder]] must always be drawn completely touching the components (like the cell or bulb) to show that there is no break in the electrical path.
+đáp án:: connecting wires
+giải thích:: Các đường thẳng trong sơ đồ mạch điện biểu diễn "connecting wires" (dây dẫn) và phải chạm vào linh kiện để tạo mạch kín.
+---
+loại:: dung_sai
+câu 177:: Evaluate the scientific statement: "If you have a circuit with a 3V battery, a closed switch, and two bulbs connected one after the other in a single loop, removing one of the bulbs will leave an empty gap, causing the other bulb to turn off."
+đáp án:: đúng
+giải thích:: Trong một mạch nối tiếp (single loop), nếu tháo một bóng đèn ra, nó sẽ tạo ra một khoảng hở (gap) giống như một open switch. Toàn bộ mạch bị ngắt và bóng đèn còn lại cũng sẽ tắt. Lập luận vật lý chính xác.
+---
+loại:: nhieu_dap_an
+câu 178:: Which of the following components are mathematically required to build a standard "3V battery" according to the Cambridge Science curriculum? (Select 2 correct answers).
+a:: Exactly one 1.5V cell.
+b:: A combination of two 1.5V cells.
+c:: Connecting them so their voltages add up ($1.5V + 1.5V = 3V$).
+d:: A buzzer to multiply the voltage.
+đáp án:: b,c
+giải thích:: Để có một "3V battery", ta phải kết hợp hai viên pin đơn (b) và cộng gộp điện áp của chúng lại $1.5 + 1.5 = 3$ (c). Còi (buzzer) không sinh ra điện.
+---
+loại:: noi
+câu 179:: Match the real-world household actions (from MOET Unit 10) with the internal circuit changes occurring inside the appliances.
+trai:: You turn off the "electric cooker" because the rice is done.
+phai:: The internal switch changes from 'closed' to 'open'.
+trai:: You put two new AA batteries into the "wireless TV" remote.
+phai:: You are adding a 3V power source to the circuit.
+trai:: You plug the "dishwasher" into the wall socket.
+phai:: You are connecting the device to a massive external power grid.
+trai:: A rat chews through the main cable of your "solar energy" system.
+phai:: A 'connecting wire' is severely broken, creating an incomplete circuit.
+giải thích:: Tích hợp kiến thức Science vào tình huống thực tế của chủ đề "Houses in the Future".
+---
+loại:: sap_xep
+câu 180:: Reorder the words to form a crucial rule for drawing scientific circuit diagrams correctly.
+muc:: (1) Always
+muc:: (2) use
+muc:: (3) a
+muc:: (4) ruler
+muc:: (5) to
+muc:: (6) draw
+muc:: (7) the
+muc:: (8) connecting
+muc:: (9) wires
+muc:: (10) as
+muc:: (11) straight
+muc:: (12) lines.
+giải thích:: Quy tắc vẽ sơ đồ chuẩn: "Always use a ruler to draw the connecting wires as straight lines."
+---
+loại:: mot_dap_an
+câu 181:: Look at this described circuit: A 3V battery is connected by a wire to a closed switch. From the switch, a wire splits into two separate paths. Path A goes to a bulb. Path B goes to a buzzer. Both paths then return via wire to the battery. What happens if the bulb suddenly breaks?
+a:: Both the bulb and the buzzer stop working.
+b:: The bulb stops working, but the buzzer continues to make a sound.
+c:: The buzzer stops working, but the bulb shines brighter.
+d:: The battery catches fire.
+đáp án:: b
+giải thích:: Vì mạch bị chia làm hai nhánh riêng biệt (mạch song song - parallel circuit), sự cố đứt mạch ở bóng đèn (Path A) không ảnh hưởng đến dòng điện đang chạy qua còi (Path B). Còi vẫn kêu bình thường.
+---
+loại:: dien_khuyet
+câu 182:: Complete the sentence: "In a circuit diagram, the symbol for a bulb is a circle with a cross inside it, which looks like a capital letter ... ." (Type a single English letter).
+đáp án:: X
+giải thích:: Ký hiệu của bóng đèn (bulb) là một vòng tròn có chữ "X" (cross) ở giữa.
+---
+loại:: phan_loai
+câu 183:: Classify the electrical components based on their primary function in a circuit: "Source of Energy" (Provides power) or "Consumer of Energy" (Uses power).
+nhom:: Source of Energy (Cung cấp năng lượng)
+nhom:: Consumer of Energy (Tiêu thụ năng lượng)
+the:: 1.5V Cell
+the:: 3V Battery
+the:: Light Bulb
+the:: Buzzer
+the:: Solar Panel (from Unit 10)
+the:: Electric Cooker (from Unit 10)
+đáp án:: 1.5V Cell::1
+đáp án:: 3V Battery::1
+đáp án:: Light Bulb::2
+đáp án:: Buzzer::2
+đáp án:: Solar Panel (from Unit 10)::1
+đáp án:: Electric Cooker (from Unit 10)::2
+giải thích:: Cell, Battery, Solar Panel là các nguồn phát điện. Bóng đèn, còi, nồi cơm điện là các thiết bị tiêu thụ và chuyển hóa điện năng.
+---
+loại:: dropdown
+câu 184:: When writing an exam paper, a student mistakenly draws a long line and a short line, followed by a gap, and then another long line and short line. This is incorrect. To properly draw a [[battery|cell|buzzer|bulb]], the lines representing the multiple cells must be connected with a dotted or solid line to show they are joined.
+đáp án:: battery
+giải thích:: Ký hiệu của Battery (nhiều cells) không được rời rạc mà phải có đường nét gạch nối (dotted/solid line) giữa các cặp đường dài/ngắn để thể hiện chúng đang được ghép lại với nhau.
+---
+loại:: dung_sai
+câu 185:: Evaluate this safety warning: "If you connect a simple wire directly from the positive terminal of a 3V battery straight back to the negative terminal without adding any bulb or buzzer in the middle, the circuit will safely do nothing."
+đáp án:: sai
+giải thích:: Đây là hiện tượng đoản mạch (short circuit). Dòng điện quá lớn sẽ chạy qua dây dẫn mà không bị cản lại bởi thiết bị tiêu thụ nào, khiến pin và dây dẫn cực kỳ nóng, có thể gây cháy nổ. Khẳng định "safely do nothing" là sai và rất nguy hiểm.
+---
+loại:: noi
+câu 186:: Match the diagnostic observation of a circuit (Left) with the most highly probable technical fault (Right).
+trai:: The bulb was shining brightly, but suddenly went completely dark without anyone touching the switch.
+phai:: The filament inside the bulb has broken (the bulb blew out).
+trai:: The circuit is fully assembled with a closed switch, but the buzzer is completely silent from the start.
+phai:: The 1.5V cell was accidentally placed in the holder backwards.
+trai:: The diagram shows a 3V battery, but the physical circuit only has one single cell.
+phai:: The physical model does not match the required voltage of the blueprint.
+trai:: The switch is pressed down, but the metallic contacts inside it are dirty and rusted.
+phai:: The switch is failing to create a proper electrical connection.
+giải thích:: Tư duy phân tích lỗi (Troubleshooting) ở cấp độ Vận dụng cao.
+---
+loại:: sap_xep
+câu 187:: Reorder the sentence to describe how a natural phenomenon from Unit 7 can affect an artificial circuit from Unit 5.4.
+muc:: (1) The
+muc:: (2) violent
+muc:: (3) thunderstorm
+muc:: (4) produced
+muc:: (5) a
+muc:: (6) lightning
+muc:: (7) strike
+muc:: (8) that
+muc:: (9) destroyed
+muc:: (10) the
+muc:: (11) connecting
+muc:: (12) wires.
+giải thích:: Kết nối đa môn (Cross-curricular): Bão sấm sét (hiện tượng tự nhiên) phá hủy dây dẫn điện (linh kiện nhân tạo).
+---
+loại:: mot_dap_an
+câu 188:: An engineer is modifying a circuit diagram for a warning system. Currently, the diagram shows a cell, a closed switch, and a buzzer. The engineer erases the 'closed switch' symbol and draws an 'open switch' symbol instead. What is the immediate physical consequence of this drawing change on the real-life machine built from it?
+a:: The machine will now produce a louder sound.
+b:: The machine is now permanently turned off and will not make a sound.
+c:: The machine will explode due to high voltage.
+d:: The buzzer will turn into a bulb.
+đáp án:: b
+giải thích:: Việc đổi từ "closed switch" (mạch kín) sang "open switch" (mạch hở) trên bản thiết kế đồng nghĩa với việc cỗ máy thực tế sẽ luôn ở trạng thái bị ngắt điện (turned off).
+---
+loại:: dien_khuyet
+câu 189:: Fill in the blank: "In standard scientific notation, a 1.5V ... (a 4-letter word) is the fundamental building block of all portable power sources. When you need more power, you combine several of them."
+đáp án:: cell
+giải thích:: "Cell" (pin đơn) là đơn vị nền tảng nhỏ nhất để tạo ra các nguồn năng lượng di động.
+---
+loại:: nhieu_dap_an
+câu 190:: Which of the following statements about "Connecting wires" in a circuit diagram are TRUE? (Select 2 correct answers).
+a:: They are always drawn as perfectly straight solid lines.
+b:: They must be drawn with a red pen to represent hot electricity.
+c:: They show the exact path that the electrical current takes.
+d:: They are drawn as a circle with a cross inside.
+đáp án:: a,c
+giải thích:: Dây dẫn (connecting wires) luôn được vẽ bằng đường thẳng nét đứt (A) và thể hiện đường đi của dòng điện (C). Không bắt buộc dùng bút đỏ (B) và vòng tròn chữ X là của bóng đèn (D).
+---
+loại:: dropdown
+câu 191:: In a high-tech "apartment" (Unit 10), the smart door lock uses a circuit. When the owner inputs the correct password, the computer sends a signal that changes the door's internal circuit from an [[open switch|closed switch|broken wire|empty cell]] to a closed switch, allowing power to move the locking mechanism.
+đáp án:: open switch
+giải thích:: Bình thường cửa khóa (mất điện/mạch hở - open switch). Nhập đúng pass, mạch đóng lại (closed switch) để cấp điện mở chốt cửa.
+---
+loại:: dung_sai
+câu 192:: Evaluate the statement: "If a student creates a circuit using a 3V battery but connects it to a bulb that is only designed to handle 1.5V, the bulb will operate normally for a very long time."
+đáp án:: sai
+giải thích:: Đưa điện áp 3V vào một bóng đèn chỉ chịu được 1.5V sẽ làm bóng đèn cháy/đứt dây tóc ngay lập tức (blown bulb) do quá tải điện áp. Nó sẽ không thể hoạt động bình thường.
+---
+loại:: sap_xep
+câu 193:: Reorder the following words to create a grammatically correct sentence comparing two circuit components using the comparative form.
+muc:: (1) A
+muc:: (2) 3V
+muc:: (3) battery
+muc:: (4) is
+muc:: (5) more
+muc:: (6) powerful
+muc:: (7) than
+muc:: (8) a
+muc:: (9) single
+muc:: (10) 1.5V
+muc:: (11) cell.
+giải thích:: Ôn tập ngữ pháp So sánh hơn (Comparative): S + is + more + adj dài (powerful) + than + N.
+---
+loại:: noi
+câu 194:: Match the conceptual component of a circuit (Left) with an everyday analogy to help a beginner understand how electricity works (Right).
+trai:: The Battery/Cell
+phai:: The water pump that pushes water through the pipes.
+trai:: The Connecting Wires
+phai:: The hollow pipes that carry the water around the house.
+trai:: The Bulb or Buzzer
+phai:: A water wheel that uses the moving water to do work.
+trai:: The Switch
+phai:: A valve or tap that can stop or start the flow of water.
+giải thích:: Sử dụng mô hình tương tự (Analogy) về dòng nước để học sinh hiểu sâu bản chất vật lý của dòng điện thay vì chỉ học vẹt.
+---
+loại:: mot_dap_an
+câu 195:: Examine the text: "The environmentalists are protesting the construction of traditional power plants. They argue that we should power our future 'skyscrapers' and 'apartments' using clean ______ instead of burning fossil fuels, which pollutes the atmosphere." Which term from MOET Unit 10 best fits this context?
+a:: solar energy
+b:: hot air
+c:: buzzer
+d:: thunderstorm
+đáp án:: a
+giải thích:: Để thay thế nhiên liệu hóa thạch gây ô nhiễm và cung cấp năng lượng sạch cho các tòa nhà, "solar energy" (năng lượng mặt trời) là đáp án duy nhất đúng về ngữ nghĩa và ngữ cảnh.
+---
+loại:: dien_khuyet
+câu 196:: Complete the rule for drawing diagrams: "When drawing a ... (7-letter word meaning 'a set of power cells joined together'), you must ensure the longer line represents the positive (+) terminal and the shorter, thicker line represents the negative (-) terminal."
+đáp án:: battery
+giải thích:: Bộ nguồn gồm nhiều cells ghép lại gọi là "battery".
+---
+loại:: phan_loai
+câu 197:: Identify the components required for specific specialized circuits. Classify the following components into those needed for a "Visual Alert System" vs an "Audio Alert System".
+nhom:: Visual Alert System (Hệ thống cảnh báo bằng mắt)
+nhom:: Audio Alert System (Hệ thống cảnh báo bằng âm thanh)
+the:: A Light Bulb
+the:: A Buzzer
+the:: A Glass casing
+the:: A sound amplifying cone
+đáp án:: A Light Bulb::1
+đáp án:: A Buzzer::2
+đáp án:: A Glass casing::1
+đáp án:: A sound amplifying cone::2
+giải thích:: Bóng đèn và vỏ thủy tinh phục vụ việc phát sáng (Visual). Còi và nón khuếch đại âm thanh phục vụ việc báo động bằng tiếng ồn (Audio).
+---
+loại:: dropdown
+câu 198:: "In the year 2050, a family living in a [[houseboat|thunderstorm|cell|open switch]] relies entirely on a complex circuit of solar panels on their roof to generate electricity while they float down the river."
+đáp án:: houseboat
+giải thích:: Nơi ở trôi nổi trên sông (float down the river) là đặc trưng của "houseboat" (nhà nổi/thuyền nhà).
+---
+loại:: dung_sai
+câu 199:: Evaluate the scientific logic: "If lightning strikes a house, it inputs millions of volts of natural electricity into the home's internal wiring. Since the home's 'closed switches' are only designed for 220V, the massive surge will likely melt the connecting wires and cause a fire."
+đáp án:: đúng
+giải thích:: Lập luận logic hoàn toàn chính xác. Hệ thống dây dẫn (connecting wires) nhân tạo có giới hạn chịu đựng (220V). Sét đánh mang hàng triệu Volts sẽ gây quá tải trầm trọng, làm nóng chảy dây và gây hỏa hoạn.
+---
+loại:: sap_xep
+câu 200:: Reorder the following sentence to describe the consequence of poor circuit design.
+muc:: (1) If
+muc:: (2) the
+muc:: (3) connecting
+muc:: (4) wires
+muc:: (5) are
+muc:: (6) too
+muc:: (7) thin,
+muc:: (8) they
+muc:: (9) will
+muc:: (10) become
+muc:: (11) dangerously
+muc:: (12) hot.
+giải thích:: Cấu trúc câu điều kiện loại 1 (First Conditional) miêu tả một sự thật vật lý: Dây quá mỏng sẽ bị nóng lên nguy hiểm do điện trở.
+---
+// ==================================================================
+// BATCH 5: SCIENCE - UNIT 5.4: CIRCUITS & DIAGRAMS (Q151 - Q200)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 151:: A student is reading a science manual to build a small robotic toy. The instructions state: "You must provide a power source of exactly 3 Volts to make the motor run." The student looks in the supply box and only finds standard 1.5V power units. What must the student do, and what is the scientific name for this new combined unit?
+a:: Use one 1.5V unit; it is called a cell.
+b:: Join two 1.5V units together; it is called a battery.
+c:: Join three 1.5V units together; it is called a buzzer.
+d:: Cut a 1.5V unit in half; it is called an open switch.
+đáp án:: b
+giải thích:: Một đơn vị 1.5V gọi là "Cell" (Pin đơn). Để có 3V, học sinh phải ghép 2 cells lại. Khi hai hoặc nhiều cells ghép lại với nhau, hệ thống đó mới được gọi chính thức là "Battery" (Bộ pin).
+---
+loại:: dien_khuyet
+câu 152:: Analyze the following text from a physics textbook: "When scientists and engineers design complex electrical systems, they do not draw realistic, detailed pictures of every single component because it takes too much time and space. Instead, they use a universal set of simple, standardized lines and shapes called circuit ... to represent each part clearly." Fill in the blank with a plural noun.
+đáp án:: symbols
+giải thích:: Các đường nét và hình khối tiêu chuẩn dùng để vẽ mạch điện được gọi là "Circuit symbols" (Ký hiệu mạch điện).
+---
+loại:: dung_sai
+câu 153:: Evaluate the following logical deduction made by a 6th-grade student: "In everyday language, my mom tells me to 'open the light' when the room is dark. Therefore, in a scientific circuit diagram, if I want the bulb to light up and shine brightly, I must ensure the diagram shows an 'open switch'."
+đáp án:: sai
+giải thích:: Đây là "Bẫy Tư duy ngược" kinh điển. Trong Khoa học, "Open switch" (công tắc mở) có nghĩa là mạch bị hở/đứt đoạn -> dòng điện KHÔNG chạy qua -> đèn TẮT. Để đèn sáng, ta phải dùng "Closed switch" (công tắc đóng) để tạo mạch kín.
+---
+loại:: phan_loai
+câu 154:: An electrical engineer is testing various circuit configurations on a simulator. Classify the following circuit descriptions based on whether the final output device (bulb/buzzer) will currently ACTIVATE (turn on) or FAIL TO ACTIVATE (stay off).
+nhom:: ACTIVATE (ON / Complete Circuit)
+nhom:: FAIL TO ACTIVATE (OFF / Broken Circuit)
+the:: A circuit with a 3V battery, intact connecting wires, and a closed switch.
+the:: A circuit with a 1.5V cell, a broken wire, and a closed switch.
+the:: A circuit with a battery, intact wires, and an open switch.
+the:: A simple unbroken loop of wire connecting a cell directly to a buzzer with no switch.
+đáp án:: A circuit with a 3V battery, intact connecting wires, and a closed switch.::1
+đáp án:: A circuit with a 1.5V cell, a broken wire, and a closed switch.::2
+đáp án:: A circuit with a battery, intact wires, and an open switch.::2
+đáp án:: A simple unbroken loop of wire connecting a cell directly to a buzzer with no switch.::1
+giải thích:: Mạch bị đứt dây (broken wire) hoặc công tắc hở (open switch) sẽ làm mạch hỏng (FAIL). Mạch kín hoàn toàn, dù có hay không có công tắc, thiết bị vẫn sẽ hoạt động (ACTIVATE).
+---
+loại:: noi
+câu 155:: Match the precise scientific names of the circuit components (Left) with their standard visual representations in a circuit diagram (Right).
+trai:: A Cell
+phai:: A long thin line next to a shorter, thicker line.
+trai:: A Battery
+phai:: Two or more pairs of long and short lines connected together.
+trai:: A Connecting Wire
+phai:: A simple, straight, solid black line.
+trai:: A Bulb
+phai:: A circle with a cross (X) drawn inside it.
+giải thích:: Học sinh bắt buộc phải thuộc lòng các ký hiệu mạch điện (Circuit symbols) cơ bản nhất để làm bài thi Science.
+---
+loại:: sap_xep
+câu 156:: Reorder the steps logically to describe the sequential flow of electrical energy in a successfully operating, simple alarm circuit.
+muc:: (1) Electrical energy leaves the positive terminal of the 3V battery.
+muc:: (2) The current travels along the copper connecting wire.
+muc:: (3) The current passes safely through the closed switch.
+muc:: (4) The energy reaches the buzzer, converting the electrical energy into a loud sound.
+muc:: (5) The current continues along the wire back to the negative terminal, completing the loop.
+giải thích:: Dòng điện chạy từ cực dương, qua dây dẫn, qua công tắc đóng, tới thiết bị tiêu thụ (còi), và trở về cực âm tạo thành một vòng khép kín.
+---
+loại:: dropdown
+câu 157:: Read the scenario: "The security team wants to install a warning system on the vault door. When the door is opened by a thief, it acts as a closed switch, completing a hidden circuit. To ensure the guards hear the alarm immediately, the engineer must include a [[buzzer|bulb|cell|wire]] in the circuit design."
+đáp án:: buzzer
+giải thích:: Hệ thống cảnh báo cần âm thanh để bảo vệ (hear the alarm), do đó thiết bị cần thêm vào là "buzzer" (còi báo). Bulb (bóng đèn) chỉ phát sáng chứ không phát ra tiếng động.
+---
+loại:: nhieu_dap_an
+câu 158:: A student raises their hand in the science lab and says, "Teacher, I built the circuit exactly as shown. I have a battery, a switch, and a bulb. My switch is currently in the 'closed' position, but the bulb is NOT lighting up at all!" Based on troubleshooting logic, which of the following are valid scientific reasons for this failure? (Select 2 correct answers).
+a:: One of the connecting wires has a hidden break inside the plastic cover.
+b:: The battery has completely run out of stored chemical energy (it is dead/flat).
+c:: The switch is successfully creating a continuous, unbroken path for the electricity.
+d:: The circuit contains a cell instead of a buzzer.
+đáp án:: a,b
+giải thích:: Mặc dù công tắc đã đóng (closed), nhưng nếu dây đứt ngầm (a) hoặc pin đã hết điện (b) thì mạch vẫn không hoạt động. Phương án (c) là điều kiện tốt, không phải nguyên nhân gây lỗi.
+---
+loại:: mot_dap_an
+câu 159:: Examine the technical specifications for a new smart home device (MOET Unit 10 integration): "This wireless temperature sensor is extremely small and requires very little voltage to operate. In fact, a 3V battery would overload and fry the system." Based on this, what is the most appropriate power source to draw in the circuit diagram for this sensor?
+a:: A single 1.5V cell (one long line, one short line).
+b:: A 3V battery (two pairs of long and short lines).
+c:: An open switch.
+d:: A bright bulb.
+đáp án:: a
+giải thích:: 3V là quá tải (overload), thiết bị cần điện áp rất nhỏ. Do đó, nguồn điện phù hợp nhất là một "Cell" (Pin đơn) có điện áp 1.5V.
+---
+loại:: dien_khuyet
+câu 160:: Complete the sentence from a laboratory safety guideline: "When you have finished your experiment, you must immediately press the button to create an ... (a state where the circuit is broken). This stops the flow of electricity and prevents the battery from draining unnecessarily."
+đáp án:: open switch
+giải thích:: Trạng thái làm ngắt mạch điện, ngăn dòng điện chạy qua là "open switch" (công tắc mở).
+---
+loại:: dung_sai
+câu 161:: Evaluate this statement made by a peer: "If I draw a circuit diagram with a battery, a wire, and a bulb, but the wire is drawn as a squiggly, messy line instead of a straight line with a ruler, the actual physical circuit built from this diagram will definitely not work."
+đáp án:: sai
+giải thích:: Sơ đồ mạch điện (circuit diagram) thường dùng đường thẳng cho gọn gàng, nhưng việc vẽ dây dẫn ngoằn ngoèo trên giấy KHÔNG làm ảnh hưởng đến nguyên lý hoạt động của mạch thực tế, miễn là các kết nối không bị đứt.
+---
+loại:: dropdown
+câu 162:: A technician is diagnosing a faulty doorbell. The homeowner presses the button, but there is no sound. The technician checks the power source and finds it is a single 1.5V cell. The doorbell's manual states: "Minimum operating voltage requirement: 3 Volts." The technician realizes he needs to replace the cell with a [[battery|bulb|open switch|wire]].
+đáp án:: battery
+giải thích:: Thiết bị cần tối thiểu 3V. Một "cell" chỉ có 1.5V. Kỹ thuật viên cần nâng cấp lên "battery" (bộ pin ghép từ 2 cells trở lên) để đạt 3V.
+---
+loại:: sap_xep
+câu 163:: Reorder the components to correctly construct a standard, scientifically accurate written description of a functioning simple circuit, starting from the power source.
+muc:: (1) A 1.5V cell provides the necessary electrical energy.
+muc:: (2) A connecting wire carries the current away from the cell.
+muc:: (3) A closed switch allows the current to safely pass through without interruption.
+muc:: (4) A bulb receives the current and converts it into light energy.
+muc:: (5) Another connecting wire returns the current to the cell, completing the circuit.
+giải thích:: Mô tả tuần tự các thành phần trên đường đi của dòng điện trong một mạch kín.
+---
+loại:: noi
+câu 164:: Match the visual characteristic of a circuit symbol (Left) with the specific component it represents (Right) to test visual memory of Science Unit 5.4.
+trai:: Two small circles with a straight line bridging the gap between them.
+phai:: Closed switch
+trai:: Two small circles with a line pointing diagonally upwards, creating a gap.
+phai:: Open switch
+trai:: A half-circle shape with two small legs sticking out from the flat bottom.
+phai:: Buzzer
+trai:: A circle containing a large \"X\" through the middle.
+phai:: Bulb
+giải thích:: Học sinh cần nhớ chính xác các chi tiết nhỏ trong ký hiệu (đặc biệt là sự khác biệt giữa open và closed switch, và hình dạng của buzzer).
+---
+loại:: phan_loai
+câu 165:: Classify the following scenarios to determine if they describe a system that is "In Series" (one single continuous path) or "Broken/Incomplete" (current cannot flow).
+nhom:: Complete Series Circuit (Mạch kín)
+nhom:: Incomplete Circuit (Mạch hở)
+the:: Cell $\\rightarrow$ Wire $\\rightarrow$ Closed Switch $\\rightarrow$ Bulb $\\rightarrow$ Cell.
+the:: Battery $\\rightarrow$ Wire $\\rightarrow$ Open Switch $\\rightarrow$ Buzzer $\\rightarrow$ Battery.
+the:: Battery $\\rightarrow$ Wire $\\rightarrow$ Bulb $\\rightarrow$ Wire $\\rightarrow$ (Cut end of wire).
+the:: Cell $\\rightarrow$ Wire $\\rightarrow$ Buzzer $\\rightarrow$ Wire $\\rightarrow$ Cell.
+đáp án:: Cell $\\rightarrow$ Wire $\\rightarrow$ Closed Switch $\\rightarrow$ Bulb $\\rightarrow$ Cell.::1
+đáp án:: Battery $\\rightarrow$ Wire $\\rightarrow$ Open Switch $\\rightarrow$ Buzzer $\\rightarrow$ Battery.::2
+đáp án:: Battery $\\rightarrow$ Wire $\\rightarrow$ Bulb $\\rightarrow$ Wire $\\rightarrow$ (Cut end of wire).::2
+đáp án:: Cell $\\rightarrow$ Wire $\\rightarrow$ Buzzer $\\rightarrow$ Wire $\\rightarrow$ Cell.::1
+giải thích:: Mạch có "Open Switch" hoặc "Cut end of wire" (dây bị cắt) đều là mạch hở (Incomplete). Mạch không có công tắc nhưng khép kín hoàn toàn vẫn là mạch hoạt động (Complete).
+---
+loại:: mot_dap_an
+câu 166:: Look at the mental image of this circuit diagram: There is a 3V battery at the top. A wire goes down to an open switch. From the switch, the wire goes to a bulb. From the bulb, the wire goes to a buzzer. Finally, the wire returns to the battery. If you look at this circuit right now, what is happening?
+a:: The bulb is shining brightly, and the buzzer is loud.
+b:: The bulb is off, but the buzzer is making a sound.
+c:: Neither the bulb nor the buzzer is working.
+d:: The battery is exploding.
+đáp án:: c
+giải thích:: Vì công tắc đang ở trạng thái "open switch" (mở/ngắt mạch), toàn bộ dòng điện bị chặn lại. Do đó, KHÔNG có thiết bị nào (cả đèn và còi) có thể hoạt động.
+---
+loại:: dien_khuyet
+câu 167:: Complete the physics concept: "The electrical pressure that pushes the current through the connecting wires in a circuit is measured in units called ... (a 5-letter word starting with V)."
+đáp án:: volts
+giải thích:: Điện áp (Voltage) đo bằng đơn vị "volts" (V), ví dụ 1.5V hay 3V.
+---
+loại:: nhieu_dap_an
+câu 168:: A homeowner is trying to install a "wireless TV" (from MOET Unit 10) in their motorhome. However, the TV requires a direct connection to the vehicle's internal power circuit to function initially. The engineer draws a circuit diagram. Which of the following symbols MUST be present in the diagram to ensure the TV receives power and can be turned on and off safely? (Select 2 correct answers).
+a:: A battery symbol (to provide strong power).
+b:: A buzzer symbol (to make it loud).
+c:: A switch symbol (to control the power flow).
+d:: A cloud symbol (to connect to Wi-Fi).
+đáp án:: a,c
+giải thích:: Để mạch điện TV hoạt động và có thể điều khiển được, bắt buộc phải có Nguồn điện (Battery) và thiết bị điều khiển đóng/ngắt mạch (Switch).
+---
+loại:: dropdown
+câu 169:: Read the troubleshooting guide for a flashlight: "If the flashlight does not turn on when you slide the button forward, first check the power source. The flashlight requires 3V to operate. If you open the casing and only see a single 1.5V [[cell|battery|bulb|buzzer]], the device will not have enough power to produce light."
+đáp án:: cell
+giải thích:: Một viên pin 1.5V là "cell". Nó không đủ điện áp 3V để đèn pin hoạt động.
+---
+loại:: dung_sai
+câu 170:: Evaluate the statement: "In a circuit diagram, drawing two cells connected together (a long line, a short line, another long line, another short line) represents a 3V battery."
+đáp án:: đúng
+giải thích:: Ký hiệu của "Battery" chính xác là hai hoặc nhiều "Cells" ghép nối tiếp nhau. Mỗi cell 1.5V, hai cells sẽ là 3V. Nhận định này hoàn toàn đúng.
+---
+loại:: noi
+câu 171:: Match the action performed on a physical circuit (Left) with the resulting change in the circuit diagram's scientific symbols (Right).
+trai:: You press the alarm button down to activate the siren.
+phai:: The symbol changes from an 'open switch' to a 'closed switch'.
+trai:: You add a second 1.5V power unit into the battery holder.
+phai:: The symbol changes from a single 'cell' to a 'battery'.
+trai:: You accidentally cut the copper cord with a pair of scissors.
+phai:: The solid 'connecting wire' line now has a gap in it.
+trai:: You replace the light-emitting device with a sound-emitting device.
+phai:: The 'circle with an X' is replaced by a 'half-circle with legs'.
+giải thích:: Đòi hỏi sự liên kết giữa hành động thực tế và cách biểu diễn trừu tượng trên sơ đồ mạch điện.
+---
+loại:: sap_xep
+câu 172:: An architect is designing a circuit for an "electric cooker" (Unit 10) in a modern apartment. Order the steps taken by the electricity from the moment the user interacts with the appliance.
+muc:: (1) The user pushes the power button on the cooker.
+muc:: (2) Inside the machine, an open switch becomes a closed switch.
+muc:: (3) The 220V electrical current flows rapidly through the connecting wires.
+muc:: (4) The electricity reaches the heating elements, converting into thermal energy.
+muc:: (5) The electric cooker successfully heats up the food.
+giải thích:: Quá trình chuyển đổi từ hành động bấm nút -> Đóng mạch -> Dòng điện chạy -> Chuyển hóa năng lượng -> Kết quả.
+---
+loại:: phan_loai
+câu 173:: Distinguish between the vocabulary of Global English (Nature's Power) and Science (Circuits). Classify the following terms based on their primary subject context.
+nhom:: Global English (Natural / Weather Phenomena)
+nhom:: Science (Man-made / Electrical Circuits)
+the:: Lightning
+the:: 1.5V Cell
+the:: Thunderstorm
+the:: Closed Switch
+the:: Cold Air
+the:: Buzzer
+đáp án:: Lightning::1
+đáp án:: 1.5V Cell::2
+đáp án:: Thunderstorm::1
+đáp án:: Closed Switch::2
+đáp án:: Cold Air::1
+đáp án:: Buzzer::2
+giải thích:: Giúp học sinh phân định rõ ràng các thuật ngữ liên môn. (Lightning là dòng điện tự nhiên, Cell/Switch là linh kiện nhân tạo).
+---
+loại:: mot_dap_an
+câu 174:: A student designs a simple circuit to test materials. The circuit consists of a battery, a bulb, and two loose connecting wires. When the student touches the two loose wires to a metal spoon, the bulb lights up. When the student touches the wires to a plastic ruler, the bulb remains dark. What does this experiment prove about the "connecting wires" and the circuit?
+a:: The plastic ruler acts as a closed switch, but the bulb is broken.
+b:: The metal spoon completes the circuit, acting like an extra connecting wire.
+c:: The battery is empty when touching the plastic ruler.
+d:: The metal spoon turns into a 3V battery.
+đáp án:: b
+giải thích:: Kim loại (spoon) dẫn điện, nên nó kết nối hai đầu dây lỏng lẻo, hoàn thành mạch điện (completes the circuit) giống như một đoạn dây dẫn (connecting wire). Nhựa cách điện nên mạch vẫn hở.
+---
+loại:: dien_khuyet
+câu 175:: Complete the definition from the exam review sheet: "A ... (7-letter word) is an electrical component that converts electrical energy into an audible warning sound. Its circuit symbol looks like a mushroom or a half-circle on two legs."
+đáp án:: buzzer
+giải thích:: Thiết bị chuyển điện thành âm thanh (audible sound) có hình nửa vòng tròn (half-circle) là "buzzer" (còi báo).
+---
+loại:: dropdown
+câu 176:: In a circuit diagram, the straight lines representing the [[connecting wires|hot air|clouds|thunder]] must always be drawn completely touching the components (like the cell or bulb) to show that there is no break in the electrical path.
+đáp án:: connecting wires
+giải thích:: Các đường thẳng trong sơ đồ mạch điện biểu diễn "connecting wires" (dây dẫn) và phải chạm vào linh kiện để tạo mạch kín.
+---
+loại:: dung_sai
+câu 177:: Evaluate the scientific statement: "If you have a circuit with a 3V battery, a closed switch, and two bulbs connected one after the other in a single loop, removing one of the bulbs will leave an empty gap, causing the other bulb to turn off."
+đáp án:: đúng
+giải thích:: Trong một mạch nối tiếp (single loop), nếu tháo một bóng đèn ra, nó sẽ tạo ra một khoảng hở (gap) giống như một open switch. Toàn bộ mạch bị ngắt và bóng đèn còn lại cũng sẽ tắt. Lập luận vật lý chính xác.
+---
+loại:: nhieu_dap_an
+câu 178:: Which of the following components are mathematically required to build a standard "3V battery" according to the Cambridge Science curriculum? (Select 2 correct answers).
+a:: Exactly one 1.5V cell.
+b:: A combination of two 1.5V cells.
+c:: Connecting them so their voltages add up ($1.5V + 1.5V = 3V$).
+d:: A buzzer to multiply the voltage.
+đáp án:: b,c
+giải thích:: Để có một "3V battery", ta phải kết hợp hai viên pin đơn (b) và cộng gộp điện áp của chúng lại $1.5 + 1.5 = 3$ (c). Còi (buzzer) không sinh ra điện.
+---
+loại:: noi
+câu 179:: Match the real-world household actions (from MOET Unit 10) with the internal circuit changes occurring inside the appliances.
+trai:: You turn off the "electric cooker" because the rice is done.
+phai:: The internal switch changes from 'closed' to 'open'.
+trai:: You put two new AA batteries into the "wireless TV" remote.
+phai:: You are adding a 3V power source to the circuit.
+trai:: You plug the "dishwasher" into the wall socket.
+phai:: You are connecting the device to a massive external power grid.
+trai:: A rat chews through the main cable of your "solar energy" system.
+phai:: A 'connecting wire' is severely broken, creating an incomplete circuit.
+giải thích:: Tích hợp kiến thức Science vào tình huống thực tế của chủ đề "Houses in the Future".
+---
+loại:: sap_xep
+câu 180:: Reorder the words to form a crucial rule for drawing scientific circuit diagrams correctly.
+muc:: (1) Always
+muc:: (2) use
+muc:: (3) a
+muc:: (4) ruler
+muc:: (5) to
+muc:: (6) draw
+muc:: (7) the
+muc:: (8) connecting
+muc:: (9) wires
+muc:: (10) as
+muc:: (11) straight
+muc:: (12) lines.
+giải thích:: Quy tắc vẽ sơ đồ chuẩn: "Always use a ruler to draw the connecting wires as straight lines."
+---
+loại:: mot_dap_an
+câu 181:: Look at this described circuit: A 3V battery is connected by a wire to a closed switch. From the switch, a wire splits into two separate paths. Path A goes to a bulb. Path B goes to a buzzer. Both paths then return via wire to the battery. What happens if the bulb suddenly breaks?
+a:: Both the bulb and the buzzer stop working.
+b:: The bulb stops working, but the buzzer continues to make a sound.
+c:: The buzzer stops working, but the bulb shines brighter.
+d:: The battery catches fire.
+đáp án:: b
+giải thích:: Vì mạch bị chia làm hai nhánh riêng biệt (mạch song song - parallel circuit), sự cố đứt mạch ở bóng đèn (Path A) không ảnh hưởng đến dòng điện đang chạy qua còi (Path B). Còi vẫn kêu bình thường.
+---
+loại:: dien_khuyet
+câu 182:: Complete the sentence: "In a circuit diagram, the symbol for a bulb is a circle with a cross inside it, which looks like a capital letter ... ." (Type a single English letter).
+đáp án:: X
+giải thích:: Ký hiệu của bóng đèn (bulb) là một vòng tròn có chữ "X" (cross) ở giữa.
+---
+loại:: phan_loai
+câu 183:: Classify the electrical components based on their primary function in a circuit: "Source of Energy" (Provides power) or "Consumer of Energy" (Uses power).
+nhom:: Source of Energy (Cung cấp năng lượng)
+nhom:: Consumer of Energy (Tiêu thụ năng lượng)
+the:: 1.5V Cell
+the:: 3V Battery
+the:: Light Bulb
+the:: Buzzer
+the:: Solar Panel (from Unit 10)
+the:: Electric Cooker (from Unit 10)
+đáp án:: 1.5V Cell::1
+đáp án:: 3V Battery::1
+đáp án:: Light Bulb::2
+đáp án:: Buzzer::2
+đáp án:: Solar Panel (from Unit 10)::1
+đáp án:: Electric Cooker (from Unit 10)::2
+giải thích:: Cell, Battery, Solar Panel là các nguồn phát điện. Bóng đèn, còi, nồi cơm điện là các thiết bị tiêu thụ và chuyển hóa điện năng.
+---
+loại:: dropdown
+câu 184:: When writing an exam paper, a student mistakenly draws a long line and a short line, followed by a gap, and then another long line and short line. This is incorrect. To properly draw a [[battery|cell|buzzer|bulb]], the lines representing the multiple cells must be connected with a dotted or solid line to show they are joined.
+đáp án:: battery
+giải thích:: Ký hiệu của Battery (nhiều cells) không được rời rạc mà phải có đường nét gạch nối (dotted/solid line) giữa các cặp đường dài/ngắn để thể hiện chúng đang được ghép lại với nhau.
+---
+loại:: dung_sai
+câu 185:: Evaluate this safety warning: "If you connect a simple wire directly from the positive terminal of a 3V battery straight back to the negative terminal without adding any bulb or buzzer in the middle, the circuit will safely do nothing."
+đáp án:: sai
+giải thích:: Đây là hiện tượng đoản mạch (short circuit). Dòng điện quá lớn sẽ chạy qua dây dẫn mà không bị cản lại bởi thiết bị tiêu thụ nào, khiến pin và dây dẫn cực kỳ nóng, có thể gây cháy nổ. Khẳng định "safely do nothing" là sai và rất nguy hiểm.
+---
+loại:: noi
+câu 186:: Match the diagnostic observation of a circuit (Left) with the most highly probable technical fault (Right).
+trai:: The bulb was shining brightly, but suddenly went completely dark without anyone touching the switch.
+phai:: The filament inside the bulb has broken (the bulb blew out).
+trai:: The circuit is fully assembled with a closed switch, but the buzzer is completely silent from the start.
+phai:: The 1.5V cell was accidentally placed in the holder backwards.
+trai:: The diagram shows a 3V battery, but the physical circuit only has one single cell.
+phai:: The physical model does not match the required voltage of the blueprint.
+trai:: The switch is pressed down, but the metallic contacts inside it are dirty and rusted.
+phai:: The switch is failing to create a proper electrical connection.
+giải thích:: Tư duy phân tích lỗi (Troubleshooting) ở cấp độ Vận dụng cao.
+---
+loại:: sap_xep
+câu 187:: Reorder the sentence to describe how a natural phenomenon from Unit 7 can affect an artificial circuit from Unit 5.4.
+muc:: (1) The
+muc:: (2) violent
+muc:: (3) thunderstorm
+muc:: (4) produced
+muc:: (5) a
+muc:: (6) lightning
+muc:: (7) strike
+muc:: (8) that
+muc:: (9) destroyed
+muc:: (10) the
+muc:: (11) connecting
+muc:: (12) wires.
+giải thích:: Kết nối đa môn (Cross-curricular): Bão sấm sét (hiện tượng tự nhiên) phá hủy dây dẫn điện (linh kiện nhân tạo).
+---
+loại:: mot_dap_an
+câu 188:: An engineer is modifying a circuit diagram for a warning system. Currently, the diagram shows a cell, a closed switch, and a buzzer. The engineer erases the 'closed switch' symbol and draws an 'open switch' symbol instead. What is the immediate physical consequence of this drawing change on the real-life machine built from it?
+a:: The machine will now produce a louder sound.
+b:: The machine is now permanently turned off and will not make a sound.
+c:: The machine will explode due to high voltage.
+d:: The buzzer will turn into a bulb.
+đáp án:: b
+giải thích:: Việc đổi từ "closed switch" (mạch kín) sang "open switch" (mạch hở) trên bản thiết kế đồng nghĩa với việc cỗ máy thực tế sẽ luôn ở trạng thái bị ngắt điện (turned off).
+---
+loại:: dien_khuyet
+câu 189:: Fill in the blank: "In standard scientific notation, a 1.5V ... (a 4-letter word) is the fundamental building block of all portable power sources. When you need more power, you combine several of them."
+đáp án:: cell
+giải thích:: "Cell" (pin đơn) là đơn vị nền tảng nhỏ nhất để tạo ra các nguồn năng lượng di động.
+---
+loại:: nhieu_dap_an
+câu 190:: Which of the following statements about "Connecting wires" in a circuit diagram are TRUE? (Select 2 correct answers).
+a:: They are always drawn as perfectly straight solid lines.
+b:: They must be drawn with a red pen to represent hot electricity.
+c:: They show the exact path that the electrical current takes.
+d:: They are drawn as a circle with a cross inside.
+đáp án:: a,c
+giải thích:: Dây dẫn (connecting wires) luôn được vẽ bằng đường thẳng nét đứt (A) và thể hiện đường đi của dòng điện (C). Không bắt buộc dùng bút đỏ (B) và vòng tròn chữ X là của bóng đèn (D).
+---
+loại:: dropdown
+câu 191:: In a high-tech "apartment" (Unit 10), the smart door lock uses a circuit. When the owner inputs the correct password, the computer sends a signal that changes the door's internal circuit from an [[open switch|closed switch|broken wire|empty cell]] to a closed switch, allowing power to move the locking mechanism.
+đáp án:: open switch
+giải thích:: Bình thường cửa khóa (mất điện/mạch hở - open switch). Nhập đúng pass, mạch đóng lại (closed switch) để cấp điện mở chốt cửa.
+---
+loại:: dung_sai
+câu 192:: Evaluate the statement: "If a student creates a circuit using a 3V battery but connects it to a bulb that is only designed to handle 1.5V, the bulb will operate normally for a very long time."
+đáp án:: sai
+giải thích:: Đưa điện áp 3V vào một bóng đèn chỉ chịu được 1.5V sẽ làm bóng đèn cháy/đứt dây tóc ngay lập tức (blown bulb) do quá tải điện áp. Nó sẽ không thể hoạt động bình thường.
+---
+loại:: sap_xep
+câu 193:: Reorder the following words to create a grammatically correct sentence comparing two circuit components using the comparative form.
+muc:: (1) A
+muc:: (2) 3V
+muc:: (3) battery
+muc:: (4) is
+muc:: (5) more
+muc:: (6) powerful
+muc:: (7) than
+muc:: (8) a
+muc:: (9) single
+muc:: (10) 1.5V
+muc:: (11) cell.
+giải thích:: Ôn tập ngữ pháp So sánh hơn (Comparative): S + is + more + adj dài (powerful) + than + N.
+---
+loại:: noi
+câu 194:: Match the conceptual component of a circuit (Left) with an everyday analogy to help a beginner understand how electricity works (Right).
+trai:: The Battery/Cell
+phai:: The water pump that pushes water through the pipes.
+trai:: The Connecting Wires
+phai:: The hollow pipes that carry the water around the house.
+trai:: The Bulb or Buzzer
+phai:: A water wheel that uses the moving water to do work.
+trai:: The Switch
+phai:: A valve or tap that can stop or start the flow of water.
+giải thích:: Sử dụng mô hình tương tự (Analogy) về dòng nước để học sinh hiểu sâu bản chất vật lý của dòng điện thay vì chỉ học vẹt.
+---
+loại:: mot_dap_an
+câu 195:: Examine the text: "The environmentalists are protesting the construction of traditional power plants. They argue that we should power our future 'skyscrapers' and 'apartments' using clean ______ instead of burning fossil fuels, which pollutes the atmosphere." Which term from MOET Unit 10 best fits this context?
+a:: solar energy
+b:: hot air
+c:: buzzer
+d:: thunderstorm
+đáp án:: a
+giải thích:: Để thay thế nhiên liệu hóa thạch gây ô nhiễm và cung cấp năng lượng sạch cho các tòa nhà, "solar energy" (năng lượng mặt trời) là đáp án duy nhất đúng về ngữ nghĩa và ngữ cảnh.
+---
+loại:: dien_khuyet
+câu 196:: Complete the rule for drawing diagrams: "When drawing a ... (7-letter word meaning 'a set of power cells joined together'), you must ensure the longer line represents the positive (+) terminal and the shorter, thicker line represents the negative (-) terminal."
+đáp án:: battery
+giải thích:: Bộ nguồn gồm nhiều cells ghép lại gọi là "battery".
+---
+loại:: phan_loai
+câu 197:: Identify the components required for specific specialized circuits. Classify the following components into those needed for a "Visual Alert System" vs an "Audio Alert System".
+nhom:: Visual Alert System (Hệ thống cảnh báo bằng mắt)
+nhom:: Audio Alert System (Hệ thống cảnh báo bằng âm thanh)
+the:: A Light Bulb
+the:: A Buzzer
+the:: A Glass casing
+the:: A sound amplifying cone
+đáp án:: A Light Bulb::1
+đáp án:: A Buzzer::2
+đáp án:: A Glass casing::1
+đáp án:: A sound amplifying cone::2
+giải thích:: Bóng đèn và vỏ thủy tinh phục vụ việc phát sáng (Visual). Còi và nón khuếch đại âm thanh phục vụ việc báo động bằng tiếng ồn (Audio).
+---
+loại:: dropdown
+câu 198:: "In the year 2050, a family living in a [[houseboat|thunderstorm|cell|open switch]] relies entirely on a complex circuit of solar panels on their roof to generate electricity while they float down the river."
+đáp án:: houseboat
+giải thích:: Nơi ở trôi nổi trên sông (float down the river) là đặc trưng của "houseboat" (nhà nổi/thuyền nhà).
+---
+loại:: dung_sai
+câu 199:: Evaluate the scientific logic: "If lightning strikes a house, it inputs millions of volts of natural electricity into the home's internal wiring. Since the home's 'closed switches' are only designed for 220V, the massive surge will likely melt the connecting wires and cause a fire."
+đáp án:: đúng
+giải thích:: Lập luận logic hoàn toàn chính xác. Hệ thống dây dẫn (connecting wires) nhân tạo có giới hạn chịu đựng (220V). Sét đánh mang hàng triệu Volts sẽ gây quá tải trầm trọng, làm nóng chảy dây và gây hỏa hoạn.
+---
+loại:: sap_xep
+câu 200:: Reorder the following sentence to describe the consequence of poor circuit design.
+muc:: (1) If
+muc:: (2) the
+muc:: (3) connecting
+muc:: (4) wires
+muc:: (5) are
+muc:: (6) too
+muc:: (7) thin,
+muc:: (8) they
+muc:: (9) will
+muc:: (10) become
+muc:: (11) dangerously
+muc:: (12) hot.
+giải thích:: Cấu trúc câu điều kiện loại 1 (First Conditional) miêu tả một sự thật vật lý: Dây quá mỏng sẽ bị nóng lên nguy hiểm do điện trở.
+---
+Chào bạn, với tư cách là **Kỹ sư Dữ liệu & Trình biên dịch (Compiler)**, tôi tiếp tục thực thi **BATCH 6 (Câu 201 - 250)** (Tiếp nối theo yêu cầu "Batch 5" của bạn, bao gồm 50 câu tiếp theo).
+
+Khối này sẽ hoàn thành 10 câu cuối cùng của phân môn **Science (Unit 5.4: Circuits & Diagrams)** và triển khai 40 câu đầu tiên của phân môn **MOET (Unit 10: Our houses in the future)**.
+
+Đặc biệt trong phần MOET, tôi đã xây dựng các ngữ cảnh dài (Long-form Context) như các mẩu quảng cáo bất động sản, blog công nghệ tương lai để kiểm tra kỹ năng Đọc hiểu suy luận (Reading Comprehension) thay vì chỉ học vẹt từ vựng.
+
+Dưới đây là mã nguồn chuẩn "Zero-Defect":
+
+
+// ==================================================================
+// BATCH 6: SCIENCE (Q201-Q210) & MOET - HOUSES IN THE FUTURE (Q211-Q250)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 201:: A young inventor is experimenting with an old flashlight. The original design uses two 1.5V cells to power a small bulb. Wanting to make the flashlight incredibly bright, the inventor connects four 1.5V cells together in series (creating a 6V battery) and connects them to the same small bulb. What is the most scientifically likely outcome of this experiment?
+a:: The bulb will shine twice as brightly and last forever.
+b:: The bulb will explode or its filament will burn out immediately due to excessive voltage.
+c:: The bulb will not turn on because the voltage is too high for the switch to process.
+d:: The cells will automatically reduce their voltage to protect the bulb.
+đáp án:: b
+giải thích:: Bóng đèn nhỏ được thiết kế cho điện áp 3V. Đưa 6V (gấp đôi mức cho phép) vào sẽ gây quá tải dòng điện, làm đứt dây tóc (burn out/blow) ngay lập tức.
+---
+loại:: dien_khuyet
+câu 202:: Analyze the scientific definition: "For electricity to flow and power a device, there must be a completely unbroken, continuous path from the power source, through the components, and back to the power source. This entire unbroken loop is scientifically referred to as a closed ... ." (Fill in the blank with a 7-letter word).
+đáp án:: circuit
+giải thích:: Một vòng lặp khép kín cho dòng điện chạy qua được gọi là "closed circuit" (mạch kín).
+---
+loại:: dung_sai
+câu 203:: Evaluate this student's theory about circuit design: "In a simple series circuit consisting of a battery, a wire, a bulb, and a switch, the switch must ALWAYS be placed exactly between the battery's positive terminal and the bulb. If you place the switch after the bulb, it will not be able to turn the bulb off."
+đáp án:: sai
+giải thích:: Trong một mạch nối tiếp (series circuit), công tắc (switch) có thể đặt ở BẤT KỲ VỊ TRÍ NÀO. Miễn là công tắc mở, nó sẽ ngắt toàn bộ vòng lặp và dòng điện sẽ ngừng chảy ở mọi điểm, làm đèn tắt.
+---
+loại:: dropdown
+câu 204:: Read the blueprint instructions: "To power the heavy-duty industrial buzzer, a massive amount of electrical pressure is required. Therefore, the diagram must accurately depict a [[cell|battery|bulb|connecting wire]] by drawing multiple pairs of long and short lines connected together, indicating a high-voltage power source."
+đáp án:: battery
+giải thích:: "Multiple pairs of long and short lines" (nhiều cặp nét dài/ngắn) là ký hiệu của "battery" (bộ pin ghép), cung cấp điện áp cao hơn "cell".
+---
+loại:: sap_xep
+câu 205:: A technician is troubleshooting a broken alarm system. Order the logical steps the technician should take to identify the fault in the circuit, following standard scientific methods.
+muc:: (1) Visually inspect the connecting wires for any cuts or breaks.
+muc:: (2) Check if the switch mechanism is correctly moving to the 'closed' position.
+muc:: (3) Test the power source (battery) with a voltmeter to ensure it is not dead.
+muc:: (4) Replace the buzzer with a new one to see if the original was faulty.
+muc:: (5) Successfully activate the alarm once the broken component is replaced.
+giải thích:: Quy trình bắt lỗi (troubleshooting): Kiểm tra dây -> Kiểm tra công tắc -> Đo pin -> Thử thay linh kiện tiêu thụ -> Hoàn thành.
+---
+loại:: noi
+câu 206:: Match the specific fault in a physical circuit (Left) with the exact component that needs to be replaced or repaired (Right).
+trai:: The power source is completely drained of chemical energy.
+phai:: Replace the Cell or Battery.
+trai:: The metallic contacts are rusted and cannot complete the path when pressed.
+phai:: Repair the Switch.
+trai:: The copper line has been chewed completely through by a rat.
+phai:: Replace the Connecting Wire.
+trai:: The glass is shattered and the internal filament is severed.
+phai:: Replace the Bulb.
+giải thích:: Liên kết giữa hiện tượng vật lý hỏng hóc thực tế và linh kiện mạch điện tương ứng.
+---
+loại:: phan_loai
+câu 207:: To build successful circuits, one must understand materials. Classify the following materials into "Conductors" (allow electricity to flow, acting like a connecting wire) and "Insulators" (block electricity, acting like an open switch).
+nhom:: Electrical Conductors (Dẫn điện)
+nhom:: Electrical Insulators (Cách điện)
+the:: Copper wire
+the:: Iron nail
+the:: Plastic ruler
+the:: Rubber band
+the:: Saltwater
+the:: Dry wooden stick
+đáp án:: Copper wire::1
+đáp án:: Iron nail::1
+đáp án:: Plastic ruler::2
+đáp án:: Rubber band::2
+đáp án:: Saltwater::1
+đáp án:: Dry wooden stick::2
+giải thích:: Kim loại và nước muối dẫn điện tốt. Nhựa, cao su, gỗ khô cách điện.
+---
+loại:: nhieu_dap_an
+câu 208:: A student wants to modify their science project. The current circuit has one 1.5V cell, a closed switch, and a buzzer that sounds very faint and weak. Which of the following actions will successfully make the buzzer sound significantly LOUDER? (Select 2 correct answers).
+a:: Add another 1.5V cell in series to create a 3V battery.
+b:: Replace the buzzer with a bulb.
+c:: Replace the 1.5V cell with a more powerful 9V battery.
+d:: Change the closed switch into an open switch.
+đáp án:: a,c
+giải thích:: Để còi kêu to hơn, cần cung cấp nhiều điện áp (Voltage) hơn bằng cách lắp thêm pin (A) hoặc dùng pin mạnh hơn (C). (Tuy nhiên thực tế phải cẩn thận không làm cháy còi, nhưng về lý thuyết tăng V sẽ tăng âm lượng/độ sáng).
+---
+loại:: mot_dap_an
+câu 209:: "In a highly sensitive circuit diagram for a medical device, the engineer accidentally drew the symbol for a 'Cell' upside down (short thick line on top, long thin line on the bottom). However, he kept the wire connections exactly the same." In reality, what does flipping a cell's orientation do to the circuit?
+a:: It turns the cell into a buzzer.
+b:: It reverses the direction of the electrical current flowing through the circuit.
+c:: It creates a massive explosion.
+d:: It multiplies the voltage by two.
+đáp án:: b
+giải thích:: Đảo ngược chiều viên pin (đổi cực âm/dương) sẽ làm đảo ngược chiều dòng điện chạy trong mạch (reverses the direction of the current).
+---
+loại:: dien_khuyet
+câu 210:: Fill in the blank: "A ... (4-letter word) is the simplest component in a circuit diagram that represents a light source. Without it, or a buzzer, you wouldn't easily know if the electrical current is successfully flowing."
+đáp án:: bulb
+giải thích:: Linh kiện phát sáng đơn giản nhất để nhận biết dòng điện là bóng đèn (bulb).
+
+// ==================================================================
+// MOET - UNIT 10: OUR HOUSES IN THE FUTURE
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 211:: Read the following real estate advertisement: "Are you tired of living in the same city forever? Do you love the open road and exploring new horizons every single day? Buy our latest model today! It comes fully equipped with a kitchen, a foldable bed, and a solar-powered engine. Drive your home wherever your heart desires." What type of house is being advertised?
+a:: Skyscraper
+b:: Motorhome
+c:: Cottage
+d:: Palace
+đáp án:: b
+giải thích:: Cụm từ "open road" (đường chân trời), "Drive your home" (lái ngôi nhà của bạn) và có động cơ (engine) mô tả chính xác một chiếc nhà xe di động (Motorhome).
+---
+loại:: dien_khuyet
+câu 212:: Analyze the excerpt from a sci-fi architecture magazine: "By the year 2050, overpopulation in urban centers will force humanity to build upwards. We will see the rise of the mega-..., a massive building containing thousands of apartments, offices, and indoor farms, reaching heights of over 200 floors into the clouds." Fill in the blank with the correct 10-letter vocabulary word.
+đáp án:: skyscraper
+giải thích:: Tòa nhà khổng lồ vươn lên mây ("reaching into the clouds", "build upwards", "200 floors") chính là nhà chọc trời (skyscraper).
+---
+loại:: noi
+câu 213:: Match the specific lifestyle or geographical requirement (Left) with the most suitable type of future house from Unit 10 (Right).
+trai:: A family wanting to live permanently on a river, relying on fishing and water transport.
+phai:: Houseboat
+trai:: A billionaire looking for an enormous, luxurious residence with hundreds of rooms and gold decorations.
+phai:: Palace
+trai:: A young couple desiring a small, cozy, traditional home in a quiet countryside village.
+phai:: Cottage
+trai:: An alien civilization visiting Earth, requiring a hovering, circular base.
+phai:: UFO
+giải thích:: Kiểm tra khả năng hiểu nghĩa từ vựng thông qua ngữ cảnh mô tả nhu cầu nhà ở (Real-world Application).
+---
+loại:: phan_loai
+câu 214:: The future of housing involves both structural types and the advanced technologies inside them. Classify the following vocabulary words into their correct categories based on MOET Unit 10.
+nhom:: Types of Houses (Loại hình nhà ở)
+nhom:: Smart Appliances / Technologies (Thiết bị/Công nghệ)
+the:: Condominium
+the:: Dishwasher
+the:: Solar energy
+the:: Apartment
+the:: Wireless TV
+the:: Houseboat
+đáp án:: Condominium::1
+đáp án:: Dishwasher::2
+đáp án:: Solar energy::2
+đáp án:: Apartment::1
+đáp án:: Wireless TV::2
+đáp án:: Houseboat::1
+giải thích:: Phân loại rõ ràng giữa các danh từ chỉ nơi ở (Condominium, Apartment, Houseboat) và các danh từ chỉ thiết bị tiện ích (Dishwasher, Solar energy, Wireless TV).
+---
+loại:: dung_sai
+câu 215:: Evaluate the logic of the following statement found in a student's creative writing essay: "In the future, my dream is to live in a beautiful cottage located on the 85th floor of a bustling city center, where millions of cars pass by every minute."
+đáp án:: sai
+giải thích:: Bẫy từ vựng kết hợp logic. "Cottage" là nhà tranh/nhà nông thôn nhỏ bé, thường nằm ở vùng quê yên bình. Việc đặt một "cottage" trên tầng 85 của trung tâm thành phố ồn ào là hoàn toàn mâu thuẫn về mặt khái niệm địa lý và kiến trúc.
+---
+loại:: dropdown
+câu 216:: Read the tech blog review: "The new smart home system is entirely eco-friendly. Instead of relying on the city's power grid, the entire roof is covered in sleek black panels that absorb sunlight. This ensures the house runs 100% on [[solar energy|wireless TV|electric cookers|washing machines]], drastically reducing electricity bills and helping the environment."
+đáp án:: solar energy
+giải thích:: Bảng đen hấp thụ ánh sáng mặt trời (absorb sunlight) và bảo vệ môi trường (eco-friendly) chính là năng lượng mặt trời (solar energy).
+---
+loại:: sap_xep
+câu 217:: Reorder the words to form a grammatically correct prediction about the future, using the simple future tense structure common in Unit 10.
+muc:: (1) In
+muc:: (2) the
+muc:: (3) future,
+muc:: (4) people
+muc:: (5) will
+muc:: (6) live
+muc:: (7) in
+muc:: (8) smart
+muc:: (9) houses
+muc:: (10) under
+muc:: (11) the
+muc:: (12) ocean.
+giải thích:: Cấu trúc dự đoán tương lai: In the future, S (people) + will + V-inf (live) + in smart houses + under the ocean.
+---
+loại:: nhieu_dap_an
+câu 218:: A modern, automated kitchen is designed to save homeowners maximum time and effort. Which of the following smart appliances from Unit 10 are specifically designed to handle food preparation and post-meal cleanup? (Select 2 correct answers).
+a:: Wireless TV
+b:: Electric cooker
+c:: Dishwasher
+d:: Washing machine
+đáp án:: b,c
+giải thích:: "Electric cooker" (nồi cơm điện) dùng để nấu ăn và "Dishwasher" (máy rửa bát) dùng để dọn dẹp sau bữa ăn. "Washing machine" là máy giặt quần áo, không thuộc khu vực sơ chế/dọn dẹp đồ ăn.
+---
+loại:: mot_dap_an
+câu 219:: Read the fictional news snippet: "Residents of the quiet town were shocked last night when a massive, glowing, disk-shaped object silently descended from the sky and hovered over the local lake. The military has surrounded the area, but experts believe it is a spacecraft from another galaxy." What vocabulary word best describes this object?
+a:: Condominium
+b:: Skyscraper
+c:: UFO
+d:: Motorhome
+đáp án:: c
+giải thích:: Vật thể hình đĩa (disk-shaped object) lơ lửng từ trên trời xuống, được cho là tàu vũ trụ từ thiên hà khác (spacecraft from another galaxy) là định nghĩa kinh điển của UFO (Unidentified Flying Object).
+---
+loại:: dien_khuyet
+câu 220:: Complete the product description: "Tired of spending hours scrubbing dirty plates and greasy pans by hand after a large family dinner? Buy the Robo-Clean 3000! This advanced ... will automatically sanitize and dry all your kitchenware in just 15 minutes."
+đáp án:: dishwasher
+giải thích:: Máy tự động làm sạch bát đĩa (scrubbing dirty plates) là máy rửa bát (dishwasher).
+---
+loại:: dung_sai
+câu 221:: Evaluate this technological claim: "The advantage of a 'wireless TV' is that you must connect it to the internet using a very thick, long, and heavy ethernet cable plugged directly into the wall."
+đáp án:: sai
+giải thích:: Sai hoàn toàn. "Wireless" có nghĩa là KHÔNG DÂY. Ti vi không dây kết nối mạng thông qua sóng Wi-Fi, không cần cắm cáp (ethernet cable) vật lý nào cả.
+---
+loại:: noi
+câu 222:: Match the specific action or function (Left) with the smart household appliance that performs it (Right) based on future home concepts.
+trai:: It uses electricity to heat a specialized pot to perfectly boil rice or stew meat.
+phai:: Electric cooker
+trai:: It connects to satellites invisibly to stream thousands of global channels without cables.
+phai:: Wireless TV
+trai:: It uses powerful water jets and specialized soap to clean dirty plates and cups.
+phai:: Dishwasher
+trai:: It rotates dirty clothes in soapy water and spins them dry to save manual labor.
+phai:: Washing machine
+giải thích:: Phân biệt rõ chức năng của từng loại máy móc gia dụng trong ngôi nhà thông minh.
+---
+loại:: phan_loai
+câu 223:: Different architectural designs cater to entirely different environmental settings. Classify the following futuristic living scenarios based on their primary geographical location.
+nhom:: Aquatic Living (Sống trên mặt nước)
+nhom:: Mobile Terrestrial Living (Sống di động trên cạn)
+the:: A high-tech houseboat equipped with water filtration.
+the:: A massive luxury motorhome cruising along the highway.
+the:: A floating solar-powered village on the river.
+the:: An armored truck converted into a mobile living space.
+đáp án:: A high-tech houseboat equipped with water filtration.::1
+đáp án:: A massive luxury motorhome cruising along the highway.::2
+đáp án:: A floating solar-powered village on the river.::1
+đáp án:: An armored truck converted into a mobile living space.::2
+giải thích:: Houseboat và floating village liên quan đến môi trường nước (Aquatic). Motorhome và truck di chuyển trên đường bộ/trên cạn (Mobile Terrestrial).
+---
+loại:: dropdown
+câu 224:: Read the lifestyle magazine excerpt: "Many young professionals prefer not to buy an entire house. Instead, they buy a [[condominium|palace|UFO|cottage]], which is a privately owned individual unit within a massive building complex, offering shared amenities like a pool and gym."
+đáp án:: condominium
+giải thích:: "Condominium" (căn hộ chung cư sở hữu riêng) là một đơn vị cá nhân nằm trong một tổ hợp tòa nhà lớn, có chung các tiện ích như hồ bơi, phòng gym. Palace hay Cottage không có tính chất này.
+---
+loại:: sap_xep
+câu 225:: A tech company is launching a new smart appliance. Reorder the words to form their marketing slogan highlighting automation in the future.
+muc:: (1) Our
+muc:: (2) new
+muc:: (3) smart
+muc:: (4) washing
+muc:: (5) machine
+muc:: (6) will
+muc:: (7) automatically
+muc:: (8) wash
+muc:: (9) and
+muc:: (10) dry
+muc:: (11) your
+muc:: (12) clothes.
+giải thích:: Cấu trúc chuẩn: Our new smart washing machine (S) + will (Aux) + automatically (Adv) + wash and dry (V) + your clothes (O).
+---
+loại:: mot_dap_an
+câu 226:: "In many fairy tales, the king and queen live in a magnificent, sprawling building made of white marble, surrounded by massive walls, grand gardens, and hundreds of servants." What is the modern English vocabulary word for this type of grand residence?
+a:: Apartment
+b:: Palace
+c:: Houseboat
+d:: Condominium
+đáp án:: b
+giải thích:: Tòa nhà tráng lệ của vua chúa (king and queen) với quy mô khổng lồ và người hầu là Cung điện (Palace).
+---
+loại:: dien_khuyet
+câu 227:: Fill in the exact technology term from Unit 10: "In the 21st century, the phrase '... Fidelity', commonly abbreviated as Wi-Fi, revolutionized how we connect our smart appliances to the internet without needing physical cords."
+đáp án:: wireless
+giải thích:: Từ viết tắt Wi-Fi xuất phát từ cụm "Wireless Fidelity" (Mạng không dây độ trung thực cao).
+---
+loại:: nhieu_dap_an
+câu 228:: A green architecture firm is promoting their new future homes. They highlight the use of "Solar energy". Based on your understanding, what are the primary environmental and economic benefits of equipping a house with solar panels? (Select 2 correct answers).
+a:: It heavily pollutes the air around the neighborhood.
+b:: It requires burning large amounts of coal inside the house.
+c:: It generates clean electricity directly from the sun, reducing utility bills.
+d:: It provides a renewable power source that does not deplete the Earth's resources.
+đáp án:: c,d
+giải thích:: Năng lượng mặt trời (Solar energy) là năng lượng sạch, giúp giảm hóa đơn tiền điện (C) và là nguồn tái tạo không làm cạn kiệt tài nguyên (D). Các phương án A và B mô tả năng lượng hóa thạch độc hại.
+---
+loại:: dung_sai
+câu 229:: Evaluate the factual accuracy of this statement regarding future home appliances: "An electric cooker is a highly advanced smart device that utilizes open gas flames to rapidly boil water and cook rice perfectly every time."
+đáp án:: sai
+giải thích:: "Electric cooker" (nồi cơm điện) sử dụng dòng ĐIỆN (electricity) để chuyển hóa thành nhiệt năng qua mâm nhiệt. Việc sử dụng "open gas flames" (ngọn lửa gas trần) là đặc điểm của bếp gas truyền thống, trái ngược hoàn toàn với nguyên lý của đồ điện.
+---
+loại:: dropdown
+câu 230:: Read the travel blog: "We escaped the noisy city for the weekend and rented a beautiful, rustic [[cottage|skyscraper|motorhome|UFO]] in the remote countryside. It had a thatched roof, a stone fireplace, and was surrounded by blooming flower gardens."
+đáp án:: cottage
+giải thích:: Ngôi nhà ở vùng quê hẻo lánh (remote countryside) với mái tranh (thatched roof), lò sưởi đá và vườn hoa là miêu tả chuẩn mực của "cottage" (nhà tranh/nhà nông thôn).
+---
+loại:: noi
+câu 231:: Match the future prediction statements (Left) with the grammar structure or concept they represent (Right).
+trai:: People will live in cities under the sea.
+phai:: Prediction about future locations.
+trai:: Robots might do all the housework for us.
+phai:: Expressing a future possibility (not 100% certain).
+trai:: We won't use traditional fossil fuels anymore.
+phai:: Negative prediction about future energy.
+trai:: Solar energy will power every single appliance.
+phai:: Prediction about future technology usage.
+giải thích:: Kiểm tra khả năng hiểu các sắc thái của thì Tương lai đơn (will / won't) và động từ khuyết thiếu (might) trong chủ đề Unit 10.
+---
+loại:: phan_loai
+câu 232:: The concept of "Smart Homes" revolves around replacing manual human labor with automated machine processes. Classify the following daily household chores based on whether they are performed MANUALLY (by a human) or AUTOMATICALLY (by a smart appliance from Unit 10).
+nhom:: Manual Human Labor (Lao động thủ công)
+nhom:: Automated by Smart Appliances (Tự động hóa)
+the:: Scrubbing dirty plates with a sponge and soapy water.
+the:: Loading plates into a dishwasher and pressing 'Start'.
+the:: Cooking rice over a wood fire in the backyard.
+the:: Putting rice in an electric cooker and waiting 20 minutes.
+the:: Washing clothes by hand in a river.
+the:: Putting clothes in a washing machine and selecting a cycle.
+đáp án:: Scrubbing dirty plates with a sponge and soapy water.::1
+đáp án:: Loading plates into a dishwasher and pressing 'Start'.::2
+đáp án:: Cooking rice over a wood fire in the backyard.::1
+đáp án:: Putting rice in an electric cooker and waiting 20 minutes.::2
+đáp án:: Washing clothes by hand in a river.::1
+đáp án:: Putting clothes in a washing machine and selecting a cycle.::2
+giải thích:: So sánh sự khác biệt cốt lõi giữa cuộc sống truyền thống và sự tiện lợi của các thiết bị thông minh (Smart appliances) trong tương lai.
+---
+loại:: sap_xep
+câu 233:: An enthusiastic tech reviewer is concluding his video about a new smart home. Reorder his words to form his final, grammatically correct exclamation predicting the future impact of Wi-Fi.
+muc:: (1) I
+muc:: (2) truly
+muc:: (3) believe
+muc:: (4) that
+muc:: (5) fast
+muc:: (6) wifi
+muc:: (7) will
+muc:: (8) connect
+muc:: (9) every
+muc:: (10) device
+muc:: (11) in
+muc:: (12) our homes!
+giải thích:: Cấu trúc: S + believe + that + S (fast wifi) + will + V (connect) + O (every device in our homes).
+---
+loại:: mot_dap_an
+câu 234:: Read the debate excerpt: "Opponents of building massive _____ argue that these extremely tall buildings block the natural sunlight for smaller houses around them and create dangerous wind tunnels in the city streets. However, supporters argue they are the only way to house millions of people in a small land area." Which word fits the blank perfectly?
+a:: cottages
+b:: skyscrapers
+c:: houseboats
+d:: palaces
+đáp án:: b
+giải thích:: Những tòa nhà cực cao (extremely tall buildings) có khả năng che khuất ánh sáng mặt trời của nhà thấp tầng và chứa hàng triệu người trên diện tích hẹp chính là "skyscrapers" (nhà chọc trời).
+---
+loại:: dien_khuyet
+câu 235:: Complete the text about urban living: "When a single person or a small family moves to a massive city like New York or Tokyo, they rarely buy a standalone house. Instead, they typically rent a small ... on the 15th or 20th floor of a tall residential building." (Type a 9-letter word).
+đáp án:: apartment
+giải thích:: Một căn hộ nằm trên các tầng cao của tòa nhà dân cư ở thành phố lớn được gọi là "apartment" (căn hộ).
+---
+loại:: dung_sai
+câu 236:: Evaluate the feasibility statement based on Unit 10 vocabulary: "A motorhome is the perfect housing solution for someone who wants to plant a massive, permanent apple orchard in their backyard and build a deep, immovable stone swimming pool."
+đáp án:: sai
+giải thích:: "Motorhome" là nhà xe di động. Việc muốn trồng vườn táo cố định lâu năm (permanent orchard) và xây hồ bơi bằng đá không thể di dời (immovable stone pool) hoàn toàn mâu thuẫn với bản chất di động của motorhome.
+---
+loại:: dropdown
+câu 237:: Read the environmental report: "To combat global warming, architects are designing eco-houses. These future homes will not connect to the dirty coal power grid. Instead, they will generate their own electricity completely independently by harvesting [[solar energy|thunderstorms|cold air|UFOs]] using advanced panels on their roofs."
+đáp án:: solar energy
+giải thích:: Thu thập năng lượng độc lập từ các tấm pin trên mái nhà (harvesting using advanced panels on roofs) để bảo vệ môi trường là việc sử dụng "solar energy" (năng lượng mặt trời).
+---
+loại:: nhieu_dap_an
+câu 238:: A futuristic smart house is controlled by a central AI. The homeowner gives a voice command: "Activate all cleaning appliances." Based on the vocabulary in Unit 10, which of the following machines will instantly turn on and begin their automated tasks? (Select 2 correct answers).
+a:: Wireless TV
+b:: Dishwasher
+c:: Washing machine
+d:: Electric cooker
+đáp án:: b,c
+giải thích:: Lệnh là bật các "cleaning appliances" (thiết bị dọn dẹp/làm sạch). Máy rửa bát (Dishwasher) và Máy giặt (Washing machine) là 2 thiết bị thuộc nhóm này. TV là giải trí, nồi cơm là nấu ăn.
+---
+loại:: noi
+câu 239:: Connect the Prefix or Root word (Left) with its meaning in the context of Unit 10 vocabulary (Right) to enhance word-building skills.
+trai:: 'Wire' + 'less' (as in wireless)
+phai:: Without physical cords or cables.
+trai:: 'Motor' + 'home' (as in motorhome)
+phai:: A living space driven by an engine.
+trai:: 'House' + 'boat' (as in houseboat)
+phai:: A living space floating on water.
+trai:: 'Dish' + 'washer' (as in dishwasher)
+phai:: A machine that cleans eating utensils.
+giải thích:: Phân tích cấu tạo từ ghép (Compound words) giúp học sinh giỏi đoán nghĩa của từ mới nhanh chóng.
+---
+loại:: sap_xep
+câu 240:: Reorder the sentence to describe a hypothetical, extreme future housing scenario using the correct grammatical structure.
+muc:: (1) Perhaps
+muc:: (2) humans
+muc:: (3) might
+muc:: (4) build
+muc:: (5) massive
+muc:: (6) skyscrapers
+muc:: (7) that
+muc:: (8) float
+muc:: (9) completely
+muc:: (10) above
+muc:: (11) the
+muc:: (12) clouds.
+giải thích:: Cấu trúc dự đoán có tính khả năng: Perhaps + S (humans) + might + V (build) + O (massive skyscrapers) + relative clause (that float completely above the clouds).
+---
+loại:: mot_dap_an
+câu 241:: "The billionaire's residence was absurdly large. It had 50 bedrooms, a ballroom, an indoor cinema, and was guarded by a private army. It was not just a house; it was a true _____."
+a:: motorhome
+b:: cottage
+c:: palace
+d:: apartment
+đáp án:: c
+giải thích:: Dinh thự khổng lồ với 50 phòng ngủ, phòng khiêu vũ (ballroom) và quân đội riêng bảo vệ chỉ có thể là Cung điện (Palace).
+---
+loại:: dien_khuyet
+câu 242:: Complete the sentence: "Because our current ... (TV without cables) is broken, we cannot stream our favorite shows from the internet directly to the screen."
+đáp án:: wireless TV
+giải thích:: Ti vi không cần cáp, kết nối internet trực tiếp để xem phim là "wireless TV" (ti vi không dây).
+---
+loại:: phan_loai
+câu 243:: Distinguish between Traditional Homes and Future/Smart Homes concepts. Classify the features accordingly.
+nhom:: Traditional Homes (Nhà truyền thống)
+nhom:: Future/Smart Homes (Nhà tương lai/thông minh)
+the:: Sweeping the floor with a straw broom.
+the:: A robot vacuum cleaning automatically.
+the:: Washing dishes by hand in the sink.
+the:: Using a voice command to start the dishwasher.
+the:: Relying heavily on coal and gas for power.
+the:: Generating 100% of power from solar energy.
+đáp án:: Sweeping the floor with a straw broom.::1
+đáp án:: A robot vacuum cleaning automatically.::2
+đáp án:: Washing dishes by hand in the sink.::1
+đáp án:: Using a voice command to start the dishwasher.::2
+đáp án:: Relying heavily on coal and gas for power.::1
+đáp án:: Generating 100% of power from solar energy.::2
+giải thích:: Phân loại lối sống thủ công (dùng chổi, rửa tay, dùng than/gas) với lối sống tự động hóa thông minh.
+---
+loại:: dropdown
+câu 244:: Read the science fiction story: "The alien visitors did not land their ship. Instead, their shiny, metallic [[cottage|condominium|UFO|houseboat]] hovered silently over the city, scanning the buildings with a strange green light before zooming back into outer space."
+đáp án:: UFO
+giải thích:: Tàu của người ngoài hành tinh (alien visitors) phát ánh sáng lơ lửng rồi bay vào vũ trụ là UFO.
+---
+loại:: dung_sai
+câu 245:: Evaluate the statement: "An 'apartment' and a 'condominium' refer to similar types of physical living spaces (units in a larger building), but the main difference is legal ownership: apartments are usually rented, while condominiums are individually owned."
+đáp án:: đúng
+giải thích:: Về mặt kiến trúc, apartment và condominium rất giống nhau (đều là căn hộ chung cư). Tuy nhiên ở các nước phương Tây, apartment ám chỉ việc đi thuê (rented), còn condo là việc mua đứt/sở hữu riêng (owned). Lập luận chính xác.
+---
+loại:: noi
+câu 246:: Match the future problem (Left) with the specific smart home technology from Unit 10 that provides the solution (Right).
+trai:: Fossil fuels run out, causing a massive global energy crisis.
+phai:: Solar energy panels on every roof.
+trai:: People become too busy to do daily chores like cleaning clothes and plates.
+phai:: Washing machines and dishwashers.
+trai:: Tangled physical cables cause accidents and limit where devices can be placed.
+phai:: Wi-Fi and Wireless TVs.
+trai:: Rising sea levels flood coastal cities permanently.
+phai:: Floating Houseboats.
+giải thích:: Đánh giá tư duy giải quyết vấn đề (Problem-solving) thông qua công nghệ.
+---
+loại:: sap_xep
+câu 247:: Reorder the words to describe a relaxing futuristic scenario involving smart appliances.
+muc:: (1) While
+muc:: (2) the
+muc:: (3) electric
+muc:: (4) cooker
+muc:: (5) was
+muc:: (6) preparing
+muc:: (7) dinner,
+muc:: (8) I
+muc:: (9) was
+muc:: (10) watching
+muc:: (11) the
+muc:: (12) wireless TV.
+giải thích:: Ôn tập lại cấu trúc Past Continuous cho hai hành động song song (Unit 7) áp dụng vào từ vựng Unit 10: Nồi cơm điện đang nấu trong khi tôi đang xem TV.
+---
+loại:: mot_dap_an
+câu 248:: "To access the internet on my laptop while sitting in the garden, I need the router inside the house to broadcast a strong _____ signal." Which word fits?
+a:: electricity
+b:: solar energy
+c:: wifi
+d:: UFO
+đáp án:: c
+giải thích:: Truy cập internet không dây (access the internet) ở khoảng cách xa (in the garden) đòi hỏi tín hiệu sóng "wifi" mạnh.
+---
+loại:: dien_khuyet
+câu 249:: Fill in the blank: "A ... (8-letter word) is generally understood as a small, simple house, typically one that is old-fashioned and located in a rural or village area, often with a thatched roof."
+đáp án:: cottage
+giải thích:: Ngôi nhà nhỏ, đơn sơ ở vùng nông thôn (rural area) được gọi là "cottage".
+---
+loại:: dung_sai
+câu 250:: Evaluate the grammar prediction: "In the year 2080, scientists will flying cars and underwater cities." Is this sentence grammatically correct for making a future prediction?
+đáp án:: sai
+giải thích:: Thiếu động từ chính (V-inf). Sau "will" bắt buộc phải là động từ nguyên thể. Phải sửa thành "will invent flying cars" hoặc "will build underwater cities".
+---
+// ==================================================================
+// BATCH 7: MOET - UNIT 10: OUR HOUSES IN THE FUTURE (Q251 - Q300)
+// ==================================================================
+
+---
+loại:: mot_dap_an
+câu 251:: Read the following extract from an architectural journal: "As sea levels continue to rise due to climate change, coastal cities will face unprecedented flooding. To adapt to this new reality, urban planners are designing floating neighborhoods. These structures will not be anchored to the sea floor permanently but will rise and fall with the tides, offering a sustainable way of living on the ocean." What type of future house is the journal discussing?
+a:: Skyscraper
+b:: Houseboat
+c:: Condominium
+d:: Motorhome
+đáp án:: b
+giải thích:: Nơi ở nổi trên mặt nước (floating neighborhoods), di chuyển theo thủy triều (rise and fall with the tides) là mô tả chi tiết của "Houseboat" (nhà nổi/thuyền nhà).
+---
+loại:: dien_khuyet
+câu 252:: Complete the tech blog review: "The modern kitchen is evolving rapidly. You no longer need to spend an hour cleaning up after a dinner party. The newest smart ... uses high-pressure steam and ultrasonic waves to clean and sterilize all your plates and glasses in just ten minutes, using only a fraction of the water."
+đáp án:: dishwasher
+giải thích:: Thiết bị làm sạch và tiệt trùng bát đĩa (clean and sterilize plates and glasses) tự động chính là máy rửa bát (dishwasher).
+---
+loại:: dung_sai
+câu 253:: Evaluate the grammar in this student's essay about future predictions: "I am not completely sure about my future career. I might to become an architect to design smart eco-homes, or I will probably be a software engineer."
+đáp án:: sai
+giải thích:: Lỗi ngữ pháp cơ bản với động từ khuyết thiếu. Sau "might" (chỉ khả năng có thể xảy ra nhưng không chắc chắn) PHẢI là động từ nguyên thể không "to". Sửa đúng: "I might become...".
+---
+loại:: sap_xep
+câu 254:: Reorder the following words to form a grammatically correct negative prediction about the usage of household appliances in the distant future.
+muc:: (1) In
+muc:: (2) the
+muc:: (3) future,
+muc:: (4) humans
+muc:: (5) won't
+muc:: (6) wash
+muc:: (7) their
+muc:: (8) dirty
+muc:: (9) clothes
+muc:: (10) by
+muc:: (11) hand
+muc:: (12) anymore.
+giải thích:: Cấu trúc dự đoán phủ định: S + won't + V-inf. (Trong tương lai, con người sẽ không giặt quần áo bẩn bằng tay nữa).
+---
+loại:: dropdown
+câu 255:: Read the real estate brochure: "Experience the pinnacle of luxury living! Buy a suite in our newest [[cottage|palace|condominium|UFO]] located in the heart of the metropolis. You will own your private ultra-modern unit while sharing an Olympic-sized swimming pool, a rooftop garden, and a fully equipped gym with other elite residents."
+đáp án:: condominium
+giải thích:: Căn hộ sở hữu riêng (private unit) nằm trong tòa nhà lớn và chia sẻ tiện ích chung (sharing a pool, gym) là định nghĩa chuẩn của chung cư cao cấp (condominium).
+---
+loại:: noi
+câu 256:: Match the specific smart home command (Left) with the advanced appliance it activates (Right).
+trai:: "Computer, prepare a hot meal of rice and steamed vegetables for two."
+phai:: Electric cooker
+trai:: "Computer, sanitize all the dirty plates from tonight's dinner."
+phai:: Dishwasher
+trai:: "Computer, stream the latest sci-fi movie to the living room screen."
+phai:: Wireless TV
+trai:: "Computer, switch the house's power source to the roof panels."
+phai:: Solar energy system
+giải thích:: Kiểm tra sự thấu hiểu chức năng thực tế của từng thiết bị công nghệ trong Unit 10.
+---
+loại:: phan_loai
+câu 257:: Degrees of Certainty: In English, we use different verbs to express how sure we are about future events. Classify the following sentences into "Certain Prediction" (100% sure) and "Uncertain Possibility" (Not 100% sure).
+nhom:: Certain Prediction (Dùng Will / Won't)
+nhom:: Uncertain Possibility (Dùng Might / May)
+the:: We will definitely live on Mars by 2080.
+the:: Robots won't completely replace human teachers.
+the:: I might buy a motorhome to travel the country, but I haven't decided.
+the:: It may rain tomorrow, so bring an umbrella just in case.
+đáp án:: We will definitely live on Mars by 2080.::1
+đáp án:: Robots won't completely replace human teachers.::1
+đáp án:: I might buy a motorhome to travel the country, but I haven't decided.::2
+đáp án:: It may rain tomorrow, so bring an umbrella just in case.::2
+giải thích:: "Will/won't" biểu thị sự khẳng định/phủ định chắc chắn. "Might/may" biểu thị khả năng có thể xảy ra nhưng người nói còn do dự.
+---
+loại:: nhieu_dap_an
+câu 258:: A family is debating whether to purchase a traditional house or a futuristic "Smart Home". According to the concepts discussed in Unit 10, what are the primary ADVANTAGES of living in a smart home? (Select 2 correct answers).
+a:: It requires enormous amounts of manual human labor to operate daily.
+b:: It can automatically control temperature, lighting, and security to save time.
+c:: It connects appliances to the internet via Wi-Fi for remote control.
+d:: It forces residents to cook meals using an open indoor campfire.
+đáp án:: b,c
+giải thích:: Nhà thông minh giúp tự động hóa tiết kiệm thời gian (B) và cho phép điều khiển từ xa qua Wi-Fi (C). Phương án A và D miêu tả cuộc sống nguyên thủy, trái ngược với "smart home".
+---
+loại:: mot_dap_an
+câu 259:: Read the following paragraph: "Grandpa prefers a simple life. He doesn't want to live in a towering skyscraper or a busy condominium. Instead, he bought a tiny, charming home in a rural village near a forest. It has a thatched roof, small wooden windows, and a chimney." Which word best describes Grandpa's house?
+a:: Palace
+b:: Cottage
+c:: Houseboat
+d:: UFO
+đáp án:: b
+giải thích:: Ngôi nhà nhỏ, duyên dáng ở vùng nông thôn (rural village) với mái tranh (thatched roof) và ống khói là đặc điểm của "cottage" (nhà tranh, nhà ở nông thôn).
+---
+loại:: dien_khuyet
+câu 260:: Complete the tech article: "One of the greatest inventions for modern entertainment is the ... (a two-word compound noun). It allows users to mount a sleek screen anywhere on the wall without worrying about tangled cables connecting it to an antenna or a cable box."
+đáp án:: wireless TV
+giải thích:: Ti vi không cần cáp nối, có thể treo dễ dàng trên tường là "wireless TV" (ti vi không dây).
+---
+loại:: dung_sai
+câu 261:: Evaluate the statement based on cross-curricular knowledge (MOET + Science): "To install a massive solar energy system on the roof of a skyscraper, engineers must ensure the circuit diagram includes an 'open switch' so that the electricity generated by the sun continuously flows into the building's main power grid."
+đáp án:: sai
+giải thích:: Lại là bẫy "tư duy ngược" của mạch điện. Để dòng điện LIÊN TỤC CHẢY vào lưới điện, mạch phải KÍN. Kỹ sư phải thiết kế "closed switch" chứ không phải "open switch" (mạch hở sẽ làm điện bị ngắt).
+---
+loại:: dropdown
+câu 262:: Read the diary entry from the year 2099: "Living on this newly discovered planet is amazing. Because the gravity here is much weaker, our houses do not sit on the ground. We live in a floating [[motorhome|skyscraper|UFO|cottage]] that hovers in the sky and looks exactly like a giant, glowing metallic saucer."
+đáp án:: UFO
+giải thích:: Ngôi nhà bay lơ lửng trên không (hovers in the sky) và có hình dạng giống đĩa kim loại khổng lồ (metallic saucer) là đặc trưng của mô hình nhà UFO.
+---
+loại:: sap_xep
+câu 263:: Reorder the following words to form a grammatically correct Wh-question about future living arrangements.
+muc:: (1) What
+muc:: (2) type
+muc:: (3) of
+muc:: (4) smart
+muc:: (5) appliances
+muc:: (6) will
+muc:: (7) people
+muc:: (8) use
+muc:: (9) in
+muc:: (10) the
+muc:: (11) next
+muc:: (12) century?
+giải thích:: Cấu trúc câu hỏi với Will: Wh-word (What type of smart appliances) + will + S (people) + V (use) + time expression (in the next century)?
+---
+loại:: noi
+câu 264:: Match the hypothetical problem of a future citizen (Left) with the specific appliance or feature that would resolve it (Right).
+trai:: "I spilled coffee all over my favorite white shirt just before the meeting!"
+phai:: Smart washing machine
+trai:: "The power company increased the electricity bill by 50% this month!"
+phai:: Rooftop solar energy panels
+trai:: "I have a massive pile of greasy pots and pans after hosting a party."
+phai:: High-capacity dishwasher
+trai:: "I want to watch the news while cooking, but the TV has no antenna port here."
+phai:: Wireless TV connection
+giải thích:: Ứng dụng chức năng của các thiết bị thông minh vào giải quyết các vấn đề thực tiễn trong đời sống.
+---
+loại:: phan_loai
+câu 265:: Classify the following sentences into those that express a "Definite Future Reality" versus a "Hypothetical/Uncertain Future".
+nhom:: Definite Reality (Will / Won't)
+nhom:: Uncertain Future (Might / May)
+the:: The sun will rise at 6:00 AM tomorrow.
+the:: I might travel to the moon for my honeymoon, if it's affordable.
+the:: Smart houses won't require humans to manually wash dishes.
+the:: We may discover alien life on other planets soon.
+đáp án:: The sun will rise at 6:00 AM tomorrow.::1
+đáp án:: I might travel to the moon for my honeymoon, if it's affordable.::2
+đáp án:: Smart houses won't require humans to manually wash dishes.::1
+đáp án:: We may discover alien life on other planets soon.::2
+giải thích:: "Will" dùng cho những sự thật hiển nhiên hoặc những dự đoán có độ chắc chắn cao. "Might/May" dùng cho những kịch bản giả định, chưa có cơ sở chắc chắn.
+---
+loại:: mot_dap_an
+câu 266:: "To avoid the massive traffic jams in the megacities, my family decided to sell our apartment. We bought a massive vehicle with beds, a kitchen, and a bathroom inside. Now, we travel across the country, waking up in a new national park every morning." What is the family living in?
+a:: Condominium
+b:: Houseboat
+c:: Palace
+d:: Motorhome
+đáp án:: d
+giải thích:: Một chiếc xe cỡ lớn (massive vehicle) được trang bị giường, bếp, phòng tắm để đi du lịch xuyên quốc gia (travel across the country) là "Motorhome".
+---
+loại:: dien_khuyet
+câu 267:: Fill in the blank with the correct preposition: "In the future, I believe that underwater cities will be completely powered ... solar energy harvested from floating panels on the ocean surface."
+đáp án:: by
+giải thích:: Cấu trúc bị động (Passive voice): "powered by" (được cung cấp năng lượng bởi).
+---
+loại:: dung_sai
+câu 268:: Evaluate the grammar: "In 50 years, robots will probably doing all the dangerous jobs in factories, so humans won't have to."
+đáp án:: sai
+giải thích:: Lỗi ngữ pháp. Sau "will" phải là động từ nguyên thể (do), KHÔNG ĐƯỢC dùng V-ing (doing). Sửa lại: "will probably do". (Hoặc nếu muốn dùng thì Tương lai tiếp diễn thì phải là "will probably be doing", nhưng cấu trúc này chưa phù hợp với cấp độ cơ bản).
+---
+loại:: dropdown
+câu 269:: Read the short narrative: "The King was very proud of his newly built [[condominium|cottage|palace|houseboat]]. It featured walls covered in pure gold, massive crystal chandeliers in every room, and a throne room large enough to hold a thousand guests."
+đáp án:: palace
+giải thích:: Tường bọc vàng, đèn chùm pha lê, phòng ngai vàng (throne room) là đặc quyền của các bậc đế vương, ám chỉ một "palace" (cung điện).
+---
+loại:: nhieu_dap_an
+câu 270:: A tech company is advertising a "fully automated kitchen." Which of the following tasks would this kitchen be able to perform autonomously without human manual intervention? (Select 2 correct answers).
+a:: Using an electric cooker to automatically boil water and steam rice at a scheduled time.
+b:: Using a dishwasher to spray hot soapy water and dry the plates after a meal.
+c:: Using a wireless TV to iron the wrinkled clothes.
+d:: Using solar energy to chop fresh vegetables into small pieces.
+đáp án:: a,b
+giải thích:: Nồi cơm điện (A) và máy rửa bát (B) có thể tự động hóa việc nấu ăn và dọn dẹp. TV không dùng để ủi đồ (C) và năng lượng mặt trời không phải là con dao để thái rau (D).
+---
+loại:: sap_xep
+câu 271:: Reorder the words to create a conditional sentence that links future technology with environmental conservation.
+muc:: (1) If
+muc:: (2) we
+muc:: (3) install
+muc:: (4) solar
+muc:: (5) energy
+muc:: (6) panels,
+muc:: (7) we
+muc:: (8) will
+muc:: (9) definitely
+muc:: (10) protect
+muc:: (11) the
+muc:: (12) environment.
+giải thích:: Câu điều kiện loại 1: If + S + V(hiện tại), S + will + V(nguyên thể). "If we install solar energy panels, we will definitely protect the environment."
+---
+loại:: noi
+câu 272:: Match the futuristic prefix or adjective (Left) with the noun it modifies (Right) to form common collocations found in science fiction and Unit 10.
+trai:: Solar
+phai:: Energy (Power from the sun)
+trai:: Wireless
+phai:: TV (Device without cables)
+trai:: Smart
+phai:: Appliance (Device with automated logic)
+trai:: Flying
+phai:: Car (Vehicle in the sky)
+giải thích:: Nắm bắt các cụm từ cố định (collocations) giúp học sinh làm bài điền từ và viết luận tự nhiên hơn.
+---
+loại:: phan_loai
+câu 273:: Classify the following real estate options based on their ownership and structural scale.
+nhom:: Large-scale / Multi-unit Building (Tòa nhà quy mô lớn/Nhiều căn)
+nhom:: Small-scale / Single-family Dwelling (Nhà quy mô nhỏ/Gia đình đơn)
+the:: A massive Skyscraper downtown.
+the:: A high-rise Condominium complex.
+the:: A cozy Cottage in the woods.
+the:: A mobile Motorhome.
+đáp án:: A massive Skyscraper downtown.::1
+đáp án:: A high-rise Condominium complex.::1
+đáp án:: A cozy Cottage in the woods.::2
+đáp án:: A mobile Motorhome.::2
+giải thích:: Skyscraper và Condominium là các công trình vĩ mô chứa hàng trăm/hàng ngàn người. Cottage và Motorhome là các không gian sống vi mô dành cho một gia đình.
+---
+loại:: mot_dap_an
+câu 274:: Which sentence correctly combines Maths (Angles) and MOET (Houses in the future) concepts?
+a:: The roof of the cottage is designed with an acute angle to allow heavy snow to slide off easily.
+b:: The solar energy panel is shaped like an obtuse reflex triangle.
+c:: The wireless TV must be bent into a straight angle of 90 degrees to work.
+d:: The houseboat sank because it was full of right angles.
+đáp án:: a
+giải thích:: Câu A kết hợp logic kiến trúc: Mái nhà tranh (cottage) thường có mái dốc nhọn (acute angle - góc nhọn $<90^{\\circ}$) để tuyết/mưa dễ dàng trôi xuống. Các câu khác sai kiến thức toán học trầm trọng.
+---
+loại:: dien_khuyet
+câu 275:: Analyze the environmental article: "Traditional electricity generated by burning coal is a major cause of global warming. In the future, every smart home will rely on a clean, renewable alternative called ... energy, which harnesses the unlimited power of the sun."
+đáp án:: solar
+giải thích:: Năng lượng sạch, tái tạo (clean, renewable) được khai thác từ sức mạnh của mặt trời (power of the sun) chính là năng lượng mặt trời (solar energy).
+---
+loại:: dung_sai
+câu 276:: Evaluate the context of this sentence: "Since my family loves the ocean but suffers from severe seasickness (motion sickness on boats), a houseboat would be the absolute perfect future home for us."
+đáp án:: sai
+giải thích:: Đánh giá tư duy phản biện. Nếu gia đình bị say sóng nặng (severe seasickness) thì việc sống bồng bềnh trên thuyền nhà (houseboat) sẽ là một thảm họa, không thể là "perfect future home".
+---
+loại:: dropdown
+câu 277:: Read the tech specifications: "The new Eco-Wash 5000 is not just a [[wireless TV|electric cooker|washing machine|UFO]]. It features a built-in AI that analyzes the fabric of your dirty shirts and automatically selects the perfect water temperature and spin speed to clean them without causing any damage."
+đáp án:: washing machine
+giải thích:: Thiết bị phân tích chất liệu vải (fabric) của áo sơ mi bẩn (dirty shirts) để chọn nhiệt độ nước và tốc độ vắt (spin speed) chắc chắn là máy giặt (washing machine).
+---
+loại:: sap_xep
+câu 278:: Reorder the words to formulate a question asking about a friend's hypothetical choice of residence in the future.
+muc:: (1) Where
+muc:: (2) do
+muc:: (3) you
+muc:: (4) think
+muc:: (5) you
+muc:: (6) might
+muc:: (7) live
+muc:: (8) in
+muc:: (9) twenty
+muc:: (10) years'
+muc:: (11) time?
+giải thích:: Cấu trúc câu hỏi suy đoán: Where do you think + S + might + V + time? (Bạn nghĩ bạn có thể sẽ sống ở đâu trong 20 năm nữa?).
+---
+loại:: noi
+câu 279:: Match the disadvantage or challenge (Left) with the specific type of future house it relates to (Right).
+trai:: If the engine breaks down, your entire house is stranded on the highway.
+phai:: Motorhome
+trai:: During a severe storm, massive waves could capsize (overturn) your living room.
+phai:: Houseboat
+trai:: Waiting for the elevator to reach the 150th floor takes over ten minutes.
+phai:: Skyscraper
+trai:: It is very isolated in the countryside, far away from modern hospitals and schools.
+phai:: Cottage
+giải thích:: Tư duy phản biện (Critical Thinking): Nhận diện các nhược điểm thực tế của từng loại hình nhà ở.
+---
+loại:: mot_dap_an
+câu 280:: "I want to cook a healthy meal of steamed fish and brown rice, but I don't want to stand in the kitchen watching the stove for an hour. I will just put the ingredients into the ______ and let it do the work automatically."
+a:: dishwasher
+b:: wireless TV
+c:: electric cooker
+d:: solar panel
+đáp án:: c
+giải thích:: Thiết bị dùng để nấu cơm và hấp cá tự động (steam fish and brown rice) là nồi cơm điện (electric cooker).
+---
+loại:: dien_khuyet
+câu 281:: Complete the sentence: "A ... (11-letter word) is a large building divided into separate apartments, but unlike regular apartments, the residents legally own their individual units rather than renting them from a landlord."
+đáp án:: condominium
+giải thích:: Sự phân biệt pháp lý giữa thuê và sở hữu: căn hộ sở hữu riêng là chung cư (condominium).
+---
+loại:: nhieu_dap_an
+câu 282:: A science fiction author is describing a dystopian (dark) future city. Which of the following descriptions accurately use the vocabulary from Unit 10 to paint a bleak picture of urban overpopulation? (Select 2 correct answers).
+a:: "Thousands of massive skyscrapers blocked out the sun, turning the streets into dark tunnels."
+b:: "Everyone lived in a beautiful, sunny cottage surrounded by singing birds and clear rivers."
+c:: "Families were crammed into tiny, rusted condominiums, sharing a single electrical outlet."
+d:: "People enjoyed luxurious vacations on their private, solar-powered houseboats."
+đáp án:: a,c
+giải thích:: Để miêu tả một tương lai tăm tối, quá tải dân số (dystopian future), việc sử dụng hình ảnh "nhà chọc trời che khuất mặt trời" (A) và "các chung cư chật chội, rỉ sét" (C) là chính xác. B và D là hình ảnh tươi sáng (utopian).
+---
+loại:: dropdown
+câu 283:: "Because there is no atmosphere or oxygen on the Moon, astronauts in the future will have to live inside heavily pressurized, airtight [[motorhomes|houseboats|UFOs|apartments]] enclosed in giant glass domes."
+đáp án:: apartments
+giải thích:: Sống trên mặt trăng trong các lồng kính (glass domes), người ta sẽ xây các khu "căn hộ" (apartments) kín khí. Motorhome (chạy trên đường bộ) hay Houseboat (chạy trên mặt nước) không phù hợp với địa hình mặt trăng. UFO là tàu vũ trụ, không phải loại hình nhà ở định cư dài hạn thông thường.
+---
+loại:: dung_sai
+câu 284:: Evaluate the grammatical correctness: "I think that in the future, smart appliances might to be able to talk to us and understand our emotions."
+đáp án:: sai
+giải thích:: Lỗi lặp lại thường xuyên: Sau "might" không bao giờ có "to". Phải viết là "might be able to talk".
+---
+loại:: sap_xep
+câu 285:: Reorder the words to highlight the cross-curricular connection between Science (Electricity) and MOET (Future Houses).
+muc:: (1) If
+muc:: (2) the
+muc:: (3) connecting
+muc:: (4) wires
+muc:: (5) break,
+muc:: (6) the
+muc:: (7) electric
+muc:: (8) cooker
+muc:: (9) will
+muc:: (10) definitely
+muc:: (11) not
+muc:: (12) work.
+giải thích:: Kết hợp câu điều kiện loại 1 với kiến thức mạch điện: "Nếu dây dẫn đứt (mạch hở), nồi cơm điện chắc chắn sẽ không hoạt động."
+---
+loại:: noi
+câu 286:: Match the specific room in a futuristic house (Left) with the smart appliance most likely found there (Right).
+trai:: The Kitchen (where meals are prepared and cleaned)
+phai:: Dishwasher & Electric Cooker
+trai:: The Laundry Room (where fabrics are sanitized)
+phai:: Smart Washing Machine
+trai:: The Living Room (where the family relaxes and is entertained)
+phai:: Large-screen Wireless TV
+trai:: The Roof (where the house interacts with the environment)
+phai:: Solar Energy Panels
+giải thích:: Phân loại thiết bị theo vị trí không gian chức năng trong nhà.
+---
+loại:: phan_loai
+câu 287:: Classify the following environmental impacts of housing.
+nhom:: Eco-Friendly (Bảo vệ môi trường)
+nhom:: Harmful to the Environment (Gây hại)
+the:: Installing a solar energy system on the roof.
+the:: Disposing of toxic batteries in the river near a houseboat.
+the:: Using a highly efficient dishwasher that recycles water.
+the:: Running a massive gasoline generator to power a skyscraper.
+đáp án:: Installing a solar energy system on the roof.::1
+đáp án:: Disposing of toxic batteries in the river near a houseboat.::2
+đáp án:: Using a highly efficient dishwasher that recycles water.::1
+đáp án:: Running a massive gasoline generator to power a skyscraper.::2
+giải thích:: Năng lượng mặt trời và máy rửa bát tái chế nước là thân thiện môi trường (Eco-friendly). Vứt pin độc hại và chạy máy phát điện xăng cỡ lớn là gây ô nhiễm (Harmful).
+---
+loại:: mot_dap_an
+câu 288:: "In the movie, the alien's ship was shaped like a giant spinning top. It hovered above the capital city, defying all known laws of physics." The text is describing a:
+a:: Condominium
+b:: Skyscraper
+c:: UFO
+d:: Motorhome
+đáp án:: c
+giải thích:: Tàu của người ngoài hành tinh lơ lửng chống lại định luật vật lý là UFO.
+---
+loại:: dien_khuyet
+câu 289:: Complete the sentence with the correct tense: "I am completely exhausted tonight. I promise I ... (do) the dishes tomorrow morning instead."
+đáp án:: will do
+giải thích:: Lời hứa (promise) được đưa ra ngay tại thời điểm nói yêu cầu sử dụng thì Tương lai đơn (will do).
+---
+loại:: dung_sai
+câu 290:: Evaluate the context: "A motorhome is permanently attached to a concrete foundation deep in the earth, making it highly resistant to being moved by earthquakes or severe thunderstorms."
+đáp án:: sai
+giải thích:: Sai bản chất. "Motorhome" là nhà trên xe, có bánh xe để di chuyển liên tục. Nó KHÔNG BAO GIỜ được gắn vĩnh viễn vào móng bê tông (permanently attached to a concrete foundation).
+---
+loại:: dropdown
+câu 291:: To save space in crowded cities, architects design tall [[houseboats|cottages|motorhomes|skyscrapers]] that utilize vertical air space instead of spreading horizontally across the ground.
+đáp án:: skyscrapers
+giải thích:: Tận dụng không gian theo chiều dọc (vertical air space) ở thành phố đông đúc là chức năng của nhà chọc trời (skyscrapers).
+---
+loại:: nhieu_dap_an
+câu 292:: Which of the following sentences correctly use the word "wireless" in a logical technological context? (Select 2 correct answers).
+a:: "I connected my wireless mouse to the laptop using Bluetooth."
+b:: "The wireless TV requires a thick copper wire to connect to the antenna on the roof."
+c:: "He tied his shoes with a wireless."
+d:: "She used a wireless controller to play the video game from the sofa."
+đáp án:: a,d
+giải thích:: Chuột không dây (A) và tay cầm chơi game không dây (D) sử dụng sóng (như Bluetooth) là chính xác. Câu B mâu thuẫn (wireless nhưng lại dùng dây đồng). Câu C sai hoàn toàn về nghĩa.
+---
+loại:: sap_xep
+câu 293:: Reorder the following sentence to express a cautious, uncertain prediction about the evolution of housing.
+muc:: (1) Because
+muc:: (2) of
+muc:: (3) climate
+muc:: (4) change,
+muc:: (5) we
+muc:: (6) might
+muc:: (7) have
+muc:: (8) to
+muc:: (9) build
+muc:: (10) floating
+muc:: (11) cities
+muc:: (12) soon.
+giải thích:: Dùng "might have to" để diễn tả một khả năng có thể bắt buộc phải làm trong tương lai do biến đổi khí hậu.
+---
+loại:: noi
+câu 294:: Connect the mathematical angle (Maths Unit 13) with the structural feature of a house (MOET Unit 10).
+trai:: The angle between the flat floor of an apartment and the straight wall.
+phai:: Right angle ($90^{\\circ}$)
+trai:: The angle of a completely flat solar panel lying horizontally on a roof.
+phai:: Straight angle ($180^{\\circ}$)
+trai:: The steep, sharp peak of a traditional rural cottage roof.
+phai:: Acute angle ($<90^{\\circ}$)
+trai:: A fully opened door in a motorhome that swings all the way back against the outside wall.
+phai:: Reflex angle ($>180^{\\circ}$)
+giải thích:: Đỉnh cao của sự tích hợp liên môn (Cross-curricular Synthesis) - dùng khái niệm góc để miêu tả các cấu trúc kiến trúc khác nhau.
+---
+loại:: phan_loai
+câu 295:: Classify the verbs based on whether they describe an action typical of a "Dishwasher" or a "Washing Machine".
+nhom:: Dishwasher actions (Hành động của máy rửa bát)
+nhom:: Washing Machine actions (Hành động của máy giặt)
+the:: Spraying hot water to remove food grease.
+the:: Spinning rapidly to remove water from cotton fabrics.
+the:: Sterilizing ceramic bowls and glass cups.
+the:: Using fabric softener to make t-shirts smell fresh.
+đáp án:: Spraying hot water to remove food grease.::1
+đáp án:: Spinning rapidly to remove water from cotton fabrics.::2
+đáp án:: Sterilizing ceramic bowls and glass cups.::1
+đáp án:: Using fabric softener to make t-shirts smell fresh.::2
+giải thích:: Dầu mỡ thức ăn (grease), bát sứ (ceramic bowls) thuộc về máy rửa bát. Vải cotton (cotton fabrics), nước xả vải (fabric softener), áo thun (t-shirts) thuộc về máy giặt.
+---
+loại:: mot_dap_an
+câu 296:: "With the invention of highly advanced ______, the concept of a traditional 'cable guy' coming to your house to drill holes and run wires through your walls will completely disappear."
+a:: electric cookers
+b:: washing machines
+c:: wireless TVs
+d:: houseboats
+đáp án:: c
+giải thích:: Thiết bị giúp loại bỏ việc thợ cáp phải đến khoan tường đi dây cáp (run wires) chính là "wireless TVs" (ti vi kết nối không dây).
+---
+loại:: dien_khuyet
+câu 297:: Fill in the blank: "My dream is to travel the world without ever leaving my bed. I plan to buy a massive ... (9-letter word) equipped with a strong engine, a kitchen, and a GPS navigation system to explore every continent."
+đáp án:: motorhome
+giải thích:: Một phương tiện có động cơ mạnh, bếp và GPS để đi du lịch khám phá khắp các lục địa (explore every continent) mà vẫn có chỗ ngủ là "motorhome".
+---
+loại:: dung_sai
+câu 298:: Evaluate this extreme future prediction: "In the distant future, the Earth's oceans will dry up completely, making houseboats the most practical and popular choice for terrestrial transportation."
+đáp án:: sai
+giải thích:: Mâu thuẫn logic cơ bản. Nếu đại dương cạn kiệt (oceans dry up), thuyền nhà (houseboats) sẽ trở nên hoàn toàn vô dụng vì chúng cần nước để nổi và di chuyển, không thể dùng làm phương tiện giao thông trên cạn (terrestrial transportation).
+---
+loại:: dropdown
+câu 299:: Read the final conclusion of an essay on future tech: "Ultimately, the transition to 100% [[thunderstorms|cold air|UFOs|solar energy]] is not just a technological upgrade for our homes; it is a critical necessity to ensure the survival of our planet by reducing carbon emissions."
+đáp án:: solar energy
+giải thích:: Chuyển đổi sang 100% "năng lượng mặt trời" (solar energy) là bước đi cần thiết để giảm lượng khí thải carbon, cứu lấy hành tinh.
+---
+loại:: sap_xep
+câu 300:: Reorder the final statement integrating all concepts: A continuous action interrupted by a realization about future tech.
+muc:: (1) While
+muc:: (2) I
+muc:: (3) was
+muc:: (4) manually
+muc:: (5) washing
+muc:: (6) the
+muc:: (7) dishes,
+muc:: (8) I
+muc:: (9) realized
+muc:: (10) I
+muc:: (11) will
+muc:: (12) buy
+muc:: (13) a
+muc:: (14) smart
+muc:: (15) dishwasher.
+giải thích:: Sự giao thoa hoàn hảo: Past Continuous (was washing) bị cắt ngang bởi Past Simple (realized), dẫn đến một quyết định trong tương lai (will buy a smart dishwasher).
+---
+
+
+
         </script>
     </div>
 `);
+
 
