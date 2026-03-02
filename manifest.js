@@ -9,6 +9,7 @@
 //================================================================
 
 const DATABASE_FILES = [
+       'khoahoctunhien.js',
      'lichsudiali.js',
     'CIE6TW6.js',
      'nguvan6.js',
@@ -25,6 +26,7 @@ DATABASE_FILES.forEach(filePath => {
 });
 
 // (Đã xóa dấu '}' bị thừa từ đây)
+
 
 
 
