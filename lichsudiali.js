@@ -4,6 +4,502 @@ document.write(`
 
 // ==================================================================
 
+
+</script>
+        </div>
+
+        <div class="topic-data" data-subject-name=" ĐỊA LÍ " data-topic-name=" ÔN TẬP GIỮA KÌ II  "> 
+    
+        <script type="text/plain" class="question-data-chunk">
+
+
+
+---
+loại:: dung_sai
+câu 1:: Nhận định sau đúng hay sai: "Nhiệt kế là thiết bị chuyên dụng dùng để đo độ ẩm không khí."
+đáp án:: sai
+giải thích:: Theo nội dung ôn tập, Nhiệt kế dùng để đo nhiệt độ không khí. Thiết bị đo độ ẩm là Ẩm kế.
+---
+loại:: dung_sai
+câu 2:: Nhận định sau đúng hay sai: "Tầng đối lưu là nơi xảy ra các hiện tượng thời tiết như mây, mưa, gió, bão và có không khí chuyển động mạnh."
+đáp án:: đúng
+giải thích:: Đây là những đặc điểm cơ bản và quan trọng nhất của tầng đối lưu.
+---
+loại:: dung_sai
+câu 3:: Nhận định sau đúng hay sai: "Tầng bình lưu nằm ngay phía trên tầng đối lưu và có lớp ô-dôn giúp hấp thụ tia cực tím bảo vệ sinh vật."
+đáp án:: đúng
+giải thích:: Lớp ô-dôn trong tầng bình lưu có vai trò như tấm khiên bảo vệ sự sống trên Trái Đất.
+---
+loại:: sap_xep
+câu 4:: Sắp xếp các tầng của khí quyển theo thứ tự từ sát mặt đất lên cao:
+muc:: (1) Tầng đối lưu
+muc:: (2) Tầng bình lưu
+muc:: (3) Tầng trung gian
+muc:: (4) Tầng ngoài (tầng nhiệt – tầng điện ly)
+giải thích:: Đây là thứ tự chính xác của 4 tầng khí quyển tính từ bề mặt Trái Đất hướng lên không gian vũ trụ.
+---
+loại:: sap_xep
+câu 5:: Sắp xếp các thiết bị đo thời tiết tương ứng lần lượt với chức năng: Đo nhiệt độ, Đo độ ẩm, Đo áp suất, Xác định phương hướng:
+muc:: (1) Nhiệt kế
+muc:: (2) Ẩm kế
+muc:: (3) Áp kế
+muc:: (4) La bàn
+giải thích:: Thứ tự thiết bị khớp chuẩn xác với các chức năng đo lường theo tài liệu mục 1a.
+---
+loại:: dung_sai
+câu 6:: Nhận định sau đúng hay sai: "Nhiệt độ không khí giảm dần từ Xích đạo về hai cực do góc chiếu của tia Mặt Trời nhỏ dần."
+đáp án:: đúng
+giải thích:: Vùng Xích đạo có góc chiếu lớn nên nhận nhiều nhiệt, càng về cực góc chiếu càng nhỏ nên nhận ít nhiệt hơn.
+---
+loại:: dung_sai
+câu 7:: Nhận định sau đúng hay sai: "Khu vực nhận được nhiều nhiệt nhất trong năm trên Trái Đất là vùng gần hai cực."
+đáp án:: sai
+giải thích:: Vùng nhận nhiều nhiệt nhất trong năm là vùng gần Xích đạo.
+---
+loại:: dung_sai
+câu 8:: Nhận định sau đúng hay sai: "Trong tầng đối lưu, càng lên cao nhiệt độ càng giảm do càng xa nguồn nhiệt chính tỏa lên từ mặt đất."
+đáp án:: đúng
+giải thích:: Không khí tầng đối lưu nóng lên chủ yếu do mặt đất hấp thụ năng lượng Mặt Trời rồi tỏa nhiệt ngược lại.
+---
+loại:: sap_xep
+câu 9:: Sắp xếp các khu vực theo lượng nhiệt nhận được từ Mặt Trời GIẢM DẦN trong năm:
+muc:: (1) Vùng gần Xích đạo
+muc:: (2) Vùng vĩ độ trung bình (Chí tuyến)
+muc:: (3) Vùng vĩ độ cao (Vòng cực và Cực)
+giải thích:: Vùng Xích đạo nhận nhiều nhiệt nhất, giảm dần khi đi về phía hai cực của Trái Đất.
+---
+loại:: sap_xep
+câu 10:: Sắp xếp các bước của quá trình truyền nhiệt làm nóng không khí ở tầng đối lưu:
+muc:: (1) Tia sáng Mặt Trời đi qua khí quyển làm nóng bề mặt Trái Đất.
+muc:: (2) Bề mặt Trái Đất tỏa nhiệt ngược lại vào không khí.
+muc:: (3) Lớp không khí sát mặt đất (tầng đối lưu) được làm nóng lên.
+giải thích:: Khí quyển không hấp thụ trực tiếp toàn bộ nhiệt từ Mặt Trời mà chủ yếu nhận nhiệt bức xạ lại từ mặt đất.
+---
+loại:: dung_sai
+câu 11:: Nhận định sau đúng hay sai: "Đới nóng nằm giữa hai chí tuyến Bắc và Nam, có đặc điểm là nhiệt độ cao quanh năm."
+đáp án:: đúng
+giải thích:: Do nằm ở vĩ độ thấp, đới nóng nhận được lượng bức xạ Mặt Trời lớn nên nhiệt độ luôn ở mức cao.
+---
+loại:: dung_sai
+câu 12:: Nhận định sau đúng hay sai: "Đới ôn hòa nhận rất ít bức xạ Mặt Trời và băng tuyết bao phủ nhiều nơi quanh năm."
+đáp án:: sai
+giải thích:: Băng tuyết bao phủ quanh năm và nhận rất ít bức xạ là đặc điểm của đới lạnh. Đới ôn hòa có khí hậu trung bình.
+---
+loại:: dung_sai
+câu 13:: Nhận định sau đúng hay sai: "Đới lạnh nằm từ vòng cực đến hai cực ở cả hai bán cầu, có mùa đông dài và mùa hạ rất ngắn."
+đáp án:: đúng
+giải thích:: Đây là đặc trưng khí hậu của đới lạnh (hàn đới) theo nội dung ôn tập mục 3.
+---
+loại:: sap_xep
+câu 14:: Sắp xếp các đới khí hậu trên Trái Đất theo thứ tự từ Xích đạo về hai cực:
+muc:: (1) Đới nóng
+muc:: (2) Đới ôn hòa
+muc:: (3) Đới lạnh
+giải thích:: Đới nóng nằm ở vĩ độ thấp (gần Xích đạo), tiếp đến là đới ôn hòa và xa nhất ở vĩ độ cao là đới lạnh.
+---
+loại:: sap_xep
+câu 15:: Sắp xếp các đới khí hậu theo lượng bức xạ Mặt Trời nhận được TĂNG DẦN:
+muc:: (1) Đới lạnh
+muc:: (2) Đới ôn hòa
+muc:: (3) Đới nóng
+giải thích:: Đới lạnh nhận ít bức xạ nhất do góc chiếu nhỏ, đới nóng nhận nhiều bức xạ nhất.
+---
+loại:: dung_sai
+câu 16:: Nhận định sau đúng hay sai: "Biểu hiện rõ nhất của biến đổi khí hậu là sự nóng lên toàn cầu."
+đáp án:: đúng
+giải thích:: Khí hậu Trái Đất đang có xu hướng tăng nhiệt độ liên tục trong những năm gần đây, gọi là nóng lên toàn cầu.
+---
+loại:: dung_sai
+câu 17:: Nhận định sau đúng hay sai: "Than đá, dầu mỏ và khí tự nhiên là các nguồn năng lượng sạch, giúp ứng phó với biến đổi khí hậu."
+đáp án:: sai
+giải thích:: Than đá, dầu mỏ là nhiên liệu hóa thạch. Năng lượng Mặt Trời, gió mới là năng lượng sạch.
+---
+loại:: dung_sai
+câu 18:: Nhận định sau đúng hay sai: "Sử dụng năng lượng hóa thạch thải ra nhiều khí CO2, gây ô nhiễm môi trường và làm Trái Đất nóng lên."
+đáp án:: đúng
+giải thích:: Khí nhà kính CO2 từ việc đốt nhiên liệu hóa thạch là nguyên nhân chính gây ra biến đổi khí hậu.
+---
+loại:: sap_xep
+câu 19:: Sắp xếp các quá trình dẫn đến biến đổi khí hậu từ việc sử dụng nhiên liệu hóa thạch:
+muc:: (1) Khai thác và đốt cháy nhiên liệu hóa thạch (than đá, dầu mỏ).
+muc:: (2) Thải ra một lượng lớn khí CO2 và khói bụi vào khí quyển.
+muc:: (3) Lớp vỏ khí giữ lại nhiệt làm Trái Đất nóng lên.
+giải thích:: Đây là chuỗi tác động tiêu cực của năng lượng hóa thạch đối với môi trường.
+---
+loại:: sap_xep
+câu 20:: Sắp xếp các nguồn năng lượng sau theo 2 nhóm: Nhóm năng lượng sạch (trước), Nhóm năng lượng hóa thạch (sau):
+muc:: (1) Năng lượng Mặt Trời
+muc:: (2) Năng lượng gió, thủy điện
+muc:: (3) Than đá
+muc:: (4) Dầu mỏ, khí tự nhiên
+giải thích:: Mặt Trời và Gió thân thiện với môi trường, Than và Dầu mỏ là năng lượng hóa thạch gây ô nhiễm.
+---
+loại:: dung_sai
+câu 21:: Nhận định sau đúng hay sai: "Động đất là hiện tượng rung chuyển lớp vỏ Trái Đất do dịch chuyển mảng kiến tạo hoặc đứt gãy."
+đáp án:: đúng
+giải thích:: Đây là khái niệm chính xác về động đất được ghi trong tài liệu ôn tập mục 5a.
+---
+loại:: dung_sai
+câu 22:: Nhận định sau đúng hay sai: "Khi xảy ra động đất và nhà đang rung lắc mạnh, biện pháp an toàn nhất là nhanh chóng chạy ra ngoài đường."
+đáp án:: sai
+giải thích:: Tuyệt đối không chạy ra ngoài khi nhà đang rung vì rất dễ bị gạch ngói, vật cứng rơi trúng người.
+---
+loại:: dung_sai
+câu 23:: Nhận định sau đúng hay sai: "Sau khi rung lắc kết thúc, cần nhanh chóng sơ tán đến nơi an toàn theo hướng dẫn của lực lượng chức năng."
+đáp án:: đúng
+giải thích:: Sau khi hết rung chấn mới là thời điểm an toàn để tiến hành sơ tán ra khỏi tòa nhà.
+---
+loại:: sap_xep
+câu 24:: Sắp xếp các bước hành động an toàn khi đang ở trong phòng và xảy ra động đất:
+muc:: (1) Giữ bình tĩnh, không hoảng loạn.
+muc:: (2) Chui xuống gầm bàn chắc chắn hoặc góc tường.
+muc:: (3) Che đầu và cổ, tránh xa cửa kính và vật dễ rơi.
+muc:: (4) Chờ khi hết rung lắc mới nhanh chóng ra nơi trống.
+giải thích:: Trình tự thoát hiểm chuẩn bảo đảm tính mạng khi động đất bất ngờ xảy ra.
+---
+loại:: sap_xep
+câu 25:: Sắp xếp các bước cần làm khi đang ở ngoài trời mà xảy ra động đất:
+muc:: (1) Nhận biết có hiện tượng rung chấn dưới chân.
+muc:: (2) Lập tức tránh xa các nhà cao tầng, cột điện và cây lớn.
+muc:: (3) Di chuyển và đứng tại các khu vực đất trống.
+giải thích:: Ở ngoài trời nguy cơ lớn nhất là bị cột điện hoặc công trình đổ sập đè trúng, nên cần tìm bãi trống.
+---
+loại:: dung_sai
+câu 26:: Nhận định sau đúng hay sai: "Quá trình nội sinh là quá trình xảy ra trên bề mặt Trái Đất do tác động của nước, gió, băng."
+đáp án:: sai
+giải thích:: Quá trình nội sinh xảy ra BÊN TRONG lòng Trái Đất. Nước, gió tác động trên bề mặt là quá trình ngoại sinh.
+---
+loại:: dung_sai
+câu 27:: Nhận định sau đúng hay sai: "Đỉnh núi trên bản đồ đường đồng mức là điểm có độ cao lớn nhất nằm ở trung tâm."
+đáp án:: đúng
+giải thích:: Dựa vào đường đồng mức khép kín, điểm nằm giữa cùng và có giá trị cao nhất chính là đỉnh núi.
+---
+loại:: dung_sai
+câu 28:: Nhận định sau đúng hay sai: "Người ta có thể xác định được độ cao của một điểm dựa vào khoảng cách và giá trị đường đồng mức."
+đáp án:: đúng
+giải thích:: Giá trị đường đồng mức cho biết độ cao tuyệt đối, khoảng cách giúp tính độ cao tương đối và độ dốc.
+---
+loại:: sap_xep
+câu 29:: Sắp xếp các giá trị đường đồng mức sau theo thứ tự đi từ chân núi lên đỉnh núi:
+muc:: (1) 600 m
+muc:: (2) 700 m
+muc:: (3) 800 m
+muc:: (4) 900 m
+giải thích:: Càng đi về phía tâm (đỉnh núi), giá trị độ cao của đường đồng mức càng lớn.
+---
+loại:: sap_xep
+câu 30:: Sắp xếp các đặc điểm sau theo thứ tự thuộc về Quá trình nội sinh (trước) và Quá trình ngoại sinh (sau):
+muc:: (1) Là quá trình xảy ra bên trong vỏ Trái Đất.
+muc:: (2) Làm uốn nếp, đứt gãy, đẩy bề mặt Trái Đất nhô lên.
+muc:: (3) Là quá trình xảy ra bên ngoài bề mặt Trái Đất.
+muc:: (4) Làm phá hủy, bào mòn và bồi tụ san bằng địa hình.
+giải thích:: Hai đặc điểm đầu mô tả quá trình nội sinh, hai đặc điểm sau mô tả tác động của ngoại sinh.
+---
+loại:: dung_sai
+câu 31:: Nhận định sau đúng hay sai: "Thời tiết là sự lặp đi lặp lại của tình hình trạng thái khí quyển trong thời gian dài (nhiều năm)."
+đáp án:: sai
+giải thích:: Trạng thái lặp đi lặp lại trong nhiều năm gọi là Khí hậu. Thời tiết chỉ là trạng thái trong thời gian ngắn.
+---
+loại:: dung_sai
+câu 32:: Nhận định sau đúng hay sai: "Nhiệt độ trung bình ngày được tính bằng tổng nhiệt độ các lần đo trong ngày chia cho số lần đo."
+đáp án:: đúng
+giải thích:: Đây là công thức toán học chuẩn để tính nhiệt độ trung bình tại mục 7a tài liệu ôn tập.
+---
+loại:: dung_sai
+câu 33:: Nhận định sau đúng hay sai: "Biên độ nhiệt là tổng của nhiệt độ cao nhất và nhiệt độ thấp nhất trong một khoảng thời gian."
+đáp án:: sai
+giải thích:: Biên độ nhiệt là CHÊNH LỆCH, tức là lấy nhiệt độ cao nhất TRỪ ĐI nhiệt độ thấp nhất.
+---
+loại:: sap_xep
+câu 34:: Sắp xếp các bước tiến hành tính nhiệt độ trung bình ngày:
+muc:: (1) Tiến hành đo nhiệt độ không khí nhiều lần trong cùng một ngày.
+muc:: (2) Cộng tất cả các kết quả nhiệt độ của các lần đo lại với nhau.
+muc:: (3) Lấy tổng nhiệt độ vừa cộng chia cho số lần đã thực hiện đo.
+giải thích:: Trình tự thực hiện công thức tính giá trị trung bình cộng nhiệt độ trong 24 giờ.
+---
+loại:: sap_xep
+câu 35:: Sắp xếp các bước để tính Biên độ nhiệt ngày:
+muc:: (1) Xác định thời điểm có nhiệt độ cao nhất và ghi lại kết quả.
+muc:: (2) Xác định thời điểm có nhiệt độ thấp nhất và ghi lại kết quả.
+muc:: (3) Lấy giá trị nhiệt độ cao nhất trừ đi giá trị nhiệt độ thấp nhất.
+giải thích:: Trình tự áp dụng công thức tính độ chênh lệch nhiệt độ trong tài liệu ôn tập mục 7c.
+---
+
+
+
+// ==========================================
+// NHÓM 1 - CHỦ ĐỀ 1: TÍNH TOÁN NHIỆT ĐỘ
+// ==========================================
+
+---
+loại:: mot_dap_an
+câu 1:: Nhiệt độ tại một địa điểm được đo 4 lần trong ngày với các kết quả lần lượt là: $21^{\\circ}C, 24^{\\circ}C, 30^{\\circ}C, 26^{\\circ}C$. Nhiệt độ trung bình của ngày hôm đó là bao nhiêu?
+a:: $24,5^{\\circ}C$
+b:: $25^{\\circ}C$
+c:: $25,25^{\\circ}C$
+d:: $26^{\\circ}C$
+đáp án:: c
+giải thích:: Công thức: (21 + 24 + 30 + 26) / 4 = 101 / 4 = 25,25. Kết quả là $25,25^{\\circ}C$.
+---
+loại:: mot_dap_an
+câu 2:: Dựa vào số liệu đo nhiệt độ trong ngày là $21^{\\circ}C, 24^{\\circ}C, 30^{\\circ}C, 26^{\\circ}C$. Chênh lệch nhiệt độ (biên độ nhiệt ngày) là bao nhiêu?
+a:: $9^{\\circ}C$
+b:: $10^{\\circ}C$
+c:: $6^{\\circ}C$
+d:: $5^{\\circ}C$
+đáp án:: a
+giải thích:: Biên độ nhiệt = Nhiệt độ cao nhất - Nhiệt độ thấp nhất = 30 - 21 = $9^{\\circ}C$.
+---
+loại:: dien_khuyet
+câu 3:: Giả sử một ngày người ta đo nhiệt độ 3 lần và được các kết quả: $20^{\\circ}C, 24^{\\circ}C, 28^{\\circ}C$. Hãy tính và điền con số nhiệt độ trung bình ngày vào chỗ trống: ... $^{\\circ}C$
+đáp án:: 24
+giải thích:: Tổng nhiệt độ là 20 + 24 + 28 = 72. Nhiệt độ trung bình ngày = 72 / 3 = $24^{\\circ}C$.
+---
+loại:: mot_dap_an
+câu 4:: Nếu nhiệt độ trung bình của một ngày là $26^{\\circ}C$ (được đo 4 lần). Biết tổng nhiệt độ của 3 lần đo đầu tiên là $75^{\\circ}C$. Nhiệt độ của lần đo thứ 4 là bao nhiêu?
+a:: $25^{\\circ}C$
+b:: $26^{\\circ}C$
+c:: $28^{\\circ}C$
+d:: $29^{\\circ}C$
+đáp án:: d
+giải thích:: Tổng nhiệt độ 4 lần đo = 26 x 4 = $104^{\\circ}C$. Nhiệt độ lần đo thứ 4 = 104 - 75 = $29^{\\circ}C$.
+---
+loại:: mot_dap_an
+câu 5:: Công thức tính Biên độ nhiệt năm là sự chênh lệch giữa:
+a:: Nhiệt độ ngày cao nhất và nhiệt độ ngày thấp nhất trong năm.
+b:: Nhiệt độ trung bình của tháng nóng nhất và tháng lạnh nhất trong năm.
+c:: Tổng nhiệt độ các tháng chia cho 12.
+d:: Nhiệt độ của mùa hạ và mùa đông.
+đáp án:: b
+giải thích:: Biên độ nhiệt năm luôn được tính bằng chênh lệch nhiệt độ trung bình của tháng cao nhất và tháng thấp nhất trong năm.
+---
+
+// ==========================================
+// NHÓM 1 - CHỦ ĐỀ 2: ĐỌC ĐƯỜNG ĐỒNG MỨC
+// ==========================================
+
+---
+loại:: mot_dap_an
+câu 6:: Một đỉnh núi có các đường đồng mức bao quanh lần lượt là: 600m – 700m – 800m – 900m. Nhận định nào sau đây ĐÚNG NHẤT về độ cao của đỉnh núi đó?
+a:: Đỉnh núi có độ cao chính xác là 900m.
+b:: Đỉnh núi có độ cao nhỏ hơn 900m.
+c:: Đỉnh núi có độ cao lớn hơn 900m (nhưng chưa tới 1000m).
+d:: Đỉnh núi có độ cao bằng 1000m.
+đáp án:: c
+giải thích:: Đường đồng mức trong cùng là 900m, khoảng cao đều là 100m. Do đó đỉnh núi nằm bên trong vòng 900m phải cao hơn 900m nhưng không thể vượt quá 1000m (nếu không sẽ có thêm đường 1000m).
+---
+loại:: dien_khuyet
+câu 7:: Dựa vào chuỗi đường đồng mức "600m – 700m – 800m – 900m", hãy cho biết "khoảng cao đều" (khoảng cách chênh lệch độ cao giữa 2 đường đồng mức liên tiếp) của bản đồ này là ... m.
+đáp án:: 100
+giải thích:: Lấy giá trị của hai đường liên tiếp trừ cho nhau: 700 - 600 = 100m.
+---
+loại:: mot_dap_an
+câu 8:: Trên một bản đồ địa hình, nếu khoảng cách giữa các đường đồng mức càng gần nhau (dày đặc) thì điều đó chứng tỏ địa hình ở khu vực đó như thế nào?
+a:: Địa hình rất bằng phẳng.
+b:: Địa hình càng thoải.
+c:: Địa hình càng dốc.
+d:: Địa hình lồi lõm không đều.
+đáp án:: c
+giải thích:: Nguyên tắc đọc bản đồ: Đường đồng mức sít nhau nghĩa là độ dốc lớn (địa hình dốc); khoảng cách thưa nhau nghĩa là độ dốc nhỏ (địa hình thoải).
+---
+loại:: dung_sai
+câu 9:: Nhận định sau đúng hay sai: "Điểm A nằm trên đường đồng mức 600m, điểm B nằm trên đường đồng mức 800m. Vậy độ chênh lệch địa hình tuyệt đối giữa A và B là 200m."
+đáp án:: đúng
+giải thích:: Chênh lệch độ cao = 800m - 600m = 200m.
+---
+loại:: dung_sai
+câu 10:: Nhận định sau đúng hay sai: "Các đường đồng mức có thể cắt nhau chéo qua lại trên bản đồ nếu ngọn núi đó quá dốc."
+đáp án:: sai
+giải thích:: Đường đồng mức là đường nối các điểm có cùng độ cao, do đó chúng không bao giờ cắt nhau.
+---
+
+// ==========================================
+// NHÓM 2 - CHỦ ĐỀ 3: GIẢI THÍCH HIỆN TƯỢNG ĐỊA LÍ
+// ==========================================
+
+---
+loại:: mot_dap_an
+câu 11:: Nguyên nhân chính làm cho nhiệt độ không khí giảm khi càng lên cao trong tầng đối lưu là gì?
+a:: Càng lên cao không khí càng đặc, cản trở bức xạ Mặt Trời.
+b:: Càng lên cao lượng mây càng nhiều làm che khuất Mặt Trời.
+c:: Càng lên cao không khí càng loãng và càng xa nguồn nhiệt từ mặt đất tỏa lên.
+d:: Càng lên cao tầng ô-dôn càng hấp thụ hết nhiệt năng lượng Mặt Trời.
+đáp án:: c
+giải thích:: Theo mục 1 (Câu hỏi tự luận ngắn), không khí loãng làm khả năng giữ nhiệt kém; đồng thời xa mặt đất (nguồn cung cấp nhiệt chủ yếu) nên nhiệt độ giảm.
+---
+loại:: mot_dap_an
+câu 12:: Nguồn cung cấp nhiệt lượng chủ yếu để làm nóng lớp không khí ở tầng đối lưu (sát mặt đất) có nguồn gốc trực tiếp từ đâu?
+a:: Bức xạ nhiệt trực tiếp từ các vì sao.
+b:: Nhiệt độ tự sinh ra do không khí chuyển động, ma sát.
+c:: Nhiệt năng do lõi Trái Đất truyền qua các lớp vỏ đá.
+d:: Bức xạ nhiệt từ bề mặt Trái Đất tỏa lên sau khi đã hấp thụ nhiệt của Mặt Trời.
+đáp án:: d
+giải thích:: Không khí hấp thụ rất ít nhiệt trực tiếp từ Mặt Trời, mà chủ yếu nhận nguồn nhiệt do mặt đất bức xạ lại.
+---
+loại:: dung_sai
+câu 13:: Nhận định sau đúng hay sai: "Do Trái Đất nhận nhiệt từ Mặt Trời, nên khi leo lên các đỉnh núi cao (gần Mặt Trời hơn) thì ta sẽ cảm thấy nóng bức hơn so với ở dưới mặt đất."
+đáp án:: sai
+giải thích:: Khoảng cách vài km lên núi là quá nhỏ bé so với khoảng cách tới Mặt Trời. Thực tế, càng lên cao nhiệt độ càng giảm vì không khí loãng và xa mặt đất.
+---
+loại:: dung_sai
+câu 14:: Nhận định sau đúng hay sai: "Bản chất của việc không khí trên cao lạnh hơn là do không khí ở đó quá loãng, mật độ các phân tử khí thưa thớt dẫn đến khả năng hấp thụ và giữ nhiệt rất kém."
+đáp án:: đúng
+giải thích:: Đây là một trong hai nguyên nhân chính được nếu trong tài liệu (phần giải thích tự luận Câu 1).
+---
+loại:: sap_xep
+câu 15:: Sắp xếp các ý sau theo đúng trình tự logic nhân - quả để giải thích hiện tượng "Càng lên cao nhiệt độ càng giảm":
+muc:: (1) Tia bức xạ của Mặt Trời chiếu xuống làm nóng bề mặt mặt đất.
+muc:: (2) Mặt đất nóng lên và tỏa nhiệt ngược lại, làm nóng lớp không khí ở sát mặt đất.
+muc:: (3) Lớp không khí trên cao nằm xa mặt đất nên nhận được ít nhiệt hơn.
+muc:: (4) Đồng thời không khí trên cao loãng hơn, giữ nhiệt kém nên nhiệt độ giảm.
+giải thích:: Đây là chuỗi logic giải thích hoàn chỉnh cho nguyên lý truyền nhiệt và phân bố nhiệt trong tầng đối lưu.
+---
+
+
+// ==========================================
+// NHÓM 3 - CHỦ ĐỀ 1: BIỆN PHÁP AN TOÀN KHI ĐỘNG ĐẤT
+// ==========================================
+
+---
+loại:: nhieu_dap_an
+câu 16:: Khi đang ở trong phòng và xảy ra chấn động động đất, em hãy chọn các hành động ĐÚNG để đảm bảo an toàn:
+a:: Nhanh chóng chui xuống gầm bàn chắc chắn hoặc gầm giường.
+b:: Đứng sát tường, dùng tay hoặc đồ vật che chắn vùng đầu và cổ.
+c:: Mở cửa sổ, chạy ra ban công kêu cứu để được hỗ trợ.
+d:: Sử dụng thang máy để di chuyển xuống sảnh nhanh nhất có thể.
+đáp án:: a,b
+giải thích:: Theo mục 2 (Câu hỏi tự luận), khi ở trong nhà phải trú ẩn tại gầm bàn, đứng sát tường. Tuyệt đối không dùng thang máy hay chạy ra ban công để tránh vật rơi đè trúng.
+---
+loại:: dung_sai
+câu 17:: Nhận định sau đúng hay sai: "Trong khi nhà đang rung lắc dữ dội do động đất, biện pháp an toàn nhất là lập tức mở cửa chạy thẳng ra ngoài đường."
+đáp án:: sai
+giải thích:: Chạy ra ngoài khi nhà đang rung lắc là sai lầm nguy hiểm nhất vì dễ bị gạch ngói, kính hoặc các vật trang trí rơi trúng người.
+---
+loại:: nhieu_dap_an
+câu 18:: Khi đang ở ngoài trời và xảy ra động đất, em hãy chọn các hành động ĐÚNG:
+a:: Nhanh chóng di chuyển và đứng tại các khu vực đất trống trải.
+b:: Chạy ngay vào trong một tòa nhà cao tầng gần nhất để nấp.
+c:: Tuyệt đối tránh xa các nhà cao tầng, cột điện và cây lớn.
+d:: Đứng ngay dưới các biển quảng cáo lớn để tránh bị gạch đá nhỏ văng trúng.
+đáp án:: a,c
+giải thích:: Khi ở ngoài trời, nguy cơ lớn nhất là các công trình kiến trúc đổ sập. Vì vậy phải tránh xa nhà cao tầng, cây lớn, cột điện và tìm đến bãi đất trống.
+---
+loại:: mot_dap_an
+câu 19:: Khi nào thì người dân được phép sơ tán rời khỏi vị trí trú ẩn để đến nơi an toàn?
+a:: Ngay khi vừa cảm nhận được chấn động rung lắc đầu tiên.
+b:: Sơ tán ngay trong lúc tòa nhà đang rung lắc dữ dội.
+c:: Sau khi hiện tượng rung lắc kết thúc, sơ tán theo hướng dẫn của lực lượng chức năng.
+d:: Chỉ sơ tán khi ngôi nhà đã bắt đầu có dấu hiệu bị sập.
+đáp án:: c
+giải thích:: Theo tài liệu mục 2 (Phần tự luận), chỉ tiến hành di chuyển và sơ tán khi hiện tượng rung lắc đã kết thúc để đảm bảo không bị đồ vật rơi trúng.
+---
+
+// ==========================================
+// NHÓM 3 - CHỦ ĐỀ 2: ỨNG PHÓ VỚI BIẾN ĐỔI KHÍ HẬU
+// ==========================================
+
+---
+loại:: nhieu_dap_an
+câu 20:: Các biện pháp nào sau đây giúp ứng phó trực tiếp và làm giảm thiểu tác động của biến đổi khí hậu?
+a:: Tích cực trồng và bảo vệ diện tích rừng.
+b:: Đẩy mạnh khai thác than đá và dầu mỏ để phát triển kinh tế công nghiệp.
+c:: Thay thế nhiên liệu hóa thạch bằng năng lượng sạch (Mặt Trời, gió).
+d:: Xả rác bừa bãi và sử dụng đồ nhựa dùng một lần.
+đáp án:: a,c
+giải thích:: Theo mục 3 (Câu hỏi tự luận), trồng rừng và sử dụng năng lượng sạch là biện pháp then chốt để hấp thụ CO2 và giảm phát thải khí nhà kính.
+---
+loại:: noi
+câu 21:: Nối loại năng lượng ở cột trái với đặc điểm tác động tương ứng ở cột phải:
+trai:: Năng lượng Mặt Trời, năng lượng gió
+phai:: Là năng lượng sạch, sử dụng giúp ứng phó và giảm biến đổi khí hậu.
+trai:: Than đá, dầu mỏ, khí tự nhiên
+phai:: Là nhiên liệu hóa thạch, khi đốt thải ra nhiều CO2 gây nóng lên toàn cầu.
+giải thích:: Năng lượng hóa thạch là tác nhân gây biến đổi khí hậu; ngược lại, năng lượng sạch thân thiện với môi trường.
+---
+loại:: dung_sai
+câu 22:: Nhận định sau đúng hay sai: "Việc tắt đèn, tiết kiệm điện và hạn chế sử dụng nhiên liệu hóa thạch không mang lại ý nghĩa đáng kể trong việc ứng phó với biến đổi khí hậu."
+đáp án:: sai
+giải thích:: Tiết kiệm điện và hạn chế nhiên liệu hóa thạch là một trong những biện pháp thiết thực và quan trọng nhất được nêu ở mục 3 để ứng phó biến đổi khí hậu.
+---
+loại:: mot_dap_an
+câu 23:: Hành động cụ thể nào của học sinh có thể trực tiếp góp phần nâng cao ý thức bảo vệ môi trường, ứng phó biến đổi khí hậu?
+a:: Thường xuyên xin dùng thêm nhiều túi nilon khi mua đồ ăn vặt.
+b:: Tham gia phong trào trồng cây xanh và nhớ tắt các thiết bị điện khi ra khỏi lớp.
+c:: Gom sách vở cũ để đốt bỏ ở bãi rác gần nhà thay vì mang đi tái chế.
+d:: Để vòi nước chảy tự do khi đánh răng rửa mặt nhằm làm mát bầu không khí.
+đáp án:: b
+giải thích:: Trồng cây xanh và tiết kiệm năng lượng (điện, nước) là những hành động thực tế nhất của lứa tuổi học sinh nhằm ứng phó biến đổi khí hậu.
+---
+
+// ==========================================
+// NHÓM 4 - CHỦ ĐỀ 1: PHÂN BIỆT THỜI TIẾT & KHÍ HẬU
+// ==========================================
+
+---
+loại:: noi
+câu 24:: Nối khái niệm ở cột trái với nội dung định nghĩa tương ứng ở cột phải:
+trai:: Thời tiết
+phai:: Là trạng thái của khí quyển tại một thời điểm hoặc trong thời gian ngắn.
+trai:: Khí hậu
+phai:: Là sự lặp đi lặp lại của tình hình thời tiết trong thời gian dài (nhiều năm).
+giải thích:: Thời tiết có tính chất ngắn hạn, tức thời. Khí hậu có tính quy luật, lặp lại trong nhiều năm (theo nội dung tự luận mục 4).
+---
+loại:: dung_sai
+câu 25:: Nhận định sau đúng hay sai: "Hôm nay trời Sài Gòn nắng rất to, nhưng buổi chiều lại có mưa rào." Câu nói này đang miêu tả về Khí hậu của TP.HCM.
+đáp án:: sai
+giải thích:: Câu nói này mô tả trạng thái khí quyển chỉ diễn ra trong một ngày cụ thể (ngắn hạn, tức thời), do đó đây là miêu tả "Thời tiết".
+---
+loại:: mot_dap_an
+câu 26:: Đặc điểm nào sau đây KHÔNG thuộc về "Khí hậu"?
+a:: Là sự lặp đi lặp lại của một tình hình trạng thái khí quyển.
+b:: Diễn ra mang tính quy luật trong một thời gian dài (nhiều năm).
+c:: Mang tính chất tương đối ổn định ở mỗi vùng miền.
+d:: Chỉ diễn ra tức thời tại một thời điểm hoặc thay đổi liên tục trong vài giờ đồng hồ.
+đáp án:: d
+giải thích:: Trạng thái diễn ra tức thời tại một thời điểm hoặc vài giờ là đặc trưng riêng của Thời tiết.
+---
+
+// ==========================================
+// NHÓM 4 - CHỦ ĐỀ 2: PHÂN BIỆT NỘI SINH & NGOẠI SINH
+// ==========================================
+
+---
+loại:: noi
+câu 27:: Nối các đặc điểm sau với quá trình địa lí tương ứng để phân biệt:
+trai:: Do lực bên trong Trái Đất gây ra, xảy ra bên trong lòng đất.
+phai:: Quá trình nội sinh
+trai:: Do tác động của nước, gió, băng, xảy ra trên bề mặt Trái Đất.
+phai:: Quá trình ngoại sinh
+trai:: Làm nâng lên, hạ xuống, uốn nếp, đứt gãy vỏ Trái Đất (địa hình gồ ghề).
+phai:: Hệ quả của quá trình nội sinh
+trai:: Làm phá hủy, bào mòn và bồi tụ địa hình (san bằng địa hình).
+phai:: Hệ quả của quá trình ngoại sinh
+giải thích:: Đây là bảng so sánh khác biệt rõ nét nhất giữa tác nhân, vị trí và hệ quả của nội sinh với ngoại sinh (mục 5 phần tự luận).
+---
+loại:: nhieu_dap_an
+câu 28:: Hãy chọn các tác nhân tạo ra Quá trình ngoại sinh:
+a:: Sự dịch chuyển của các mảng kiến tạo từ trong lớp man-ti.
+b:: Tác động bào mòn của dòng nước chảy và sức thổi của gió.
+c:: Sự di chuyển bào mòn của các dòng sông băng hà.
+d:: Hoạt động phun trào của núi lửa và các chấn động động đất.
+đáp án:: b,c
+giải thích:: Nước, gió, băng là các lực hình thành từ bên ngoài vỏ Trái Đất nên được gọi là tác nhân ngoại sinh. Mảng kiến tạo và núi lửa thuộc về nội sinh.
+---
+loại:: dung_sai
+câu 29:: Nhận định sau đúng hay sai: "Quá trình nội sinh và ngoại sinh là hai quá trình có tác động trái ngược nhau nhưng lại luôn xảy ra đồng thời trên Trái Đất."
+đáp án:: đúng
+giải thích:: Nội sinh tạo ra sự gồ ghề, ngoại sinh có xu hướng san bằng gồ ghề đó. Chúng luôn tác động đồng thời để tạo nên các dạng địa hình đa dạng hiện nay.
+---
+loại:: mot_dap_an
+câu 30:: Hiện tượng đứt gãy trên lớp vỏ Trái Đất tạo thành các thung lũng rất sâu là kết quả chủ yếu do tác động của:
+a:: Quá trình ngoại sinh.
+b:: Sự bào mòn của nước và gió.
+c:: Quá trình nội sinh.
+d:: Hậu quả của hiện tượng nóng lên toàn cầu.
+đáp án:: c
+giải thích:: Theo mục 5a, làm uốn nếp, đứt gãy, nâng lên hạ xuống lớp vỏ Trái Đất chính là đặc trưng hệ quả của quá trình nội sinh.
+---
+
 </script>
         </div>
 
@@ -28837,4 +29333,5 @@ giải thích:: Kết luận bài học.
 ---
         </script>
     </div>
+
 `);
