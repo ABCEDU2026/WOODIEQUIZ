@@ -10,6 +10,1304 @@ document.write(`
 ---
 </script>     
 </div>
+        <div class="topic-data" data-subject-name=" NGỮ VĂN 6" data-topic-name="ÔN TẬP GIỮ KÌ II">
+            <script type="text/plain" class="question-data-chunk">
+---
+loại:: mot_dap_an
+[cite_start]câu 1:: Đề 1: Đọc đoạn trích sau: "Bố tôi vẫn thường nói với tôi: Nó khổ hơn con rất nhiều, con đừng tỵ bì với nó. 'Nó' là cái Ngần, con bé lang thang không có cha mẹ được ba tôi đem về nuôi trong một lần bà đi tàu từ Hà Nội về". Xác định ngôi kể của văn bản Cái Ngần. [cite: 63]
+a:: Ngôi thứ nhất
+b:: Ngôi thứ hai
+c:: Ngôi thứ ba
+d:: Ngôi thứ nhất số nhiều
+đáp án:: a
+giải thích:: Người kể chuyện xưng "tôi", trực tiếp tham gia vào câu chuyện và kể lại những gì mình chứng kiến, cảm nhận.
+---
+loại:: mot_dap_an
+câu 2:: Đề 1: Đọc đoạn trích sau: "Bà tôi kể: lúc thấy nó ngơ ngơ ngác ngác một mình trên sân ga, quần áo rách rưới bẩn thỉu, bà tôi động lòng hỏi han nó thì không hiểu sao nó oà khóc đòi đi theo bà tôi. Nó chẳng nhớ tại sao nó đến được đây. Nó cũng chẳng nhớ nó tên gì". [cite_start]Nêu một chi tiết tiêu biểu thể hiện hoàn cảnh của cái Ngần khi được bà đưa về nhà. [cite: 65]
+a:: Lạc mất đồ đạc trên chuyến tàu từ Hà Nội về.
+b:: Đứng ngơ ngác một mình trên sân ga, quần áo rách rưới bẩn thỉu, không nhớ nguồn gốc.
+c:: Bị bỏ rơi trước cửa nhà của nhân vật "tôi".
+d:: Lang thang đi xin ăn khắp nơi trong xóm.
+đáp án:: b
+giải thích:: Đoạn trích miêu tả rõ hình ảnh cái Ngần ngơ ngác một mình trên sân ga, quần áo rách rưới bẩn thỉu, không nhớ mình là ai và từ đâu đến.
+---
+loại:: mot_dap_an
+câu 3:: Đề 1: Đọc tóm tắt truyện "Cái Ngần": Truyện kể về một cô bé lang thang không cha mẹ được nhận nuôi. Dù ban đầu bị nhân vật "tôi" ghen tị, nhưng qua thời gian cùng nhau khôn lớn, Ngần đã thấu hiểu nỗi vất vả của bố mẹ nuôi. Khi thi lên lớp 10, Ngần cố tình để bị điểm liệt môn Địa lý nhằm ở nhà giúp đỡ gia đình, nhường cơ hội đi học cho người chị nuôi của mình. [cite_start]Văn bản trên viết về đề tài nào? [cite: 68]
+a:: Tình bạn tuổi học trò dưới mái trường.
+b:: Tình yêu quê hương, đất nước qua những mùa hoa xoan.
+c:: Tình cảm gia đình, tình yêu thương và đức hi sinh.
+d:: Khát vọng vươn lên thoát nghèo của thanh niên nông thôn.
+đáp án:: c
+giải thích:: Truyện tập trung vào mối quan hệ cưu mang, yêu thương của gia đình với đứa con nuôi và sự hi sinh thầm lặng của cô bé vì những người đã nuôi dưỡng mình.
+---
+loại:: dropdown
+câu 4:: Đề 1: Đọc đoạn trích: "Có đứa mách: Không hiểu sao cái Ngần chép đề xong cứ ngồi im khóc thầm. Thầy giám thị hỏi nó trả lời ấp úng là không hiểu bài... Tôi khóc oà lên: Mày muốn ở nhà làm giúp bố phải không? Mày thấy bà ốm nên muốn ở nhà phải không? Mày muốn dành cho tao đi học phải không?". Nêu nhận xét về chi tiết cái Ngần chép đề xong nhưng chỉ ngồi im khóc thầm. [cite_start]Điều đó nói lên điều gì về nhân vật? [cite: 70, 71] (Điền vào chỗ trống để trả lời): Chi tiết này cho thấy em đang đấu tranh nội tâm gay gắt và quyết định [[bỏ thi vì đề quá khó|nhường cơ hội đi học cho chị|bất mãn với thầy giám thị]].
+đáp án:: nhường cơ hội đi học cho chị
+giải thích:: Giọt nước mắt của Ngần là sự xót xa cho tương lai học hành của bản thân nhưng cũng là sự hi sinh tự nguyện để ở nhà giúp bố mẹ, nhường cơ hội học tập cho nhân vật "tôi".
+---
+loại:: mot_dap_an
+câu 5:: Đề 1: Dựa vào toàn bộ nội dung truyện "Cái Ngần", khắc họa sự biến chuyển từ một cô bé lang thang thành một người con hiếu thảo, tự nguyện hi sinh tương lai học hành khi thấy bà ốm đau, mẹ sắp sinh, bố vất vả gánh vác việc đồng áng. [cite_start]Nêu ngắn gọn chủ đề truyện. [cite: 75]
+a:: Phê phán những đứa trẻ hay tị nạnh trong gia đình.
+b:: Ngợi ca tình yêu thương cưu mang những số phận bất hạnh và đức hi sinh cao cả của con người.
+c:: Phản ánh sự khắc nghiệt của chế độ thi cử đối với học sinh nghèo.
+d:: Tố cáo sự vô tâm của xã hội đối với trẻ em lang thang cơ nhỡ.
+đáp án:: b
+giải thích:: Chủ đề cốt lõi của truyện là ngợi ca tình người: gia đình đã cưu mang Ngần bằng tình thương chân thành và Ngần đền đáp lại bằng lòng hiếu thảo, đức hi sinh cao thượng.
+---
+loại:: dung_sai
+[cite_start]câu 6:: Đề 1: Qua văn bản trên, em hãy rút ra bài học cho bản thân trong việc ứng xử với những người có hoàn cảnh bất hạnh? [cite: 78] (Nhận định sau đây thể hiện bài học đó là đúng hay sai): "Đối với những người có hoàn cảnh bất hạnh, chúng ta cần dang tay cứu giúp, đối xử bằng tình thương chân thành, sự cảm thông và sẻ chia như người thân ruột thịt; chính tình yêu thương đó sẽ cảm hóa và tạo nên những điều tốt đẹp."
+đáp án:: dung
+giải thích:: Câu chuyện chứng minh rằng tình yêu thương vô điều kiện của gia đình nuôi đã giúp Ngần vượt qua bất hạnh, cảm hóa em trở thành một cô bé hiếu thảo, biết hi sinh vì người khác.
+---
+loại:: mot_dap_an
+câu 7:: Đề 1: Đọc câu văn: "Bố tôi vẫn thường nói với tôi: Nó khổ hơn con rất nhiều...". Dấu hiệu nào rõ nhất cho thấy câu chuyện được kể theo ngôi thứ nhất?
+a:: Tác giả trực tiếp xưng tên thật của mình.
+b:: Người kể chuyện xưng "tôi" và tự kể lại câu chuyện của gia đình mình.
+c:: Người kể chuyện gọi tên các nhân vật là "Ngần", "bố", "bà".
+d:: Người kể chuyện giấu mình đi, không xưng hô gì cả.
+đáp án:: b
+giải thích:: Ngôi thứ nhất là khi người kể trực tiếp xưng "tôi", "chúng tôi" để kể lại những gì mình chứng kiến hoặc trải qua.
+---
+loại:: dung_sai
+câu 8:: Đề 1: Nhận định sau đúng hay sai: "Việc sử dụng ngôi kể thứ nhất (xưng 'tôi') trong truyện 'Cái Ngần' giúp người kể dễ dàng bộc lộ cảm xúc ghen tị ban đầu cũng như sự ân hận, xúc động sâu sắc ở cuối truyện một cách chân thực nhất."
+đáp án:: dung
+giải thích:: Ngôi kể thứ nhất cho phép đi sâu vào thế giới nội tâm của nhân vật "tôi", làm cho những cảm xúc tị nạnh và sau này là thấu hiểu trở nên vô cùng sinh động, đáng tin cậy.
+---
+loại:: dropdown
+câu 9:: Đề 1: Điền từ thích hợp vào chỗ trống để nói về tác dụng của ngôi kể: Khi nhân vật "tôi" kể lại câu chuyện về người con nuôi của gia đình mình, điều này tạo ra một góc nhìn [[khách quan hoàn toàn|chủ quan, giàu cảm xúc|khoa học, logic]] giúp người đọc dễ đồng cảm hơn với thông điệp của tác phẩm.
+đáp án:: chủ quan, giàu cảm xúc
+giải thích:: Góc nhìn của ngôi thứ nhất mang tính cá nhân, chủ quan và rất giàu cảm xúc nội tâm.
+---
+loại:: dien_khuyet
+câu 10:: Đề 1: Trong đoạn: "Tôi khóc oà lên: Mày muốn ở nhà làm giúp bố phải không?", nhân vật xưng "tôi" trong truyện thực chất là người con ... (ruột/nuôi) của gia đình.
+đáp án:: ruột
+giải thích:: Nhân vật "tôi" là con ruột, trong khi cái Ngần là con nuôi ("con bé lang thang được ba tôi đem về nuôi").
+---
+loại:: phan_loai
+câu 11:: Đề 1: Phân loại các ngôi kể trong tác phẩm văn học:
+nhom:: Ngôi thứ nhất
+nhom:: Ngôi thứ ba
+the:: Người kể giấu mình, gọi tên các nhân vật theo tên gọi của chúng.
+the:: Người kể xưng "tôi", là nhân vật trong truyện.
+the:: Góc nhìn mang tính khách quan, toàn tri.
+the:: Góc nhìn mang tính chủ quan, thể hiện rõ nội tâm của người kể.
+đáp án:: Người kể giấu mình, gọi tên các nhân vật theo tên gọi của chúng.::2
+đáp án:: Người kể xưng "tôi", là nhân vật trong truyện.::1
+đáp án:: Góc nhìn mang tính khách quan, toàn tri.::2
+đáp án:: Góc nhìn mang tính chủ quan, thể hiện rõ nội tâm của người kể.::1
+giải thích:: Ngôi thứ nhất xưng tôi, chủ quan. Ngôi thứ ba giấu mặt, khách quan.
+---
+loại:: mot_dap_an
+câu 12:: Đề 1: Đọc đoạn trích: "Bà tôi kể: lúc thấy nó ngơ ngơ ngác ngác một mình trên sân ga, quần áo rách rưới bẩn thỉu, bà tôi động lòng hỏi han nó thì không hiểu sao nó oà khóc đòi đi theo bà tôi". Cảm xúc của bà khi lần đầu nhìn thấy cái Ngần là gì?
+a:: Tức giận
+b:: Động lòng thương xót
+c:: Lo sợ
+d:: Lạnh lùng
+đáp án:: b
+giải thích:: Chi tiết "bà tôi động lòng hỏi han" cho thấy bà rất thương xót trước hoàn cảnh đáng thương của cô bé.
+---
+loại:: dung_sai
+câu 13:: Đề 1: Nhận định: "Cái Ngần bị bỏ rơi ở sân ga nhưng em vẫn nhớ rất rõ tên thật của mình và quê quán ở đâu."
+đáp án:: sai
+giải thích:: Đoạn trích chỉ rõ: "Nó chẳng nhớ tại sao nó đến được đây. Nó cũng chẳng nhớ nó tên gì".
+---
+loại:: dropdown
+câu 14:: Đề 1: Điền từ: Hình ảnh cái Ngần lúc mới được đem về "quần áo rách rưới bẩn thỉu" gợi lên sự đối lập hoàn toàn với cuộc sống "đang êm ả" cùng những hộp đồ chơi, búp bê xinh đẹp của nhân vật [[người bố|người bà|tôi]].
+đáp án:: tôi
+giải thích:: Nhân vật "tôi" có cuộc sống êm ả, nhiều đồ chơi đẹp, đối lập hoàn toàn với sự rách rưới của Ngần.
+---
+loại:: dien_khuyet
+câu 15:: Đề 1: Tên "Ngần" của cô bé lang thang là do ai đặt cho? Đọc lại câu: "Tới năm đầu đi học nó mới được bố tôi đặt cho cái tên là Ngần."
+đáp án:: bố tôi
+giải thích:: Theo trích dẫn, bố của nhân vật "tôi" là người đặt tên cho cô bé khi bắt đầu đi học.
+---
+loại:: sap_xep
+câu 16:: Đề 1: Sắp xếp lại quá trình thay đổi thái độ của cái Ngần trong việc xưng hô với các thành viên trong gia đình theo đúng trình tự câu chuyện (dựa vào câu "Lúc đầu nó gọi bà tôi bằng bà... tôi quát... cuối cùng nó cũng hiểu thân phận và ngoan ngoãn xin tôi"):
+muc:: (1) Gọi bà bằng bà, gọi bố bằng bố, toét miệng cười.
+muc:: (2) Bị nhân vật "tôi" quát mắng, chỉ tay về rặng núi chân trời.
+muc:: (3) Bần thần gạ gẫm xin được "chung bà, chung bố".
+muc:: (4) Hiểu thân phận và ngoan ngoãn chấp nhận nhường nhịn.
+giải thích:: Trình tự diễn biến tâm lý của Ngần khi cố gắng hòa nhập vào gia đình mới nhưng vấp phải sự tị nạnh của người con ruột.
+---
+loại:: mot_dap_an
+câu 17:: Đề 1: Đề tài của một tác phẩm truyện ngắn được hiểu là gì?
+a:: Là bài học đạo đức cuối truyện.
+b:: Là sự việc chính, phạm vi hiện thực đời sống mà tác giả lựa chọn để miêu tả, kể lại.
+c:: Là tên của nhân vật chính trong câu chuyện.
+d:: Là biện pháp nghệ thuật được sử dụng nhiều nhất.
+đáp án:: b
+giải thích:: Đề tài là phạm vi hiện thực đời sống mà nhà văn nhận thức, lựa chọn và phản ánh trong tác phẩm.
+---
+loại:: dung_sai
+câu 18:: Đề 1: Nhận định: "Truyện 'Cái Ngần' không chỉ xoay quanh đề tài tình cảm gia đình mà còn khai thác khía cạnh về tình bạn đồng trang lứa trong môi trường học đường."
+đáp án:: sai
+giải thích:: Mặc dù có nhắc đến trường học, nhưng toàn bộ cốt truyện, xung đột và cách giải quyết đều tập trung sâu sắc vào đề tài tình cảm gia đình, tình yêu thương con nuôi.
+---
+loại:: dropdown
+câu 19:: Đề 1: Chọn từ đúng: Đề tài của truyện "Cái Ngần" có điểm tương đồng lớn nhất với tác phẩm nào viết về tình yêu thương, sự cưu mang những số phận bất hạnh trong gia đình? [[Chuyện người con gái Nam Xương|Bức tranh của em gái tôi|Lão Hạc]].
+đáp án:: Bức tranh của em gái tôi
+giải thích:: Cả hai truyện đều xoay quanh tình cảm anh chị em trong gia đình, sự tị nạnh ban đầu và sự thức tỉnh nhờ lòng bao dung, yêu thương.
+---
+loại:: dien_khuyet
+câu 20:: Đề 1: Đề tài tình cảm gia đình trong truyện "Cái Ngần" được thể hiện rõ nét nhất qua sự bao dung của ba người lớn: bà, mẹ và ...
+đáp án:: bố
+giải thích:: Bố là người thường xuyên khuyên bảo "Nó khổ hơn con rất nhiều", đặt tên cho Ngần và cày cuốc vất vả nuôi hai con ăn học.
+---
+loại:: mot_dap_an
+câu 21:: Đề 1: Khía cạnh nào sau đây KHÔNG thuộc đề tài của truyện "Cái Ngần"?
+a:: Sự tị nạnh của trẻ con.
+b:: Tình yêu thương, cưu mang trẻ mồ côi.
+c:: Tình yêu đôi lứa.
+d:: Sự hi sinh vì người thân.
+đáp án:: c
+giải thích:: Truyện kể về trẻ em và gia đình, hoàn toàn không đề cập đến tình yêu đôi lứa.
+---
+loại:: mot_dap_an
+câu 22:: Đề 1: Đọc đoạn văn: "Có đứa mách: Không hiểu sao cái Ngần chép đề xong cứ ngồi im khóc thầm... Người tôi run lên. Môn địa lý nó học giỏi hơn cả tôi. Đề năm nay không khó...". Tại sao nhân vật "tôi" lại cảm thấy "người run lên"?
+a:: Vì "tôi" sợ Ngần sẽ vượt qua điểm số của mình.
+b:: Vì "tôi" bàng hoàng nhận ra có điều uẩn khúc phía sau việc Ngần bỏ làm bài, bởi Ngần học rất giỏi môn này.
+c:: Vì thời tiết hôm đó quá lạnh.
+d:: Vì "tôi" tức giận khi thấy bạn mình mách lẻo.
+đáp án:: b
+giải thích:: Sự mâu thuẫn giữa việc "học giỏi môn Địa lý nhất" và "ngồi im khóc thầm không làm bài" khiến nhân vật "tôi" nhận ra sự hi sinh giấu kín của Ngần.
+---
+loại:: dung_sai
+câu 23:: Đề 1: Nhận định: "Việc Ngần trả lời giám thị là 'không hiểu bài, không làm được' là lời nói dối để che giấu mục đích thực sự của mình."
+đáp án:: dung
+giải thích:: Ngần học rất giỏi môn Địa lý và đề không khó, nên em không làm bài là do cố tình, lời nói với giám thị chỉ là lời nói dối để được bị điểm liệt.
+---
+loại:: dropdown
+câu 24:: Đề 1: Dựa vào trích đoạn "Bà ho nhiều về đêm... Bố tôi hay ngồi tư lự... Mẹ tôi lại chuẩn bị sinh em bé. Tất cả việc đồng áng đều một mình bố tôi gánh vác", hành động Ngần cố tình trượt cấp 3 là để giúp đỡ gia đình bớt gánh nặng [[kinh tế và nhân lực|học phí trường chuyên|tiền mua sách vở]].
+đáp án:: kinh tế và nhân lực
+giải thích:: Gia đình neo người (mẹ sắp sinh, bà ốm) và kinh tế khó khăn, bố phải làm việc một mình nên Ngần muốn ở nhà làm nông giúp bố.
+---
+loại:: dien_khuyet
+câu 25:: Đề 1: Từ giọt nước mắt "từ từ lăn trên má" của Ngần ở cuối truyện, ta thấy sự hi sinh của em không hề dễ dàng mà đầy sự ... xót xa cho ước mơ học hành của bản thân.
+đáp án:: đau khổ
+giải thích:: Ngần cũng là một học sinh giỏi, khát khao đi học, việc phải tự kết thúc con đường học vấn khiến em phải rơi nước mắt. Có thể dùng từ đồng nghĩa như đau đớn, giằng xé.
+---
+loại:: mot_dap_an
+câu 26:: Đề 1: Hình ảnh "Bố tôi từ đồng về đứng sau chúng tôi lúc nào không biết... lẳng lặng dựng chiếc cuốc vào góc hè, mắt cũng đỏ hoe" thể hiện cảm xúc gì của người bố?
+a:: Tức giận vì các con cãi nhau.
+b:: Xúc động tột cùng và đau xót khi hiểu ra sự hi sinh vô bờ bến của đứa con nuôi.
+c:: Mệt mỏi vì vừa đi làm đồng về.
+d:: Tuyệt vọng vì gia đình quá nghèo.
+đáp án:: b
+giải thích:: Bố đã nghe được cuộc đối thoại, hiểu ra lý do Ngần thi trượt là vì thương bố vất vả, nên ông đã khóc vì xúc động và thương con.
+---
+loại:: phan_loai
+câu 27:: Đề 1: Phân loại các chi tiết thể hiện Chủ đề "Sự ích kỉ, tị nạnh" và "Đức hi sinh, yêu thương" trong truyện "Cái Ngần":
+nhom:: Sự ích kỉ, tị nạnh
+nhom:: Đức hi sinh, yêu thương
+the:: "Đừng hòng... nó muốn tất cả đồ chơi của tôi ư?"
+the:: "Cho em chung bà với... chung bố với..."
+the:: Cố tình để bị điểm liệt môn Địa lý.
+the:: "Tôi nhiều lần quát nó: Bà mày à? Bà của tao chứ..."
+đáp án:: "Đừng hòng... nó muốn tất cả đồ chơi của tôi ư?"::1
+đáp án:: "Cho em chung bà với... chung bố với..."::2
+đáp án:: Cố tình để bị điểm liệt môn Địa lý.::2
+đáp án:: "Tôi nhiều lần quát nó: Bà mày à? Bà của tao chứ..."::1
+giải thích:: Thái độ của nhân vật "tôi" lúc nhỏ thể hiện sự ích kỉ bảo vệ lãnh thổ; còn hành động của Ngần luôn hướng về tình cảm, hi sinh.
+---
+loại:: dung_sai
+câu 28:: Đề 1: Nhận định: "Chủ đề của một tác phẩm văn học thường được tác giả phát biểu trực tiếp ở ngay dòng đầu tiên của văn bản."
+đáp án:: sai
+giải thích:: Chủ đề thường được toát lên qua toàn bộ cốt truyện, nhân vật và các tình tiết nút thắt (như việc Ngần bỏ thi), rất hiếm khi được nói tuột ra ở đầu truyện.
+---
+loại:: mot_dap_an
+câu 29:: Đề 1: Tác giả Hạ Huyền muốn gửi gắm thông điệp gì lớn nhất qua nhân vật cái Ngần?
+a:: Trẻ em đường phố không thể học lên cao.
+b:: Dù hoàn cảnh xuất thân bất hạnh, nhưng nếu được cưu mang bằng tình yêu thương, con người sẽ tỏa sáng với những phẩm chất cao đẹp nhất.
+c:: Con nuôi bao giờ cũng chịu nhiều thiệt thòi hơn con đẻ trong việc học hành.
+d:: Kỳ thi chuyển cấp luôn là áp lực tâm lý quá lớn đối với học sinh giỏi.
+đáp án:: b
+giải thích:: Sự chuyển biến của Ngần từ một đứa trẻ rách rưới thành cô học trò hiếu thảo là minh chứng cho sức mạnh của tình yêu thương.
+---
+loại:: dropdown
+câu 30:: Đề 1: Cuộc sống êm ả của nhân vật "tôi" bị đảo lộn khi cái Ngần xuất hiện, nhưng cuối cùng chính sự đảo lộn đó lại mang đến cho "tôi" một bài học đắt giá về [[tính toán tiền bạc|lòng vị tha và đức hi sinh|cách làm bài thi Địa lý]].
+đáp án:: lòng vị tha và đức hi sinh
+giải thích:: Sự hi sinh của Ngần đã thức tỉnh "tôi", khiến "tôi" khóc òa và nhận ra tình yêu thương to lớn của người em nuôi.
+---
+loại:: dien_khuyet
+câu 31:: Đề 1: Chủ đề truyện ngợi ca vẻ đẹp tâm hồn của con người. Dù khô héo vì bất hạnh, nhưng tâm hồn ấy vẫn bừng sáng lên ... hiếu thảo và tình yêu thương gia đình. (Gợi ý: một danh từ chỉ đạo đức).
+đáp án:: lòng
+giải thích:: "Lòng hiếu thảo" là phẩm chất cốt lõi của Ngần được ngợi ca.
+---
+loại:: mot_dap_an
+câu 32:: Đề 1: Hành động "bố tôi hộc tốc đạp xe xuống trường huyện" khi nghe tin Ngần thi trượt thể hiện bài học ứng xử nào của người lớn đối với con cái?
+a:: Sự tức giận, muốn xuống trường để mắng mỏ con.
+b:: Sự quan tâm sát sao, lo lắng thực sự cho tương lai học hành của con nuôi.
+c:: Sự nghi ngờ kết quả thi của nhà trường.
+d:: Sự thiên vị, chỉ quan tâm đến con nuôi mà bỏ mặc con ruột.
+đáp án:: b
+giải thích:: Dù đang cày ngoài đồng vất vả, bố vẫn bỏ cày phóng hộc tốc đi, chứng tỏ ông vô cùng yêu thương và lo lắng cho tương lai của Ngần.
+---
+loại:: dropdown
+câu 33:: Đề 1: Chọn từ đúng để hoàn thiện bài học rút ra: Từ thói quen hay "quát nạt", tị nạnh lúc nhỏ đến cái ôm "khóc oà lên" ở cuối truyện, nhân vật "tôi" đã học được cách phá bỏ sự ích kỉ để [[cạnh tranh|chấp nhận và thấu cảm|bỏ mặc]] đối với người em bất hạnh của mình.
+đáp án:: chấp nhận và thấu cảm
+giải thích:: Sự trưởng thành của nhân vật "tôi" là hành trình từ ghen ghét sang thấu hiểu sâu sắc hoàn cảnh và tấm lòng của em.
+---
+loại:: dung_sai
+câu 34:: Đề 1: Nhận định: "Truyện khuyên chúng ta rằng, khi giúp đỡ người có hoàn cảnh khó khăn, hãy luôn nhắc nhở họ về xuất thân nghèo hèn để họ không bao giờ quên ơn mình."
+đáp án:: sai
+giải thích:: Truyện cho thấy gia đình đối xử với Ngần như con ruột (cho đi học, đặt tên, bảo ban), không hề nhắc nhở để mạt sát xuất thân của em. Sự bao dung không đi kèm với sự kể lể công ơn.
+---
+loại:: dien_khuyet
+câu 35:: Đề 1: Hoàn thành câu ca dao sau đây có nội dung tương đồng với bài học về tình yêu thương, đùm bọc những người bất hạnh trong truyện Cái Ngần: "Bầu ơi thương lấy bí cùng / Tuy rằng khác ... nhưng chung một giàn".
+đáp án:: giống
+giải thích:: Câu ca dao "Tuy rằng khác giống nhưng chung một giàn" rất phù hợp để nói về tình cảm gia đình cưu mang người không cùng máu mủ.
+---
+loại:: noi
+câu 36:: Đề 1: Nối cách ứng xử của các nhân vật với ý nghĩa của nó trong việc giáo dục lòng nhân ái.
+trai:: Bà động lòng đem Ngần về nuôi.
+phai:: Lòng trắc ẩn, cưu mang số phận lang thang.
+trai:: Bố khuyên "Nó khổ hơn con rất nhiều, đừng tỵ bì".
+phai:: Dạy dỗ con ruột biết thông cảm, chia sẻ với người yếu thế.
+trai:: Cái Ngần xin được "chung bố, chung bà".
+phai:: Khát khao cháy bỏng về một mái ấm gia đình.
+trai:: Cái Ngần hi sinh tương lai học hành để ở nhà giúp bố.
+phai:: Sự đền đáp công ơn sinh thành dưỡng dục bằng tấm lòng hiếu thảo cao cả nhất.
+giải thích:: Mỗi hành động trong truyện đều mang một thông điệp nhân văn sâu sắc về cách con người đối xử với nhau trong nghịch cảnh.
+---
+loại:: mot_dap_an
+câu 1:: Đề 2: Đọc văn bản "Áo Tết", xác định ngôi kể của văn bản này.
+a:: Ngôi thứ nhất
+b:: Ngôi thứ hai
+c:: Ngôi thứ ba
+d:: Ngôi thứ nhất số nhiều
+đáp án:: c
+giải thích:: Truyện được kể theo ngôi thứ ba, người kể chuyện giấu mình và trực tiếp gọi tên các nhân vật là "bé Em", "con Bích".
+---
+loại:: mot_dap_an
+câu 2:: Đề 2: Xác định đề tài chính của truyện "Áo Tết".
+a:: Tình cảm gia đình, tình mẫu tử.
+b:: Tình bạn tuổi thơ, sự thấu hiểu và chia sẻ.
+c:: Khát vọng vươn lên trong học tập.
+d:: Tình yêu thiên nhiên quê hương.
+đáp án:: b
+giải thích:: Toàn bộ câu chuyện xoay quanh mối quan hệ tình bạn thân thiết, sự tinh tế nhường nhịn và thấu hiểu hoàn cảnh của nhau giữa bé Em và Bích.
+---
+loại:: dropdown
+câu 3:: Đề 2: Con bé Em ban đầu có suy nghĩ như thế nào về bộ đồ đầm hồng mới của mình? Điều đó cho thấy bé Em có tính cách gì? (Điền vào chỗ trống): Ban đầu, bé Em rất háo hức, nghĩ rằng mặc vào sẽ "đẹp như tiên" và muốn [[mặc để khoe cho bạn lé con mắt|giấu đi sợ bạn mượn mất|đem tặng ngay cho con Bích]]. Suy nghĩ này cho thấy bé Em mang tính cách hồn nhiên, vô tư, có chút khoe khoang của trẻ con.
+đáp án:: mặc để khoe cho bạn lé con mắt
+giải thích:: Lúc đầu bé Em rất tự hào và có tâm lý khoe khoang trẻ con ("cho tụi bạn lé con mắt luôn"), chưa thấu hiểu được hoàn cảnh nghèo khó của bạn mình.
+---
+loại:: mot_dap_an
+câu 4:: Đề 2: Nhân vật Bé Em cuối cùng đã mặc trang phục như thế nào khi đến nhà cô giáo? Lựa chọn đó thể hiện Bé Em là cô bé như thế nào?
+a:: Mặc chiếc đầm màu hồng thắt nơ viền kim tuyến, thể hiện sự điệu đà.
+b:: Mặc đồ cũ của năm ngoái, thể hiện sự tiết kiệm đáng khen.
+c:: Mặc áo thun in hình mèo bự hơi giống đồ của Bích, thể hiện sự tinh tế, thấu cảm và trân trọng tình bạn.
+d:: Không mặc gì đặc biệt, mượn áo của Bích để mặc.
+đáp án:: c
+giải thích:: Bé Em quyết định không mặc đầm hồng lộng lẫy để bạn khỏi chạnh lòng tủi thân, thay vào đó chọn mặc áo thun bình dị giống bạn. Điều này chứng tỏ em rất sâu sắc và biết quan tâm đến cảm xúc của Bích.
+---
+loại:: mot_dap_an
+câu 5:: Đề 2: Bé Em đã trải qua những thay đổi gì về nhận thức và cảm xúc trong suốt câu chuyện? Điều gì khiến bé có sự thay đổi đó?
+a:: Từ háo hức khoe khoang chuyển sang hụt hẫng, rồi quyết định nhường nhịn vì thấu hiểu hoàn cảnh nghèo khó của Bích và coi trọng tình bạn.
+b:: Từ buồn bã chuyển sang vui vẻ vì được mẹ mua cho 4 bộ quần áo mới để chơi Tết.
+c:: Từ giận dỗi bạn chuyển sang làm hòa vì được cô giáo khuyên bảo.
+d:: Từ ghen tị với bạn chuyển sang tự hào về bản thân.
+đáp án:: a
+giải thích:: Bé Em ban đầu muốn khoe đồ đẹp, nhưng khi nghe Bích kể nhà nghèo phải nhường đồ cho em, bé Em đã "mất hứng hẳn" và suy nghĩ lại, cuối cùng chọn tình bạn thay vì bộ đồ đẹp.
+---
+loại:: dung_sai
+câu 6:: Đề 2: Đọc suy nghĩ của Bích ở cuối truyện: "bé Em thương bạn như vậy, tốt như vậy, có mặc áo gì bích vẫn quý bé em." Nhận định sau đúng hay sai: Câu chuyện truyền tải bài học ý nghĩa rằng tình bạn chân thành phải được xây dựng trên sự thấu hiểu, đồng cảm và không bị khoảng cách giàu nghèo vật chất làm phai nhạt.
+đáp án:: dung
+giải thích:: Bích hiểu được tấm lòng tinh tế của bé Em, và cả hai đứa trẻ đều trân trọng nhau vì tình cảm chân thật chứ không phải vì vẻ ngoài hay những bộ quần áo Tết.
+---
+loại:: mot_dap_an
+câu 7:: Đề 2: Dấu hiệu nào trong câu văn "Con bé Em cười tủm tỉm khi nghĩ tới cái áo đầm màu hồng..." giúp ta nhận biết truyện được kể theo ngôi thứ ba?
+a:: Người kể chuyện xưng "tôi".
+b:: Người kể giấu mặt và gọi nhân vật bằng tên (bé Em).
+c:: Nhân vật đang độc thoại nội tâm.
+d:: Câu chuyện được kể lại qua lời của cô giáo.
+đáp án:: b
+giải thích:: Ngôi thứ ba là khi người kể chuyện không xưng "tôi" mà giấu mình, gọi tên các nhân vật một cách khách quan.
+---
+loại:: dung_sai
+câu 8:: Đề 2: Nhận định: "Ngôi kể thứ ba trong truyện Áo Tết giúp người đọc nhìn nhận diễn biến tâm lý của cả hai nhân vật (bé Em và Bích) một cách bao quát và toàn diện hơn."
+đáp án:: dung
+giải thích:: Ngôi thứ ba là ngôi kể toàn tri, cho phép người kể chuyện "nhìn thấu" và miêu tả được suy nghĩ thầm kín của cả Bé Em lẫn Bích.
+---
+loại:: dropdown
+câu 9:: Đề 2: Bé Em rất thích chơi với con Bích vì lý do gì? Bé Em thích con Bích vì nó [[hiền|học giỏi|giàu có]], với lại hai đứa ngồi kế nhau từ lớp một tới lớp năm.
+đáp án:: hiền
+giải thích:: Truyện nếu rõ lý do tình bạn gắn bó là vì Bích hiền lành và hai bạn đã thân thiết ngồi cạnh nhau từ lâu.
+---
+loại:: dien_khuyet
+câu 10:: Đề 2: Điền từ còn thiếu vào câu văn miêu tả sự chuẩn bị của gia đình Bé Em: "Bốn bộ. Má tao mua cho đủ mặc từ mùng Một tới mùng Bốn, bữa nào cũng mặc đồ mới hết ...".
+đáp án:: trơn
+giải thích:: Chi tiết này bộc lộ sự đầy đủ, dư dả và niềm vui sướng của bé Em khi có đến 4 bộ đồ mới.
+---
+loại:: phan_loai
+câu 11:: Đề 2: Phân loại hoàn cảnh gia đình của hai nhân vật trong truyện "Áo Tết":
+nhom:: Gia đình Bé Em
+nhom:: Gia đình Bích
+the:: Má mua cho 4 bộ đồ mới mặc từ mùng 1 đến mùng 4.
+the:: Có bộ đầm hồng thắt nơ viền kim tuyến.
+the:: Má đi bán bắp nướng ngoài đầu hẻm, xách cặn cho heo.
+the:: Chuyên mặc đồ cũ chuyền tay nhau, mỏng tang.
+đáp án:: Má mua cho 4 bộ đồ mới mặc từ mùng 1 đến mùng 4.::1
+đáp án:: Có bộ đầm hồng thắt nơ viền kim tuyến.::1
+đáp án:: Má đi bán bắp nướng ngoài đầu hẻm, xách cặn cho heo.::2
+đáp án:: Chuyên mặc đồ cũ chuyền tay nhau, mỏng tang.::2
+giải thích:: Gia đình bé Em khá giả, được sắm nhiều đồ mới. Gia đình Bích rất nghèo, mẹ làm việc vất vả và phải mặc lại đồ cũ.
+---
+loại:: mot_dap_an
+câu 12:: Đề 2: Gia đình Bích có tất cả mấy bộ đồ mới trong dịp Tết năm nay?
+a:: Bốn bộ
+b:: Hai bộ
+c:: Một bộ
+d:: Không có bộ nào
+đáp án:: c
+giải thích:: Bích trả lời: "Có một bộ hà... Con Út Mót với Con Út Hết được hai bộ. Tao lớn rồi, nhường cho tụi nó."
+---
+loại:: dung_sai
+câu 13:: Đề 2: Nhận định: "Dù chỉ có một bộ đồ mới nhưng Bích đã ích kỉ giữ lại cho riêng mình mặc đi chơi Tết, không nhường cho các em."
+đáp án:: sai
+giải thích:: Bích nói: "Tao lớn rồi, nhường cho tụi nó", thể hiện sự hiểu chuyện, biết hi sinh nhường nhịn cho các em nhỏ.
+---
+loại:: dropdown
+câu 14:: Đề 2: Khi nghe Bích kể nhà chỉ có một bộ đồ mới và nhường lại cho em, cảm xúc của Bé Em lập tức thay đổi như thế nào? Bé Em [[mất hứng hẳn, lựng khựng|nhảy cẫng lên vui sướng|tức giận mắng bạn]].
+đáp án:: mất hứng hẳn, lựng khựng
+giải thích:: Bé Em chững lại, nửa muốn khoe nửa không vì cảm nhận được sự đối lập hoàn cảnh và sợ làm bạn buồn.
+---
+loại:: dien_khuyet
+câu 15:: Đề 2: Khi nghe bé Em nói có tới 4 bộ đồ mới, Bích phản ứng lại: "Mầy sướng rồi". Bích nói xong vẫn cười nhưng mắt nó ... xuống, buồn hẳn.
+đáp án:: xịu
+giải thích:: Đôi mắt "xịu xuống" thể hiện sự tủi thân, buồn bã của đứa trẻ nhà nghèo khi thấy bạn mình có quá nhiều thứ tốt đẹp.
+---
+loại:: noi
+câu 16:: Đề 2: Nối tên các nhân vật trong gia đình Bích với tình trạng quần áo Tết của họ.
+trai:: Con Bích
+phai:: Nhường đồ mới, chuyên mặc áo con trai cũ để lại.
+trai:: Con Út Mót và con Út Hết
+phai:: Được cắt cho hai bộ đồ mới.
+trai:: Anh Hai
+phai:: Để lại áo cũ cho em gái mặc.
+trai:: Má con Bích
+phai:: Hứa "ráng vài năm nữa khá giả rồi má sắm cho".
+giải thích:: Cả gia đình Bích đều phải tằn tiện, thể hiện sự nghèo khó nhưng rất biết thương yêu, nhường nhịn nhau.
+---
+loại:: mot_dap_an
+câu 17:: Đề 2: Quyết định cuối cùng của Bé Em trong ngày mùng Hai Tết đi thăm cô giáo là gì?
+a:: Mặc chiếc đầm hồng thắt nơ lộng lẫy nhất.
+b:: Không đi thăm cô giáo nữa để tránh mặt Bích.
+c:: Mặc chiếc áo thun in hình mèo bự bình dị, hơi giống đồ của Bích.
+d:: Cho Bích mượn chiếc đầm hồng để hai đứa cùng vui.
+đáp án:: c
+giải thích:: Bé Em từ bỏ sự lộng lẫy cá nhân để đồng điệu với bạn mình, giữ cho tình bạn không có khoảng cách.
+---
+loại:: dung_sai
+câu 18:: Đề 2: Nhận định: "Khi thấy Bé Em mặc áo thun bình thường giống mình, Bích cảm thấy rất tức giận vì cho rằng Bé Em đang thương hại mình."
+đáp án:: sai
+giải thích:: Bích lại nghĩ khác, bé Em thương bạn, tốt như vậy, có mặc áo gì Bích vẫn quý. Bích cảm nhận được sự chân thành chứ không hề tự ái.
+---
+loại:: dropdown
+câu 19:: Đề 2: Bé Em nghĩ thầm: "Đứa mặc áo đẹp, đứa mặc áo xấu coi gì được, vậy sao coi là [[bạn thân|kẻ thù|chị em ruột]]".
+đáp án:: bạn thân
+giải thích:: Suy nghĩ này cho thấy đối với bé Em, sự bình đẳng và chia sẻ cảm xúc là cốt lõi của một tình bạn thân thiết.
+---
+loại:: dien_khuyet
+câu 20:: Đề 2: Dù hoàn cảnh khó khăn phải mặc lại đồ rách rưới, mấy chị em nhà Bích rất biết thân, lo học chứ không ... đo chuyện cũ mới.
+đáp án:: so
+giải thích:: "Không so đo chuyện cũ mới" thể hiện sự ngoan ngoãn, hiểu chuyện của những đứa trẻ nhà nghèo.
+---
+loại:: mot_dap_an
+câu 21:: Đề 2: Lời khen của cô giáo "Coi hai đứa lớn hết trơn rồi, cao nhòng" có ý nghĩa gì đối với câu chuyện?
+a:: Khẳng định hai bạn đã cao lên rất nhiều so với năm ngoái.
+b:: Lời khen xã giao ngày Tết của giáo viên.
+c:: Không chỉ nói về chiều cao mà còn gián tiếp khẳng định sự "lớn lên", trưởng thành trong nhận thức và tâm hồn của hai đứa trẻ.
+d:: Chê hai bạn ăn mặc không phù hợp với lứa tuổi.
+đáp án:: c
+giải thích:: Sự trưởng thành thực sự nằm ở cách bé Em biết hi sinh cái áo đẹp vì tình bạn, và cách Bích thấu hiểu tấm lòng của bạn.
+---
+loại:: dung_sai
+câu 22:: Đề 2: Nhận định: "Tâm lý thích mặc áo mới đi khoe bạn bè trong dịp Tết của Bé Em lúc đầu là một nét tâm lý trẻ thơ rất tự nhiên, hồn nhiên và chân thực."
+đáp án:: dung
+giải thích:: Việc trẻ con thích đồ mới và háo hức muốn khoe là điều rất bình thường, không hề mang ác ý hay sự kiêu ngạo ác độc.
+---
+loại:: dropdown
+câu 23:: Đề 2: Hình ảnh chiếc áo đầm hồng "thắt nơ, bâu viền kim tuyến" đối lập gay gắt với chiếc áo "đã cũ mèm, mỏng tang, kéo nhẹ cũng rách" làm nổi bật sự chênh lệch về [[hoàn cảnh kinh tế|thành tích học tập|sức khỏe thể chất]] giữa hai người bạn.
+đáp án:: hoàn cảnh kinh tế
+giải thích:: Sự đối lập về trang phục phản ánh trực tiếp sự khác biệt giàu - nghèo giữa gia đình bé Em và Bích.
+---
+loại:: dien_khuyet
+câu 24:: Đề 2: Tác giả của truyện ngắn "Áo Tết" mang đậm phong vị miền Tây Nam Bộ là nhà văn Nguyễn Ngọc ...
+đáp án:: Tư
+giải thích:: Nguyễn Ngọc Tư là nữ nhà văn nổi tiếng với các tác phẩm viết về con người và vùng đất Nam Bộ.
+---
+loại:: sap_xep
+câu 25:: Đề 2: Sắp xếp các diễn biến tâm lý của bé Em theo đúng trình tự thời gian trong câu chuyện:
+muc:: (1) Háo hức, cười tủm tỉm khi nghĩ đến việc mặc đầm hồng khoe bạn.
+muc:: (2) Mất hứng, lựng khựng, chững lại khi nghe bạn nói chỉ có 1 bộ đồ và nhường cho em.
+muc:: (3) Quyết định mặc áo thun bình dị giống bạn đi chúc Tết.
+muc:: (4) Nhận ra ý nghĩa đích thực của tình bạn thân thiết.
+giải thích:: Đây là chuỗi tâm lý logic đi từ sự hồn nhiên đến sự thấu cảm và hành động trưởng thành của bé Em.
+---
+loại:: mot_dap_an
+câu 26:: Đề 2: Hành động của bé Em trong truyện khuyên chúng ta điều gì khi chơi với bạn bè có hoàn cảnh khó khăn?
+a:: Thường xuyên mua đồ mới tặng bạn để bạn không buồn.
+b:: Cần có sự tinh tế, tránh khoe khoang và biết đồng điệu để bảo vệ cảm xúc của bạn.
+c:: Không nên chơi chung để tránh mang lại áp lực cho họ.
+d:: Cứ thoải mái khoe khoang để bạn lấy đó làm động lực cố gắng.
+đáp án:: b
+giải thích:: Tình bạn cần sự tế nhị, biết đặt mình vào hoàn cảnh của bạn để chia sẻ và không làm tổn thương lòng tự trọng của họ.
+---
+loại:: dung_sai
+câu 27:: Đề 2: Nhận định: "Bích là một cô bé mang mặc cảm tự ti nặng nề, luôn ghen ghét và đố kị với những người giàu có hơn mình."
+đáp án:: sai
+giải thích:: Bích có buồn vì nhà nghèo, nhưng em rất ngoan ngoãn, nhường nhịn em nhỏ và đặc biệt luôn trân quý tấm lòng của bé Em chứ không đố kị.
+---
+loại:: dropdown
+câu 28:: Đề 2: Mặc dù khác biệt lớn về hoàn cảnh, nhưng điều gắn kết tình bạn của Bé Em và Bích là sự [[hồn nhiên, chân thành và thấu hiểu|ganh đua thành tích học tập|mong muốn trao đổi đồ chơi]].
+đáp án:: hồn nhiên, chân thành và thấu hiểu
+giải thích:: Tình bạn của họ vượt qua vật chất nhờ sự chân thành và biết quan tâm đến suy nghĩ của nhau.
+---
+loại:: dien_khuyet
+câu 29:: Đề 2: Để giấu đi sự khoe khoang của mình, bé Em bày đặt nói ... : "Còn mấy ngày nữa Tết rồi hen, mầy có đồ mới chưa?".
+đáp án:: gièm
+giải thích:: "Nói gièm" là cách nói dẫn dắt, vòng vo của trẻ con Nam Bộ khi muốn khoe một thứ gì đó.
+---
+loại:: mot_dap_an
+câu 30:: Đề 2: Câu nói của cô giáo "Coi hai đứa lớn hết trơn rồi" vào lúc nào?
+a:: Lúc hai bạn đi học buổi cuối năm.
+b:: Lúc hai bạn mặc đồ hơi giống nhau đi nhà cô giáo mùng Hai.
+c:: Lúc bé Em mặc đầm hồng đến lớp.
+d:: Lúc cô giáo đến thăm nhà Bích.
+đáp án:: b
+giải thích:: Lời khen xuất hiện ở cuối truyện khi hai bạn mặc áo giống nhau đến chúc Tết cô giáo.
+---
+loại:: phan_loai
+câu 31:: Đề 2: Phân loại hành động và cảm xúc của nhân vật Bích:
+nhom:: Hành động ngoan ngoãn, hiếu thảo
+nhom:: Cảm xúc chân thành, trân trọng tình bạn
+the:: Ngồi nướng bắp thế cho má đi xách cặn cho heo.
+the:: Nhường bộ đồ mới duy nhất cho con Út Mót và con Út Hết.
+the:: Nghĩ rằng: "bé Em thương bạn như vậy... có mặc áo gì Bích vẫn quý".
+the:: Không so đo chuyện cũ mới, nghe lời má dạy.
+đáp án:: Ngồi nướng bắp thế cho má đi xách cặn cho heo.::1
+đáp án:: Nhường bộ đồ mới duy nhất cho con Út Mót và con Út Hết.::1
+đáp án:: Nghĩ rằng: "bé Em thương bạn như vậy... có mặc áo gì Bích vẫn quý".::2
+đáp án:: Không so đo chuyện cũ mới, nghe lời má dạy.::1
+giải thích:: Bích vừa là một người con/người chị hiếu thảo đảm đang (nhóm 1), vừa là một người bạn sâu sắc, chân thành (nhóm 2).
+---
+loại:: dung_sai
+câu 32:: Đề 2: Nhận định: "Truyện 'Áo Tết' không có những xung đột gay gắt hay tình tiết giật gân, mà chỉ là những thay đổi tâm lý tinh tế, nhẹ nhàng của trẻ thơ."
+đáp án:: dung
+giải thích:: Tác phẩm của Nguyễn Ngọc Tư thường nhẹ nhàng, đi sâu vào những rung động và nét đẹp tâm hồn nhỏ bé nhưng sâu sắc.
+---
+loại:: dropdown
+câu 33:: Đề 2: Thay vì mặc đầm hồng rực rỡ, áo thun mèo bự và áo trắng bâu sen giúp hai bạn có sự đồng điệu, xóa nhòa đi khoảng cách [[giàu - nghèo|vùng - miền|thành thị - nông thôn]].
+đáp án:: giàu - nghèo
+giải thích:: Hai bộ trang phục bình dị đã kéo gần hai đứa trẻ, che đi sự khác biệt về kinh tế gia đình.
+---
+loại:: dien_khuyet
+câu 34:: Đề 2: Suy nghĩ "Đứa mặc áo đẹp, đứa mặc áo xấu coi gì được" thể hiện tư duy coi trọng sự bình đẳng và ... đồng trong tình bạn của bé Em. (Gợi ý: một từ ghép với "đồng").
+đáp án:: hòa
+giải thích:: Sự "hòa đồng" là nét đẹp lớn nhất trong cách ứng xử của bé Em với người bạn nhà nghèo.
+---
+loại:: mot_dap_an
+câu 35:: Đề 2: Tại sao Bích lại thường xuyên phải mặc "áo con trai của anh Hai nó để lại"?
+a:: Vì Bích có cá tính mạnh, thích mặc đồ con trai.
+b:: Vì nhà quá nghèo, phải tận dụng mọi quần áo cũ chuyền tay nhau mặc để tiết kiệm.
+c:: Vì mẹ Bích mua nhầm áo con trai.
+d:: Vì Bích muốn làm anh Hai vui.
+đáp án:: b
+giải thích:: Hoàn cảnh gia đình nghèo khó buộc các chị em nhà Bích phải mặc lại đồ cũ của nhau tằn tiện.
+---
+loại:: noi
+câu 36:: Đề 2: Nối các chi tiết nghệ thuật với ý nghĩa của nó trong văn bản.
+trai:: Chiếc đầm hồng thắt nơ kim tuyến.
+phai:: Biểu tượng cho sự đầy đủ, hào nhoáng vật chất.
+trai:: Hành động nhường đồ của Bích.
+phai:: Biểu tượng cho đức hi sinh, sự hiểu chuyện của trẻ con nhà nghèo.
+trai:: Hành động không mặc đầm hồng của bé Em.
+phai:: Biểu tượng cho sự thấu cảm, tinh tế và vẻ đẹp của tình bạn chân thành.
+trai:: Chiếc áo thun mèo bự và áo trắng bâu sen.
+phai:: Sự bình dị, đồng điệu, xóa nhòa khoảng cách hoàn cảnh.
+giải thích:: Các chi tiết đồ vật trong truyện đều mang ý nghĩa biểu tượng sâu sắc về giá trị vật chất và giá trị tinh thần trong cuộc sống.
+---
+
+loại:: mot_dap_an
+câu 1:: Đề 3: Dựa vào nội dung câu chuyện về kí ức tuổi thơ đi ăn trộm táo và cách hành xử đầy bất ngờ của người lớn, em hãy xác định đề tài của truyện "Ăn trộm táo".
+a:: Đề tài tình cảm gia đình.
+b:: Đề tài nhà trường và học tập.
+c:: Đề tài kí ức tuổi thơ và sự bao dung trong giáo dục trẻ em.
+d:: Đề tài khám phá thiên nhiên hoang dã.
+đáp án:: c
+giải thích:: Truyện kể về một kỉ niệm ấu thơ đáng nhớ của nhân vật "tôi" và làm nổi bật lên lòng vị tha, cách giáo dục tinh tế của người lớn (ông Xung).
+---
+loại:: mot_dap_an
+câu 2:: Đề 3: Đọc văn bản "Ăn trộm táo", xác định truyện sử dụng ngôi kể nào và ai là người kể chuyện?
+a:: Ngôi thứ ba, người kể giấu mặt.
+b:: Ngôi thứ nhất, nhân vật "tôi" (bạn của con Xin) là người kể chuyện.
+c:: Ngôi thứ nhất, ông Xung là người kể chuyện.
+d:: Ngôi thứ hai, tác giả xưng "bạn" với người đọc.
+đáp án:: b
+giải thích:: Người kể chuyện xưng "tôi", kể lại kỉ niệm đi chơi ở nhà bạn (con Xin) và thèm khát những quả táo Tàu của ba bạn ấy.
+---
+loại:: dropdown
+câu 3:: Đề 3: Đọc câu văn: "Nhưng kể từ hôm đó, tôi không bao giờ nghĩ đến chuyện lấy trộm táo của ông nữa, chẳng hiểu tại sao!". Sự chấm dứt hành động ăn trộm này thể hiện tâm trạng gì của nhân vật "tôi"? (Điền vào chỗ trống): Nhân vật "tôi" đang mang tâm trạng [[xấu hổ, ân hận và thức tỉnh sâu sắc|tức giận vì bị phát hiện|sợ hãi vì sợ bị đánh đòn]].
+đáp án:: xấu hổ, ân hận và thức tỉnh sâu sắc
+giải thích:: Chính sự bao dung không trách mắng của ông Xung đã làm nhân vật "tôi" cảm thấy xấu hổ tột độ, từ đó ân hận và tự động thức tỉnh, từ bỏ thói xấu.
+---
+loại:: dung_sai
+câu 4:: Đề 3: Trong câu văn: "Tay chân tôi tê liệt có đến một lúc", từ "tay" được dùng với nghĩa gốc (bộ phận phía trên của cơ thể người, từ vai đến các ngón, dùng để cầm nắm). Nhận định này đúng hay sai?
+đáp án:: dung
+giải thích:: Từ "tay" trong "tay chân" dùng để chỉ bộ phận cơ thể con người, đây chính là nghĩa gốc của từ.
+---
+loại:: mot_dap_an
+câu 5:: Đề 3: Hành động ông Xung cố tình để khay "TÁO" xuống vị trí thấp và ghi to chữ "TÁO" bên ngoài đã thể hiện phẩm chất gì nổi bật của nhân vật này?
+a:: Sự lười biếng, không muốn trèo cao.
+b:: Sự bao dung, thấu hiểu tâm lí trẻ thơ và tinh tế trong cách giáo dục.
+c:: Sự đãng trí của người già.
+d:: Sự nghiêm khắc, muốn giăng bẫy bắt quả tang kẻ trộm.
+đáp án:: b
+giải thích:: Ông Xung biết có trẻ con trộm táo và bị ngã, nên ông hạ ngăn kéo xuống để đứa trẻ không bị đau, đồng thời không hề trách mắng. Đó là sự tinh tế và lòng bao dung vĩ đại.
+---
+loại:: dung_sai
+câu 6:: Đề 3: Nhận định sau đúng hay sai: "Bài học lớn nhất rút ra từ câu chuyện là sự bao dung, tình yêu thương và cách giáo dục tế nhị của người lớn có sức mạnh cảm hóa lỗi lầm của trẻ nhỏ sâu sắc và hiệu quả hơn rất nhiều so với những trận đòn roi hay lời mắng mỏ."
+đáp án:: dung
+giải thích:: Kẻ trộm (nhân vật "tôi") đã tự động bỏ thói ăn cắp không phải vì bị đánh đập, mà vì bị "đánh gục" trước lòng tốt và sự độ lượng của ông Xung.
+---
+loại:: mot_dap_an
+câu 7:: Đề 3: Dấu hiệu nào trong câu "Tôi hồi hộp đợi tiết mục tiếp theo" giúp khẳng định truyện được kể bằng ngôi thứ nhất?
+a:: Từ "tôi".
+b:: Từ "hồi hộp".
+c:: Từ "tiết mục".
+d:: Dấu chấm ở cuối câu.
+đáp án:: a
+giải thích:: Đại từ nhân xưng "tôi" là dấu hiệu đặc trưng nhất của ngôi kể thứ nhất.
+---
+loại:: dropdown
+câu 8:: Đề 3: Tác dụng của việc sử dụng ngôi thứ nhất trong truyện "Ăn trộm táo" là giúp cho việc bộc lộ tâm trạng, cảm xúc ân hận, xấu hổ của nhân vật trở nên [[chân thực và sinh động|khách quan và lạnh lùng|mang tính thời sự]].
+đáp án:: chân thực và sinh động
+giải thích:: Việc xưng "tôi" giúp người kể trực tiếp bộc bạch những suy nghĩ thầm kín nhất từ góc nhìn cá nhân, tạo sự đồng cảm lớn cho người đọc.
+---
+loại:: dien_khuyet
+câu 9:: Đề 3: Điền từ: Theo lời kể của nhân vật "tôi", mỗi lần đến nhà con Xin, "tôi" không chỉ xem ông Xung khám bệnh mà thực chất là thèm thuồng chờ đợi ông hốt những quả ... Tàu.
+đáp án:: táo
+giải thích:: Món quà vặt hấp dẫn nhất đối với bọn trẻ con là những quả táo Tàu ngọt lịm.
+---
+loại:: phan_loai
+câu 10:: Đề 3: Phân loại các từ chứa tiếng "tay" sau đây theo Nghĩa gốc và Nghĩa chuyển:
+nhom:: Nghĩa gốc
+nhom:: Nghĩa chuyển
+the:: Tay chân tê liệt
+the:: Rửa tay bằng xà phòng
+the:: Tay áo bị rách
+the:: Tay súng cừ khôi
+the:: Tay nghề cao
+đáp án:: Tay chân tê liệt::1
+đáp án:: Rửa tay bằng xà phòng::1
+đáp án:: Tay áo bị rách::2
+đáp án:: Tay súng cừ khôi::2
+đáp án:: Tay nghề cao::2
+giải thích:: "Tay" chỉ bộ phận cơ thể là nghĩa gốc. "Tay áo" (bộ phận của áo), "tay súng/tay nghề" (chỉ người giỏi kĩ năng) là nghĩa chuyển.
+---
+loại:: dung_sai
+câu 11:: Đề 3: Nhận định: "Từ 'tay' trong cụm từ 'một tay súng xuất sắc' được dùng với nghĩa gốc."
+đáp án:: sai
+giải thích:: Trong cụm từ này, "tay" dùng để chỉ một người (người cầm súng), đây là hoán dụ và là nghĩa chuyển.
+---
+loại:: mot_dap_an
+câu 12:: Đề 3: Khi khám bệnh, hành động "nghiêm nghị bắt mạch với ba ngón tay... vạch mí mắt... bắt thè lưỡi" khiến ông Xung trông giống như ai trong mắt bọn trẻ?
+a:: Một người thầy giáo.
+b:: Một ông vua.
+c:: Một người khổng lồ.
+d:: Một vị thần.
+đáp án:: b
+giải thích:: Trích đoạn nêu: "Những lúc đó trông ông rất oai, như một ông vua, bảo làm gì là khách làm theo răm rắp."
+---
+loại:: dien_khuyet
+câu 13:: Đề 3: Dù quả táo Tàu "khô quắt queo và đen thùi lùi" nhưng nó lại có vị ngọt ... khiến bọn trẻ con đứa nào cũng mê.
+đáp án:: lịm
+giải thích:: Đoạn trích miêu tả: "...cắn vào nghe sừng sực và ngọt lịm".
+---
+loại:: dropdown
+câu 14:: Đề 3: Sự hào phóng và yêu trẻ của ông Xung được thể hiện qua chi tiết: "Trăm lần như một, hễ tôi có mặt lúc ba con Xin hốt thuốc bao giờ tôi cũng có [[phần|tiền|kẹo]]".
+đáp án:: phần
+giải thích:: Ông Xung luôn chia táo cho nhân vật "tôi" mỗi khi cậu bé đứng thập thò nhìn.
+---
+loại:: mot_dap_an
+câu 15:: Đề 3: Lần thứ tư ăn trộm táo, sự cố gì đã xảy ra với nhân vật "tôi"?
+a:: Bị ông Xung bắt quả tang.
+b:: Bị con Xin mắng là đồ trộm cắp.
+c:: Bị ngã lăn kềnh do chồng ghế lộn nhào vì kiễng chân mạnh quá.
+d:: Bị kẹt tay vào ngăn kéo.
+đáp án:: c
+giải thích:: Đoạn trích miêu tả: "Tới lần thứ tư, tôi kiễng chân mạnh quá, chồng ghế lộn nhào hất tôi lăn kềnh dưới nền nhà".
+---
+loại:: dung_sai
+câu 16:: Đề 3: Nhận định: "Ngày hôm sau khi đến lớp, nhân vật 'tôi' rất tự tin và vui vẻ chạy đến nói chuyện với con Xin."
+đáp án:: sai
+giải thích:: Do có tật giật mình, nhân vật "tôi" lấm la lấm lét, sợ bị con Xin chửi là đồ ăn vụng, đồ trộm cắp.
+---
+loại:: sap_xep
+câu 17:: Đề 3: Sắp xếp các diễn biến tâm lí của nhân vật "tôi" theo trình tự thời gian sau lần ăn trộm táo bị ngã:
+muc:: (1) Lấm la lấm lét, lo sợ bị con Xin mắng là đồ trộm cắp.
+muc:: (2) Thở phào nhẹ nhõm vì thấy con Xin vẫn nói cười tỉnh bơ.
+muc:: (3) Phân vân, lưỡng lự khi nhìn lên dãy ngăn kéo trong phòng khám vắng.
+muc:: (4) Hoảng hồn, tay chân tê liệt khi thấy ngăn kéo ghi chữ "TÁO" được để xuống thấp.
+muc:: (5) Xấu hổ bỏ chạy và không bao giờ nghĩ đến chuyện lấy trộm táo nữa.
+giải thích:: Đây là chuỗi tâm lí cực kì logic từ lo sợ -> chủ quan -> bất ngờ -> thức tỉnh của nhân vật.
+---
+loại:: dropdown
+câu 18:: Đề 3: Khi phát hiện ngăn kéo có dán chữ "TÁO" nằm ở dưới thấp, nhân vật "tôi" cảm thấy tim mình như "rơi xuống một chỗ nào đó gần dạ dày". Biện pháp tu từ nói quá này diễn tả cảm giác [[bất ngờ và hoảng sợ tột độ|đói bụng dữ dội|vui sướng tột cùng]].
+đáp án:: bất ngờ và hoảng sợ tột độ
+giải thích:: Cảm giác "tim rớt xuống dạ dày" thường dùng để chỉ trạng thái giật mình, hoảng hốt tột độ khi bị phát hiện một bí mật đáng xấu hổ.
+---
+loại:: dien_khuyet
+câu 19:: Đề 3: Điền từ: Hành động để ngăn táo xuống thấp của ông Xung được nhân vật "tôi" ví như hành động "vẽ đường cho ... chạy".
+đáp án:: hươu
+giải thích:: Thành ngữ "vẽ đường cho hươu chạy" thường mang nghĩa tiêu cực (chỉ đường làm việc xấu), nhưng ở đây lại mang ý nghĩa tích cực, thể hiện sự lo lắng bảo vệ sự an toàn cho đứa trẻ.
+---
+loại:: mot_dap_an
+câu 20:: Đề 3: Mục đích sâu xa của việc ông Xung chuyển ngăn kéo táo xuống thấp là gì?
+a:: Để ông dễ lấy táo hơn, không phải trèo ghế.
+b:: Vì ông sợ nhân vật "tôi" bị ngã đau nếu phải tiếp tục trèo cao để lấy trộm táo.
+c:: Để dụ nhân vật "tôi" ăn trộm rồi bắt quả tang.
+d:: Vì ngăn kéo trên cùng bị hỏng.
+đáp án:: b
+giải thích:: Câu chuyện ghi rõ: "chẳng qua ông sợ tôi té ngã khi phải bắc ghế trèo lên cao".
+---
+loại:: dung_sai
+câu 21:: Đề 3: Nhận định: "Sự im lặng của con Xin và ông Xung trước hành động ăn trộm thực chất là một cách giăng bẫy vô cùng thâm độc."
+đáp án:: sai
+giải thích:: Đó là sự im lặng đầy bao dung, tế nhị để bảo vệ lòng tự trọng của trẻ nhỏ, không làm chúng bị bẽ mặt.
+---
+loại:: noi
+câu 22:: Đề 3: Nối từ "tay" trong các câu sau với nét nghĩa tương ứng của nó (Nghĩa gốc hay Nghĩa chuyển).
+trai:: Tay chân tôi tê liệt có đến một lúc.
+phai:: Nghĩa gốc (bộ phận cơ thể).
+trai:: Bác thợ mộc là một tay nghề giỏi.
+phai:: Nghĩa chuyển (chỉ người có kĩ năng).
+trai:: Tôi nắm chặt tay mẹ khi qua đường.
+phai:: Nghĩa gốc (bộ phận cơ thể).
+trai:: Đội bóng có một tay săn bàn cừ khôi.
+phai:: Nghĩa chuyển (chỉ người chuyên làm một việc).
+giải thích:: Từ đa nghĩa có một nghĩa gốc và các nghĩa chuyển phát sinh từ nghĩa gốc đó.
+---
+loại:: mot_dap_an
+câu 23:: Đề 3: Nghệ thuật miêu tả tâm lí nhân vật trong tác phẩm được thể hiện rõ nhất qua phân đoạn nào?
+a:: Lúc ông Xung bắt mạch.
+b:: Lúc nhân vật "tôi" tả quả táo Tàu.
+c:: Lúc nhân vật "tôi" đứng khựng lại trước ngăn kéo có chữ TÁO và chạy vụt đi.
+d:: Lúc bọn trẻ chơi u, chơi cướp cờ.
+đáp án:: c
+giải thích:: Đoạn văn tả cảm giác nghẹt thở, không khí đông cứng, tim nện thình thịch là đoạn miêu tả tâm lí xuất sắc nhất truyện.
+---
+loại:: dropdown
+câu 24:: Đề 3: Trong khoảnh khắc nhận ra lòng tốt của ông Xung, nhân vật "tôi" cảm thấy "xấu hổ, cứ như thể tôi vừa bị [[bắt quả tang|đánh đòn|tuyên dương]] thò tay vào ngăn kéo".
+đáp án:: bắt quả tang
+giải thích:: Lòng tốt quá lớn khiến cậu bé thấy tội lỗi của mình bị phơi bày rõ ràng, dù không có ai quát mắng.
+---
+loại:: dien_khuyet
+câu 25:: Đề 3: Truyện "Ăn trộm táo" được trích từ tác phẩm nổi tiếng "Tôi thấy hoa ... trên cỏ xanh" của nhà văn Nguyễn Nhật Ánh.
+đáp án:: vàng
+giải thích:: Tên đầy đủ của tác phẩm là "Tôi thấy hoa vàng trên cỏ xanh".
+---
+loại:: phan_loai
+câu 26:: Đề 3: Phân loại thái độ của nhân vật "tôi" đối với hành vi ăn trộm:
+nhom:: Khi chưa bị phát hiện (ngã)
+nhom:: Khi nhìn thấy ngăn táo dán chữ "TÁO"
+the:: Thấy thèm táo quá liền đánh liều bắc ghế.
+the:: Thấy xấu hổ vô cùng và cắm đầu chạy tuốt ra đường.
+the:: Không bao giờ nghĩ đến chuyện lấy trộm táo nữa.
+the:: Ăn vụng ba lần đều trót lọt và rất đắc ý.
+đáp án:: Thấy thèm táo quá liền đánh liều bắc ghế.::1
+đáp án:: Thấy xấu hổ vô cùng và cắm đầu chạy tuốt ra đường.::2
+đáp án:: Không bao giờ nghĩ đến chuyện lấy trộm táo nữa.::2
+đáp án:: Ăn vụng ba lần đều trót lọt và rất đắc ý.::1
+giải thích:: Tâm lí nhân vật chia làm 2 giai đoạn: sự liều lĩnh của trẻ con lúc đầu và sự ân hận sâu sắc ở cuối.
+---
+loại:: dung_sai
+câu 27:: Đề 3: Nhận định: "Ông Xung không hề biết việc nhân vật 'tôi' ăn trộm táo, việc ông hạ ngăn kéo xuống chỉ là sự trùng hợp."
+đáp án:: sai
+giải thích:: Ông Xung chắc chắn biết (vì ghế đổ kềnh, táo vơi đi) và ông cố tình hạ xuống, dán chữ TÁO to tướng để cậu bé dễ thấy, tránh bị ngã lại.
+---
+loại:: mot_dap_an
+câu 28:: Đề 3: Chi tiết "những lúc đó ông Xung không có khách" và "tôi nhìn dáo dác không thấy ai" nói lên đặc điểm gì trong tính cách trẻ con của nhân vật "tôi"?
+a:: Sự ranh mãnh, biết lựa thời cơ để làm chuyện lén lút.
+b:: Sự hèn nhát, không dám nói chuyện với người lạ.
+c:: Sự tò mò về nghề y.
+d:: Sự ngốc nghếch.
+đáp án:: a
+giải thích:: Trẻ con thường canh lúc người lớn đi vắng hoặc không để ý để làm những trò nghịch ngợm, ăn vụng.
+---
+loại:: dropdown
+câu 29:: Đề 3: Kết thúc truyện, thay vì phải hứng chịu những lời nhiếc móc, nhân vật "tôi" lại nhận được sự bảo bọc an toàn từ người lớn. Điều này tạo nên sự [[bất ngờ và cảm động|bất công và tức giận|nhàm chán và dễ đoán]] cho cốt truyện.
+đáp án:: bất ngờ và cảm động
+giải thích:: Phép hành xử "lấy đức báo oán" của ông Xung tạo ra một cú twist tâm lí mạnh mẽ và xúc động.
+---
+loại:: dien_khuyet
+câu 30:: Đề 3: Tác phẩm của Nguyễn Nhật Ánh thường khai thác lăng kính hồn nhiên của ... thơ, với những suy nghĩ ngây ngô và những bài học nhẹ nhàng, sâu lắng.
+đáp án:: tuổi
+giải thích:: "Tuổi thơ" là đề tài xuyên suốt và đặc trưng nhất trong các sáng tác của Nguyễn Nhật Ánh.
+---
+loại:: mot_dap_an
+câu 31:: Đề 3: Nếu ông Xung chọn cách mắng mỏ, đánh đòn nhân vật "tôi", điều gì có khả năng xảy ra cao nhất?
+a:: Nhân vật "tôi" sẽ ngoan ngoãn lập tức.
+b:: Nhân vật "tôi" có thể trở nên chai lì, tổn thương lòng tự trọng và giấu giếm tinh vi hơn ở lần sau.
+c:: Nhân vật "tôi" sẽ cảm ơn ông Xung.
+d:: Ông Xung sẽ cảm thấy rất vui.
+đáp án:: b
+giải thích:: Trẻ con khi bị làm bẽ mặt thường sinh ra tâm lí chống đối, sợ hãi hoặc chai lì. Sự bao dung mới mang lại sự tự giác thức tỉnh.
+---
+loại:: sap_xep
+câu 32:: Đề 3: Sắp xếp các câu văn sau để tạo thành đoạn miêu tả sự hoảng loạn của nhân vật "tôi":
+muc:: (1) Trong một phút, không khí chung quanh tôi như đông cứng lại.
+muc:: (2) Mọi âm thanh xôn xao vọng vào từ ngoài sân đột ngột tắt ngấm trong tai tôi.
+muc:: (3) Tất cả những gì tôi nghe thấy lúc đó là tiếng trái tim tôi đang nện thình thịch trong lồng ngực.
+muc:: (4) Tay chân tôi tê liệt có đến một lúc.
+muc:: (5) Đến khi cử động được, điều duy nhất tôi có thể làm là vùng chạy ra khỏi nhà con Xin.
+giải thích:: Đây là thứ tự chính xác trong văn bản, miêu tả cảm giác từ ngưng đọng không gian đến phản ứng vật lí của cơ thể.
+---
+loại:: dung_sai
+câu 33:: Đề 3: Nhận định: "Trong văn bản, con Xin đóng vai trò là nhân vật trung tâm, quyết định trực tiếp đến sự thức tỉnh của nhân vật 'tôi'."
+đáp án:: sai
+giải thích:: Ông Xung mới là nhân vật tạo ra nút thắt và giải quyết vấn đề bằng hành động dán chữ "TÁO", con Xin chỉ là nhân vật kết nối.
+---
+loại:: dropdown
+câu 34:: Đề 3: Chi tiết ông Xung chia táo cho cậu bé mỗi khi hốt thuốc ("Trăm lần như một") cho thấy ông là một người không chỉ nghiêm túc trong công việc mà còn vô cùng [[yêu thương và hiểu tâm lí trẻ con|nghiêm khắc và bủn xỉn|lãng trí và hay quên]].
+đáp án:: yêu thương và hiểu tâm lí trẻ con
+giải thích:: Sự đều đặn "trăm lần như một" khẳng định bản tính hiền từ, hào phóng và thương trẻ của ông.
+---
+loại:: dien_khuyet
+câu 35:: Đề 3: Thay vì phạt người phạm lỗi, ông Xung đã chọn cách phạt vào ... tâm của nhân vật "tôi" bằng tình yêu thương và sự quan tâm.
+đáp án:: lương
+giải thích:: Đánh thức "lương tâm" (sự tự nhận thức đúng sai) là đỉnh cao của nghệ thuật giáo dục.
+---
+loại:: noi
+câu 36:: Đề 3: Nối các thành phần cấu tạo nên mạch truyện "Ăn trộm táo".
+trai:: Hoàn cảnh xảy ra câu chuyện
+phai:: Những lần chán chơi ngoài sân, vào xem ba của con Xin hốt thuốc Bắc.
+trai:: Nguyên nhân trực tiếp của thói xấu
+phai:: Sự hấp dẫn của những quả táo Tàu ngọt lịm và sự vắng mặt của người lớn.
+trai:: Đỉnh điểm (Cao trào)
+phai:: Cú ngã lộn nhào lần thứ tư và phát hiện ra sự thay đổi của ngăn kéo "TÁO".
+trai:: Cách giải quyết
+phai:: Sự bao dung không lời của ông Xung và sự tự vấn lương tâm của nhân vật "tôi".
+giải thích:: Cấu trúc truyện ngắn được xây dựng chặt chẽ từ hoàn cảnh, nguyên nhân đến cao trào và bài học rút ra.
+---
+
+loại:: mot_dap_an
+câu 1:: Đề 4: Xác định các nhân vật xuất hiện và được nhắc đến trong truyện "Nắng trưa bồi hồi" (Phong Thu).
+a:: Thuỷ, má, ba, chị Hạnh, cô Hoa, bạn Vi.
+b:: Thuỷ, bé Em, Bích, cô giáo.
+c:: Thuỷ, ông Xung, con Xin, má.
+d:: Thuỷ, cái Ngần, bà ngoại, người kể chuyện.
+đáp án:: a
+giải thích:: Truyện xoay quanh gia đình Thuỷ (có ba, má, nhắc đến chị Hạnh), cùng với cô Hoa đến làm khách và người bạn tên Vi.
+---
+loại:: mot_dap_an
+câu 2:: Đề 4: Đọc đoạn trích: "Nhưng hôm nay thì không. Em vội vàng đứng lên. Ngoài kia trời nắng quá...". Truyện "Nắng trưa bồi hồi" sử dụng ngôi kể nào?
+a:: Ngôi thứ nhất.
+b:: Ngôi thứ hai.
+c:: Ngôi thứ ba.
+d:: Đan xen giữa ngôi thứ nhất và ngôi thứ ba.
+đáp án:: c
+giải thích:: Người kể chuyện giấu mặt, gọi các nhân vật bằng tên (Thuỷ, má, ba), do đó đây là ngôi kể thứ ba toàn tri.
+---
+loại:: dung_sai
+câu 3:: Đề 4: Đọc đoạn trích: "Má con vất vả quá. Được hai chị em con, chị Hạnh đã về nhà chồng. Lại vẫn một tay má con chăm lo tất cả." Nhận định sau đúng hay sai: "Hoàn cảnh của gia đình nhân vật Thuỷ là gia đình neo người, chị gái đã đi lấy chồng, ba đi công tác nên mọi gánh nặng việc nhà đều dồn lên vai người má."
+đáp án:: dung
+giải thích:: Lời của ba đã tóm tắt rõ hoàn cảnh vất vả, tần tảo của người má khi phải quán xuyến toàn bộ gia đình.
+---
+loại:: dropdown
+câu 4:: Đề 4: Đọc đoạn cuối: "Thuỷ quay vào nhà. Em định chạy sang nhà Vi chơi một lúc. Em chợt nhìn và thấy vô khối công việc mà má chưa kịp làm... Thuỷ không đi nữa". Hành động này cho thấy Thuỷ đã có sự thay đổi lớn: em trở nên [[hiểu chuyện, tự giác ở nhà san sẻ việc với má|giận dỗi bạn Vi nên không đi nữa|lười biếng, muốn ngủ trưa]].
+đáp án:: hiểu chuyện, tự giác ở nhà san sẻ việc với má
+giải thích:: Việc Thuỷ từ bỏ ý định đi chơi để ở nhà làm việc giúp má chứng tỏ em đã trưởng thành trong suy nghĩ và biết thương má nhiều hơn.
+---
+loại:: mot_dap_an
+câu 5:: Đề 4: Các chi tiết miêu tả: "Chiếc nón đã cũ chỉ che nổi một bên vai", "chiếc áo của chị Hạnh cho", "mồ hôi dấp như dán vào lưng má" có tác dụng gì trong việc khắc họa nhân vật?
+a:: Phê phán sự luộm thuộm của người má.
+b:: Khắc họa sự tần tảo, hi sinh, chắt chiu tiết kiệm và nỗi vất vả nhọc nhằn của người má.
+c:: Miêu tả phong cách ăn mặc ở nông thôn.
+d:: Nhấn mạnh thời tiết mùa hè vô cùng khắc nghiệt.
+đáp án:: b
+giải thích:: Những chi tiết về chiếc nón cũ, chiếc áo xin lại của con gái đã đi lấy chồng khắc họa đậm nét sự hi sinh, tằn tiện cho bản thân để lo cho gia đình của người mẹ.
+---
+loại:: dung_sai
+câu 6:: Đề 4: Qua sự kiện Thuỷ bị má trách mắng vì không biết tiếp khách, nhận định sau đây đúng hay sai: "Bài học rút ra là khi bị cha mẹ trách mắng, thay vì tủi thân hay cãi lại, chúng ta nên bình tĩnh nhìn nhận lại bản thân để thấu hiểu sự giáo dục, rèn giũa và tình yêu thương sâu sắc mà cha mẹ đang dành cho mình."
+đáp án:: dung
+giải thích:: Lời trách mắng của má không phải vì ghét bỏ, mà vì muốn rèn Thuỷ trở thành chỗ dựa vững chắc, biết quán xuyến công việc thay má sau này.
+---
+loại:: dropdown
+câu 7:: Đề 4: Điền từ thích hợp: Tác dụng của ngôi kể thứ ba trong truyện là giúp người kể có cái nhìn [[khách quan, bao quát|chủ quan, thiên vị|hạn hẹp]] để miêu tả trọn vẹn diễn biến hành động của má và những suy nghĩ thầm kín bên trong của Thuỷ.
+đáp án:: khách quan, bao quát
+giải thích:: Ngôi thứ ba toàn tri cho phép người kể thấu suốt mọi không gian và tâm lí của tất cả các nhân vật một cách tự do.
+---
+loại:: dien_khuyet
+câu 8:: Đề 4: Chiều hôm qua, Thuỷ bị má mắng do lỗi lầm gì? Điền từ: Khi khách của má đến nhà chờ, Thuỷ chỉ mời nước rồi bỏ vào phòng ... bài, không tiếp chuyện khách.
+đáp án:: học
+giải thích:: Thuỷ bỏ mặc khách ngồi một mình ngoài phòng khách để vào học bài tiếp, dẫn đến việc má bị khách chê là con gái không biết tiếp khách.
+---
+loại:: mot_dap_an
+câu 9:: Đề 4: Khi bị má hỏi tội vì không tiếp chuyện cô Hoa, Thuỷ đã bao biện bằng lí do gì?
+a:: Vì con đang bận nấu cơm.
+b:: Vì có phải khách của con đâu mà con biết nói chuyện.
+c:: Vì con ghét người khách đó.
+d:: Vì con đau đầu.
+đáp án:: b
+giải thích:: Thuỷ đã ngây ngô trả lời: "Nhưng mà... có phải là khách của con đâu mà con biết nói chuyện ạ!"
+---
+loại:: dung_sai
+câu 10:: Đề 4: Nhận định: "Lời mắng của má: 'Vậy là có con ở nhà cũng như không có ai' thể hiện sự thất vọng vì Thuỷ chưa biết cách ứng xử lịch sự, san sẻ công việc tiếp khách giúp gia đình."
+đáp án:: dung
+giải thích:: Câu nói nhấn mạnh sự vô tâm của Thuỷ khi chưa biết cách làm "người lớn" phụ giúp cha mẹ trong các mối quan hệ xã hội.
+---
+loại:: mot_dap_an
+câu 11:: Đề 4: Phản ứng của Thuỷ ngay sau khi bị má mắng là gì?
+a:: Vui vẻ nhận lỗi và hứa sửa chữa.
+b:: Tấm tức, chảy nước mắt, ngồi "tức" má vì cho rằng má "ghét" mình.
+c:: Chạy sang nhà bạn Vi chơi để trốn tránh.
+d:: Méc ba ngay lập tức.
+đáp án:: b
+giải thích:: Thuỷ chưa hiểu chuyện nên tủi thân khóc, "tức" má, cho rằng má cứ hay kiếm cớ la mình.
+---
+loại:: dropdown
+câu 12:: Đề 4: Ba của Thuỷ đóng vai trò gì trong câu chuyện? Ba chính là người [[hòa giải, giải thích|châm ngòi nổ|bênh vực khách]] để Thuỷ hiểu được tấm lòng và mục đích giáo dục sâu xa của má.
+đáp án:: hòa giải, giải thích
+giải thích:: Lời tâm tình của ba vào buổi tối đã tháo gỡ mọi hờn dỗi, giúp Thuỷ hiểu má hơn.
+---
+loại:: dien_khuyet
+câu 13:: Đề 4: Theo lời ba giải thích, những hôm ba đi vắng, Thuỷ phải là chỗ ..., là trợ lí đắc lực cho má.
+đáp án:: dựa
+giải thích:: Ba nói: "con là chỗ dựa, là trợ lí cho má con rồi đó."
+---
+loại:: dung_sai
+câu 14:: Đề 4: Nhận định: "Ba cho Thuỷ biết rằng ngày xưa, ở độ tuổi của Thuỷ, má cũng từng bị bà ngoại mắng đúng như vậy để rèn giũa má trở thành người phụ nữ đảm đang của hôm nay."
+đáp án:: dung
+giải thích:: Việc ba nhắc lại chuyện bà ngoại dạy má chứng tỏ sự khắt khe của mẹ luôn mang giá trị trao truyền, chuẩn bị hành trang trưởng thành cho con gái.
+---
+loại:: sap_xep
+câu 15:: Đề 4: Sắp xếp các cách ứng xử đúng đắn khi có khách của bố mẹ đến nhà (theo lời dạy của má Thuỷ):
+muc:: (1) Chào hỏi và mời khách uống nước.
+muc:: (2) Cùng ngồi tiếp chuyện, không để khách ngồi trơ ra một mình.
+muc:: (3) Hỏi xem khách có việc gì nhắn lại không.
+muc:: (4) Trả lời lịch sự những câu khách hỏi.
+giải thích:: Đây là những kỹ năng giao tiếp cơ bản mà má muốn Thuỷ nắm được.
+---
+loại:: noi
+câu 16:: Đề 4: Nối các chi tiết với ý nghĩa tương ứng để thấy sự vất vả của má:
+trai:: Khoảng trời vút xanh thẳm, nắng đổ chang chang.
+phai:: Môi trường thời tiết khắc nghiệt, vắt kiệt sức lực.
+trai:: Con đường trải nhựa kẻ thẳng băng, không bóng cây.
+phai:: Quãng đường nhọc nhằn má phải đạp xe mỗi ngày.
+trai:: Mâm cơm không còn nhiều bát đĩa to.
+phai:: Gia cảnh đang gặp khó khăn, tằn tiện.
+trai:: Áo của chị Hạnh cho dấp mồ hôi dán vào lưng.
+phai:: Sự hi sinh, chắt bóp nhường nhịn cho chồng con.
+giải thích:: Cảnh vật và đồ vật đều làm nền để tôn lên sự tần tảo của người phụ nữ trong gia đình.
+---
+loại:: mot_dap_an
+câu 17:: Đề 4: Hình ảnh "nắng trưa" xuất hiện lặp đi lặp lại trong truyện mang ý nghĩa nghệ thuật gì?
+a:: Chỉ là thời gian ngẫu nhiên.
+b:: Là hình ảnh ẩn dụ cho sự khắc nghiệt của cuộc mưu sinh, làm nền tôn lên vẻ đẹp hi sinh của người mẹ.
+c:: Thể hiện sự oi bức làm Thuỷ không thể tập trung học bài.
+d:: Cảnh báo về hiện tượng nóng lên toàn cầu.
+đáp án:: b
+giải thích:: Nắng trưa gay gắt làm nổi bật bóng dáng bé nhỏ, lam lũ của má trên chiếc xe đạp.
+---
+loại:: dropdown
+câu 18:: Đề 4: Khi nghe má bảo "Thôi để má. Con vào học đi, không có nắng", Thuỷ thấy "nghèn nghẹn ở cổ" vì nhận ra sự [[bao la của tình mẫu tử|khó tính của má|bất công trong gia đình]]. Má chịu nắng vất vả nhưng vẫn xót con, không muốn con bị nắng.
+đáp án:: bao la của tình mẫu tử
+giải thích:: Sự mâu thuẫn giữa việc má vừa trách mắng hôm qua nhưng hôm nay lại bao bọc, giành lấy cái nắng về phần mình khiến Thuỷ xúc động nghẹn ngào.
+---
+loại:: dien_khuyet
+câu 19:: Đề 4: Câu chốt "Nắng trưa sao bồi ..." miêu tả cảm xúc xao xuyến, rung động sâu sắc trong tâm hồn Thuỷ khi thấu hiểu được tình cảm gia đình.
+đáp án:: hồi
+giải thích:: "Bồi hồi" là cảm giác xúc động sâu xa.
+---
+loại:: mot_dap_an
+câu 20:: Đề 4: Câu nhận xét của người quen: "Trông hai má con cứ như hai chị em" đã đánh thức suy nghĩ gì trong Thuỷ?
+a:: Thuỷ thấy mình già đi trước tuổi.
+b:: Thuỷ nhận ra mình đã lớn phổng phao, không còn là cô bé con nữa, và cũng nhận ra má đã hao mòn, gầy yếu đi nhiều.
+c:: Thuỷ thấy má trang điểm rất trẻ.
+d:: Thuỷ nghĩ mọi người đang trêu chọc mình.
+đáp án:: b
+giải thích:: Câu nói khiến Thuỷ giật mình đối chiếu: mình lớn phổng phao còn má thì gầy đi vì sương gió cấy cày mưu sinh.
+---
+loại:: dung_sai
+câu 21:: Đề 4: Nhận định: "Việc Thuỷ định đi sang nhà Vi chơi nhưng chợt nhìn thấy vô khối việc nhà liền quay lại là kết quả tuyệt vời nhất của bài học giáo dục từ má và ba."
+đáp án:: dung
+giải thích:: Hành động này minh chứng cho sự trưởng thành thực sự, Thuỷ đã biết tự giác làm việc nhà giúp má thay vì mải chơi.
+---
+loại:: phan_loai
+câu 22:: Đề 4: Phân loại thái độ của Thuỷ trong câu chuyện:
+nhom:: Lúc trước (Khi chưa hiểu chuyện)
+nhom:: Về sau (Khi đã thức tỉnh)
+the:: Nghĩ rằng má "ghét" mình nên hay mắng.
+the:: Khóc tấm tức vì cho rằng tiếp khách không phải việc của mình.
+the:: Nhận ra sự chịu đựng vô cùng của người mẹ vì cuộc sống.
+the:: Nhìn thấy vô khối công việc chưa làm và quyết định ở nhà giúp má.
+đáp án:: Nghĩ rằng má "ghét" mình nên hay mắng.::1
+đáp án:: Khóc tấm tức vì cho rằng tiếp khách không phải việc của mình.::1
+đáp án:: Nhận ra sự chịu đựng vô cùng của người mẹ vì cuộc sống.::2
+đáp án:: Nhìn thấy vô khối công việc chưa làm và quyết định ở nhà giúp má.::2
+giải thích:: Sự chuyển biến tâm lí của Thuỷ đi từ ích kỉ, trẻ con sang thấu hiểu và san sẻ gánh nặng với mẹ.
+---
+loại:: dropdown
+câu 23:: Đề 4: Nghệ thuật miêu tả tâm lý của nhà văn Phong Thu rất tinh tế, thể hiện qua việc sử dụng tình huống [[xung đột kịch liệt|sinh hoạt đời thường giản dị|phiêu lưu kì ảo]] để làm nổi bật sự trưởng thành của nhân vật.
+đáp án:: sinh hoạt đời thường giản dị
+giải thích:: Chỉ từ một chuyện nhỏ (khách đến nhà, má đội nắng đi làm) tác giả đã khơi gợi được bài học lớn về gia đình.
+---
+loại:: dien_khuyet
+câu 24:: Đề 4: Điền từ: Tác giả của truyện ngắn "Nắng trưa bồi hồi" là nhà văn Phong ...
+đáp án:: Thu
+giải thích:: Tên tác giả là Phong Thu.
+---
+loại:: mot_dap_an
+câu 25:: Đề 4: Ý nghĩa sâu sắc nhất của việc ba nói với Thuỷ: "Con đã là cô Thuỷ chứ không còn là cái bé Thuỷ nữa đâu!" là gì?
+a:: Khen Thuỷ đã cao lớn hơn.
+b:: Xác nhận danh phận người lớn để buộc Thuỷ phải có trách nhiệm san sẻ gánh nặng gia đình với má.
+c:: Mỉa mai vì Thuỷ không biết tiếp khách.
+d:: Chuẩn bị tổ chức sinh nhật cho Thuỷ.
+đáp án:: b
+giải thích:: Ba nâng cao vị thế của Thuỷ để em nhận thức được vai trò, trách nhiệm của một "chỗ dựa" trong gia đình.
+---
+loại:: dung_sai
+câu 26:: Đề 4: Nhận định: "Tình huống truyện tuy giản dị nhưng đã làm nổi bật được hai luồng cảm xúc: tình yêu thương nghiêm khắc của mẹ và sự thấu hiểu, ân hận của con gái."
+đáp án:: dung
+giải thích:: Hai yếu tố này quyện chặt vào nhau tạo nên một bài học gia đình sâu sắc.
+---
+loại:: sap_xep
+câu 27:: Đề 4: Sắp xếp diễn biến nhận thức của Thuỷ trong câu chuyện:
+muc:: (1) Ấm ức, khóc lóc vì bị má mắng oan chuyện không tiếp khách.
+muc:: (2) Nghe ba giải thích về sự vất vả và mong mỏi của má.
+muc:: (3) Giật mình thấu hiểu khi thấy má đội nắng vất vả đi làm.
+muc:: (4) Quyết định trưởng thành bằng việc từ bỏ đi chơi để ở nhà làm việc giúp má.
+giải thích:: Đây là chuỗi tâm lý chuyển hóa từ giận dỗi sang thấu cảm và cuối cùng là hành động cụ thể.
+---
+loại:: noi
+câu 28:: Đề 4: Nối tên các nhân vật với vai trò của họ trong gia đình:
+trai:: Má Thuỷ
+phai:: Người tần tảo quán xuyến mọi việc nhà và nghiêm khắc dạy dỗ con cái.
+trai:: Ba Thuỷ
+phai:: Chỗ dựa tinh thần vững chắc, người tâm lí tháo gỡ hiểu lầm cho con.
+trai:: Thuỷ
+phai:: Cô con gái đang tuổi lớn, dần học được cách san sẻ trách nhiệm gia đình.
+trai:: Chị Hạnh
+phai:: Người con lớn đã lập gia đình, không còn ở cùng để phụ giúp má.
+giải thích:: Mỗi thành viên tạo nên một bức tranh hoàn chỉnh về một gia đình Việt Nam truyền thống, đùm bọc lẫn nhau.
+---
+loại:: mot_dap_an
+câu 29:: Đề 4: "Có đứa con nào lại không hiểu được sự chịu đựng đến vô cùng của người mẹ như thế vì cuộc sống, vì gia đình và vì những đứa con?". Câu văn này sử dụng biện pháp tu từ gì?
+a:: Ẩn dụ.
+b:: So sánh.
+c:: Câu hỏi tu từ.
+d:: Nhân hóa.
+đáp án:: c
+giải thích:: Câu hỏi không yêu cầu trả lời mà để khẳng định một chân lý tình cảm sâu sắc: những đứa con sớm muộn đều sẽ thấu hiểu lòng mẹ.
+---
+loại:: dropdown
+câu 30:: Đề 4: Chi tiết má mặc áo của chị Hạnh cho và đội nón cũ rách cho thấy vẻ đẹp của phụ nữ Việt Nam: luôn [[tằn tiện, hi sinh bản thân vì chồng con|sống hoang phí, xa hoa|chạy theo mốt thời trang mới]].
+đáp án:: tằn tiện, hi sinh bản thân vì chồng con
+giải thích:: Sự chắt chiu, hi sinh cái đẹp riêng để lo cho tổ ấm là đức tính truyền thống quý báu.
+---
+loại:: dien_khuyet
+câu 31:: Đề 4: Điền từ: Lời nói thầm thì, âu yếm của ba: "Không phải chuyện trẻ con đâu, con ... của ba ạ" đã xóa tan mọi khoảng cách, giúp Thuỷ dễ dàng tiếp thu lời dạy dỗ.
+đáp án:: gái
+giải thích:: Ba gọi Thuỷ là "con gái của ba ạ" với ánh mắt dịu dàng.
+---
+loại:: dung_sai
+câu 32:: Đề 4: Nhận định: "Thông qua hình ảnh người má mắng con vì không biết tiếp khách, tác giả gián tiếp ca ngợi văn hóa hiếu khách truyền thống của người Việt."
+đáp án:: dung
+giải thích:: Sự khắt khe của má phản ánh nề nếp gia giáo, coi trọng việc đối nhân xử thế và đón tiếp khách tới nhà.
+---
+loại:: mot_dap_an
+câu 33:: Đề 4: Câu chuyện đã giúp người đọc nhận ra một sự thật rằng: Những lời trách mắng của cha mẹ đôi khi lại là hình thức biểu hiện của...?
+a:: Sự ghét bỏ.
+b:: Tình yêu thương sâu sắc, sự lo lắng muốn trang bị kỹ năng sống vững chắc cho con vào đời.
+c:: Áp lực công việc bên ngoài đem về trút lên đầu con.
+d:: Sự bảo thủ của thế hệ trước.
+đáp án:: b
+giải thích:: Tình yêu của cha mẹ không chỉ là chiều chuộng mà còn là sự nghiêm khắc uốn nắn.
+---
+loại:: dropdown
+câu 34:: Đề 4: Từ một cô bé chỉ biết cắm cúi học bài mà bỏ mặc khách và việc nhà, Thuỷ đã dần trở thành một [[chỗ dựa, trợ lí đắc lực|cô bé ương bướng, cãi láo|đứa trẻ bị trầm cảm]] của má mình.
+đáp án:: chỗ dựa, trợ lí đắc lực
+giải thích:: Đây là mong mỏi lớn nhất của ba và má dành cho sự trưởng thành của Thuỷ.
+---
+loại:: dien_khuyet
+câu 35:: Đề 4: Điền từ: Khi thấy má đội nắng đi làm, Thuỷ cảm thấy hối hận vì chiều hôm qua đã cho rằng má "..." em nên cứ hơi một tí là mắng em.
+đáp án:: ghét
+giải thích:: Thuỷ đã từng nghĩ sai về tình cảm của má.
+---
+loại:: dung_sai
+câu 36:: Đề 4: Nhận định: "Sự thay đổi nhận thức của Thuỷ diễn ra đột ngột mà không có bất kỳ nguyên nhân hay tác động nào."
+đáp án:: sai
+giải thích:: Sự thay đổi của Thuỷ là một quá trình: từ ấm ức -> nghe ba phân tích thấu tình đạt lý -> tận mắt chứng kiến má đội nắng đi làm -> thức tỉnh. Nó rất logic và chặt chẽ.
+---
+
+loại:: mot_dap_an
+câu 1:: Đề 5: Xác định đề tài chính của truyện ngắn "Vé xem xiếc" (Tống Phú Sa).
+a:: Đề tài tình yêu đôi lứa.
+b:: Đề tài tình mẫu tử, hoàn cảnh nghèo khó và sự hiếu thảo, thấu hiểu của trẻ thơ.
+c:: Đề tài bảo vệ trẻ em khỏi tệ nạn xã hội.
+d:: Đề tài tình bạn tuổi học trò dưới mái trường.
+đáp án:: b
+giải thích:: Toàn bộ câu chuyện xoay quanh tình yêu thương, nỗi đau xót của người mẹ nghèo và sự trưởng thành, hiếu thảo sớm của cậu con trai 6 tuổi.
+---
+loại:: sap_xep
+câu 2:: Đề 5: Sắp xếp các sự kiện sau để tạo thành phần tóm tắt nội dung chính của truyện "Vé xem xiếc":
+muc:: (1) Bé Bi được cô giáo thưởng cho một chiếc vé xem xiếc nhân ngày tốt nghiệp mầm non.
+muc:: (2) Hai mẹ con háo hức đến rạp xiếc, bé Bi rất vui mừng và mong đợi.
+muc:: (3) Người soát vé không cho Bi vào vì trẻ em phải có người lớn mua vé đi kèm.
+muc:: (4) Người mẹ đếm lại những đồng tiền ít ỏi, nhận ra nếu mua vé thì ngày mai hai mẹ con sẽ không có gì để sống.
+muc:: (5) Người mẹ đau đớn xin lỗi con và quyết định đưa con về.
+muc:: (6) Bé Bi thoáng buồn nhưng ngay lập tức nói dối chê đoàn xiếc dở tệ để an ủi mẹ.
+giải thích:: Đây là trình tự logic của cốt truyện, từ hoàn cảnh háo hức ban đầu đến nút thắt ở cổng rạp và cách giải quyết đầy nước mắt ở cuối truyện.
+---
+loại:: dropdown
+câu 3:: Đề 5: Cuối truyện, hai mẹ con không xem được xiếc. Dù rất muốn xem nhưng Bi vẫn theo mẹ về và nói lớn: "đoàn xiếc này cũng còn non nghề, ai mà thèm xem, nhỉ, mẹ nhỉ!". Em hiểu ý nghĩa câu nói của Bi ở cuối truyện như thế nào? Câu nói đó là một lời nói dối nhằm mục đích [[che giấu sự thất vọng và an ủi, làm nhẹ lòng mẹ|chê bai đoàn xiếc thật sự|tỏ thái độ giận dỗi với người soát vé]].
+đáp án:: che giấu sự thất vọng và an ủi, làm nhẹ lòng mẹ
+giải thích:: Dù chỉ mới 6 tuổi, Bi đã rất nhạy cảm, hiểu nỗi khổ của mẹ nên cố gắng dùng lời chê bai đoàn xiếc để mẹ không cảm thấy day dứt, có lỗi vì không mua được vé cho con.
+---
+loại:: mot_dap_an
+câu 4:: Đề 5: Hoàn cảnh sống của hai mẹ con nhân vật chính trong truyện như thế nào?
+a:: Khá giả, sung túc nhưng người mẹ quá tằn tiện.
+b:: Rất neo đơn, nghèo khó, eo hẹp vì mẹ là mẹ đơn thân phải bán bánh mì rong kiếm sống.
+c:: Bình thường như bao gia đình khác ở nông thôn.
+d:: Rất giàu có nhưng người mẹ đóng giả người nghèo để dạy con bài học cuộc sống.
+đáp án:: b
+giải thích:: Đoạn trích đầu truyện nêu rõ: "Chị là người mẹ đơn thân... bán bánh mì rong để kiếm sống nên cuộc sống của hai mẹ con rất eo hẹp".
+---
+loại:: dung_sai
+câu 5:: Đề 5: Khi bước vào khu vực sân vận động, hành động nhảy chân sáo, giơ cao vé và líu lo khoe vé của thằng bé cho thấy em có một tâm hồn vô cùng ngây thơ, hồn nhiên, háo hức và trân trọng món quà nhỏ bé này. Nhận định này đúng hay sai?
+đáp án:: dung
+giải thích:: Những cử chỉ đó là phản ứng rất tự nhiên và đáng yêu của một đứa trẻ nhà nghèo lần đầu được đi xem xiếc.
+---
+loại:: mot_dap_an
+câu 6:: Đề 5: Đặt mình vào vị trí người mẹ trong câu chuyện, việc quyết định không mua vé và đưa con về dẫu biết con rất buồn thể hiện điều gì?
+a:: Thể hiện sự keo kiệt, ích kỉ của người mẹ.
+b:: Thể hiện sự bất lực, đau đớn và lựa chọn thực tế cay đắng vì phải lo lắng cho sự sinh tồn, cái ăn của hai mẹ con vào "ngày mai, ngày kia".
+c:: Thể hiện người mẹ không thích xem xiếc.
+d:: Thể hiện người mẹ muốn trừng phạt đứa con.
+đáp án:: b
+giải thích:: Quyết định đi về không phải vì mẹ không thương con, mà vì mẹ bị dồn vào bước đường cùng của sự nghèo khó, phải ưu tiên cái ăn để duy trì sự sống.
+---
+loại:: dien_khuyet
+câu 7:: Đề 5: Điền từ: Thường ngày, người mẹ chỉ đưa con đến gần cổng trường rồi đi bán, chiều cũng chỉ đứng ngoài đón đợi vì sợ các bạn sẽ cười bộ dạng lếch ... của mình làm con buồn.
+đáp án:: thếch
+giải thích:: Sự tinh tế của người mẹ nghèo là không muốn vẻ ngoài lam lũ của mình ("lếch thếch") làm ảnh hưởng đến lòng tự trọng của con trai.
+---
+loại:: dung_sai
+câu 8:: Đề 5: Nhận định: "Hôm đó là ngày con tốt nghiệp lớp mầm non nên người mẹ đã phá lệ vào tận lớp đón con, điều này khiến cậu bé vô cùng xấu hổ với bạn bè."
+đáp án:: sai
+giải thích:: Văn bản ghi rõ: "Con chị rất vui vì được mẹ đón, còn vui hơn vì cậu được cô giáo thưởng quà...". Cậu bé không hề xấu hổ mà rất tự hào, vui vẻ.
+---
+loại:: dropdown
+câu 9:: Đề 5: Khi đi vào sân vận động, thằng bé dặn mẹ: "Vào cổng rồi mẹ nhớ nắm chặt tay con, mẹ nhé! Con sợ mẹ con mình lạc nhau". Lời dặn dò này chứng tỏ bé Bi là một cậu bé rất [[hư hỏng|tình cảm và ngoan ngoãn|nhút nhát, sợ đám đông]].
+đáp án:: tình cảm và ngoan ngoãn
+giải thích:: Sự lo lắng cho mẹ và ghi nhớ lời cô giáo ("cô giáo bảo lạc mẹ là tội nhất") cho thấy tâm hồn ngoan ngoãn, ngây thơ của em.
+---
+loại:: mot_dap_an
+câu 10:: Đề 5: Khi đi qua những hàng bán đồ chơi, bóng bay và bỏng ngô chiên mỡ, thằng bé đã có hành động gì?
+a:: Khóc lóc đòi mẹ mua bằng được.
+b:: Nằm vạ ra đất không chịu đi tiếp.
+c:: Kín đáo nhìn, lè lưỡi liếm môi thèm thuồng nhưng không đòi hỏi.
+d:: Tức giận vì mẹ không cho tiền mua.
+đáp án:: c
+giải thích:: Bé Bi rất thèm ("liếm môi") nhưng lại "kín đáo nhìn", hiểu hoàn cảnh nhà nghèo nên em cam chịu, không vòi vĩnh mẹ.
+---
+loại:: dung_sai
+câu 11:: Đề 5: Nhận định: "Trước sự thèm thuồng của con trai trước hàng bỏng ngô, người mẹ đã vờ như không biết và để mặc dòng nước mắt lặng lẽ rơi vì xót xa cho con."
+đáp án:: dung
+giải thích:: Sự "vờ như không biết" là cách người mẹ giấu đi sự bất lực và nỗi đau đớn khi không thể mua cho con một món ăn vặt rẻ tiền.
+---
+loại:: phan_loai
+câu 12:: Đề 5: Phân loại các chi tiết thể hiện sự ngây thơ háo hức và sự trưởng thành hiểu chuyện của bé Bi:
+nhom:: Sự ngây thơ, háo hức
+nhom:: Sự trưởng thành, hiểu chuyện
+the:: Nhảy chân sáo, tay giơ cao tấm vé miệng líu lo.
+the:: Nói lớn giọng dối lòng: "đoàn xiếc này cũng còn non nghề".
+the:: Cẩn thận đặt tấm vé thẳng thớm vào tay mẹ để mẹ soát vé.
+the:: Lè lưỡi liếm môi thèm thuồng khi đi qua hàng bỏng ngô.
+the:: Khuôn mặt thoáng chốc buồn thiu rồi lập tức trở lại bình thường.
+đáp án:: Nhảy chân sáo, tay giơ cao tấm vé miệng líu lo.::1
+đáp án:: Nói lớn giọng dối lòng: "đoàn xiếc này cũng còn non nghề".::2
+đáp án:: Cẩn thận đặt tấm vé thẳng thớm vào tay mẹ để mẹ soát vé.::1
+đáp án:: Lè lưỡi liếm môi thèm thuồng khi đi qua hàng bỏng ngô.::1
+đáp án:: Khuôn mặt thoáng chốc buồn thiu rồi lập tức trở lại bình thường.::2
+giải thích:: Tâm lí của Bi được khắc họa đan xen giữa một đứa trẻ 6 tuổi bình thường và một đứa trẻ nhà nghèo sớm phải thấu hiểu nỗi khổ của người lớn.
+---
+loại:: mot_dap_an
+câu 13:: Đề 5: Tại cửa soát vé, anh chàng soát vé đã gọi người mẹ bằng danh xưng mỉa mai nào?
+a:: Chị bán bánh mì.
+b:: Kẻ ăn mày.
+c:: Bà khốt.
+d:: Quý bà.
+đáp án:: c
+giải thích:: Anh soát vé cười cợt gọi chị là "Bà khốt ơi", một từ lóng mang tính chê bai, thiếu tôn trọng đối với người phụ nữ lam lũ.
+---
+loại:: dropdown
+câu 14:: Đề 5: Nguyên nhân trực tiếp khiến hai mẹ con không được vào rạp là gì? Người soát vé yêu cầu trẻ con phải có [[người lớn mua vé đi kèm|giấy khai sinh|thẻ học sinh]] mới được vào.
+đáp án:: người lớn mua vé đi kèm
+giải thích:: Rạp xiếc quy định trẻ em không được vào một mình, buộc người mẹ phải mua thêm một vé người lớn.
+---
+loại:: dien_khuyet
+câu 15:: Đề 5: Khi bị người soát vé đẩy ra và mỉa mai, người mẹ cảm thấy sống lưng lạnh toát, mồ hôi ướt ... áo vì lo sợ làm tổn thương đứa con bé bỏng.
+đáp án:: đẫm
+giải thích:: "Mồ hôi ướt đẫm áo" là phản ứng vật lí của sự hoang mang, sợ hãi tột độ khi đối mặt với sự phũ phàng của hiện thực.
+---
+loại:: mot_dap_an
+câu 16:: Đề 5: Chi tiết người mẹ "lần dây rút, kín đáo đếm lại số tiền trong đạy" miêu tả điều gì?
+a:: Sự giàu có, nhiều tiền bạc của người mẹ.
+b:: Thói quen tiết kiệm tiền của người nghèo.
+c:: Sự bần cùng, túng thiếu và phải đong đếm từng cắc lẻ của một người bán hàng rong.
+d:: Sự hào phóng chuẩn bị mua nhiều đồ chơi cho con.
+đáp án:: c
+giải thích:: Hành động "lần dây rút", "kín đáo đếm" những đồng tiền lẻ bán bánh mì lột tả chân thực sự khốn khó của hai mẹ con.
+---
+loại:: dung_sai
+câu 17:: Đề 5: Nhận định: "Người mẹ không có đủ tiền để mua một chiếc vé vào xem xiếc cho mình nên buộc phải đưa con về."
+đáp án:: sai
+giải thích:: Người mẹ đếm tiền và thấy "đủ để mua một tấm vé", nhưng vì nỗi lo cơm áo cho "ngày mai, ngày kia" nên chị cắn răng không mua.
+---
+loại:: noi
+câu 18:: Đề 5: Nối các chi tiết với ý nghĩa tâm lí tương ứng của người mẹ tại cổng rạp xiếc:
+trai:: Vờ như không biết con đang liếm môi thèm bỏng ngô.
+phai:: Nỗi đau xót, bất lực khi không thể lo cho con một món quà vặt.
+trai:: Nghe sống lưng lạnh toát, mồ hôi ướt đẫm.
+phai:: Cảm giác bàng hoàng, tủi nhục khi bị xua đuổi.
+trai:: Nghĩ về ngày mai, ngày kia xoay xở thế nào.
+phai:: Áp lực nặng nề của miếng cơm manh áo bủa vây.
+trai:: Ghì lấy con, khóc và xin con thứ lỗi.
+phai:: Sự dằn vặt, day dứt tột cùng vì đã tước đi niềm vui nhỏ bé của con.
+giải thích:: Mỗi biểu hiện của người mẹ đều bắt nguồn từ tình yêu thương con vô bờ bến nhưng lại bị hiện thực nghèo khó trói buộc.
+---
+loại:: dropdown
+câu 19:: Đề 5: Khi mẹ nghẹn giọng bảo "mình về thôi con", phản ứng đầu tiên của thằng bé là đôi vai buông thõng và khuôn mặt [[tức giận, gào thét|buồn thiu thắt|lạnh lùng vô cảm]].
+đáp án:: buồn thiu thắt
+giải thích:: Cảm xúc hụt hẫng "buồn thiu thắt" là phản ứng thực của một đứa trẻ bị tuột mất giấc mơ lớn nhất.
+---
+loại:: dien_khuyet
+câu 20:: Đề 5: Chỉ trong một thoáng chốc, bé Bi đã day mặt đi để mẹ không thấy và thay đổi giọng nói dù giọng đã méo ... vì nén khóc.
+đáp án:: xệch
+giải thích:: Giọng nói "méo xệch" chứng tỏ em đang cố gắng kìm nén những giọt nước mắt nghẹn ngào trong cổ họng để an ủi mẹ.
+---
+loại:: mot_dap_an
+câu 21:: Đề 5: Tác giả muốn gửi gắm thông điệp gì qua hình ảnh "khuôn mặt thằng bé đã ở trạng thái bình thường" một cách nhanh chóng?
+a:: Trẻ con có trí nhớ ngắn, mau quên.
+b:: Sự thích nghi và sự trưởng thành quá sớm trong tâm hồn của một đứa trẻ sinh ra trong cảnh nghèo khó.
+c:: Thằng bé thực ra không thích xem xiếc.
+d:: Thằng bé bị bệnh tự kỷ.
+đáp án:: b
+giải thích:: Cậu bé phải ép mình giấu đi nỗi đau đớn để che chở cho cảm xúc của người mẹ. Đó là sự trưởng thành đầy chua xót.
+---
+loại:: dung_sai
+câu 22:: Đề 5: Nhận định: "Truyện 'Vé xem xiếc' mang âm hưởng của một câu chuyện cổ tích với kết thúc có hậu, khi người quản lí rạp xiếc xuất hiện và cho hai mẹ con vào xem miễn phí."
+đáp án:: sai
+giải thích:: Câu chuyện mang màu sắc hiện thực khắc nghiệt, không có phép màu nào xảy ra, hai mẹ con lủi thủi đi về trong bóng tối.
+---
+loại:: sap_xep
+câu 23:: Đề 5: Sắp xếp các câu văn sau theo đúng trình tự diễn biến đoạn kết của câu chuyện:
+muc:: (1) Cổ họng chị tắc nghẽn khi nhìn đôi vai buông thõng của thằng bé.
+muc:: (2) Không kìm được, chị ghì lấy nó, đôi dòng nước mắt lặng lẽ rơi: "Mẹ xin lỗi con...".
+muc:: (3) Nó chạy trước chị một quãng, nói lớn... rằng đoàn xiếc này cũng còn non nghề.
+muc:: (4) Hai mẹ con đi về phía con đường có những ánh đèn.
+muc:: (5) Sau lưng hai mẹ con tiếng loa phóng thanh ra rả về buổi xiếc thú chìm dần trong bóng tối.
+giải thích:: Đây là đoạn kết đầy ám ảnh, đẩy cảm xúc người đọc lên cao trào của sự xót xa.
+---
+loại:: dropdown
+câu 24:: Đề 5: Hình ảnh "tiếng loa phóng thanh ra rả về buổi xiếc thú chìm dần trong bóng tối" ở cuối truyện sử dụng biện pháp nghệ thuật [[tương phản|so sánh|nhân hóa]] giữa sự ồn ào, náo nhiệt của rạp xiếc với sự cô đơn, lặng lẽ của hai mẹ con.
+đáp án:: tương phản
+giải thích:: Nghệ thuật tương phản khắc sâu thêm nỗi buồn tủi thân của những mảnh đời nghèo khổ bên lề cuộc sống nhộn nhịp.
+---
+loại:: dien_khuyet
+câu 25:: Đề 5: Truyện ngắn sử dụng ngôi kể thứ ..., người kể chuyện giấu mặt để tường thuật lại câu chuyện một cách khách quan nhất.
+đáp án:: ba
+giải thích:: Toàn bộ truyện gọi nhân vật là "người đàn bà", "chị", "thằng bé", chứng tỏ đây là ngôi kể thứ ba.
+---
+loại:: mot_dap_an
+câu 26:: Đề 5: Truyện "Vé xem xiếc" có điểm tương đồng lớn nhất về chủ đề tình mẫu tử xót xa với tác phẩm nào sau đây?
+a:: Cô bé bán diêm.
+b:: Trong lòng mẹ (Nguyên Hồng).
+c:: Bức tranh của em gái tôi.
+d:: Sự tích Hồ Gươm.
+đáp án:: b
+giải thích:: "Trong lòng mẹ" cũng khắc họa tình yêu thương mãnh liệt và nỗi đau khổ của em bé Hồng dành cho người mẹ đáng thương của mình.
+---
+loại:: phan_loai
+câu 27:: Đề 5: Phân loại ý nghĩa của các hình ảnh trong tác phẩm:
+nhom:: Biểu tượng của thế giới ước mơ, rực rỡ
+nhom:: Biểu tượng của hiện thực nghèo khó, phũ phàng
+the:: Tấm vé xem xiếc của lớp mầm non.
+the:: Bóng bay tròn căng và hàng bỏng ngô.
+the:: Những đồng tiền lẻ trong dây rút đạy.
+the:: Câu mỉa mai "Bà khốt ơi" của người soát vé.
+đáp án:: Tấm vé xem xiếc của lớp mầm non.::1
+đáp án:: Bóng bay tròn căng và hàng bỏng ngô.::1
+đáp án:: Những đồng tiền lẻ trong dây rút đạy.::2
+đáp án:: Câu mỉa mai "Bà khốt ơi" của người soát vé.::2
+giải thích:: Sự đối lập giữa thế giới rực rỡ của rạp xiếc và sự khốn khó của hai mẹ con tạo nên chiều sâu cho tác phẩm.
+---
+loại:: dung_sai
+câu 28:: Đề 5: Nhận định: "Lời xin lỗi của người mẹ ở cuối truyện: 'Mẹ xin lỗi con, thứ lỗi cho mẹ, con nhé!' cho thấy chị là một người mẹ vô trách nhiệm."
+đáp án:: sai
+giải thích:: Lời xin lỗi bộc lộ nỗi xót xa tột cùng, sự bất lực của một người mẹ vô cùng yêu thương con nhưng không thể mang lại cho con niềm vui trọn vẹn vì cái nghèo bủa vây.
+---
+loại:: mot_dap_an
+câu 29:: Đề 5: Thái độ của tác giả Tống Phú Sa đối với hai mẹ con trong truyện là gì?
+a:: Thờ ơ, lạnh nhạt.
+b:: Phê phán sự nghèo đói và bảo thủ.
+c:: Cảm thương sâu sắc, xót xa cho hoàn cảnh và trân trọng tình mẫu tử thiêng liêng.
+d:: Chế giễu sự ngốc nghếch của người mẹ.
+đáp án:: c
+giải thích:: Tác giả đồng cảm sâu sắc với nỗi đau của người mẹ và ngợi ca tâm hồn đẹp đẽ, hiếu thảo của đứa trẻ.
+---
+loại:: dropdown
+câu 30:: Đề 5: Qua chi tiết Bi nói dối để an ủi mẹ, tác phẩm giáo dục chúng ta bài học về sự [[chấp nhận hoàn cảnh và yêu thương cha mẹ|trốn tránh thực tại|dùng lời nói dối để trục lợi]].
+đáp án:: chấp nhận hoàn cảnh và yêu thương cha mẹ
+giải thích:: Lời nói dối của Bi là lời nói dối mang màu sắc của sự hi sinh, thể hiện tình yêu thương và thấu hiểu vô bờ bến đối với đấng sinh thành.
+---
+loại:: dien_khuyet
+câu 31:: Đề 5: Hoàn thành lời đánh giá: "Cậu bé Bi tuy nhỏ tuổi nhưng đã sở hữu một trái tim vô cùng vĩ ..., biết gạt bỏ mong muốn cá nhân để bảo vệ sự bình yên trong tâm hồn mẹ." (Gợi ý: một tính từ chỉ sự rộng lớn).
+đáp án:: đại
+giải thích:: "Vĩ đại" là tính từ phù hợp để ca ngợi tấm lòng hiếu thảo, trưởng thành sớm của cậu bé nhà nghèo.
+---
+loại:: dung_sai
+câu 32:: Đề 5: Nhận định: "Việc người mẹ đóng giả vờ như không biết lúc con liếm môi thèm bỏng ngô chính là một kiểu nhẫn tâm của người lớn."
+đáp án:: sai
+giải thích:: Đó không phải sự nhẫn tâm mà là sự đè nén nỗi đau. Chị không có tiền để mua, nên chỉ biết nuốt nước mắt vào trong và lặng lẽ rơi lệ.
+---
+loại:: mot_dap_an
+câu 33:: Đề 5: Câu nói của người soát vé: "Trẻ con cũng phải có người lớn đi kèm thì mới được vào... Không biết bà ở đâu ra mà khốt thế không biết?" đại diện cho điều gì trong xã hội?
+a:: Sự tuân thủ luật lệ nghiêm ngặt.
+b:: Sự vô cảm, lạnh lùng và khinh miệt của những người có chút quyền hành đối với người nghèo khổ.
+c:: Sự hài hước, trêu đùa của nhân viên rạp xiếc.
+d:: Sự quan tâm đến sự an toàn của trẻ em.
+đáp án:: b
+giải thích:: Câu nói mang giọng điệu mỉa mai, khinh miệt vẻ ngoài lam lũ của người mẹ, phơi bày sự lạnh lùng của xã hội đối với người nghèo.
+---
+loại:: dropdown
+câu 34:: Đề 5: Giọt nước mắt của người mẹ rơi trong truyện là giọt nước mắt của sự [[hạnh phúc tột cùng|bất lực, xót xa vì không lo được cho con|đau đớn vì bị bệnh]].
+đáp án:: bất lực, xót xa vì không lo được cho con
+giải thích:: Mẹ khóc vì thương con phải chịu thiệt thòi và đau đớn vì cái nghèo không cho phép mẹ làm con vui.
+---
+loại:: dien_khuyet
+câu 35:: Đề 5: Tình mẫu tử và lòng hiếu thảo trong câu chuyện "Vé xem xiếc" tỏa sáng lấp lánh như một viên ngọc quý giữa màn đêm tối tăm của cái nghèo và sự khốn ...
+đáp án:: khó
+giải thích:: Hoàn cảnh "khốn khó", nghèo đói là phông nền làm nổi bật tình người.
+---
+loại:: noi
+câu 36:: Đề 5: Nối các yếu tố nghệ thuật truyện ngắn với sự thể hiện trong "Vé xem xiếc":
+trai:: Xây dựng tình huống truyện
+phai:: Tình huống trớ trêu tại cổng rạp xiếc buộc nhân vật phải đưa ra lựa chọn cay đắng.
+trai:: Miêu tả diễn biến tâm lí
+phai:: Đặc tả khuôn mặt và giọng nói méo xệch của bé Bi khi cố che giấu nỗi buồn.
+trai:: Chi tiết nghệ thuật đắt giá
+phai:: Hành động đếm tiền lẻ trong dây rút đạy của người mẹ.
+trai:: Ngôn ngữ đối thoại
+phai:: Lời nói ngây thơ lúc đầu tương phản với lời nói dối đầy thấu cảm lúc sau của cậu bé.
+giải thích:: Các yếu tố nghệ thuật được kết hợp nhuần nhuyễn giúp câu chuyện ngắn gọn nhưng có sức ám ảnh lớn đối với người đọc.
+---
+
+</script>     
+</div>
         <div class="topic-data" data-subject-name=" NGỮ VĂN 6" data-topic-name="TÓC CỦA MẸ TÔI - PHAN THỊ THANH NHÀN ">
             <script type="text/plain" class="question-data-chunk">
 ---
@@ -4964,6 +6262,7 @@ giải thích:: Sức hấp dẫn đến từ sự "trong veo" của thế giớ
         </script>
     </div>
 `);
+
 
 
 
