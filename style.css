@@ -180,10 +180,6 @@ h3::after { content: "▼"; float: right; transition: transform 0.3s ease; font-
 /* SVG Lines */
 #matching-svg-canvas { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; pointer-events: none; }
 line { stroke-width: 3; stroke-linecap: round; }
-line.pending { stroke: var(--primary-color); stroke-dasharray: 5,5; animation: dash 1s linear infinite; }
-line.correct-line { stroke: var(--correct-color); stroke-width: 4; }
-line.incorrect-line { stroke: var(--incorrect-color); stroke-width: 4; opacity: 0.5; }
-line.hint-line { stroke: var(--hint-color); stroke-width: 3; stroke-dasharray: 8,4; opacity: 0.8; }
 @keyframes dash { to { stroke-dashoffset: -10; } }
 
 @keyframes shake { 0% { transform: translateX(0); } 25% { transform: translateX(-5px); } 50% { transform: translateX(5px); } 75% { transform: translateX(-5px); } 100% { transform: translateX(0); } }
@@ -355,8 +351,6 @@ select.dropdown-select.incorrect { border-color: #ef4444 !important; background-
     position: relative; 
 }
 
-@keyframes popIn { from { transform: scale(0.8); opacity: 0; } to { transform: scale(1); opacity: 1; } }
-
 /* Fix Modal Buttons to Look Like Main Buttons */
 .modal-buttons { display: flex; flex-direction: column; gap: 15px; margin-top: 25px; }
 
@@ -422,10 +416,38 @@ line.pending {
     stroke-dasharray: 8, 4; /* Tạo nét đứt */
     animation: dash 30s linear infinite; 
 }
-line.correct-line, line.incorrect-line {
-    stroke-width: 4;
-    stroke-dasharray: 8, 4; /* Giữ nét đứt ngay cả khi đã nối xong */
+
+/* =========================================
+   [A80 UI UPGRADE] TRẠNG THÁI ĐƯỜNG NỐI SVG ĐỘC LẬP
+   ========================================= */
+
+/* 1. Đường người dùng nối ĐÚNG (Màu Xanh lá, nét liền, dày) */
+line.correct-line { 
+    stroke: var(--correct-color) !important; 
+    stroke-width: 5px !important; 
+    stroke-dasharray: none !important; 
 }
+
+/* 2. Đường người dùng nối SAI (Màu Đỏ, nét đứt, hơi mờ) */
+line.incorrect-line { 
+    stroke: var(--incorrect-color) !important; 
+    stroke-width: 4px !important; 
+    opacity: 0.6 !important; 
+    stroke-dasharray: 8, 4 !important;
+}
+
+/* 3. Đường ĐÁP ÁN ĐÚNG hiển thị thêm (Màu Cam, nét đứt động) */
+line.hint-line { 
+    stroke: var(--hint-color) !important; 
+    stroke-width: 4px !important; 
+    stroke-dasharray: 10, 5 !important; 
+    opacity: 0.9 !important; 
+    animation: dash 20s linear infinite;
+}
+
+/* 4. Tô màu các hộp chữ khi đúng/sai */
+.match-item.correct { border-color: var(--correct-color) !important; background-color: #d1fae5 !important; color: #065f46 !important; }
+.match-item.incorrect { border-color: var(--incorrect-color) !important; background-color: #fee2e2 !important; color: #991b1b !important; }
 
 /* Hộp chọn bên trái/phải */
 .match-item {
@@ -446,3 +468,37 @@ line.correct-line, line.incorrect-line {
     color: var(--primary-dark);
 
 }
+
+/* =========================================
+   [A80 UI UPGRADE] TRẠNG THÁI HIỂN THỊ ĐÁP ÁN ĐÚNG/SAI
+   ========================================= */
+
+/* Định dạng viền dày cho đáp án được tô sáng */
+#options-container .option.highlighted,
+#options-container input.highlighted {
+    border-width: 3px !important;
+    font-weight: 800;
+    position: relative;
+    padding-right: 40px; /* Nhường không gian cho icon */
+}
+
+/* Tự động chèn Icon hỗ trợ tiếp cận (Accessibility) */
+#options-container .option.correct.highlighted::after {
+    content: '✅';
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#options-container .option.incorrect.highlighted::after {
+    content: '❌';
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Đảm bảo ô Input điền khuyết cũng đổi màu nền chuẩn xác */
+input#fill-in-input.correct { background-color: #d1fae5 !important; border-color: #10b981 !important; color: #065f46 !important; }
+input#fill-in-input.incorrect { background-color: #fee2e2 !important; border-color: #ef4444 !important; color: #991b1b !important; }
