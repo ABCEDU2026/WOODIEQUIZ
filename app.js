@@ -113,8 +113,14 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function normalizeString(str) { return str ? str.toString().trim().toLowerCase().replace(/\s+/g, ' ') : ""; }
-    // Nâng cấp bộ lọc loại bỏ toàn bộ dấu câu để so sánh chính xác tuyệt đối
-    function cleanString(str) { return str ? str.toString().toLowerCase().replace(/[\s\.\,\;\:\!\?]+/g, '').trim() : "";  }
+  
+
+// Nâng cấp bộ lọc siêu việt: Loại bỏ mọi khoảng trắng, dấu câu, ngoặc kép (thẳng/cong), ngoặc đơn...
+    function cleanString(str) { return str ? str.toString().toLowerCase().replace(/[\s\.\,\;\:\!\?\"\'\“\”\‘\’\(\)\[\]\-]+/g, '').trim() : "";}
+
+
+
+
 
     function normalizeKey(key) {
         const k = key.toString().toLowerCase().trim();
@@ -564,14 +570,20 @@ document.addEventListener('DOMContentLoaded', () => {
     
     function handleResizeMatching() { if(activeQuestions[currentQuestionIndex] && activeQuestions[currentQuestionIndex].type === 'noi') drawMatchingLines(isReviewMode || activeQuestions[currentQuestionIndex].isAnswered); }
 
-    function renderDropdown(question) {
+function renderDropdown(question) {
         question.correctDropdowns = []; 
         const processedHTML = question.question.replace(/\[\[(.*?)\]\]/g, (match, content) => {
             const options = content.split('|'); 
             question.correctDropdowns.push(options[0]); 
             const shuffledOptions = shuffleArray(options);
             let selectHTML = `<select class="dropdown-select"><option value="">...</option>`;
-            shuffledOptions.forEach(opt => { selectHTML += `<option value="${opt}">${opt}</option>`; });
+            
+            shuffledOptions.forEach(opt => { 
+                // Data Sanitization: Mã hóa ngoặc kép cho giá trị option
+                const safeOpt = opt.replace(/"/g, '&quot;');
+                selectHTML += `<option value="${safeOpt}">${opt}</option>`; 
+            });
+            
             return selectHTML + `</select>`;
         });
         optionsContainerEl.innerHTML = `<div class="dropdown-question-text">${processedHTML}</div>`;
@@ -588,9 +600,13 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function renderFillInTheBlank(question) {
+function renderFillInTheBlank(question) {
         const previousAnswer = (question.userAnswer !== null) ? question.userAnswer : "";
-        optionsContainerEl.innerHTML = `<div style="display: flex; gap: 10px;"><input type="text" id="fill-in-input" class="option" placeholder="Nhập câu trả lời..." value="${previousAnswer}" autocomplete="off"><button id="fill-in-submit" class="nav-btn">Kiểm tra</button></div>`;
+        
+        // Data Sanitization: Mã hóa ngoặc kép để bảo vệ thẻ input
+        const safePrevAnswer = previousAnswer.toString().replace(/"/g, '&quot;');
+        
+        optionsContainerEl.innerHTML = `<div style="display: flex; gap: 10px;"><input type="text" id="fill-in-input" class="option" placeholder="Nhập câu trả lời..." value="${safePrevAnswer}" autocomplete="off"><button id="fill-in-submit" class="nav-btn">Kiểm tra</button></div>`;
         const inputEl = document.getElementById('fill-in-input');
         const submitBtn = document.getElementById('fill-in-submit');
         if (!question.isAnswered && !isReviewMode) {
