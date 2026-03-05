@@ -132,7 +132,7 @@ loại:: phan_loai
 câu 78:: Phân loại các hành động sau trong phòng thực hành:
 nhom:: (A) Nên làm / Phải làm
 nhom:: (B) Không được làm
-the:: Rửa tay bằng xà phòng sau khi thí nghiệm.
+the:: Rửa tay bằng xà phòng sau khi "thí nghiệm".
 the:: Nếm thử hóa chất để phân biệt.
 the:: Buộc tóc gọn gàng khi làm thí nghiệm với lửa.
 the:: Tự ý trộn lẫn các hóa chất với nhau.
@@ -149,7 +149,7 @@ câu 79:: Phân loại các dụng cụ sau theo chức năng chính:
 nhom:: (A) Dụng cụ đo lường
 nhom:: (B) Dụng cụ quan sát
 the:: Kính lúp
-the:: Nhiệt kế
+the:: "Nhiệt kế"
 the:: Cân đồng hồ
 the:: Kính hiển vi quang học
 the:: Lực kế
@@ -172,7 +172,7 @@ loại:: noi
 câu 75:: Nối dụng cụ đo với đại lượng cần đo tương ứng.
 trai:: Nhiệt kế
 phai:: Nhiệt độ
-trai:: Cân đồng hồ
+trai:: "Cân đồng hồ"
 phai:: Khối lượng
 trai:: Lực kế
 phai:: Lực
@@ -254,6 +254,7 @@ giải thích:: Đây là quy trình chuẩn khi sử dụng cân Roberval (cân
         </script>
     </div>
 `);
+
 
 
 
