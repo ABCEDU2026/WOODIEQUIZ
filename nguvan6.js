@@ -14,7 +14,7 @@ document.write(`
             <script type="text/plain" class="question-data-chunk">
 ---
 loại:: mot_dap_an
-[cite_start]câu 1:: Đề 1: Đọc đoạn trích sau: "Bố tôi vẫn thường nói với tôi: Nó khổ hơn con rất nhiều, con đừng tỵ bì với nó. 'Nó' là cái Ngần, con bé lang thang không có cha mẹ được ba tôi đem về nuôi trong một lần bà đi tàu từ Hà Nội về". Xác định ngôi kể của văn bản Cái Ngần. [cite: 63]
+câu 1:: Đề 1: Đọc đoạn trích sau: "Bố tôi vẫn thường nói với tôi: Nó khổ hơn con rất nhiều, con đừng tỵ bì với nó. 'Nó' là cái Ngần, con bé lang thang không có cha mẹ được ba tôi đem về nuôi trong một lần bà đi tàu từ Hà Nội về". Xác định ngôi kể của văn bản Cái Ngần. [cite: 63]
 a:: Ngôi thứ nhất
 b:: Ngôi thứ hai
 c:: Ngôi thứ ba
@@ -6262,6 +6262,7 @@ giải thích:: Sức hấp dẫn đến từ sự "trong veo" của thế giớ
         </script>
     </div>
 `);
+
 
 
 
