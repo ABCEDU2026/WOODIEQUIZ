@@ -1,8 +1,9 @@
 /**
- * APP.JS - A80 STABLE v6.0 (FULL UNABRIDGED)
- * - Trạng thái: MASTER FIX
- * - Bảo toàn 100% logic gốc.
- * - Đã sửa lỗi Scope AI & Syntax.
+ * APP.JS - ELITE IVY LEAGUE MASTER FIX (v7.0)
+ * - Trạng thái: ỔN ĐỊNH TUYỆT ĐỐI
+ * - Khắc phục Syntax Error (lỗi vỡ màn hình).
+ * - Chuẩn hóa Data Flow (Gửi API đúng vòng đời).
+ * - Data Sanitization cho ngoặc kép (Matching & Ordering).
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -112,7 +113,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function normalizeString(str) { return str ? str.toString().trim().toLowerCase().replace(/\s+/g, ' ') : ""; }
-    function cleanString(str) { return str ? str.toString().toLowerCase().replace(/\s+/g, '').trim() : ""; }
+    // Nâng cấp bộ lọc loại bỏ toàn bộ dấu câu để so sánh chính xác tuyệt đối
+    function cleanString(str) { return str ? str.toString().toLowerCase().replace(/[\s\.\,\;\:\!\?]+/g, '').trim() : "";  }
 
     function normalizeKey(key) {
         const k = key.toString().toLowerCase().trim();
@@ -323,23 +325,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-  function prepareQuestionData(question) {
+    function prepareQuestionData(question) {
         const q = JSON.parse(JSON.stringify(question));
-        
-        // --- [FIX MỚI] TỰ ĐỘNG DỊCH A/B THÀNH ĐÚNG/SAI ---
-        if (q.type === 'dung_sai') {
-            const ans = String(q.answer).toLowerCase().trim();
-            // Nếu đáp án là 'a', 'true', 'đúng' -> Chuyển thành 'dung'
-            if (['a', 'true', 'đúng', 'dung', '1', 't'].includes(ans)) {
-                q.answer = 'dung';
-            }
-            // Nếu đáp án là 'b', 'false', 'sai' -> Chuyển thành 'sai'
-            else if (['b', 'false', 'sai', 'f', '0'].includes(ans)) {
-                q.answer = 'sai';
-            }
-        }
-        // --------------------------------------------------
-
         if (q.type === 'mot_dap_an') {
             const keys = Object.keys(q.options);
             const shuffledKeys = shuffleArray([...keys]);
@@ -384,7 +371,7 @@ document.addEventListener('DOMContentLoaded', () => {
         clearTimeout(autoAdvanceTimeout); 
         updateQuestionNav();
         
-        // RESET AI STATE (CRITICAL FIX)
+        // RESET AI STATE
         if(aiResponseArea) aiResponseArea.classList.add('hidden');
         if(aiContentText) aiContentText.innerHTML = '';
         
@@ -437,7 +424,8 @@ document.addEventListener('DOMContentLoaded', () => {
         updateQuestionNav();
         if (window.MathJax) MathJax.typesetPromise([questionTextEl, optionsContainerEl, explanationBoxEl]);
     }
-// ==========================================================================
+
+    // ==========================================================================
     //  4. RENDERERS (FULL)
     // ==========================================================================
 
@@ -615,8 +603,16 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderCategorization(question) {
-        let groupsHTML = ''; question.nhom.forEach((nhomText, index) => { groupsHTML += `<div class="category-group-box" data-group-index="${index}"><h4>${nhomText}</h4></div>`; });
-        let tagsHTML = ''; shuffleArray(question.the).forEach((tagText) => { tagsHTML += `<div class="category-tag" draggable="true" data-tag-text="${tagText}">${tagText}</div>`; });
+        let groupsHTML = ''; 
+        question.nhom.forEach((nhomText, index) => { groupsHTML += `<div class="category-group-box" data-group-index="${index}"><h4>${nhomText}</h4></div>`; });
+       
+        let tagsHTML = ''; 
+        shuffleArray(question.the).forEach((tagText) => { 
+            // Data Sanitization: Mã hóa ký tự nhạy cảm để bảo vệ thuộc tính HTML
+            const safeTagText = tagText.replace(/"/g, '&quot;');
+            tagsHTML += `<div class="category-tag" draggable="true" data-tag-text="${safeTagText}">${tagText}</div>`; 
+        });
+
         optionsContainerEl.innerHTML = `<div class="categorization-container"><div class="category-groups">${groupsHTML}</div><p style="text-align: center; color: var(--grey-text);">🔻 Kéo các thẻ vào nhóm tương ứng 🔻</p><div class="category-tags-pool">${tagsHTML}</div></div><button id="category-check-btn" class="nav-btn">Kiểm tra đáp án</button>`;
         const checkBtn = document.getElementById('category-check-btn');
         if (!question.isAnswered && !isReviewMode) {
@@ -628,7 +624,7 @@ document.addEventListener('DOMContentLoaded', () => {
              checkBtn.style.display = 'none'; 
              const tagsPool = optionsContainerEl.querySelector('.category-tags-pool'); tagsPool.innerHTML = ''; 
              Object.entries(question.userAnswer).forEach(([tagText, groupIndex]) => {
-                 const tag = document.createElement('div'); tag.className = 'category-tag'; tag.dataset.tagText = tagText; tag.textContent = tagText;
+                 const tag = document.createElement('div'); tag.className = 'category-tag'; tag.dataset.tagText = tagText.replace(/"/g, '&quot;'); tag.textContent = tagText;
                  if (groupIndex === -1) tagsPool.appendChild(tag); 
                  else { 
                      const groupZone = optionsContainerEl.querySelector(`.category-group-box[data-group-index="${groupIndex}"]`); 
@@ -670,7 +666,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderOrdering(question) {
         const itemsToShow = (question.isAnswered || isReviewMode) ? (question.userAnswer || []) : shuffleArray(question.muc);
-        let itemsHTML = ''; itemsToShow.forEach((itemText) => { itemsHTML += `<li class="ordering-item" draggable="true" data-text="${itemText}">${itemText}</li>`; });
+
+        let itemsHTML = ''; 
+        itemsToShow.forEach((itemText) => { 
+            // Data Sanitization: Mã hóa ngoặc kép để bảo vệ cấu trúc DOM
+            const safeItemText = itemText.replace(/"/g, '&quot;');
+            itemsHTML += `<li class="ordering-item" draggable="true" data-text="${safeItemText}">${itemText}</li>`; 
+        });
+
         optionsContainerEl.innerHTML = `<div style="font-style: italic; color: var(--grey-text); margin-bottom: 10px; text-align: center;">(Kéo thả để sắp xếp)</div><ul id="ordering-list" class="ordering-container">${itemsHTML}</ul><button id="order-check-btn" class="nav-btn">Kiểm tra đáp án</button>`;
         const checkBtn = document.getElementById('order-check-btn');
         if (!question.isAnswered && !isReviewMode) {
@@ -829,15 +832,38 @@ document.addEventListener('DOMContentLoaded', () => {
         } 
     }
 
+    // --- HÀM ENDQUIZ ĐÃ ĐƯỢC TÁI CẤU TRÚC LOGIC HOÀN CHỈNH ---
     function endQuiz() {
         clearInterval(quizTimer);
         let timeSpentFormatted = document.getElementById('timer-value').textContent;
         let userData = allUsersData[currentUserName] || { cupCount: 0, lifetimeCorrect: 0, topicResults: [], seenQuestionIds: {} };
         allUsersData[currentUserName] = userData;
         userData.lifetimeCorrect += correctAnswers;
+        
+        // Tại thời điểm này, 'acc' mới thực sự được sinh ra
         const acc = Math.round((correctAnswers / activeQuestions.length) * 100) || 0;
+
+        // --- BẮT ĐẦU GỬI API TẠI ĐÂY ---
+        const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyoztj_qCAVbFQhSlj4U0IHrZZwEWlkHQ4NR9VandMGvKw8G4fhhQCuazqPBCr013Ut/exec"; 
+        const dataToSend = {
+            name: currentUserName,
+            topic: currentQuizTitle,
+            score: correctAnswers,
+            total: activeQuestions.length,
+            acc: acc
+        };
+
+        fetch(GOOGLE_SCRIPT_URL, {
+            method: 'POST',
+            mode: 'no-cors', 
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(dataToSend)
+        }).then(() => console.log("Đã gửi điểm về Trụ sở!")).catch(err => console.error("Lỗi gửi điểm:", err));
+        // --- KẾT THÚC GỬI API ---
+
         const quizResult = { topic: currentQuizTitle, score: correctAnswers, total: activeQuestions.length, accuracy: acc, date: new Date().toISOString(), timeSpent: timeSpentFormatted };
         userData.topicResults.push(quizResult);
+        
         if (acc >= 90) { userData.cupCount++; showVictoryModal(correctAnswers, acc); } 
         else { 
             document.getElementById('final-score').textContent = correctAnswers;
@@ -846,12 +872,17 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('final-total').textContent = activeQuestions.length;
             resultsModal.classList.remove('hidden'); 
         }
+
         if (currentMode === 'random') {
              const tName = subjectSelector.value.startsWith('comprehensive_') ? subjectSelector.value : (allTopics[topicSelector.value] ? allTopics[topicSelector.value].name : 'unknown');
              userData.seenQuestionIds[tName] = [...new Set([...(userData.seenQuestionIds[tName]||[]), ...activeQuestions.map(q=>q.id)])];
         }
+
         localStorage.setItem(ALL_USERS_DB_KEY, JSON.stringify(allUsersData));
-        updateUserCupDisplay(); updateDashboard(); displayUserLog(currentUserName); updateLeaderboardUI();   
+        updateUserCupDisplay(); 
+        updateDashboard(); 
+        displayUserLog(currentUserName); 
+        updateLeaderboardUI();   
     }
 
     // ==========================================================================
@@ -1000,16 +1031,14 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // ==========================================================================
-    //  7. AI GURU (FINAL FIX)
+    //  7. AI GURU
     // ==========================================================================
 
-async function callAIGuru(questionObj) {
+    async function callAIGuru(questionObj) {
         aiResponseArea.classList.remove('hidden');
-        // Dùng innerHTML để chữ nghiêng đẹp hơn
         aiContentText.innerHTML = "🤖 <i>Gia sư Ivy League đang suy nghĩ...</i>"; 
         
         try {
-            // URL Cloudflare của bạn (Giữ nguyên)
             const response = await fetch('https://still-fog-44ed.phungtriduc.workers.dev/', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
@@ -1022,23 +1051,16 @@ async function callAIGuru(questionObj) {
                 })
             });
             const data = await response.json();
-
-            // --- PHẦN NÂNG CẤP HIỂN THỊ (QUAN TRỌNG) ---
             
-            // 1. Xử lý văn bản: Biến **text** thành in đậm, xuống dòng thành <br>
             let formattedReply = data.reply
-                .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>')   // Chuyển **...** thành in đậm
-                .replace(/\n/g, '<br>');                  // Chuyển xuống dòng
+                .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>')   
+                .replace(/\n/g, '<br>');                  
 
-            // 2. Đưa nội dung vào khung
             aiContentText.innerHTML = formattedReply;
 
-            // 3. KÍCH HOẠT MATHJAX (Để dịch mã toán học LaTeX)
             if (window.MathJax) {
-                // Yêu cầu MathJax vẽ lại công thức trong khung AI
                 MathJax.typesetPromise([aiContentText]).catch((err) => console.log(err));
             }
-            // ---------------------------------------------
 
         } catch (error) {
             console.error(error);
@@ -1046,53 +1068,42 @@ async function callAIGuru(questionObj) {
         }
     }
 
-
     // ==========================================================================
     //  8. INIT
     // ==========================================================================
 
-// --- BỔ SUNG: KÍCH HOẠT CÁC NÚT TRONG BẢNG KẾT QUẢ & CHIẾN THẮNG ---
-
-    // 1. Xử lý nút "Làm bài mới" (Ở cả bảng Thua và Thắng)
     const newGameBtn = document.getElementById('new-random-btn');
     const newGameVicBtn = document.getElementById('new-random-victory-btn');
     
     const startNewGame = () => {
         resultsModal.classList.add('hidden');
         victoryModal.classList.add('hidden');
-        startQuiz('random'); // Mặc định chơi chế độ ngẫu nhiên
+        startQuiz('random'); 
     };
 
     if(newGameBtn) newGameBtn.addEventListener('click', startNewGame);
     if(newGameVicBtn) newGameVicBtn.addEventListener('click', startNewGame);
 
-    // 2. Xử lý nút "Xem lại đáp án" (Ở bảng Chiến thắng - bảng Thua đã có rồi)
     const reviewVicBtn = document.getElementById('review-victory-btn');
     if(reviewVicBtn) reviewVicBtn.addEventListener('click', startReviewMode);
 
-    // 3. Xử lý nút "Quay về trang chủ" (Ở bảng Chiến thắng)
     const homeVicBtn = document.getElementById('go-home-victory-btn');
     if(homeVicBtn) homeVicBtn.addEventListener('click', resetQuizView);
 
-    // 4. Xử lý nút "In báo cáo" (Tạm dùng chung hàm in báo cáo tổng)
     const printDetailBtn = document.getElementById('print-detail-report-btn');
     const printVicBtn = document.getElementById('print-detail-victory-btn');
     
     if(printDetailBtn) printDetailBtn.addEventListener('click', handlePrintSummaryReport);
     if(printVicBtn) printVicBtn.addEventListener('click', handlePrintSummaryReport);
 
-    // --------------------------------------------------------------------
 
-
-function initializeApp() {
+    function initializeApp() {
         allUsersData = JSON.parse(localStorage.getItem(ALL_USERS_DB_KEY)) || {};
         const lastUser = localStorage.getItem(LAST_USER_KEY);
         loadAndParseAllTopics();
         updateLeaderboardUI();
         
-        // --- PHẦN SỬA LỖI ---
         if (lastUser && allUsersData[lastUser]) {
-            // Trường hợp 1: Đã có người dùng cũ -> Hiện màn hình Welcome
             currentUserName = lastUser;
             document.getElementById('welcome-user').classList.remove('hidden');
             document.getElementById('welcome-prompt').classList.add('hidden');
@@ -1101,11 +1112,9 @@ function initializeApp() {
             updateUserCupDisplay();
             displayUserLog(currentUserName);
         } else {
-            // Trường hợp 2: Chưa có người dùng -> HIỆN Ô NHẬP TÊN
             document.getElementById('welcome-user').classList.add('hidden');
-            document.getElementById('welcome-prompt').classList.remove('hidden'); // Dòng quan trọng bị thiếu
+            document.getElementById('welcome-prompt').classList.remove('hidden'); 
         }
-        // ---------------------
 
         populateSubjectSelector();
     }
@@ -1123,7 +1132,7 @@ function initializeApp() {
     const printBtn = document.getElementById('print-summary-report-btn');
     if(printBtn) printBtn.addEventListener('click', handlePrintSummaryReport);
     
-    // --- XỬ LÝ NHẬP TÊN (ĐÃ SỬA LẠI GỌN GÀNG) ---
+    // Khối nhập tên đã được loại bỏ logic API sai trái
     document.getElementById('name-input').addEventListener('keydown', (e) => {
         if (e.key === 'Enter') {
             const name = e.target.value.trim();
@@ -1132,30 +1141,6 @@ function initializeApp() {
                 if (!allUsersData[name]) { 
                     allUsersData[name] = { cupCount: 0, lifetimeCorrect: 0, topicResults: [], seenQuestionIds: {} }; 
                     localStorage.setItem(ALL_USERS_DB_KEY, JSON.stringify(allUsersData)); 
-// --- [NEW A90] GỬI ĐIỂM VỀ GOOGLE SHEETS ---
-        // Thay link dưới đây bằng Link Web App bạn vừa copy ở Bước 2
-        const GOOGLE_SCRIPT_URL = "  https://script.google.com/macros/s/AKfycbyoztj_qCAVbFQhSlj4U0IHrZZwEWlkHQ4NR9VandMGvKw8G4fhhQCuazqPBCr013Ut/exec "; 
-        
-        const dataToSend = {
-            name: currentUserName,
-            topic: currentQuizTitle,
-            score: correctAnswers,
-            total: activeQuestions.length,
-            acc: acc
-        };
-
-        // Gửi ngầm (không làm phiền người dùng)
-        fetch(GOOGLE_SCRIPT_URL, {
-            method: 'POST',
-            mode: 'no-cors', // Quan trọng để không bị chặn
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify(dataToSend)
-        }).then(() => console.log("Đã gửi điểm về Trụ sở!")).catch(err => console.error("Lỗi gửi điểm:", err));
-        // -------------------------------------------
-
-
-
-
                 }
                 initializeApp();
             } else { 
@@ -1180,27 +1165,22 @@ function initializeApp() {
         this.parentElement.classList.toggle('collapsed');
     }));
 
-    // --- BỔ SUNG LOGIC NÚT AI (ĐẶT Ở ĐÂY MỚI ĐÚNG) ---
     if (askAiBtn) {
         askAiBtn.onclick = () => {
-            // Kiểm tra xem đã có câu hỏi chưa
             if (!activeQuestions || activeQuestions.length === 0) return;
             
             const currentQ = activeQuestions[currentQuestionIndex];
             
-            // Bắt buộc làm xong mới được hỏi (Kỷ luật sắt)
             if (!currentQ.isAnswered) {
-                alert("🚫 Woodie phải hoàn thành câu hỏi này trước khi hỏi Gia sư AI!");
+                alert("🚫 Kỷ luật là sức mạnh! Woodie phải tự hoàn thành câu hỏi này trước khi hỏi Gia sư AI.");
                 return;
             }
             
-            // Gọi hàm xử lý AI
             callAIGuru(currentQ);
         };
     }
-    // -------------------------------------------------
 
     // KHỞI CHẠY ỨNG DỤNG
     initializeApp();
 
-}); // Dấu đóng của DOMContentLoaded (QUAN TRỌNG)
+});
