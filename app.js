@@ -1,9 +1,7 @@
 /**
- * APP.JS - ELITE IVY LEAGUE MASTER FIX (v7.0)
- * - Trạng thái: ỔN ĐỊNH TUYỆT ĐỐI
- * - Khắc phục Syntax Error (lỗi vỡ màn hình).
- * - Chuẩn hóa Data Flow (Gửi API đúng vòng đời).
- * - Data Sanitization cho ngoặc kép (Matching & Ordering).
+ * APP.JS - ELITE IVY LEAGUE MASTER FIX (v7.5 - ULTIMATE OLD DATA VERSION)
+ * - Trạng thái: ỔN ĐỊNH TUYỆT ĐỐI (Đã phục hồi các hàm bị xóa nhầm)
+ * - Tích hợp Báo cáo Viral, Regex Siêu việt, SVG Scope Fix.
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -113,14 +111,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function normalizeString(str) { return str ? str.toString().trim().toLowerCase().replace(/\s+/g, ' ') : ""; }
-  
 
-// Nâng cấp bộ lọc siêu việt: Loại bỏ mọi khoảng trắng, dấu câu, ngoặc kép (thẳng/cong), ngoặc đơn...
-    function cleanString(str) { return str ? str.toString().toLowerCase().replace(/[\s\.\,\;\:\!\?\"\'\“\”\‘\’\(\)\[\]\-]+/g, '').trim() : "";}
-
-
-
-
+    // Nâng cấp bộ lọc siêu việt: Loại bỏ mọi khoảng trắng, dấu câu, ngoặc kép (thẳng/cong), ngoặc đơn...
+    function cleanString(str) { 
+        return str ? str.toString().toLowerCase().replace(/[\s\.\,\;\:\!\?\"\'\“\”\‘\’\(\)\[\]\-]+/g, '').trim() : "";
+    }
 
     function normalizeKey(key) {
         const k = key.toString().toLowerCase().trim();
@@ -473,7 +468,7 @@ document.addEventListener('DOMContentLoaded', () => {
             </div>
             <button id="match-check-btn" class="nav-btn">Kiểm tra đáp án</button>`;
         const checkBtn = document.getElementById('match-check-btn');
-        drawMatchingLines(false);
+        drawMatchingLines(question.isAnswered || isReviewMode);
         if (!question.isAnswered && !isReviewMode) {
             checkBtn.disabled = Object.keys(matchingState.userMatches).length === 0;
             document.querySelectorAll('.match-item').forEach(item => { item.addEventListener('click', handleMatchClick); });
@@ -570,7 +565,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     function handleResizeMatching() { if(activeQuestions[currentQuestionIndex] && activeQuestions[currentQuestionIndex].type === 'noi') drawMatchingLines(isReviewMode || activeQuestions[currentQuestionIndex].isAnswered); }
 
-function renderDropdown(question) {
+    function renderDropdown(question) {
         question.correctDropdowns = []; 
         const processedHTML = question.question.replace(/\[\[(.*?)\]\]/g, (match, content) => {
             const options = content.split('|'); 
@@ -579,7 +574,6 @@ function renderDropdown(question) {
             let selectHTML = `<select class="dropdown-select"><option value="">...</option>`;
             
             shuffledOptions.forEach(opt => { 
-                // Data Sanitization: Mã hóa ngoặc kép cho giá trị option
                 const safeOpt = opt.replace(/"/g, '&quot;');
                 selectHTML += `<option value="${safeOpt}">${opt}</option>`; 
             });
@@ -600,10 +594,8 @@ function renderDropdown(question) {
         }
     }
 
-function renderFillInTheBlank(question) {
+    function renderFillInTheBlank(question) {
         const previousAnswer = (question.userAnswer !== null) ? question.userAnswer : "";
-        
-        // Data Sanitization: Mã hóa ngoặc kép để bảo vệ thẻ input
         const safePrevAnswer = previousAnswer.toString().replace(/"/g, '&quot;');
         
         optionsContainerEl.innerHTML = `<div style="display: flex; gap: 10px;"><input type="text" id="fill-in-input" class="option" placeholder="Nhập câu trả lời..." value="${safePrevAnswer}" autocomplete="off"><button id="fill-in-submit" class="nav-btn">Kiểm tra</button></div>`;
@@ -624,7 +616,6 @@ function renderFillInTheBlank(question) {
        
         let tagsHTML = ''; 
         shuffleArray(question.the).forEach((tagText) => { 
-            // Data Sanitization: Mã hóa ký tự nhạy cảm để bảo vệ thuộc tính HTML
             const safeTagText = tagText.replace(/"/g, '&quot;');
             tagsHTML += `<div class="category-tag" draggable="true" data-tag-text="${safeTagText}">${tagText}</div>`; 
         });
@@ -685,7 +676,6 @@ function renderFillInTheBlank(question) {
 
         let itemsHTML = ''; 
         itemsToShow.forEach((itemText) => { 
-            // Data Sanitization: Mã hóa ngoặc kép để bảo vệ cấu trúc DOM
             const safeItemText = itemText.replace(/"/g, '&quot;');
             itemsHTML += `<li class="ordering-item" draggable="true" data-text="${safeItemText}">${itemText}</li>`; 
         });
@@ -811,27 +801,21 @@ function renderFillInTheBlank(question) {
         }, 100);
     }
 
-
-
-function showAnswerState(question) {
+    function showAnswerState(question) {
         explanationBoxEl.classList.remove('hidden');
         const expText = question.explanation ? fixMalformedSVG(question.explanation) : "Không có giải thích chi tiết.";
         explanationTextEl.innerHTML = expText;
 
-        // 1. Quét tất cả các nút (Trắc nghiệm, Nhiều đáp án, Đúng/Sai)
-        // Loại trừ thẻ input để xử lý riêng
         const options = optionsContainerEl.querySelectorAll('.option:not(input)');
         
         options.forEach(btn => {
             const key = btn.dataset.answer;
             if (!key) return;
 
-            // Xử lý thông minh: Nhận diện đáp án là Mảng (Multi-response) hay Chuỗi
             const isMulti = Array.isArray(question.answer);
             const isCorrectAnswer = isMulti ? question.answer.includes(key) : question.answer === key;
             const isUserSelected = isMulti ? (question.userAnswer && question.userAnswer.includes(key)) : question.userAnswer === key;
 
-            // Cấp class CSS thuần túy, tuyệt đối không dùng inline style
             if (isCorrectAnswer) {
                 btn.classList.add('correct', 'highlighted');
             }
@@ -840,7 +824,6 @@ function showAnswerState(question) {
             }
         });
 
-        // 2. Xử lý phản hồi màu sắc riêng cho Ô nhập liệu (Điền khuyết)
         if (question.type === 'dien_khuyet') {
             const inputEl = document.getElementById('fill-in-input');
             if (inputEl) {
@@ -853,12 +836,9 @@ function showAnswerState(question) {
             }
         }
 
-        // 3. Xử lý phản hồi màu sắc và đường nối cho bài SVG (Nối) - ĐÃ ĐƯỢC ĐƯA VÀO ĐÚNG SCOPE
         if (question.type === 'noi') {
-            // Kích hoạt vẽ lại toàn bộ đường nối sang trạng thái Đúng/Sai/Gợi ý
             drawMatchingLines(true);
             
-            // Đổi màu luôn cả các hộp (box) chữ để đồng bộ thị giác
             for (const leftId in matchingState.userMatches) {
                 const rightId = matchingState.userMatches[leftId];
                 const isMatchCorrect = leftId.split('-')[1] === rightId.split('-')[1];
@@ -874,10 +854,7 @@ function showAnswerState(question) {
                 }
             }
         }
-    } // <-- ĐÂY MỚI LÀ NƠI KẾT THÚC CỦA HÀM showAnswerState
-
-
-
+    }
 
     function handleNextQuestion() { 
         if (currentQuestionIndex < activeQuestions.length - 1) { 
@@ -897,7 +874,6 @@ function showAnswerState(question) {
         } 
     }
 
-    // --- HÀM ENDQUIZ ĐÃ ĐƯỢC TÁI CẤU TRÚC LOGIC HOÀN CHỈNH ---
     function endQuiz() {
         clearInterval(quizTimer);
         let timeSpentFormatted = document.getElementById('timer-value').textContent;
@@ -905,10 +881,8 @@ function showAnswerState(question) {
         allUsersData[currentUserName] = userData;
         userData.lifetimeCorrect += correctAnswers;
         
-        // Tại thời điểm này, 'acc' mới thực sự được sinh ra
         const acc = Math.round((correctAnswers / activeQuestions.length) * 100) || 0;
 
-        // --- BẮT ĐẦU GỬI API TẠI ĐÂY ---
         const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyoztj_qCAVbFQhSlj4U0IHrZZwEWlkHQ4NR9VandMGvKw8G4fhhQCuazqPBCr013Ut/exec"; 
         const dataToSend = {
             name: currentUserName,
@@ -924,7 +898,6 @@ function showAnswerState(question) {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(dataToSend)
         }).then(() => console.log("Đã gửi điểm về Trụ sở!")).catch(err => console.error("Lỗi gửi điểm:", err));
-        // --- KẾT THÚC GỬI API ---
 
         const quizResult = { topic: currentQuizTitle, score: correctAnswers, total: activeQuestions.length, accuracy: acc, date: new Date().toISOString(), timeSpent: timeSpentFormatted };
         userData.topicResults.push(quizResult);
@@ -951,16 +924,18 @@ function showAnswerState(question) {
     }
 
     // ==========================================================================
-    //  6. REPORTING & OTHERS
+    //  6. REPORTING & OTHERS (ĐÃ KHÔI PHỤC ĐẦY ĐỦ CÁC HÀM BỊ XÓA NHẦM)
     // ==========================================================================
 
     function handlePrintSummaryReport() {
         if (!currentUserName) return;
         const userData = allUsersData[currentUserName];
-        if (!userData || !userData.topicResults || userData.topicResults.length === 0) { alert("Chưa có kết quả."); return; }
+        if (!userData || !userData.topicResults || userData.topicResults.length === 0) { alert("Chưa có kết quả để in."); return; }
+        
         const startDateEl = document.getElementById('report-start-date');
         const endDateEl = document.getElementById('report-end-date');
         let filteredResults = userData.topicResults;
+        
         if (!startDateEl.value && !endDateEl.value) {
             const today = new Date().toDateString();
             filteredResults = userData.topicResults.filter(log => new Date(log.date).toDateString() === today);
@@ -970,15 +945,119 @@ function showAnswerState(question) {
             end.setHours(23, 59, 59, 999);
             filteredResults = userData.topicResults.filter(log => { const d = new Date(log.date); return d >= start && d <= end; });
         }
-        if (filteredResults.length === 0) { alert("Không tìm thấy kết quả."); return; }
-        const todayStr = new Date().toLocaleDateString('vi-VN');
-        let content = `<html><head><title>Phiếu Thành Tích</title><style>body{font-family:sans-serif;padding:20px}table{width:100%;border-collapse:collapse;margin-top:20px}th,td{border:1px solid #333;padding:8px;text-align:center}th{background:#eee}</style></head><body><h2>Báo Cáo: ${currentUserName}</h2><p>Ngày: ${todayStr}</p><table><thead><tr><th>Bài</th><th>Điểm</th><th>%</th></tr></thead><tbody>`;
-        filteredResults.forEach(log => { content += `<tr><td>${log.topic}</td><td>${log.score}/${log.total}</td><td>${log.accuracy}%</td></tr>`; });
-        content += `</tbody></table></body></html>`;
-        const printWin = window.open('', '_blank'); printWin.document.write(content); printWin.document.close();
-        setTimeout(() => { printWin.print(); printWin.close(); }, 500);
+        
+        if (filteredResults.length === 0) { alert("Không tìm thấy kết quả trong khoảng thời gian này."); return; }
+        
+        const totalTests = filteredResults.length;
+        const avgAccuracy = Math.round(filteredResults.reduce((sum, log) => sum + log.accuracy, 0) / totalTests);
+        const totalCups = userData.cupCount || 0;
+        const todayStr = new Date().toLocaleDateString('vi-VN', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+
+        let content = `
+        <!DOCTYPE html>
+        <html lang="vi">
+        <head>
+            <meta charset="UTF-8">
+            <title>Bảng Vàng Thành Tích - ${currentUserName}</title>
+            <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800;900&display=swap" rel="stylesheet">
+            <style>
+                body { font-family: 'Nunito', sans-serif; color: #1f2937; line-height: 1.6; padding: 30px; background: #f3f4f6; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+                .report-container { max-width: 800px; margin: 0 auto; background: #fff; padding: 40px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); border-top: 10px solid #6366f1; }
+                .header { text-align: center; border-bottom: 2px dashed #e5e7eb; padding-bottom: 25px; margin-bottom: 30px; }
+                .header h1 { color: #4338ca; margin: 0; font-size: 32px; text-transform: uppercase; font-weight: 900; letter-spacing: 1px; }
+                .header h2 { font-size: 26px; color: #f59e0b; margin: 10px 0; font-weight: 800; }
+                .header p { color: #6b7280; font-size: 14px; margin: 5px 0 0 0; }
+                .stats-grid { display: flex; justify-content: space-between; margin-bottom: 35px; gap: 15px; }
+                .stat-box { flex: 1; background: #eef2ff; padding: 20px; border-radius: 16px; text-align: center; border: 1px solid #c7d2fe; box-shadow: 0 4px 6px rgba(99,102,241,0.05); }
+                .stat-box h3 { margin: 0; font-size: 36px; color: #6366f1; font-weight: 900; line-height: 1; }
+                .stat-box p { margin: 8px 0 0 0; font-size: 13px; color: #4f46e5; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; }
+                table { width: 100%; border-collapse: separate; border-spacing: 0; border: 1px solid #e5e7eb; border-radius: 12px; overflow: hidden; }
+                th, td { padding: 15px; text-align: left; border-bottom: 1px solid #e5e7eb; }
+                th { background-color: #f8fafc; font-weight: 800; color: #475569; text-transform: uppercase; font-size: 13px; }
+                tr:last-child td { border-bottom: none; }
+                tr:nth-child(even) { background-color: #f8fafc; }
+                .acc-badge { padding: 6px 12px; border-radius: 20px; font-weight: 800; font-size: 13px; text-align: center; display: inline-block; min-width: 60px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+                .acc-high { background: #d1fae5; color: #065f46; border: 1px solid #34d399; }
+                .acc-med { background: #fef3c7; color: #92400e; border: 1px solid #fbbf24; }
+                .acc-low { background: #fee2e2; color: #991b1b; border: 1px solid #f87171; }
+                .footer { text-align: center; margin-top: 40px; font-size: 13px; color: #9ca3af; font-style: italic; border-top: 1px dashed #e5e7eb; padding-top: 20px; font-weight: 600; }
+                .score-text { font-weight: 800; color: #1f2937; }
+                @media print { 
+                    body { background: white; padding: 0; } 
+                    .report-container { box-shadow: none; max-width: 100%; border-top-width: 6px; padding: 20px; } 
+                }
+            </style>
+        </head>
+        <body>
+            <div class="report-container">
+                <div class="header">
+                    <h1>Bảng Vàng Thành Tích</h1>
+                    <h2>🎓 Học giả: ${currentUserName}</h2>
+                    <p>Thời gian xuất báo cáo: ${todayStr}</p>
+                </div>
+                
+                <div class="stats-grid">
+                    <div class="stat-box">
+                        <h3>${totalTests}</h3>
+                        <p>Bài Đã Hoàn Thành</p>
+                    </div>
+                    <div class="stat-box">
+                        <h3 style="color: ${avgAccuracy >= 80 ? '#10b981' : avgAccuracy >= 50 ? '#f59e0b' : '#ef4444'};">${avgAccuracy}%</h3>
+                        <p>Độ Chính Xác TB</p>
+                    </div>
+                    <div class="stat-box" style="background: #fffbeb; border-color: #fde68a;">
+                        <h3 style="color: #d97706;">🏆 ${totalCups}</h3>
+                        <p style="color: #b45309;">Cúp Danh Giá</p>
+                    </div>
+                </div>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Thời gian thi</th>
+                            <th>Nội dung bài kiểm tra</th>
+                            <th style="text-align: center;">Điểm số</th>
+                            <th style="text-align: center;">Tỷ lệ</th>
+                        </tr>
+                    </thead>
+                    <tbody>`;
+
+        filteredResults.reverse().forEach(log => { 
+            const d = new Date(log.date);
+            const timeStr = d.toLocaleDateString('vi-VN') + ' ' + d.toLocaleTimeString('vi-VN', {hour: '2-digit', minute:'2-digit'});
+            
+            let badgeClass = 'acc-low';
+            if (log.accuracy >= 80) badgeClass = 'acc-high';
+            else if (log.accuracy >= 50) badgeClass = 'acc-med';
+
+            content += `
+                <tr>
+                    <td style="font-size: 0.9rem; color: #64748b;">${timeStr}</td>
+                    <td style="font-weight: 700; color: #334155;">${log.topic}</td>
+                    <td style="text-align: center;" class="score-text">${log.score}/${log.total}</td>
+                    <td style="text-align: center;"><span class="acc-badge ${badgeClass}">${log.accuracy}%</span></td>
+                </tr>`; 
+        });
+
+        content += `
+                    </tbody>
+                </table>
+
+                <div class="footer">
+                    🚀 Báo cáo được trích xuất tự động từ Hệ thống Đánh giá Năng lực Chuẩn Ivy League (A80).
+                </div>
+            </div>
+        </body>
+        </html>`;
+
+        const printWin = window.open('', '_blank'); 
+        printWin.document.write(content); 
+        printWin.document.close();
+        
+        setTimeout(() => { printWin.print(); }, 800);
     }
 
+    // CÁC HÀM HỆ THỐNG ĐÃ ĐƯỢC PHỤC HỒI
     function populateSubjectSelector() {
         subjectSelector.innerHTML = '<option value="">--- Vui lòng chọn ---</option>';
         if (allTopics.length === 0) return;
