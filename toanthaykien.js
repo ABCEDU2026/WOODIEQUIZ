@@ -11,7 +11,7 @@ document.write(`
 
 </div>
 
-        <div class="topic-data" data-subject-name=" TOÁN THẦY KIÊN "data-topic-name=" lUYỆN ĐỀ TỒNG HỢP">
+        <div class="topic-data" data-subject-name=" TOÁN THẦY KIÊN "data-topic-name=" LUYỆN ĐỀ TỒNG HỢP">
             <script type="text/plain" class="question-data-chunk">
 ---
 //===================================================================================
@@ -2332,4 +2332,5 @@ giải thích:: Nhóm 4 số liên tiếp: $(3+3^{2}+3^{3}+3^{4}) = 3(1+3+9+27) 
         </script>
     </div>
 `);
+
 
