@@ -32759,10 +32759,2940 @@ muc:: (15) dishwasher.
 giải thích:: Sự giao thoa hoàn hảo: Past Continuous (was washing) bị cắt ngang bởi Past Simple (realized), dẫn đến một quyết định trong tương lai (will buy a smart dishwasher).
 ---
 
+---
+
+
+            </script>
+        </div>
+
+        <div class="topic-data" data-subject-name="CIE6" data-topic-name="T3W10 - QUETION TEST ">
+            <script type="text/plain" class="question-data-chunk">
+
+
+
+---
+
+loại:: noi
+câu 1:: Match the English terms with their correct Vietnamese meanings (Nature's Power - Set 1):
+trai:: lightning
+phai:: sét
+trai:: bump into
+phai:: va, đụng, đâm sầm vào
+trai:: cloud
+phai:: đám mây
+trai:: cold air
+phai:: không khí lạnh
+trai:: connect
+phai:: kết nối, liên kết
+giải thích:: These terms relate to atmospheric conditions and the formation of lightning.
+---
+loại:: noi
+câu 2:: Match the Vietnamese meanings with their correct English terms (Nature's Power - Set 2):
+trai:: điện
+phai:: electricity
+trai:: không khí nóng
+phai:: hot air
+trai:: điện tích âm
+phai:: negative charges
+trai:: điện tích dương
+phai:: positive charges
+trai:: cơn bão
+phai:: storm
+giải thích:: These terms focus on the electrical and thermal properties of storm systems.
+---
+loại:: noi
+câu 3:: Match the English terms with their correct Vietnamese meanings (Earthquakes - Set 1):
+trai:: strikes
+phai:: đánh (sét đánh)
+trai:: cover
+phai:: bao phủ
+trai:: crawl
+phai:: bò, trườn
+trai:: fault line
+phai:: đường đứt gãy
+trai:: get down
+phai:: đưa xuống, đánh đổ
+giải thích:: This set includes verbs and nouns used to describe earthquake mechanics and safety actions.
+---
+loại:: noi
+câu 4:: Match the Vietnamese meanings with their correct English terms (Earthquakes - Set 2):
+trai:: nắm chặt, giữ chặt
+phai:: hold on
+trai:: rung, lắc, lung lay
+phai:: shake
+trai:: bề mặt
+phai:: surface
+trai:: mảng kiến tạo
+phai:: tectonic plates
+trai:: sóng
+phai:: waves
+giải thích:: These terms describe the geological movements and physical sensations during seismic events.
+---
+loại:: noi
+câu 5:: Match the English terms with their correct Vietnamese meanings (Volcanoes):
+trai:: ash
+phai:: tro, tàn
+trai:: crack
+phai:: vết nứt, vỡ
+trai:: crater
+phai:: miệng núi lửa
+trai:: erupt
+phai:: phun (núi lửa)
+trai:: explode
+phai:: nổ bùng, nổ tung
+giải thích:: These terms are essential for describing volcanic structures and eruption processes.
+---
+//===================================================================================
+// VOCABULARY MATCHING: TERM 3 WEEK 10 - CIE 6 (BATCH 2)
+// Format: loại:: noi (5 pairs per question)
+// Logic: English-Vietnamese & Vietnamese-English Alternation
+//===================================================================================
+
+---
+loại:: noi
+câu 6:: Match the English terms with their correct Vietnamese meanings (Volcanoes & Angles - Set 1):
+trai:: lava
+phai:: dung nham
+trai:: Acute angle
+phai:: góc nhọn (< 90°)
+trai:: Obtuse angle
+phai:: góc tù (90° - 180°)
+trai:: Right angle
+phai:: góc vuông (90°)
+trai:: Reflex angle
+phai:: góc phản (180° - 360°)
+giải thích:: This set transitions from geological terms to fundamental geometric angle classifications[cite: 4, 7].
+---
+loại:: noi
+câu 7:: Match the Vietnamese meanings with their correct English terms (Angles & Geometry - Set 2):
+trai:: vòng quay đủ (360 độ)
+phai:: Full turn
+trai:: góc bẹt (180 độ)
+phai:: Straight angle
+trai:: tam giác cân
+phai:: Isosceles triangle
+trai:: tam giác đều
+phai:: Equilateral triangle
+trai:: mạch điện
+phai:: Circuit
+giải thích:: These terms define complex angles, triangle properties, and the basic definition of an electrical system[cite: 4, 7].
+---
+loại:: noi
+câu 8:: Match the English terms with their correct Vietnamese meanings (Science - Circuits):
+trai:: Circuit diagram
+phai:: sơ đồ mạch
+trai:: Parallel circuit
+phai:: mạch song song
+trai:: Series circuit
+phai:: mạch nối tiếp
+trai:: Symbol
+phai:: ký hiệu, biểu tượng
+trai:: Volt
+phai:: vôn (đơn vị đo điện áp)
+giải thích:: This set focuses on the terminology used for designing and measuring electrical circuits[cite: 4, 7].
+---
+loại:: noi
+câu 9:: Match the Vietnamese meanings with their correct English terms (Smart Start - Houses Set 1):
+trai:: điện áp
+phai:: Voltage
+trai:: căn hộ
+phai:: apartment
+trai:: căn hộ (từ đồng nghĩa)
+phai:: flat
+trai:: chung cư
+phai:: condominium
+trai:: căn hộ tầng mái
+phai:: penthouse
+giải thích:: This set introduces electrical force measurement and various modern urban residential types[cite: 4, 7].
+---
+loại:: noi
+câu 10:: Match the English terms with their correct Vietnamese meanings (Smart Start - Houses Set 2):
+trai:: basement apartment
+phai:: căn hộ tầng hầm
+trai:: houseboat
+phai:: nhà thuyền
+trai:: villa
+phai:: biệt thự
+trai:: cottage
+phai:: nhà tranh
+trai:: UFO
+phai:: vật thể bay không xác định
+giải thích:: These terms describe diverse living environments, from underground apartments to unconventional housing[cite: 4, 7].
+---
+
+//===================================================================================
+// VOCABULARY MATCHING: TERM 3 WEEK 10 - CIE 6 (BATCH 3 - FINAL)
+//===================================================================================
+
+---
+loại:: noi
+câu 11:: Match the Vietnamese meanings with their correct English terms (Smart Start - Set 3):
+trai:: lâu đài, cung điện
+phai:: palace
+trai:: nhà lưu động
+phai:: motorhome
+trai:: nhà chọc trời
+phai:: skyscraper
+trai:: lâu đài (thành trì)
+phai:: castle
+trai:: thiết bị, dụng cụ
+phai:: appliance
+giải thích:: Focuses on large-scale residences and the general term for household machines[cite: 4, 7].
+---
+loại:: noi
+câu 12:: Match the English terms with their correct Vietnamese meanings (Smart Start - Appliances):
+trai:: cable television
+phai:: truyền hình cáp
+trai:: fridge
+phai:: tủ lạnh
+trai:: solar energy
+phai:: năng lượng mặt trời
+trai:: electric cooker
+phai:: nồi cơm điện
+trai:: washing machine
+phai:: máy giặt
+giải thích:: These are common household appliances and energy sources for a modern "smart" world[cite: 4, 7].
+---
+loại:: noi
+câu 13:: Match the Vietnamese meanings with their correct English terms (Smart Start - Appliances & Adjectives):
+trai:: máy rửa bát
+phai:: dishwasher
+trai:: hệ thống mạng không dây
+phai:: wifi
+trai:: tivi kết nối mạng
+phai:: wireless TV
+trai:: đầy đủ, tiện nghi
+phai:: comfortable
+trai:: tự động
+phai:: automatic
+giải thích:: This set covers advanced connected appliances and descriptive adjectives for modern living[cite: 4, 7].
+---
+loại:: noi
+câu 14:: Match the English terms with their correct Vietnamese meanings (Smart Start - Adjectives):
+trai:: modern
+phai:: hiện đại
+trai:: smart
+phai:: thông minh
+trai:: hi-tech
+phai:: kỹ thuật cao
+trai:: different
+phai:: khác biệt
+trai:: fantastic
+phai:: tuyệt vời
+giải thích:: Adjectives used to describe the features and quality of high-technology environments[cite: 4, 7].
+---
+loại:: noi
+câu 15:: Match the Vietnamese meanings with their correct English terms (Grammar & Safety):
+trai:: đặc biệt
+phai:: special
+trai:: cho tới khi
+phai:: until
+trai:: ngay sau khi
+phai:: as soon as
+trai:: trong khi
+phai:: while
+trai:: Ở trong nhà!
+phai:: Stay inside!
+giải thích:: Includes time connectors for grammar and essential safety imperatives for natural disasters[cite: 4, 7].
+---
+loại:: noi
+câu 16:: Match the remaining terms and Review (Final Set):
+trai:: Don't move!
+phai:: Đừng cử động!
+trai:: tectonic plates
+phai:: mảng kiến tạo
+trai:: fault line
+phai:: đường đứt gãy
+trai:: Voltage
+phai:: điện áp
+trai:: Equilateral triangle
+phai:: tam giác đều
+giải thích:: The final set completes the 76-item list with a mix of safety, geology, physics, and geometry[cite: 4, 7].
+---
+loại:: mot_dap_an
+câu 1:: What is the definition of an "Acute angle"? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><path d="M 10 90 L 90 90 M 10 90 L 70 30" fill="none" stroke="black" stroke-width="2"/><path d="M 30 90 A 20 20 0 0 0 25 75" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: Angle equal to 90 degrees.
+b:: Angle smaller than 90 degrees.
+c:: Angle greater than 90 and smaller than 180 degrees.
+d:: Angle exactly 180 degrees.
+đáp án:: b
+giải thích:: Theo giáo trình Maths T3W10, Acute angle là góc nhỏ hơn 90 độ.
+---
+loại:: mot_dap_an
+câu 2:: Which type of angle is greater than 180 degrees but smaller than 360 degrees? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><path d="M 10 50 L 50 50 L 80 80" fill="none" stroke="black" stroke-width="2"/><path d="M 50 50 m 10 0 a 10 10 0 1 1 -5 8" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: Obtuse angle
+b:: Straight angle
+c:: Reflex angle
+d:: Right angle
+đáp án:: c
+giải thích:: Reflex angle là góc có số đo nằm trong khoảng từ 180 đến 360 độ.
+---
+loại:: mot_dap_an
+câu 3:: A triangle with 3 equal sides and 3 equal angles is called an: <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,15 90,85 10,85" fill="none" stroke="black" stroke-width="2"/><line x1="30" y1="50" x2="35" y2="50" stroke="red"/><line x1="65" y1="50" x2="70" y2="50" stroke="red"/><line x1="48" y1="85" x2="52" y2="85" stroke="red"/></svg></div>
+a:: Isosceles triangle
+b:: Right-angled triangle
+c:: Equilateral triangle
+d:: Scalene triangle
+đáp án:: c
+giải thích:: Tam giác có 3 cạnh bằng nhau và 3 góc bằng nhau là tam giác đều (Equilateral triangle).
+---
+loại:: mot_dap_an
+câu 4:: What causes lightning according to the Global English vocabulary? <br> <div style="display: flex; justify-content: center;"><svg width="200" height="100" viewBox="0 0 200 100"><path d="M 50 50 Q 70 20 100 50 T 150 50" fill="gray"/><text x="80" y="45" fill="red" font-weight="bold">+</text><text x="120" y="65" fill="blue" font-weight="bold">-</text><path d="M 100 60 L 90 80 L 110 80 L 100 100" fill="yellow" stroke="orange"/></svg></div>
+a:: Hot air meeting negative charges.
+b:: Connection of negative and positive charges.
+c:: Tectonic plates sliding together.
+d:: Magma turning into lava.
+đáp án:: b
+giải thích:: Sét được hình thành do sự kết nối giữa các điện tích âm và điện tích dương (negative and positive charges).
+---
+loại:: mot_dap_an
+câu 5:: In Science, a "Series circuit" is a circuit where the electric current has: <br> <div style="display: flex; justify-content: center;"><svg width="200" height="100" viewBox="0 0 200 100"><rect x="40" y="20" width="120" height="60" fill="none" stroke="black"/><circle cx="70" cy="20" r="10" fill="none" stroke="black"/><circle cx="130" cy="20" r="10" fill="none" stroke="black"/></svg></div>
+a:: Multiple pathways.
+b:: One pathway.
+c:: No symbols.
+d:: Only one volt.
+đáp án:: b
+giải thích:: Mạch nối tiếp (Series circuit) là mạch điện mà dòng điện chỉ có duy nhất một con đường (one pathway) để chạy qua.
+---
+loại:: mot_dap_an
+câu 6:: Which of the following is a unit for measuring the strength of electricity (voltage)? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="none" stroke="black"/><text x="50" y="65" text-anchor="middle" font-size="40" font-weight="bold">V</text></svg></div>
+a:: Circuit
+b:: Voltage
+c:: Volt
+d:: Symbol
+đáp án:: c
+giải thích:: Volt là đơn vị đo (unit), còn Voltage là đại lượng/lực (force) của dòng điện.
+---
+loại:: mot_dap_an
+câu 7:: What type of house is located on the top floor of a tall building? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="120" viewBox="0 0 100 120"><rect x="30" y="40" width="40" height="70" fill="none" stroke="black"/><rect x="25" y="20" width="50" height="20" fill="yellow" stroke="black"/><text x="50" y="35" text-anchor="middle" font-size="10">TOP</text></svg></div>
+a:: Villa
+b:: Penthouse
+c:: Houseboat
+d:: Cottage
+đáp án:: b
+giải thích:: Penthouse là căn hộ nằm ở tầng cao nhất của một tòa nhà cao tầng.
+---
+loại:: mot_dap_an
+câu 8:: Use the correct connecting word: "People should stay inside ________ the storm passes." <br> <div style="display: flex; justify-content: center;"><svg width="200" height="40" viewBox="0 0 200 40"><line x1="20" y1="20" x2="150" y2="20" stroke="blue" stroke-width="4"/><circle cx="150" cy="20" r="5" fill="red"/><text x="150" y="35" font-size="10">End Point</text></svg></div>
+a:: While
+b:: As soon as
+c:: Until
+d:: Right now
+đáp án:: c
+giải thích:: "Until" dùng để diễn tả một hành động kéo dài cho tới một thời điểm cụ thể (cho tới khi bão qua đi).
+---
+loại:: mot_dap_an
+câu 9:: What is the term for molten rock on the surface of the Earth? <br> <div style="display: flex; justify-content: center;"><svg width="200" height="100" viewBox="0 0 200 100"><path d="M 50 90 L 100 30 L 150 90 Z" fill="brown"/><path d="M 100 40 Q 110 60 100 80" stroke="red" stroke-width="5" fill="none"/></svg></div>
+a:: Magma
+b:: Ash
+c:: Lava
+d:: Crater
+đáp án:: c
+giải thích:: Lava là dung nham (đá nóng chảy đã phun ra bề mặt), phân biệt với magma (còn ở dưới lòng đất).
+---
+loại:: mot_dap_an
+câu 10:: An angle that measures exactly 90 degrees is a: <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><path d="M 20 20 L 20 80 L 80 80" fill="none" stroke="black" stroke-width="2"/><rect x="20" y="70" width="10" height="10" fill="none" stroke="red"/></svg></div>
+a:: Straight angle
+b:: Right angle
+c:: Reflex angle
+d:: Full turn
+đáp án:: b
+giải thích:: Góc có số đo đúng bằng 90 độ là góc vuông (Right angle).
+---
+loại:: mot_dap_an
+câu 11:: Which verb describes the action of a volcano exploding and sending out ash?
+a:: Crawl
+b:: Bump into
+c:: Erupt
+d:: Shake
+đáp án:: c
+giải thích:: Erupt là động từ dùng để chỉ sự phun trào của núi lửa.
+---
+loại:: mot_dap_an
+câu 12:: Identify the appliance: A machine used for washing dishes automatically.
+a:: Washing machine
+b:: Fridge
+c:: Dishwasher
+d:: Electric cooker
+đáp án:: c
+giải thích:: Dishwasher là máy rửa bát.
+---
+loại:: dung_sai
+câu 13:: An isosceles triangle has 3 sides equal and 3 angles equal.
+đáp án:: sai
+giải thích:: Sai. Tam giác cân (Isosceles triangle) chỉ có 2 cạnh bằng nhau và 2 góc bằng nhau. Tam giác có 3 cạnh/góc bằng nhau là Equilateral.
+---
+loại:: dien_khuyet
+câu 14:: A circuit where there is more than one pathway for electricity is called a .... <br> <div style="display: flex; justify-content: center;"><svg width="200" height="100" viewBox="0 0 200 100"><rect x="40" y="20" width="120" height="60" fill="none" stroke="black"/><line x1="100" y1="20" x2="100" y2="80" stroke="black"/></svg></div>
+đáp án:: parallel circuit
+giải thích:: Mạch có nhiều hơn một con đường cho dòng điện chạy là mạch song song (Parallel circuit).
+---
+loại:: mot_dap_an
+câu 15:: Which connecting word means "immediately after"?
+a:: While
+b:: Until
+c:: As soon as
+d:: During
+đáp án:: c
+giải thích:: "As soon as" dùng để chỉ một hành động xảy ra ngay lập tức sau một hành động khác.
+---
+loại:: mot_dap_an
+câu 16:: What tense is used in this sentence: "Cameramen were filming the eruption as it happened."?
+a:: Past Simple
+b:: Present Continuous
+c:: Past Continuous
+d:: Present Simple
+đáp án:: c
+giải thích:: Cấu trúc "were + V-ing" là thì Quá khứ tiếp diễn (Past Continuous).
+---
+loại:: mot_dap_an
+câu 17:: Which adjective means "using high technology"?
+a:: Modern
+b:: Hi-tech
+c:: Fantastic
+d:: Smart
+đáp án:: b
+giải thích:: Hi-tech là tính từ chỉ các thiết bị hoặc hệ thống sử dụng công nghệ cao.
+---
+loại:: mot_dap_an
+câu 18:: What is the term for a house that can be moved by a car? <br> <div style="display: flex; justify-content: center;"><svg width="150" height="60" viewBox="0 0 150 60"><rect x="50" y="10" width="80" height="40" rx="5" fill="none" stroke="black"/><circle cx="70" cy="50" r="5"/><circle cx="110" cy="50" r="5"/><rect x="20" y="25" width="30" height="25" fill="none" stroke="black"/></svg></div>
+a:: Skyscraper
+b:: Motorhome
+c:: Condominium
+d:: Palace
+đáp án:: b
+giải thích:: Motorhome là nhà lưu động có thể kéo đi bằng ô tô.
+---
+loại:: noi
+câu 19:: Nối các hiện tượng tự nhiên với định nghĩa tương ứng:
+trai:: Earthquake
+phai:: Shaking of the Earth's surface
+trai:: Volcano
+phai:: Molten rock and ash exploding from Earth
+trai:: Lightning
+phai:: Electricity flash during a storm
+trai:: Fault line
+phai:: A crack in the tectonic plates
+giải thích:: Các định nghĩa này khớp với phần từ vựng Unit 7 trong tài liệu T3W10.
+---
+loại:: mot_dap_an
+câu 20:: A straight angle measures exactly: <br> <div style="display: flex; justify-content: center;"><svg width="120" height="40" viewBox="0 0 120 40"><line x1="10" y1="30" x2="110" y2="30" stroke="black" stroke-width="2"/><circle cx="60" cy="30" r="3" fill="red"/><path d="M 40 30 A 20 20 0 0 1 80 30" fill="none" stroke="red"/></svg></div>
+a:: 90 degrees
+b:: 180 degrees
+c:: 270 degrees
+d:: 360 degrees
+đáp án:: b
+giải thích:: Góc bẹt (Straight angle) có số đo đúng bằng 180 độ.
+---
+loại:: mot_dap_an
+câu 21:: Which symbol is used to represent a lamp/bulb in a circuit diagram? <br> <div style="display: flex; justify-content: center;"><svg width="60" height="60" viewBox="0 0 60 60"><circle cx="30" cy="30" r="20" fill="none" stroke="black"/><line x1="15" y1="15" x2="45" y2="45" stroke="black"/><line x1="45" y1="15" x2="15" y2="45" stroke="black"/></svg></div>
+a:: A rectangle
+b:: A circle with an X inside
+c:: Two parallel lines
+d:: A zigzag line
+đáp án:: b
+giải thích:: Ký hiệu hình tròn có dấu X bên trong đại diện cho bóng đèn trong sơ đồ mạch điện.
+---
+loại:: mot_dap_an
+câu 22:: What is the meaning of "Deforestation"?
+a:: Planting more trees.
+b:: The cutting down or clearing of forests.
+c:: Protecting the animals in the forest.
+d:: Building houses in the forest.
+đáp án:: b
+giải thích:: Deforestation là nạn phá rừng hoặc sự mất rừng.
+---
+loại:: mot_dap_an
+câu 23:: Complete the imperative: "________ move! It's dangerous."
+a:: Do
+b:: Don't
+c:: Doesn't
+d:: Not
+đáp án:: b
+giải thích:: Câu mệnh lệnh phủ định bắt đầu bằng "Don't" (Don't move! - Đừng cử động!).
+---
+loại:: mot_dap_an
+câu 24:: An angle of 110 degrees is classified as:
+a:: Acute angle
+b:: Right angle
+c:: Obtuse angle
+d:: Reflex angle
+đáp án:: c
+giải thích:: Góc tù (Obtuse angle) là góc lớn hơn 90 độ và nhỏ hơn 180 độ.
+---
+loại:: mot_dap_an
+câu 25:: What does "Voltage" measure?
+a:: The length of the wire.
+b:: The force of an electric current.
+c:: The number of bulbs in a circuit.
+d:: The speed of sound.
+đáp án:: b
+giải thích:: Voltage (điện áp) đo lực của dòng điện, được tính bằng đơn vị volt.
+---
+loại:: phan_loai
+câu 26:: Phân loại các loại nhà sau vào đúng nhóm:
+nhom:: Living in the city
+nhom:: Unique / Mobile
+the:: Penthouse
+the:: Houseboat
+the:: Skyscraper
+the:: Motorhome
+the:: Condominium
+đáp án:: Penthouse::1
+đáp án:: Houseboat::2
+đáp án:: Skyscraper::1
+đáp án:: Motorhome::2
+đáp án:: Condominium::1
+giải thích:: Penthouse, Skyscraper và Condominium thường ở đô thị; Houseboat và Motorhome là các loại nhà đặc biệt có tính di động.
+---
+loại:: mot_dap_an
+câu 27:: When did the huge volcano explode in Italy according to the text?
+a:: In the year 1979
+b:: In the year 79
+c:: Last summer
+d:: 20km high
+đáp án:: b
+giải thích:: Tài liệu ghi nhận núi lửa phun trào tại Ý vào năm 79 (In the year 79).
+---
+loại:: mot_dap_an
+câu 28:: Which energy comes from the sun? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="20" fill="yellow" stroke="orange"/><line x1="50" y1="10" x2="50" y2="25" stroke="orange"/><line x1="50" y1="75" x2="50" y2="90" stroke="orange"/><line x1="10" y1="50" x2="25" y2="50" stroke="orange"/><line x1="75" y1="50" x2="90" y2="50" stroke="orange"/></svg></div>
+a:: Wind energy
+b:: Solar energy
+c:: Electrical energy
+d:: Nuclear energy
+đáp án:: b
+giải thích:: Solar energy là năng lượng mặt trời.
+---
+loại:: mot_dap_an
+câu 29:: "My sister is studying at university." What tense is this?
+a:: Present Simple
+b:: Past Simple
+c:: Present Continuous
+d:: Past Continuous
+đáp án:: c
+giải thích:: Cấu trúc "is + V-ing" đi kèm trạng từ "right now" (ngầm hiểu) là thì Hiện tại tiếp diễn.
+---
+loại:: mot_dap_an
+câu 30:: How many pathways does a "Series circuit" have?
+a:: One
+b:: Two
+c:: Many
+d:: None
+đáp án:: a
+giải thích:: Mạch nối tiếp (Series circuit) chỉ có duy nhất một con đường (one pathway) cho dòng điện.
+---
+//===================================================================================
+// KHO DỮ LIỆU CÂU HỎI: TERM 3 WEEK 10 - CIE 6 (BATCH 2)
+// Định dạng: Zero-Defect Plaintext for JavaScript Payload
+//===================================================================================
+
+---
+loại:: mot_dap_an
+câu 31:: Which angle is exactly 180 degrees? <br> <div style="display: flex; justify-content: center;"><svg width="150" height="50" viewBox="0 0 150 50"><line x1="10" y1="30" x2="140" y2="30" stroke="black" stroke-width="2"/><circle cx="75" cy="30" r="3" fill="red"/><path d="M 55 30 A 20 20 0 0 1 95 30" fill="none" stroke="red"/></svg></div>
+a:: Acute angle
+b:: Obtuse angle
+c:: Straight angle
+d:: Reflex angle
+đáp án:: c
+giải thích:: Theo định nghĩa trong Maths Unit 13, Straight angle có số đo chính xác bằng 180 độ. [cite: 4]
+---
+loại:: mot_dap_an
+câu 32:: In an "Isosceles triangle", how many sides are equal? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,10 80,90 20,90" fill="none" stroke="black" stroke-width="2"/><line x1="32" y1="50" x2="38" y2="50" stroke="red"/><line x1="62" y1="50" x2="68" y2="50" stroke="red"/></svg></div>
+a:: 0
+b:: 1
+c:: 2
+d:: 3
+đáp án:: c
+giải thích:: Tam giác cân (Isosceles triangle) là tam giác có 2 cạnh bằng nhau và 2 góc bằng nhau. [cite: 4]
+---
+loại:: mot_dap_an
+câu 33:: What happens in a "Parallel circuit" if one branch is broken? <br> <div style="display: flex; justify-content: center;"><svg width="200" height="100" viewBox="0 0 200 100"><rect x="40" y="20" width="120" height="60" fill="none" stroke="black"/><line x1="100" y1="20" x2="100" y2="80" stroke="black"/><circle cx="70" cy="50" r="8" fill="yellow" stroke="black"/><circle cx="130" cy="50" r="8" fill="none" stroke="red"/><line x1="126" y1="46" x2="134" y2="54" stroke="red"/><line x1="134" y1="46" x2="126" y2="54" stroke="red"/></svg></div>
+a:: All bulbs go out.
+b:: The other bulbs stay lit.
+c:: The battery gets stronger.
+d:: The circuit becomes a series circuit.
+đáp án:: b
+giải thích:: Trong mạch song song (Parallel circuit), do có nhiều nhánh đường đi nên nếu một nhánh hỏng, các nhánh còn lại vẫn hoạt động bình thường. [cite: 4]
+---
+loại:: mot_dap_an
+câu 34:: Which word refers to the force of an electric current, measured in volts?
+a:: Volt
+b:: Circuit
+c:: Voltage
+d:: Symbol
+đáp án:: c
+giải thích:: Voltage (điện áp) là đại lượng chỉ lực của dòng điện, trong khi Volt là đơn vị đo của nó. [cite: 4]
+---
+loại:: mot_dap_an
+câu 35:: Choose the correct word: "The earthquake was so strong that the ground began to ________." <br> <div style="display: flex; justify-content: center;"><svg width="150" height="50" viewBox="0 0 150 50"><path d="M 10 30 Q 20 10 30 30 T 50 30 T 70 30 T 90 30" fill="none" stroke="gray" stroke-width="2"/></svg></div>
+a:: erupt
+b:: explode
+c:: shake
+d:: connect
+đáp án:: c
+giải thích:: Động từ "shake" (rung lắc) được dùng để mô tả hiện tượng bề mặt Trái Đất rung chuyển khi có động đất. [cite: 4]
+---
+loại:: mot_dap_an
+câu 36:: What type of house is an "apartment on the top floor"?
+a:: Basement apartment
+b:: Condominium
+c:: Penthouse
+d:: Villa
+đáp án:: c
+giải thích:: Penthouse được định nghĩa là căn hộ nằm ở tầng cao nhất của một tòa nhà. [cite: 4]
+---
+loại:: mot_dap_an
+câu 37:: An angle of $250^{\\circ}$ is classified as a/an: <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="3" fill="black"/><line x1="50" y1="50" x2="90" y2="50" stroke="black"/><line x1="50" y1="50" x2="30" y2="80" stroke="black"/><path d="M 60 50 A 10 10 0 1 1 45 58" fill="none" stroke="red"/></svg></div>
+a:: Acute angle
+b:: Obtuse angle
+c:: Straight angle
+d:: Reflex angle
+đáp án:: d
+giải thích:: Góc Reflex có số đo lớn hơn 180 độ và nhỏ hơn 360 độ ($180^{\\circ} < 250^{\\circ} < 360^{\\circ}$). [cite: 4]
+---
+loại:: dien_khuyet
+câu 38:: A triangle with 3 equal sides and 3 equal angles is an .... <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,15 90,85 10,85" fill="none" stroke="black" stroke-width="2"/><line x1="30" y1="50" x2="35" y2="50" stroke="red"/><line x1="65" y1="50" x2="70" y2="50" stroke="red"/><line x1="48" y1="85" x2="52" y2="85" stroke="red"/></svg></div>
+đáp án:: equilateral triangle
+giải thích:: Equilateral triangle là tam giác đều, có 3 cạnh và 3 góc bằng nhau (mỗi góc $60^{\\circ}$). [cite: 4]
+---
+loại:: mot_dap_an
+câu 39:: Which appliance is used to keep food cold?
+a:: Electric cooker
+b:: Dishwasher
+c:: Fridge
+d:: Washing machine
+đáp án:: c
+giải thích:: Fridge (tủ lạnh) là thiết bị gia dụng dùng để bảo quản thực phẩm ở nhiệt độ thấp. [cite: 4]
+---
+loại:: mot_dap_an
+câu 40:: Fill in the blank: "I will call you ________ I arrive at the airport."
+a:: until
+b:: as soon as
+c:: while
+d:: before
+đáp án:: b
+giải thích:: "As soon as" dùng để chỉ một hành động xảy ra ngay lập tức sau một hành động khác (ngay sau khi đến sân bay). [cite: 4]
+---
+loại:: mot_dap_an
+câu 41:: In the sentence "As the lava was flowing, the volcano exploded", the underlined part is in which tense?
+a:: Past Simple
+b:: Present Continuous
+c:: Past Continuous
+d:: Future Simple
+đáp án:: c
+giải thích:: Cấu trúc "was/were + V-ing" (was flowing) là thì Quá khứ tiếp diễn. [cite: 4]
+---
+loại:: mot_dap_an
+câu 42:: What is a "Circuit diagram"?
+a:: A drawing of a real forest.
+b:: A map of a city's houses.
+c:: Using symbols for all components in an electrical system.
+d:: A photo of a lightning strike.
+đáp án:: c
+giải thích:: Sơ đồ mạch điện (Circuit diagram) là việc sử dụng các ký hiệu để biểu diễn các thành phần điện. [cite: 4]
+---
+loại:: mot_dap_an
+câu 43:: Which adjective means "automatic or working by itself"?
+a:: Modern
+b:: Fantastic
+c:: Smart
+d:: Automatic
+đáp án:: d
+giải thích:: "Automatic" có nghĩa là tự động, không cần sự can thiệp thủ công liên tục. [cite: 4]
+---
+loại:: mot_dap_an
+câu 44:: How many degrees are in a "Full turn"? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="30" fill="none" stroke="red" stroke-dasharray="2"/><path d="M 50 20 A 30 30 0 1 1 49.9 20" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: 90 degrees
+b:: 180 degrees
+c:: 270 degrees
+d:: 360 degrees
+đáp án:: d
+giải thích:: Một vòng quay đầy đủ (Full turn) tạo thành một góc $360^{\\circ}$. [cite: 4]
+---
+loại:: mot_dap_an
+câu 45:: Which part of a volcano is the "molten rock" called while it is still underground?
+a:: Lava
+b:: Ash
+c:: Magma
+d:: Crater
+đáp án:: c
+giải thích:: Đá nóng chảy khi còn ở dưới lòng đất được gọi là Magma, khi phun ra ngoài mới gọi là Lava. [cite: 4]
+---
+loại:: mot_dap_an
+câu 46:: What type of house is described as a "house on a boat"? <br> <div style="display: flex; justify-content: center;"><svg width="150" height="60" viewBox="0 0 150 60"><path d="M 20 40 L 130 40 L 110 55 L 40 55 Z" fill="none" stroke="black"/><rect x="50" y="15" width="50" height="25" fill="none" stroke="black"/></svg></div>
+a:: Villa
+b:: Houseboat
+c:: Cottage
+d:: Skyscraper
+đáp án:: b
+giải thích:: Houseboat là nhà thuyền, một loại hình cư trú trên mặt nước. [cite: 4]
+---
+loại:: mot_dap_an
+câu 47:: A "Right angle" measures exactly:
+a:: $45^{\\circ}$
+b:: $90^{\\circ}$
+c:: $180^{\\circ}$
+d:: $270^{\\circ}$
+đáp án:: b
+giải thích:: Góc vuông (Right angle) luôn có số đo bằng $90^{\\circ}$. [cite: 4]
+---
+loại:: mot_dap_an
+câu 48:: What does the symbol of a straight line in a circuit diagram represent?
+a:: A bulb
+b:: A battery
+c:: A wire/cable
+d:: A switch
+đáp án:: c
+giải thích:: Đường thẳng trong sơ đồ mạch điện đại diện cho dây dẫn (wire/cable). [cite: 4]
+---
+loại:: mot_dap_an
+câu 49:: Choose the correct imperative: "________ stay near the volcano! It is erupting."
+a:: Do
+b:: Don't
+c:: Always
+d:: Please
+đáp án:: b
+giải thích:: Sử dụng "Don't" để đưa ra lời cảnh báo hoặc mệnh lệnh phủ định (Đừng ở gần núi lửa!). [cite: 4]
+---
+loại:: mot_dap_an
+câu 50:: Which adjective is used to describe high-quality technology?
+a:: Special
+b:: Different
+c:: Hi-tech
+d:: Modern
+đáp án:: c
+giải thích:: "Hi-tech" (viết tắt của High Technology) dùng để chỉ các thiết bị kỹ thuật cao. [cite: 4]
+---
+loại:: mot_dap_an
+câu 51:: What is the term for a "crack in the Earth's crust" where tectonic plates meet?
+a:: Surface
+b:: Wave
+c:: Fault line
+d:: Cloud
+đáp án:: c
+giải thích:: Fault line là đường đứt gãy, nơi thường xuyên xảy ra các hoạt động địa chất như động đất. [cite: 4]
+---
+loại:: mot_dap_an
+câu 52:: An "Obtuse angle" is an angle that is: <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><path d="M 10 90 L 90 90 M 10 90 L 90 40" fill="none" stroke="black" stroke-width="2"/><path d="M 40 90 A 30 30 0 0 0 35 75" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: Less than $90^{\\circ}$
+b:: Exactly $90^{\\circ}$
+c:: Between $90^{\\circ}$ and $180^{\\circ}$
+d:: Exactly $180^{\\circ}$
+đáp án:: c
+giải thích:: Góc tù (Obtuse angle) có số đo lớn hơn góc vuông nhưng nhỏ hơn góc bẹt. [cite: 4]
+---
+loại:: mot_dap_an
+câu 53:: Which appliance uses "solar energy"? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="30" r="15" fill="yellow"/><rect x="20" y="60" width="60" height="30" fill="gray" stroke="black"/><line x1="20" y1="60" x2="80" y2="90" stroke="white"/><line x1="80" y1="60" x2="20" y2="90" stroke="white"/></svg></div>
+a:: Washing machine
+b:: Solar panel / Solar energy system
+c:: Fridge
+d:: Wireless TV
+đáp án:: b
+giải thích:: Solar energy là năng lượng mặt trời, được sử dụng để cung cấp điện sạch cho các thiết bị. [cite: 4]
+---
+loại:: mot_dap_an
+câu 54:: In a "Series circuit", if one bulb is broken, how many pathways are left for the current?
+a:: One
+b:: Two
+c:: Zero
+d:: Many
+đáp án:: c
+giải thích:: Vì mạch nối tiếp chỉ có 1 con đường duy nhất, nên khi một điểm bị ngắt, dòng điện không còn đường nào để chạy (0 pathways). [cite: 4]
+---
+loại:: mot_dap_an
+câu 55:: What does "Until" show in a sentence?
+a:: An action happening at the same time as another.
+b:: An action happening up to a certain point in time.
+c:: An action happening immediately after another.
+d:: A command or instruction.
+đáp án:: b
+giải thích:: "Until" dùng để diễn tả một sự việc kéo dài cho tới khi một thời điểm hoặc sự kiện khác xảy ra. [cite: 4]
+---
+loại:: mot_dap_an
+câu 56:: Which house is described as a "very tall building" in a city?
+a:: Cottage
+b:: Skyscraper
+c:: Villa
+d:: Houseboat
+đáp án:: b
+giải thích:: Skyscraper là nhà chọc trời, biểu tượng của kiến trúc đô thị hiện đại. [cite: 4]
+---
+loại:: mot_dap_an
+câu 57:: An angle of $180^{\\circ}$ is called a:
+a:: Reflex angle
+b:: Right angle
+c:: Straight angle
+d:: Acute angle
+đáp án:: c
+giải thích:: Góc $180^{\\circ}$ tạo thành một đường thẳng nên gọi là Straight angle. [cite: 4]
+---
+loại:: mot_dap_an
+câu 58:: What is the symbol for a "switch" in a circuit diagram when it is open? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="40" viewBox="0 0 100 40"><circle cx="30" cy="30" r="3"/><circle cx="70" cy="30" r="3"/><line x1="33" y1="30" x2="60" y2="10" stroke="black" stroke-width="2"/></svg></div>
+a:: A circle with an X
+b:: Two parallel lines
+c:: A line that is "lifted up" from the circuit
+d:: A long rectangle
+đáp án:: c
+giải thích:: Công tắc mở (open switch) được vẽ như một đoạn dây bị nhấc lên, ngăn dòng điện chạy qua. [cite: 4]
+---
+loại:: mot_dap_an
+câu 59:: Which word means "a large house for a king or queen"?
+a:: Cottage
+b:: Flat
+c:: Palace
+d:: Apartment
+đáp án:: c
+giải thích:: Palace là cung điện hoặc lâu đài lớn, nơi ở của giới hoàng gia. [cite: 4]
+---
+loại:: mot_dap_an
+câu 60:: What type of charges create lightning when they connect?
+a:: Hot and cold air
+b:: Negative and positive charges
+c:: Ash and lava
+d:: Tectonic and fault charges
+đáp án:: b
+giải thích:: Sự tương tác giữa điện tích âm (negative) và điện tích dương (positive) tạo ra tia sét. [cite: 4]
+---
+loại:: mot_dap_an
+câu 61:: Identify the tense: "Right now, my sister is studying at university."
+a:: Past Simple
+b:: Past Continuous
+c:: Present Continuous
+d:: Present Simple
+đáp án:: c
+giải thích:: "Is studying" kết hợp với "Right now" là dấu hiệu của thì Hiện tại tiếp diễn. [cite: 4]
+---
+loại:: mot_dap_an
+câu 62:: An angle that is $45^{\\circ}$ is an:
+a:: Acute angle
+b:: Obtuse angle
+c:: Reflex angle
+d:: Straight angle
+đáp án:: a
+giải thích:: $45^{\\circ}$ nhỏ hơn $90^{\\circ}$ nên đây là góc nhọn (Acute angle). [cite: 4]
+---
+loại:: mot_dap_an
+câu 63:: What is a "motorhome"?
+a:: A house in the basement.
+b:: A house that can be moved with a car/engine.
+c:: A house made of glass.
+d:: A house underwater.
+đáp án:: b
+giải thích:: Motorhome là nhà lưu động, có thể di chuyển như một chiếc xe. [cite: 4]
+---
+loại:: mot_dap_an
+câu 64:: Which word is a synonym for "apartment"?
+a:: Villa
+b:: Cottage
+c:: Flat
+d:: Palace
+đáp án:: c
+giải thích:: "Flat" và "Apartment" đều có nghĩa là căn hộ. [cite: 4]
+---
+loại:: mot_dap_an
+câu 65:: What are "tectonic plates"?
+a:: Pieces of a volcano.
+b:: Large pieces of the Earth's crust that move.
+c:: Types of clouds.
+d:: Parts of an electric circuit.
+đáp án:: b
+giải thích:: Mảng kiến tạo (tectonic plates) là những mảng lớn cấu tạo nên vỏ Trái Đất. [cite: 4]
+---
+loại:: mot_dap_an
+câu 66:: Which tense is used for an action that happened at a specific time in the past?
+a:: Present Continuous
+b:: Past Simple
+c:: Past Continuous
+d:: Present Simple
+đáp án:: b
+giải thích:: Thì Quá khứ đơn (Past Simple) dùng cho hành động đã kết thúc tại một thời điểm xác định trong quá khứ. [cite: 4]
+---
+loại:: mot_dap_an
+câu 67:: A "dishwasher" is an example of an:
+a:: Environment
+b:: Appliance
+c:: Angle
+d:: Earthquake
+đáp án:: b
+giải thích:: Dishwasher (máy rửa bát) là một loại thiết bị gia dụng (appliance). [cite: 4]
+---
+loại:: mot_dap_an
+câu 68:: What is the unit "Volt" used for?
+a:: Measuring length
+b:: Measuring temperature
+c:: Measuring the strength of electricity
+d:: Measuring the weight of an object
+đáp án:: c
+giải thích:: Volt dùng để đo độ mạnh của dòng điện (điện áp). [cite: 4]
+---
+loại:: mot_dap_an
+câu 69:: Which word means "immediately after"?
+a:: While
+b:: As soon as
+c:: Until
+d:: When
+đáp án:: b
+giải thích:: "As soon as" dùng để nối hai sự việc xảy ra nối tiếp nhau ngay lập tức. [cite: 4]
+---
+loại:: mot_dap_an
+câu 70:: An angle of $300^{\\circ}$ is a:
+a:: Acute angle
+b:: Obtuse angle
+c:: Right angle
+d:: Reflex angle
+đáp án:: d
+giải thích:: $300^{\\circ}$ nằm trong khoảng từ $180^{\\circ}$ đến $360^{\\circ}$ nên là góc Reflex. [cite: 4]
+---
+//===================================================================================
+// KHO DỮ LIỆU CÂU HỎI: TERM 3 WEEK 10 - CIE 6 (BATCH 3)
+// Định dạng: Zero-Defect Plaintext for JavaScript Payload
+//===================================================================================
+
+---
+loại:: mot_dap_an
+câu 71:: Which of the following is TRUE about an "Equilateral triangle"? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,15 90,85 10,85" fill="none" stroke="black" stroke-width="2"/><text x="50" y="95" text-anchor="middle" font-size="10">All sides equal</text></svg></div>
+a:: It has only 2 sides equal.
+b:: It has 3 equal sides and each angle is $60^{\\circ}$.
+c:: It must have one right angle ($90^{\\circ}$).
+d:: It is the same as a reflex angle.
+đáp án:: b
+giải thích:: Tam giác đều (Equilateral triangle) có 3 cạnh bằng nhau và 3 góc bằng nhau, mỗi góc bằng $60^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 72:: In a "Series circuit", if there are two bulbs and one is removed, the other bulb will: <br> <div style="display: flex; justify-content: center;"><svg width="200" height="100" viewBox="0 0 200 100"><rect x="40" y="20" width="120" height="60" fill="none" stroke="black"/><circle cx="70" cy="20" r="8" fill="none" stroke="red"/><line x1="66" y1="16" x2="74" y2="24" stroke="red"/><line x1="74" y1="16" x2="66" y2="24" stroke="red"/><circle cx="130" cy="20" r="8" fill="yellow" stroke="black"/></svg></div>
+a:: Stay lit.
+b:: Go out immediately.
+c:: Become brighter.
+d:: Flash on and off.
+đáp án:: b
+giải thích:: Trong mạch nối tiếp, dòng điện chỉ có một con đường (one pathway). Khi một bóng bị tháo, mạch bị hở và bóng còn lại sẽ tắt.
+---
+loại:: mot_dap_an
+câu 73:: An angle that measures $181^{\\circ}$ is called:
+a:: Obtuse angle
+b:: Straight angle
+c:: Reflex angle
+d:: Acute angle
+đáp án:: c
+giải thích:: Bất kỳ góc nào lớn hơn $180^{\\circ}$ và nhỏ hơn $360^{\\circ}$ đều là góc Reflex.
+---
+loại:: noi
+câu 74:: Nối các loại góc với số đo tương ứng:
+trai:: Acute angle
+phai:: < $90^{\\circ}$
+trai:: Right angle
+phai:: Exactly $90^{\\circ}$
+trai:: Obtuse angle
+phai:: Between $90^{\\circ}$ and $180^{\\circ}$
+trai:: Straight angle
+phai:: Exactly $180^{\\circ}$
+trai:: Reflex angle
+phai:: > $180^{\\circ}$ and < $360^{\\circ}$
+giải thích:: Đây là bảng phân loại các loại góc cơ bản trong Unit 13.
+---
+loại:: phan_loai
+câu 75:: Phân loại các thiết bị sau vào đúng nhóm chức năng:
+nhom:: Kitchen Appliances
+nhom:: Living/Entertainment
+the:: Fridge
+the:: Dishwasher
+the:: Electric cooker
+the:: Wireless TV
+the:: Cable television
+the:: Wifi
+đáp án:: Fridge::1
+đáp án:: Dishwasher::1
+đáp án:: Electric cooker::1
+đáp án:: Wireless TV::2
+đáp án:: Cable television::2
+đáp án:: Wifi::2
+giải thích:: Fridge, Dishwasher, Electric cooker là thiết bị nhà bếp; Wireless TV, Cable TV và Wifi thuộc nhóm giải trí/kết nối.
+---
+loại:: mot_dap_an
+câu 76:: Complete the sentence using the correct grammar: "The cameramen ________ the eruption when the ash cloud appeared."
+a:: are filming
+b:: were filming
+c:: films
+d:: film
+đáp án:: b
+giải thích:: Sử dụng thì Quá khứ tiếp diễn (were filming) để diễn tả một hành động đang xảy ra thì có hành động khác xen vào trong quá khứ.
+---
+loại:: mot_dap_an
+câu 77:: What is a "Condominium"?
+a:: A house on a boat.
+b:: A type of apartment building.
+c:: A house in the forest.
+d:: A house with wheels.
+đáp án:: b
+giải thích:: Condominium (chung cư) là một loại hình căn hộ trong một tòa nhà.
+---
+loại:: mot_dap_an
+câu 78:: In the symbol for a battery (cell), what do the two lines represent? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="60" viewBox="0 0 100 60"><line x1="45" y1="10" x2="45" y2="50" stroke="black" stroke-width="2"/><line x1="55" y1="20" x2="55" y2="40" stroke="black" stroke-width="4"/></svg></div>
+a:: Two different bulbs.
+b:: Two pathways for electricity.
+c:: Positive and negative terminals.
+d:: Two different switches.
+đáp án:: c
+giải thích:: Trong sơ đồ mạch điện, biểu tượng nguồn (cell) gồm một vạch dài và một vạch ngắn biểu thị cực dương và cực âm.
+---
+loại:: mot_dap_an
+câu 79:: Which type of triangle has exactly two sides of equal length? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,10 80,90 20,90" fill="none" stroke="black" stroke-width="2"/><line x1="32" y1="50" x2="38" y2="50" stroke="red"/><line x1="62" y1="50" x2="68" y2="50" stroke="red"/></svg></div>
+a:: Equilateral triangle
+b:: Isosceles triangle
+c:: Right triangle
+d:: Scalene triangle
+đáp án:: b
+giải thích:: Isosceles triangle (tam giác cân) có đặc điểm là có 2 cạnh bằng nhau và 2 góc bằng nhau.
+---
+loại:: mot_dap_an
+câu 80:: Fill in the blank: "We will wait here ________ the rain stops."
+a:: while
+b:: until
+c:: as soon as
+d:: after
+đáp án:: b
+giải thích:: "Until" dùng để chỉ thời điểm kết thúc của một hành động (đợi cho tới khi mưa tạnh).
+---
+loại:: mot_dap_an
+câu 81:: Which adjective is used to describe a house that has many modern features and is comfortable to live in?
+a:: Automatic
+b:: Modern
+c:: Special
+d:: Fantastic
+đáp án:: d
+giải thích:: "Fantastic" (tuyệt vời) hoặc "Modern" (hiện đại) thường được dùng để mô tả các căn hộ cao cấp.
+---
+loại:: mot_dap_an
+câu 82:: What happens when two tectonic plates "bump into" each other? <br> <div style="display: flex; justify-content: center;"><svg width="200" height="60" viewBox="0 0 200 60"><rect x="10" y="20" width="80" height="30" fill="tan"/><rect x="110" y="20" width="80" height="30" fill="tan"/><path d="M 90 35 L 110 35" stroke="red" stroke-width="2" marker-end="url(#arrow)"/></svg></div>
+a:: Lightning is created.
+b:: A full turn is made.
+c:: An earthquake or mountain formation occurs.
+d:: Electricity flows in a parallel circuit.
+đáp án:: c
+giải thích:: Khi các mảng kiến tạo va chạm (bump into), chúng gây ra các hiện tượng địa chất như động đất.
+---
+loại:: mot_dap_an
+câu 83:: In a "Parallel circuit", if there are two pathways and one pathway is cut, what happens to the electricity in the other pathway? <br> <div style="display: flex; justify-content: center;"><svg width="200" height="100" viewBox="0 0 200 100"><rect x="40" y="20" width="120" height="60" fill="none" stroke="black"/><line x1="100" y1="20" x2="100" y2="80" stroke="black"/><circle cx="70" cy="50" r="10" fill="yellow"/><circle cx="130" cy="50" r="10" fill="none" stroke="black"/></svg></div>
+a:: It stops flowing everywhere.
+b:: It continues to flow through the remaining pathway.
+c:: It becomes voltage.
+d:: It changes into static electricity.
+đáp án:: b
+giải thích:: Mạch song song có nhiều hơn một đường đi (more than a pathway), nên điện vẫn có thể chạy qua các nhánh không bị ngắt.
+---
+loại:: mot_dap_an
+câu 84:: What is the sum of angles on a straight line? <br> <div style="display: flex; justify-content: center;"><svg width="150" height="50" viewBox="0 0 150 50"><line x1="10" y1="40" x2="140" y2="40" stroke="black" stroke-width="2"/><circle cx="75" cy="40" r="3" fill="red"/><path d="M 50 40 A 25 25 0 0 1 100 40" fill="none" stroke="red"/></svg></div>
+a:: $90^{\\circ}$
+b:: $180^{\\circ}$
+c:: $270^{\\circ}$
+d:: $360^{\\circ}$
+đáp án:: b
+giải thích:: Một góc bẹt (Straight angle) có số đo là $180^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 85:: Which type of house is described as a "house made of grass and mud" in the countryside?
+a:: Villa
+b:: Palace
+c:: Cottage
+d:: Skyscraper
+đáp án:: c
+giải thích:: Cottage là nhà tranh, thường gặp ở vùng nông thôn.
+---
+loại:: mot_dap_an
+câu 86:: Use the correct tense: "Right now, scientists ________ the volcano's activity."
+a:: was studying
+b:: are studying
+c:: studied
+d:: study
+đáp án:: b
+giải thích:: "Right now" là dấu hiệu của thì Hiện tại tiếp diễn (are studying).
+---
+loại:: mot_dap_an
+câu 87:: What is "Voltage"?
+a:: The measurement of time in a circuit.
+b:: The force of an electric current.
+c:: A type of isosceles triangle.
+d:: A cloud with negative charges.
+đáp án:: b
+giải thích:: Voltage (điện áp) là lực của dòng điện, được đo bằng đơn vị volt.
+---
+loại:: mot_dap_an
+câu 88:: What is the term for a "flash of electricity" in the sky during a storm?
+a:: Wave
+b:: Lightning
+c:: Lava
+d:: Ash
+đáp án:: b
+giải thích:: Lightning (sét) là hiện tượng phóng điện trong khí quyển khi có bão.
+---
+loại:: mot_dap_an
+câu 89:: A "Full turn" is equivalent to how many right angles? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="30" fill="none" stroke="black"/><line x1="50" y1="20" x2="50" y2="80" stroke="black"/><line x1="20" y1="50" x2="80" y2="50" stroke="black"/></svg></div>
+a:: 1
+b:: 2
+c:: 3
+d:: 4
+đáp án:: d
+giải thích:: Một vòng quay đầy đủ ($360^{\\circ}$) bằng 4 lần góc vuông ($90^{\\circ} \\times 4 = 360^{\\circ}$).
+---
+loại:: phan_loai
+câu 90:: Phân loại các tính từ sau vào đúng nhóm:
+nhom:: Technology (Công nghệ)
+nhom:: Opinion (Quan điểm)
+the:: Automatic
+the:: Hi-tech
+the:: Smart
+the:: Fantastic
+the:: Special
+the:: Modern
+đáp án:: Automatic::1
+đáp án:: Hi-tech::1
+đáp án:: Smart::1
+đáp án:: Fantastic::2
+đáp án:: Special::2
+đáp án:: Modern::2
+giải thích:: Automatic, Hi-tech, Smart mô tả tính chất công nghệ; Fantastic, Special, Modern mang tính đánh giá/quan điểm cá nhân.
+---
+loại:: mot_dap_an
+câu 91:: Which connecting word is used to describe two things happening at the same time?
+a:: Until
+b:: As soon as
+c:: While
+d:: Before
+đáp án:: c
+giải thích:: "While" có nghĩa là "trong khi", dùng cho hai hành động xảy ra song song.
+---
+loại:: mot_dap_an
+câu 92:: What is the term for the "powder" that comes out of a volcano?
+a:: Lava
+b:: Magma
+c:: Ash
+d:: Crater
+đáp án:: c
+giải thích:: Ash là tro hoặc tàn mịn phun ra từ núi lửa.
+---
+loại:: mot_dap_an
+câu 93:: In an "Isosceles triangle", if one angle is $90^{\\circ}$, what are the other two equal angles?
+a:: $30^{\\circ}$ and $30^{\\circ}$
+b:: $45^{\\circ}$ and $45^{\\circ}$
+c:: $60^{\\circ}$ and $60^{\\circ}$
+d:: $90^{\\circ}$ and $90^{\\circ}$
+đáp án:: b
+giải thích:: Tổng 3 góc tam giác là $180^{\\circ}$. Nếu góc đỉnh là $90^{\\circ}$, hai góc đáy bằng nhau sẽ là $(180 - 90) \\div 2 = 45^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 94:: What does the symbol of a circle with an "X" represent in a circuit diagram? <br> <div style="display: flex; justify-content: center;"><svg width="60" height="60" viewBox="0 0 60 60"><circle cx="30" cy="30" r="20" fill="none" stroke="black"/><line x1="15" y1="15" x2="45" y2="45" stroke="black"/><line x1="45" y1="15" x2="15" y2="45" stroke="black"/></svg></div>
+a:: Battery
+b:: Switch
+c:: Lamp / Bulb
+d:: Wire
+đáp án:: c
+giải thích:: Đây là ký hiệu chuẩn của bóng đèn trong sơ đồ mạch điện.
+---
+loại:: mot_dap_an
+câu 95:: Which house is described as a "house on wheels" that you can live in while traveling?
+a:: Villa
+b:: Motorhome
+c:: Penthouse
+d:: Flat
+đáp án:: b
+giải thích:: Motorhome là nhà lưu động dùng cho việc đi du lịch.
+---
+loại:: dung_sai
+câu 96:: A reflex angle is smaller than a right angle.
+đáp án:: sai
+giải thích:: Sai. Góc Reflex ($> 180^{\\circ}$) lớn hơn rất nhiều so với góc vuông ($90^{\\circ}$).
+---
+loại:: dien_khuyet
+câu 97:: The crack between tectonic plates where earthquakes occur is called a .... <br> <div style="display: flex; justify-content: center;"><svg width="200" height="60" viewBox="0 0 200 60"><rect x="10" y="30" width="80" height="20" fill="green"/><rect x="110" y="40" width="80" height="20" fill="green"/><path d="M 90 30 L 110 60" stroke="red" stroke-dasharray="4"/></svg></div>
+đáp án:: fault line
+giải thích:: Fault line là đường đứt gãy giữa các mảng kiến tạo.
+---
+loại:: mot_dap_an
+câu 98:: Which appliance is used to provide internet connection in a smart home?
+a:: Electric cooker
+b:: Wifi (Wireless Fidelity)
+c:: Washing machine
+d:: Fridge
+đáp án:: b
+giải thích:: Wifi là hệ thống mạng không dây cung cấp kết nối internet.
+---
+//===================================================================================
+// KHO DỮ LIỆU CÂU HỎI: TERM 3 WEEK 10 - CIE 6 (BATCH 4)
+// Định dạng: Zero-Defect Plaintext for JavaScript Payload
+//===================================================================================
+
+---
+loại:: mot_dap_an
+câu 121:: Một người thợ đang lắp đặt tấm pin năng lượng mặt trời (solar panel) trên mái nhà. Nếu góc giữa tấm pin và sàn nhà là $35^{\\circ}$, thì góc này thuộc loại góc nào? <br> <div style="display: flex; justify-content: center;"><svg width="150" height="100" viewBox="0 0 150 100"><line x1="20" y1="80" x2="130" y2="80" stroke="black" stroke-width="2"/><line x1="20" y1="80" x2="100" y2="40" stroke="blue" stroke-width="4"/><path d="M 50 80 A 30 30 0 0 0 45 68" fill="none" stroke="red"/><text x="60" y="75" font-size="10">35°</text></svg></div>
+a:: Obtuse angle
+b:: Right angle
+c:: Acute angle
+d:: Reflex angle
+đáp án:: c
+giải thích:: Vì $35^{\\circ} < 90^{\\circ}$ nên đây là góc nhọn (Acute angle).
+---
+loại:: mot_dap_an
+câu 122:: Trong một căn hộ Penthouse thông minh, hệ thống Wifi hoạt động độc lập với hệ thống chiếu sáng. Nếu Wifi hỏng mà đèn vẫn sáng, hai hệ thống này được kết nối theo mạch gì?
+a:: Series circuit
+b:: Parallel circuit
+c:: Straight circuit
+d:: Acute circuit
+đáp án:: b
+giải thích:: Trong mạch song song (Parallel circuit), các thiết bị hoạt động trên các nhánh riêng biệt, không ảnh hưởng lẫn nhau.
+---
+loại:: mot_dap_an
+câu 123:: Cho tam giác $ABC$ là tam giác cân tại $A$. Nếu góc $B = 70^{\\circ}$, hãy tính số đo của góc $A$. <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,15 80,85 20,85" fill="none" stroke="black" stroke-width="2"/><text x="25" y="80" font-size="10">70°</text><text x="70" y="80" font-size="10">70°</text><text x="48" y="35" font-size="10">?</text></svg></div>
+a:: $40^{\\circ}$
+b:: $70^{\\circ}$
+c:: $110^{\\circ}$
+d:: $180^{\\circ}$
+đáp án:: a
+giải thích:: Trong tam giác cân, hai góc đáy bằng nhau ($70^{\\circ} + 70^{\\circ} = 140^{\\circ}$). Góc đỉnh $A = 180^{\\circ} - 140^{\\circ} = 40^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 124:: "The volcano ________ ash for hours before it finally ________." Chọn cặp động từ đúng:
+a:: was producing / exploded
+b:: produced / was exploding
+c:: is producing / explodes
+d:: produces / exploded
+đáp án:: a
+giải thích:: Sử dụng Quá khứ tiếp diễn (was producing) cho hành động kéo dài và Quá khứ đơn (exploded) cho sự việc kết thúc hành động đó.
+---
+loại:: mot_dap_an
+câu 125:: Một kỹ sư đo được điện áp (voltage) của một bộ pin Motorhome là 24. Đơn vị đo này phải được viết là:
+a:: 24 Volts
+b:: 24 Voltages
+c:: 24 Symbols
+d:: 24 Circuits
+đáp án:: a
+giải thích:: Volt là đơn vị đo sức mạnh điện (voltage).
+---
+loại:: mot_dap_an
+câu 126:: Phân tích câu: "Stay inside! Don't move!" Đây là loại hình câu gì?
+a:: Past Simple
+b:: Present Continuous
+c:: Imperative verb forms
+d:: Connecting words
+đáp án:: c
+giải thích:: Đây là các câu mệnh lệnh (Imperatives) dùng để đưa ra chỉ dẫn quan trọng.
+---
+loại:: mot_dap_an
+câu 127:: Nếu một mảng kiến tạo (tectonic plate) quay được một nửa vòng tròn so với vị trí cũ, nó đã quay một góc bao nhiêu độ?
+a:: $90^{\\circ}$
+b:: $180^{\\circ}$
+c:: $270^{\\circ}$
+d:: $360^{\\circ}$
+đáp án:: b
+giải thích:: Một nửa vòng tròn tương đương với một góc bẹt (Straight angle) là $180^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 128:: Trong sơ đồ mạch điện (circuit diagram), tại sao chúng ta sử dụng "Symbols" thay vì vẽ hình thật?
+a:: Để làm cho sơ đồ đẹp hơn.
+b:: Để tất cả mọi người trên thế giới đều có thể hiểu giống nhau.
+c:: Vì chúng ta không biết vẽ hình thật.
+d:: Để tiết kiệm mực in.
+đáp án:: b
+giải thích:: Ký hiệu (Symbol) là dấu hiệu quy ước đại diện cho vật thật để chuẩn hóa việc đọc sơ đồ.
+---
+loại:: mot_dap_an
+câu 129:: Một căn hộ có hệ thống pin mặt trời (solar energy) tự động bật đèn khi trời tối. Tính từ nào mô tả đúng nhất hệ thống này?
+a:: Fantastic
+b:: Special
+c:: Automatic
+d:: Modern
+đáp án:: c
+giải thích:: "Automatic" có nghĩa là tự động vận hành mà không cần con người điều khiển.
+---
+loại:: mot_dap_an
+câu 130:: "As soon as the earthquake ________, the surface of the road ________."
+a:: starts / shakes
+b:: started / shook
+c:: was starting / was shaking
+d:: starting / shaken
+đáp án:: b
+giải thích:: "As soon as" thường đi với Quá khứ đơn để chỉ hai hành động xảy ra liên tiếp trong quá khứ.
+---
+loại:: mot_dap_an
+câu 131:: Tính góc Reflex lớn nhất có thể tạo ra từ một góc Acute $30^{\\circ}$? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="3" fill="black"/><line x1="50" y1="50" x2="90" y2="50" stroke="black"/><line x1="50" y1="50" x2="85" y2="30" stroke="black"/><path d="M 60 50 A 10 10 0 1 1 58 45" fill="none" stroke="red"/><text x="40" y="55" font-size="10">?</text></svg></div>
+a:: $150^{\\circ}$
+b:: $180^{\\circ}$
+c:: $330^{\\circ}$
+d:: $360^{\\circ}$
+đáp án:: c
+giải thích:: Một vòng quay đầy đủ là $360^{\\circ}$. Góc Reflex tương ứng = $360^{\\circ} - 30^{\\circ} = 330^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 132:: Trong mạch điện song song, nếu tăng số lượng bóng đèn trên các nhánh mới, điện áp (voltage) tổng của nguồn có thay đổi không?
+a:: Có, nó sẽ tăng lên.
+b:: Có, nó sẽ giảm đi.
+c:: Không, nó vẫn giữ nguyên sức mạnh của nguồn.
+d:: Mạch sẽ biến thành mạch nối tiếp.
+đáp án:: c
+giải thích:: Voltage là lực của dòng điện từ nguồn; trong mạch song song, điện áp ở mỗi nhánh bằng điện áp nguồn.
+---
+loại:: mot_dap_an
+câu 133:: "While my dad ________ the motorhome, I ________ the map."
+a:: was driving / was checking
+b:: drove / checked
+c:: drives / checks
+d:: is driving / check
+đáp án:: a
+giải thích:: "While" diễn tả hai hành động song song đang xảy ra trong quá khứ (Quá khứ tiếp diễn).
+---
+loại:: mot_dap_an
+câu 134:: Phân số của một "Full turn" nếu ta quay một góc "Right angle" là bao nhiêu?
+a:: $\\frac{1}{2}$
+b:: $\\frac{1}{4}$
+c:: $\\frac{1}{3}$
+d:: $\\frac{3}{4}$
+đáp án:: b
+giải thích:: Một Right angle ($90^{\\circ}$) chiếm $90/360 = 1/4$ của một Full turn.
+---
+loại:: mot_dap_an
+câu 135:: Đâu là "điểm chết" (fault line) trong địa chất?
+a:: Nơi núi lửa phun trào lava.
+b:: Đường nứt giữa các mảng kiến tạo nơi động đất xảy ra.
+c:: Bề mặt của một đám mây tích điện.
+d:: Dây dẫn trong mạch điện nối tiếp.
+đáp án:: b
+giải thích:: Fault line là đường đứt gãy/vết nứt nơi các mảng kiến tạo dịch chuyển.
+---
+loại:: mot_dap_an
+câu 136:: Một tam giác đều (Equilateral triangle) có cạnh 5cm. Tổng số đo 3 góc của nó là bao nhiêu?
+a:: $60^{\\circ}$
+b:: $120^{\\circ}$
+c:: $180^{\\circ}$
+d:: $360^{\\circ}$
+đáp án:: c
+giải thích:: Mọi tam giác đều có tổng 3 góc bằng $180^{\\circ}$. Với tam giác đều, mỗi góc là $60^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 137:: Tại sao sấm sét (lightning) lại liên quan đến "electricity"?
+a:: Vì sét tạo ra nước mưa.
+b:: Vì sét là sự phóng điện giữa các điện tích âm và dương.
+c:: Vì sét làm sáng bầu trời giống bóng đèn.
+d:: Vì sét chỉ xảy ra khi có mạch điện song song.
+đáp án:: b
+giải thích:: Sét là hiện tượng phóng điện (electricity) giữa các vùng điện tích trái dấu.
+---
+loại:: mot_dap_an
+câu 138:: "We lived in a cottage ________ we moved to a modern skyscraper."
+a:: until
+b:: as soon as
+c:: while
+d:: during
+đáp án:: a
+giải thích:: "Until" chỉ mốc thời gian kết thúc một trạng thái (sống ở nhà tranh cho đến khi chuyển đi).
+---
+loại:: mot_dap_an
+câu 139:: Thiết bị nào dưới đây KHÔNG phải là "appliance" trong nhà?
+a:: Dishwasher
+b:: Electric cooker
+c:: Earthquake
+d:: Washing machine
+đáp án:: c
+giải thích:: Earthquake là thảm họa tự nhiên, không phải thiết bị gia dụng (appliance).
+---
+loại:: mot_dap_an
+câu 140:: Một góc Reflex có thể có số đo nào sau đây?
+a:: $89^{\\circ}$
+b:: $91^{\\circ}$
+c:: $179^{\\circ}$
+d:: $200^{\\circ}$
+đáp án:: d
+giải thích:: Góc Reflex phải lớn hơn $180^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 141:: Nếu bạn đang ở trong một tòa nhà chọc trời (skyscraper) và có động đất, chỉ dẫn "Get down!" có nghĩa là gì?
+a:: Đi lên tầng thượng.
+b:: Hạ thấp trọng tâm cơ thể xuống sàn nhà.
+c:: Nhảy ra khỏi cửa sổ.
+d:: Chạy vào thang máy.
+đáp án:: b
+giải thích:: "Get down" là lệnh hạ thấp người để tránh bị ngã hoặc vật rơi trúng khi rung lắc.
+---
+loại:: mot_dap_an
+câu 142:: Trong mạch điện, ký hiệu nào dùng để ngắt hoặc nối dòng điện? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="40" viewBox="0 0 100 40"><circle cx="30" cy="30" r="3"/><circle cx="70" cy="30" r="3"/><line x1="33" y1="30" x2="60" y2="10" stroke="black" stroke-width="2"/></svg></div>
+a:: Lamp
+b:: Battery
+c:: Switch
+d:: Volt
+đáp án:: c
+giải thích:: Switch (công tắc) là thành phần dùng để kiểm tra việc đóng/mở mạch điện.
+---
+loại:: mot_dap_an
+câu 143:: Một tam giác cân có một góc ở đáy là $40^{\\circ}$. Góc ở đáy còn lại là:
+a:: $40^{\\circ}$
+b:: $50^{\\circ}$
+c:: $100^{\\circ}$
+d:: $140^{\\circ}$
+đáp án:: a
+giải thích:: Tam giác cân (Isosceles triangle) có hai góc ở đáy bằng nhau.
+---
+loại:: mot_dap_an
+câu 144:: "As soon as the lava touched the water, a huge ash cloud ________."
+a:: produces
+b:: was producing
+c:: produced
+d:: is producing
+đáp án:: c
+giải thích:: Hành động xảy ra ngay lập tức sau một hành động khác trong quá khứ dùng Quá khứ đơn.
+---
+loại:: mot_dap_an
+câu 145:: Tính chất nào mô tả đúng về "Parallel circuit"?
+a:: Chỉ có một con đường cho dòng điện.
+b:: Có nhiều hơn một con đường (pathway) cho dòng điện.
+c:: Nếu một bóng hỏng, tất cả sẽ tắt.
+d:: Không sử dụng ký hiệu (symbols).
+đáp án:: b
+giải thích:: Mạch song song có nhiều nhánh đường đi cho dòng điện.
+---
+loại:: mot_dap_an
+câu 146:: Góc nào sau đây lớn hơn góc bẹt (straight angle)?
+a:: Obtuse angle
+b:: Right angle
+c:: Reflex angle
+d:: Acute angle
+đáp án:: c
+giải thích:: Reflex angle ($> 180^{\\circ}$) lớn hơn Straight angle ($180^{\\circ}$).
+---
+loại:: mot_dap_an
+câu 147:: Một ngôi nhà có hệ thống lọc nước tự động và điều khiển bằng giọng nói được gọi là:
+a:: Cottage
+b:: Smart house
+c:: Basement apartment
+d:: Houseboat
+đáp án:: b
+giải thích:: Smart (thông minh) dùng để mô tả các ngôi nhà có tích hợp công nghệ hiện đại.
+---
+loại:: mot_dap_an
+câu 148:: "The tectonic plates ________ for millions of years before the fault line cracked."
+a:: were moving
+b:: moved
+c:: are moving
+d:: move
+đáp án:: a
+giải thích:: Diễn tả một quá trình đang diễn ra kéo dài trong quá khứ trước một sự kiện khác.
+---
+loại:: mot_dap_an
+câu 149:: Đơn vị đo cường độ điện áp là Volt, vậy "Voltage" là gì?
+a:: Tên một loại bóng đèn.
+b:: Lực của dòng điện (the force of an electric current).
+c:: Một loại mạch điện.
+d:: Một ký hiệu trong sơ đồ.
+đáp án:: b
+giải thích:: Voltage là đại lượng vật lý chỉ lực của dòng điện.
+---
+loại:: mot_dap_an
+câu 150:: Nếu bạn xoay một chiếc kim đồng hồ từ số 12 đến số 9 theo chiều kim đồng hồ, góc tạo ra là góc gì? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="none" stroke="black"/><line x1="50" y1="50" x2="50" y2="10" stroke="black"/><line x1="50" y1="50" x2="10" y2="50" stroke="black"/><path d="M 50 20 A 30 30 0 1 1 20 50" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: Obtuse angle
+b:: Right angle
+c:: Straight angle
+d:: Reflex angle
+đáp án:: d
+giải thích:: Góc này là $270^{\\circ}$, thuộc loại góc Reflex ($> 180^{\\circ}$).
+---
+loại:: mot_dap_an
+câu 151:: "A small house with a roof made of straw" is a:
+a:: Villa
+b:: Penthouse
+c:: Cottage
+d:: Skyscraper
+đáp án:: c
+giải thích:: Cottage là nhà tranh/nhà nhỏ ở nông thôn.
+---
+loại:: mot_dap_an
+câu 152:: Trong mạch nối tiếp (Series circuit), điện áp (voltage) trên mỗi bóng đèn như thế nào so với nguồn?
+a:: Luôn bằng điện áp nguồn.
+b:: Được chia sẻ giữa các bóng đèn.
+c:: Luôn lớn hơn điện áp nguồn.
+d:: Bằng 0.
+đáp án:: b
+giải thích:: Trong mạch nối tiếp, tổng điện áp của các thiết bị bằng điện áp nguồn.
+---
+loại:: mot_dap_an
+câu 153:: "Luckily, people ________ near the volcano when it ________."
+a:: weren't living / erupted
+b:: don't live / erupts
+c:: won't live / will erupt
+d:: didn't live / was erupting
+đáp án:: a
+giải thích:: Kết hợp Quá khứ tiếp diễn (phủ định) và Quá khứ đơn để kể lại sự việc.
+---
+loại:: mot_dap_an
+câu 154:: Một tam giác có 3 góc đều bằng $60^{\\circ}$. Đây là tam giác gì?
+a:: Isosceles triangle
+b:: Right triangle
+c:: Equilateral triangle
+d:: Scalene triangle
+đáp án:: c
+giải thích:: Tam giác đều (Equilateral) có 3 góc bằng nhau, mỗi góc $60^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 155:: Hiện tượng nào xảy ra khi "hot air" và "cold air" tương tác mạnh trong cơn bão?
+a:: Earthquake
+b:: Lightning and Storm
+c:: Volcano eruption
+d:: Tectonic plates shift
+đáp án:: b
+giải thích:: Sự tương tác nhiệt độ không khí trong bão tạo ra các điện tích dẫn đến sét.
+---
+loại:: mot_dap_an
+câu 156:: "Wireless TV" sử dụng công nghệ gì để kết nối?
+a:: Dây cáp đồng.
+b:: Wifi / Wireless Fidelity.
+c:: Dung nham núi lửa.
+d:: Mạch điện nối tiếp.
+đáp án:: b
+giải thích:: Thiết bị không dây (wireless) sử dụng hệ thống Wifi để kết nối mạng.
+---
+loại:: mot_dap_an
+câu 157:: Góc bẹt (Straight angle) tương đương với mấy góc vuông?
+a:: 1
+b:: 2
+c:: 3
+d:: 4
+đáp án:: b
+giải thích:: $180^{\\circ} = 90^{\\circ} \\times 2$.
+---
+loại:: mot_dap_an
+câu 158:: "The cameramen were filming ________ the lava was flowing."
+a:: until
+b:: as soon as
+c:: while
+d:: before
+đáp án:: c
+giải thích:: "While" dùng để chỉ hai hành động đang xảy ra cùng lúc.
+---
+loại:: mot_dap_an
+câu 159:: Một thiết bị "Automatic" có ưu điểm gì trong Smart home?
+a:: Nó đắt tiền hơn.
+b:: Nó tự hoạt động giúp tiết kiệm thời gian cho con người.
+c:: Nó cần nhiều dây dẫn hơn.
+d:: Nó chỉ dùng được trong Penthouse.
+đáp án:: b
+giải thích:: Tính tự động (automatic) giúp cuộc sống tiện lợi hơn.
+---
+loại:: mot_dap_an
+câu 160:: Trong sơ đồ mạch điện, ký hiệu hình tròn có chữ "V" bên trong đại diện cho thiết bị đo gì?
+a:: Đo lực (Forcemeter).
+b:: Đo điện áp (Voltmeter).
+c:: Đo nhiệt độ (Thermometer).
+d:: Đo góc (Protractor).
+đáp án:: b
+giải thích:: "V" đại diện cho Volt, dùng để đo Voltage.
+---
+loại:: mot_dap_an
+câu 161:: "The earthquake ________ the surface, and waves ________ across the ocean."
+a:: shook / traveled
+b:: shakes / travel
+c:: was shaking / were traveling
+d:: shaken / traveling
+đáp án:: a
+giải thích:: Kể lại chuỗi sự kiện trong quá khứ dùng Quá khứ đơn.
+---
+loại:: mot_dap_an
+câu 162:: Một góc có số đo $179.9^{\\circ}$ vẫn được gọi là:
+a:: Right angle
+b:: Obtuse angle
+c:: Straight angle
+d:: Reflex angle
+đáp án:: b
+giải thích:: Vì vẫn nhỏ hơn $180^{\\circ}$ nên nó là góc tù (Obtuse).
+---
+loại:: mot_dap_an
+câu 163:: "Solar energy" là nguồn năng lượng:
+a:: Gây ô nhiễm nặng.
+b:: Lấy từ ánh sáng mặt trời.
+c:: Chỉ dùng được cho máy giặt.
+d:: Lấy từ lòng đất.
+đáp án:: b
+giải thích:: Năng lượng mặt trời (Solar energy) là nguồn năng lượng sạch từ mặt trời.
+---
+loại:: mot_dap_an
+câu 164:: Trong mạch song song, nếu một bóng đèn bị cháy (mạch hở ở nhánh đó), dòng điện sẽ:
+a:: Ngừng chạy hoàn toàn.
+b:: Chỉ chạy qua các nhánh còn lại.
+c:: Làm nổ pin.
+d:: Biến thành sét.
+đáp án:: b
+giải thích:: Đây là ưu điểm của mạch song song so với mạch nối tiếp.
+---
+loại:: mot_dap_an
+câu 165:: "A very large and beautiful house for royalty" is a:
+a:: Cottage
+b:: Palace
+c:: Flat
+d:: Motorhome
+đáp án:: b
+giải thích:: Palace là cung điện/lâu đài.
+---
+loại:: mot_dap_an
+câu 166:: Một tam giác cân có góc ở đỉnh là $100^{\\circ}$. Hai góc ở đáy mỗi góc bao nhiêu độ?
+a:: $40^{\\circ}$
+b:: $80^{\\circ}$
+c:: $50^{\\circ}$
+d:: $100^{\\circ}$
+đáp án:: a
+giải thích:: $(180 - 100) \\div 2 = 40^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 167:: "The scientist ________ the experiment until the power ________."
+a:: was doing / went out
+b:: does / goes out
+c:: did / was going out
+d:: is doing / goes out
+đáp án:: a
+giải thích:: Hành động kéo dài bị cắt ngang trong quá khứ.
+---
+loại:: mot_dap_an
+câu 168:: "Voltage" được đo bằng dụng cụ gì?
+a:: Protractor
+b:: Ruler
+c:: Voltmeter / Multimeter
+d:: Forcemeter
+đáp án:: c
+giải thích:: Volt được đo bằng vôn kế (voltmeter).
+---
+loại:: mot_dap_an
+câu 169:: "As soon as the ash cloud ________, the sky ________ dark."
+a:: appears / becomes
+b:: appeared / became
+c:: appearing / becoming
+d:: appear / become
+đáp án:: b
+giải thích:: Diễn tả hai sự việc liên tiếp trong quá khứ.
+---
+loại:: mot_dap_an
+câu 170:: Một góc tạo bởi hai kim đồng hồ lúc 6 giờ đúng là góc gì? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="40" fill="none" stroke="black"/><line x1="50" y1="50" x2="50" y2="15" stroke="black"/><line x1="50" y1="50" x2="50" y2="85" stroke="black"/></svg></div>
+a:: Right angle
+b:: Straight angle
+c:: Acute angle
+d:: Reflex angle
+đáp án:: b
+giải thích:: Hai kim tạo thành một đường thẳng ($180^{\\circ}$), là góc bẹt.
+---
+loại:: mot_dap_an
+câu 99:: "Last summer, my family visited Pompeii." What tense is this?
+a:: Past Simple
+b:: Past Continuous
+c:: Present Simple
+d:: Present Continuous
+đáp án:: a
+giải thích:: "Visited" là động từ ở thì Quá khứ đơn (Past Simple).
+---
+loại:: mot_dap_an
+câu 100:: How many pathways are in a "Series circuit"?
+a:: One pathway
+b:: Two pathways
+c:: More than one pathway
+d:: Zero pathways
+đáp án:: a
+giải thích:: Mạch nối tiếp (Series circuit) chỉ có duy nhất một con đường cho dòng điện.
+---
+loại:: mot_dap_an
+câu 101:: What type of angle is an angle that is exactly $270^{\\circ}$? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><path d="M 50 50 L 80 50 M 50 50 L 50 80" fill="none" stroke="black" stroke-width="2"/><path d="M 60 50 A 10 10 0 1 0 50 60" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: Obtuse angle
+b:: Straight angle
+c:: Reflex angle
+d:: Right angle
+đáp án:: c
+giải thích:: Góc $270^{\\circ}$ nằm trong khoảng từ $180^{\\circ}$ đến $360^{\\circ}$ nên là góc Reflex.
+---
+loại:: mot_dap_an
+câu 102:: Which building is described as the "top floor of a tall building"?
+a:: Basement apartment
+b:: Penthouse
+c:: Villa
+d:: Cottage
+đáp án:: b
+giải thích:: Penthouse là căn hộ cao cấp nhất ở tầng đỉnh tòa nhà.
+---
+loại:: mot_dap_an
+câu 103:: In the year 79, what happened in Italy?
+a:: An earthquake occurred.
+b:: A huge volcano exploded.
+c:: A new skyscraper was built.
+d:: A parallel circuit was invented.
+đáp án:: b
+giải thích:: Theo tài liệu, năm 79 đã xảy ra một vụ phun trào núi lửa lớn tại Ý.
+---
+loại:: noi
+câu 104:: Nối các thiết bị với công dụng của chúng:
+trai:: Dishwasher
+phai:: To wash dishes
+trai:: Washing machine
+phai:: To wash clothes
+trai:: Fridge
+phai:: To keep food cold
+trai:: Electric cooker
+phai:: To cook rice/food
+giải thích:: Đây là công dụng cơ bản của các thiết bị gia dụng trong Smart Start Unit 10.
+---
+loại:: mot_dap_an
+câu 105:: What is "Solar energy"?
+a:: Energy from the moon.
+b:: Energy from the sun.
+c:: Energy from wind.
+d:: Energy from volcanoes.
+đáp án:: b
+giải thích:: Solar energy là năng lượng mặt trời.
+---
+loại:: mot_dap_an
+câu 106:: Which type of triangle has all three sides equal?
+a:: Isosceles triangle
+b:: Equilateral triangle
+c:: Right triangle
+d:: Reflex triangle
+đáp án:: b
+giải thích:: Tam giác đều (Equilateral triangle) có 3 cạnh bằng nhau.
+---
+loại:: mot_dap_an
+câu 107:: What is the symbol for a "battery" in a circuit diagram? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="40" viewBox="0 0 100 40"><line x1="30" y1="20" x2="70" y2="20" stroke="black"/><line x1="45" y1="10" x2="45" y2="30" stroke="black"/><line x1="55" y1="15" x2="55" y2="25" stroke="black"/></svg></div>
+a:: A circle with an X
+b:: Two parallel lines of different lengths
+c:: A straight line only
+d:: A zigzag line
+đáp án:: b
+giải thích:: Biểu tượng nguồn/pin gồm hai vạch song song có độ dài khác nhau.
+---
+loại:: mot_dap_an
+câu 108:: Complete the instruction: "________ touch the wires! It is dangerous."
+a:: Do
+b:: Don't
+c:: Please
+d:: Always
+đáp án:: b
+giải thích:: "Don't touch" là một mệnh lệnh phủ định quan trọng để đảm bảo an toàn điện.
+---
+loại:: mot_dap_an
+câu 109:: An angle that is $91^{\\circ}$ is a/an:
+a:: Acute angle
+b:: Right angle
+c:: Obtuse angle
+d:: Straight angle
+đáp án:: c
+giải thích:: Vì $91^{\\circ}$ lớn hơn $90^{\\circ}$ và nhỏ hơn $180^{\\circ}$ nên nó là góc tù (Obtuse angle).
+---
+loại:: mot_dap_an
+câu 110:: What is a "Motorhome"?
+a:: A house in a castle.
+b:: A house that you can drive or move.
+c:: A house made of ash.
+d:: A house with a basement.
+đáp án:: b
+giải thích:: Motorhome là loại nhà có động cơ hoặc có thể kéo đi để lưu trú khi di chuyển.
+---
+loại:: phan_loai
+câu 111:: Phân loại các loại góc sau:
+nhom:: Smaller than 180 degrees
+nhom:: Larger than 180 degrees
+the:: Acute angle
+the:: Right angle
+the:: Obtuse angle
+the:: Reflex angle
+đáp án:: Acute angle::1
+đáp án:: Right angle::1
+đáp án:: Obtuse angle::1
+đáp án:: Reflex angle::2
+giải thích:: Acute, Right và Obtuse đều nhỏ hơn $180^{\\circ}$; chỉ có Reflex là lớn hơn $180^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 112:: Which word means "to shake or move from side to side"?
+a:: Erupt
+b:: Explode
+c:: Shake
+d:: Connect
+đáp án:: c
+giải thích:: Shake là hành động rung lắc, thường dùng cho động đất.
+---
+loại:: mot_dap_an
+câu 113:: What type of circuit is used if you want one light to stay on when another is turned off?
+a:: Series circuit
+b:: Parallel circuit
+c:: Straight circuit
+d:: Acute circuit
+đáp án:: b
+giải thích:: Mạch song song (Parallel circuit) cho phép các thiết bị hoạt động độc lập.
+---
+loại:: mot_dap_an
+câu 114:: "The volcano produced an ash cloud that was over 20km high." What does "produced" mean?
+a:: Built
+b:: Made / Created
+c:: Shook
+d:: Flowed
+đáp án:: b
+giải thích:: Trong ngữ cảnh này, "produced" nghĩa là tạo ra hoặc phun ra.
+---
+loại:: mot_dap_an
+câu 115:: Which adjective describes something that is very new and modern?
+a:: Automatic
+b:: Special
+c:: Hi-tech
+d:: Different
+đáp án:: c
+giải thích:: Hi-tech thường dùng để chỉ những thứ cực kỳ hiện đại và có hàm lượng công nghệ cao.
+---
+loại:: mot_dap_an
+câu 116:: An angle of $360^{\\circ}$ is called a:
+a:: Reflex angle
+b:: Straight angle
+c:: Full turn
+d:: Right angle
+đáp án:: c
+giải thích:: Vòng quay đủ một vòng là $360^{\\circ}$ (Full turn).
+---
+loại:: mot_dap_an
+câu 117:: Where do tectonic plates move?
+a:: In the sky
+b:: On the Earth's surface/crust
+c:: Inside a battery
+d:: In a dishwasher
+đáp án:: b
+giải thích:: Các mảng kiến tạo (tectonic plates) di chuyển trên lớp vỏ Trái Đất.
+---
+loại:: mot_dap_an
+câu 118:: "As soon as the alarm rang, I woke up." When did I wake up?
+a:: Before the alarm.
+b:: Immediately after the alarm.
+c:: While the alarm was ringing.
+d:: Much later than the alarm.
+đáp án:: b
+giải thích:: "As soon as" có nghĩa là ngay khi/ngay sau khi.
+---
+loại:: mot_dap_an
+câu 119:: Which house is a "house on the water"?
+a:: Penthouse
+b:: Houseboat
+c:: Villa
+d:: Motorhome
+đáp án:: b
+giải thích:: Houseboat là nhà thuyền, ở trên mặt nước.
+---
+loại:: mot_dap_an
+câu 120:: In Science, "electricity" flows through a closed system of wires called a:
+a:: Symbol
+b:: Circuit
+c:: Volt
+d:: Triangle
+đáp án:: b
+giải thích:: Hệ thống dây dẫn khép kín cho dòng điện chạy qua là mạch điện (circuit).
+---
+//===================================================================================
+// QUESTION DATABASE: TERM 3 WEEK 10 - CIE 6 (BATCH 5)
+// Format: Zero-Defect Plaintext for JavaScript Payload
+// Content: 100% English (Instructions & Explanations)
+//===================================================================================
+
+---
+loại:: mot_dap_an
+câu 171:: **Reading Passage:** "In the year 79, Mount Vesuvius in Italy exploded. It produced a massive ash cloud over 20km high. As the lava was flowing down, people were trying to escape." According to the text, when did the eruption happen? 
+a:: In the year 1979
+b:: In the year 79
+c:: 20 years ago
+d:: Last week
+đáp án:: b
+giải thích:: The text explicitly states the event occurred in the year 79.
+---
+loại:: mot_dap_an
+câu 172:: Based on the Pompeii text, what was the height of the ash cloud? 
+a:: Exactly 20 meters
+b:: Under 20km
+c:: Over 20km
+d:: Over 79km
+đáp án:: c
+giải thích:: The passage mentions the ash cloud was over 20km high.
+---
+loại:: mot_dap_an
+câu 173:: In the sentence "As the lava was flowing down, people were trying to escape," what are the people doing? 
+a:: They are waiting for the lava to stop.
+b:: They are performing an action in progress while the lava flows.
+c:: They already escaped before the eruption.
+d:: They are watching the volcano on TV.
+đáp án:: b
+giải thích:: The use of Past Continuous "were trying" shows an action in progress in the past.
+---
+loại:: mot_dap_an
+câu 174:: **Reading Passage:** "Future houses like penthouses and motorhomes will be smart. They will use solar energy to power appliances like dishwashers and wireless TVs." What will power the appliances in future houses? 
+a:: Wind energy
+b:: Coal and oil
+c:: Solar energy
+d:: Tectonic energy
+đáp án:: c
+giải thích:: The text states that smart houses will use solar energy for power.
+---
+loại:: mot_dap_an
+câu 175:: According to the "Future Houses" text, which of these is an appliance? 
+a:: Penthouse
+b:: Motorhome
+c:: Dishwasher
+d:: Solar energy
+đáp án:: c
+giải thích:: A dishwasher is listed as an appliance (a machine used for a task), while the others are types of houses or energy sources.
+---
+loại:: mot_dap_an
+câu 176:: An angle is measured as $190^{\\circ}$. How would you classify this angle? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><line x1="50" y1="50" x2="90" y2="50" stroke="black" stroke-width="2"/><line x1="50" y1="50" x2="30" y2="65" stroke="black" stroke-width="2"/><path d="M 60 50 A 10 10 0 1 1 45 58" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: Obtuse angle
+b:: Straight angle
+c:: Reflex angle
+d:: Right angle
+đáp án:: c
+giải thích:: Any angle greater than $180^{\\circ}$ but less than $360^{\\circ}$ is a reflex angle.
+---
+loại:: mot_dap_an
+câu 177:: In a "Series circuit", if you add a second battery, the voltage in the circuit will: 
+a:: Decrease
+b:: Stay the same
+c:: Increase
+d:: Become zero
+đáp án:: c
+giải thích:: Adding more cells in series increases the total voltage (force) of the current.
+---
+loại:: mot_dap_an
+câu 178:: Which triangle must have all internal angles equal to $60^{\\circ}$? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,15 90,85 10,85" fill="none" stroke="black" stroke-width="2"/><text x="45" y="75" font-size="8">60°</text><text x="25" y="85" font-size="8">60°</text><text x="65" y="85" font-size="8">60°</text></svg></div>
+a:: Isosceles triangle
+b:: Equilateral triangle
+c:: Right triangle
+d:: Scalene triangle
+đáp án:: b
+giải thích:: An equilateral triangle has 3 equal sides and 3 equal angles of $60^{\\circ}$ each.
+---
+loại:: mot_dap_an
+câu 179:: Identify the correct imperative instruction for a volcano safety drill: 
+a:: You should stay inside.
+b:: Stay inside!
+c:: Staying inside.
+d:: Stayed inside.
+đáp án:: b
+giải thích:: Imperative forms use the base verb directly to give firm instructions.
+---
+loại:: mot_dap_an
+câu 180:: What happens when positive charges and negative charges connect in a storm? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><path d="M 20 30 Q 50 10 80 30 T 80 60 T 20 60 Z" fill="lightgray"/><path d="M 50 50 L 40 70 L 60 70 L 50 90" fill="yellow" stroke="orange"/></svg></div>
+a:: An earthquake starts.
+b:: A volcano erupts.
+c:: Lightning strikes.
+d:: A parallel circuit is made.
+đáp án:: c
+giải thích:: Lightning is the electrical discharge between negative and positive charges.
+---
+loại:: mot_dap_an
+câu 181:: A "Straight angle" is equal to how many "Right angles"? <br> <div style="display: flex; justify-content: center;"><svg width="150" height="60" viewBox="0 0 150 60"><line x1="10" y1="40" x2="140" y2="40" stroke="black"/><circle cx="75" cy="40" r="3" fill="red"/><path d="M 45 40 A 30 30 0 0 1 105 40" fill="none" stroke="red"/></svg></div>
+a:: 1
+b:: 2
+c:: 3
+d:: 4
+đáp án:: b
+giải thích:: A straight angle is $180^{\\circ}$, which is $90^{\\circ} \\times 2$ (two right angles).
+---
+loại:: mot_dap_an
+câu 182:: In the circuit symbol shown, what is the component? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="40" viewBox="0 0 100 40"><circle cx="50" cy="20" r="15" fill="none" stroke="black"/><line x1="40" y1="10" x2="60" y2="30" stroke="black"/><line x1="60" y1="10" x2="40" y2="30" stroke="black"/></svg></div>
+a:: Switch
+b:: Battery
+c:: Bulb / Lamp
+d:: Wire
+đáp án:: c
+giải thích:: A circle with an "X" is the standard symbol for a bulb or lamp in a circuit diagram.
+---
+loại:: mot_dap_an
+câu 183:: Which house type is most likely to be found in the countryside with a traditional style? 
+a:: Skyscraper
+b:: Penthouse
+c:: Cottage
+d:: Motorhome
+đáp án:: c
+giải thích:: A cottage is typically a small, traditional house located in the countryside.
+---
+loại:: mot_dap_an
+câu 184:: Choose the correct connecting word: "The alarm went off ________ I was sleeping." 
+a:: until
+b:: as soon as
+c:: while
+d:: during
+đáp án:: c
+giải thích:: "While" is used for an action that was happening at the same time as another event.
+---
+loại:: mot_dap_an
+câu 185:: What is the unit for measuring the strength of an electric current (Voltage)? 
+a:: Newton
+b:: Kilogram
+c:: Volt
+d:: Degree
+đáp án:: c
+giải thích:: Voltage is measured in Volts.
+---
+loại:: sap_xep
+câu 186:: Arrange the angles in order from SMALLEST to LARGEST: 
+muc:: Acute angle
+muc:: Right angle
+muc:: Obtuse angle
+muc:: Straight angle
+muc:: Reflex angle
+giải thích:: The correct order is: Acute ($<90^{\\circ}$), Right ($90^{\\circ}$), Obtuse ($90^{\\circ}-180^{\\circ}$), Straight ($180^{\\circ}$), and Reflex ($>180^{\\circ}$).
+---
+loại:: sap_xep
+câu 187:: Arrange the steps of a volcanic eruption in the correct sequence: 
+muc:: Magma builds up underground.
+muc:: The volcano explodes or erupts.
+muc:: Lava flows down the mountain.
+muc:: The lava cools down and hardens.
+giải thích:: Eruptions start with underground pressure, followed by the explosion, the surface flow of lava, and finally cooling.
+---
+loại:: phan_loai
+câu 188:: Classify these items into the correct categories: 
+nhom:: Electrical Science
+nhom:: Earth Science
+the:: Parallel circuit
+the:: Fault line
+the:: Voltage
+the:: Tectonic plates
+the:: Series circuit
+the:: Ash and Lava
+đáp án:: Parallel circuit::1
+đáp án:: Fault line::2
+đáp án:: Voltage::1
+đáp án:: Tectonic plates::2
+đáp án:: Series circuit::1
+đáp án:: Ash and Lava::2
+giải thích:: Circuits and voltage belong to Electrical Science; geological features belong to Earth Science.
+---
+loại:: noi
+câu 189:: Match the household items with their smart features: 
+trai:: Wireless TV
+phai:: Connects to the internet without cables
+trai:: Solar energy
+phai:: Provides power using the sun
+trai:: Automatic dishwasher
+phai:: Cleans dishes by itself
+trai:: Smart fridge
+phai:: Keeps food cold and manages data
+giải thích:: These matchings describe the functions of smart appliances found in future homes.
+---
+loại:: mot_dap_an
+câu 190:: If a triangle has one angle of $90^{\\circ}$ and two sides of equal length, it is called a: <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="20,20 20,80 80,80" fill="none" stroke="black" stroke-width="2"/><rect x="20" y="70" width="10" height="10" fill="none" stroke="red"/></svg></div>
+a:: Equilateral triangle
+b:: Isosceles right triangle
+c:: Obtuse triangle
+d:: Reflex triangle
+đáp án:: b
+giải thích:: A triangle with 2 equal sides is isosceles, and with a $90^{\\circ}$ angle, it is a right triangle.
+---
+//===================================================================================
+// QUESTION DATABASE: TERM 3 WEEK 10 - CIE 6 (BATCH 6)
+// Format: Zero-Defect Plaintext for JavaScript Payload
+// Content: 100% English (Instructions & Explanations)
+//===================================================================================
+
+---
+loại:: mot_dap_an
+câu 191:: In a circuit diagram, if you see two parallel lines of different lengths, what component does it represent? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="40" viewBox="0 0 100 40"><line x1="30" y1="20" x2="70" y2="20" stroke="black" stroke-width="2"/><line x1="45" y1="10" x2="45" y2="30" stroke="black" stroke-width="2"/><line x1="55" y1="15" x2="55" y2="25" stroke="black" stroke-width="4"/></svg></div>
+a:: A single bulb
+b:: A switch
+c:: A cell or battery
+d:: A long wire
+đáp án:: c
+giải thích:: The symbol for a cell or battery consists of two parallel lines of different lengths.
+---
+loại:: mot_dap_an
+câu 192:: Which angle is exactly double the size of a "Right angle"? <br> <div style="display: flex; justify-content: center;"><svg width="150" height="60" viewBox="0 0 150 60"><line x1="10" y1="40" x2="140" y2="40" stroke="black" stroke-width="2"/><circle cx="75" cy="40" r="3" fill="red"/><path d="M 45 40 A 30 30 0 0 1 105 40" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: Acute angle
+b:: Obtuse angle
+c:: Straight angle
+d:: Reflex angle
+đáp án:: c
+giải thích:: A right angle is $90^{\\circ}$. Doubling it ($90^{\\circ} \\times 2$) gives $180^{\\circ}$, which is a straight angle.
+---
+loại:: mot_dap_an
+câu 193:: "The scientists were observing the volcano ________ it erupted." Choose the most appropriate connecting word.
+a:: until
+b:: as soon as
+c:: while
+d:: right now
+đáp án:: a
+giải thích:: "Until" is used to show an action happening up to a certain point in time.
+---
+loại:: mot_dap_an
+câu 194:: Which triangle has three equal sides and each internal angle measures $60^{\\circ}$? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,15 90,85 10,85" fill="none" stroke="black" stroke-width="2"/><line x1="30" y1="50" x2="35" y2="50" stroke="red"/><line x1="65" y1="50" x2="70" y2="50" stroke="red"/><line x1="48" y1="85" x2="52" y2="85" stroke="red"/></svg></div>
+a:: Isosceles triangle
+b:: Equilateral triangle
+c:: Right triangle
+d:: Obtuse triangle
+đáp án:: b
+giải thích:: An equilateral triangle is defined as having 3 equal sides and 3 equal angles.
+---
+loại:: mot_dap_an
+câu 195:: In Science, "Voltage" is defined as:
+a:: The unit of measurement for electricity
+b:: The force of an electric current
+c:: A closed system of wires
+d:: A symbol used in diagrams
+đáp án:: b
+giải thích:: Voltage is the force of an electric current, measured in volts.
+---
+loại:: mot_dap_an
+câu 196:: Choose the correct sentence using the Past Continuous tense:
+a:: The ash cloud was rising 20km high.
+b:: The ash cloud rising 20km high.
+c:: The ash cloud is rising 20km high.
+d:: The ash cloud produced 20km high.
+đáp án:: a
+giải thích:: Past Continuous is formed by subject + be (verb 2) + verb-ing.
+---
+loại:: mot_dap_an
+câu 197:: Which appliance would be most useful for keeping your food fresh in a future smart home?
+a:: Electric cooker
+b:: Washing machine
+c:: Fridge
+d:: Dishwasher
+đáp án:: c
+giải thích:: A fridge is the appliance used to keep food cold and fresh.
+---
+loại:: mot_dap_an
+câu 198:: If an angle is $145^{\\circ}$, what type of angle is it? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><path d="M 10 80 L 90 80 M 10 80 L 90 30" fill="none" stroke="black" stroke-width="2"/><path d="M 40 80 A 30 30 0 0 0 35 65" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: Acute angle
+b:: Right angle
+c:: Obtuse angle
+d:: Reflex angle
+đáp án:: c
+giải thích:: An obtuse angle is greater than $90^{\\circ}$ and less than $180^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 199:: What is the main difference between a "Series circuit" and a "Parallel circuit"?
+a:: Series has more than one pathway, Parallel has one.
+b:: Series has one pathway, Parallel has more than one.
+c:: Series uses symbols, Parallel uses pictures.
+d:: Series measures volts, Parallel measures degrees.
+đáp án:: b
+giải thích:: A series circuit has one pathway; a parallel circuit has more than one pathway.
+---
+loại:: mot_dap_an
+câu 200:: Which word describes the movement of the Earth's surface during an earthquake?
+a:: erupt
+b:: shake
+c:: connect
+d:: explode
+đáp án:: b
+giải thích:: "Shake" is the verb used to describe the vibration or movement of the Earth's surface.
+---
+loại:: mot_dap_an
+câu 201:: A "Full turn" angle is equivalent to: <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="30" fill="none" stroke="red" stroke-width="2" stroke-dasharray="2"/><path d="M 50 20 A 30 30 0 1 1 49.9 20" fill="none" stroke="red" stroke-width="3"/></svg></div>
+a:: $90^{\\circ}$
+b:: $180^{\\circ}$
+c:: $270^{\\circ}$
+d:: $360^{\\circ}$
+đáp án:: d
+giải thích:: A full turn is defined as an angle equal to $360^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 202:: In the year 79, what did the volcano produce that was over 20km high?
+a:: Lava flow
+b:: Ash cloud
+c:: Tectonic plate
+d:: Negative charge
+đáp án:: b
+giải thích:: The volcano produced an ash cloud that was over 20km high.
+---
+loại:: mot_dap_an
+câu 203:: Which adjective describes a house that is filled with modern technology and gadgets?
+a:: hi-tech
+b:: automatic
+c:: cottage
+d:: special
+đáp án:: a
+giải thích:: "Hi-tech" is the adjective for high-technology houses or appliances.
+---
+loại:: mot_dap_an
+câu 204:: What is a "Circuit diagram"?
+a:: A photo of a lightning strike
+b:: A system using symbols for all components
+c:: A map of tectonic plates
+d:: A list of obtuse angles
+đáp án:: b
+giải thích:: A circuit diagram uses symbols for all the electrical components.
+---
+loại:: mot_dap_an
+câu 205:: Which angle is smaller than $90^{\\circ}$? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><path d="M 10 90 L 90 90 M 10 90 L 80 40" fill="none" stroke="black" stroke-width="2"/></svg></div>
+a:: Acute angle
+b:: Obtuse angle
+c:: Straight angle
+d:: Reflex angle
+đáp án:: a
+giải thích:: An acute angle is defined as an angle less than $90^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 206:: Which term is used for the tiny pieces of burnt rock sent out by a volcano?
+a:: Lava
+b:: Ash
+c:: Magma
+d:: Cloud
+đáp án:: b
+giải thích:: Ash is the term for the tro/tàn produced during an eruption.
+---
+loại:: mot_dap_an
+câu 207:: What is a "Motorhome"?
+a:: A house on the top floor
+b:: A house that can be moved with an engine
+c:: A house made of glass
+d:: A house underwater
+đáp án:: b
+giải thích:: A motorhome is a mobile house, often pulled or driven by an engine.
+---
+loại:: mot_dap_an
+câu 208:: In a parallel circuit, there is ________ for the electricity to flow.
+a:: one pathway
+b:: more than one pathway
+c:: no pathway
+d:: a straight angle
+đáp án:: b
+giải thích:: Parallel circuits offer multiple pathways for the electric current.
+---
+loại:: mot_dap_an
+câu 209:: Identify the tense: "My sister is studying at university."
+a:: Past Simple
+b:: Present Continuous
+c:: Past Continuous
+d:: Present Simple
+đáp án:: b
+giải thích:: "Subject + be + verb-ing" (is studying) is the Present Continuous tense.
+---
+loại:: mot_dap_an
+câu 210:: An angle of $180^{\\circ}$ is called:
+a:: Reflex angle
+b:: Straight angle
+c:: Right angle
+d:: Full turn
+đáp án:: b
+giải thích:: A straight angle is exactly $180^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 211:: What does a "Forcemeter" measure?
+a:: Temperature
+b:: Mass
+c:: Force
+d:: Voltage
+đáp án:: c
+giải thích:: A forcemeter is the instrument used to measure force.
+---
+loại:: mot_dap_an
+câu 212:: "While the lava was flowing, the volcano exploded." Which action was already in progress?
+a:: The volcano exploded
+b:: The lava was flowing
+c:: The ash cloud formed
+d:: People moved
+đáp án:: b
+giải thích:: The Past Continuous "was flowing" describes the action that was already happening.
+---
+loại:: mot_dap_an
+câu 213:: Which house type is an "apartment on the top floor"?
+a:: Condominium
+b:: Flat
+c:: Penthouse
+d:: Villa
+đáp án:: c
+giải thích:: A penthouse is specifically the top-floor apartment of a tall building.
+---
+loại:: mot_dap_an
+câu 214:: What is the unit for measuring "Voltage"?
+a:: Symbol
+b:: Circuit
+c:: Volt
+d:: Amps
+đáp án:: c
+giải thích:: Volt is the unit used to measure the strength of electricity (voltage).
+---
+loại:: mot_dap_an
+câu 215:: Classify an angle of $210^{\\circ}$: <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><circle cx="50" cy="50" r="3" fill="black"/><line x1="50" y1="50" x2="90" y2="50" stroke="black"/><line x1="50" y1="50" x2="20" y2="70" stroke="black"/><path d="M 60 50 A 10 10 0 1 1 45 58" fill="none" stroke="red" stroke-width="2"/></svg></div>
+a:: Obtuse angle
+b:: Straight angle
+c:: Reflex angle
+d:: Full turn
+đáp án:: c
+giải thích:: A reflex angle is greater than $180^{\\circ}$ and less than $360^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 216:: Which term refers to the "crack" in the Earth's crust?
+a:: Surface
+b:: Fault line
+c:: Tectonic plate
+d:: Wave
+đáp án:: b
+giải thích:: A fault line is the crack or boundary in the tectonic plates.
+---
+loại:: mot_dap_an
+câu 217:: Which adjective means "automatic or working on its own"?
+a:: hi-tech
+b:: smart
+c:: automatic
+d:: special
+đáp án:: c
+giải thích:: "Automatic" describes a system or device that works by itself.
+---
+loại:: mot_dap_an
+câu 218:: In a "Series circuit", how many pathways are there for the electric current?
+a:: One pathway
+b:: More than one pathway
+c:: Zero pathways
+d:: 360 pathways
+đáp án:: a
+giải thích:: A series circuit has only one pathway for the current to flow.
+---
+loại:: mot_dap_an
+câu 219:: "Stay inside! Don't move!" These are examples of:
+a:: Present Continuous
+b:: Imperative verb forms
+c:: Past Simple
+d:: Connecting words
+đáp án:: b
+giải thích:: Imperatives are used to give instructions or important information.
+---
+loại:: mot_dap_an
+câu 220:: An "Isosceles triangle" has:
+a:: 3 equal sides
+b:: 2 equal sides
+c:: No equal sides
+d:: 180 equal sides
+đáp án:: b
+giải thích:: An isosceles triangle is defined as having 2 equal sides and 2 equal angles.
+---
+loại:: mot_dap_an
+câu 221:: What does the word "Until" indicate in a sentence?
+a:: Up to a point in time
+b:: Immediately after
+c:: At the same time as
+d:: Before a point in time
+đáp án:: a
+giải thích:: "Until" is used to show duration up to a specific point.
+---
+loại:: mot_dap_an
+câu 222:: Which component in a circuit diagram is used to represent a lamp? <br> <div style="display: flex; justify-content: center;"><svg width="60" height="60" viewBox="0 0 60 60"><circle cx="30" cy="30" r="20" fill="none" stroke="black"/><line x1="15" y1="15" x2="45" y2="45" stroke="black"/><line x1="45" y1="15" x2="15" y2="45" stroke="black"/></svg></div>
+a:: A circle with an X
+b:: A straight line
+c:: Two parallel lines
+d:: A rectangle
+đáp án:: a
+giải thích:: A circle with an "X" is the symbol for a lamp/bulb.
+---
+loại:: mot_dap_an
+câu 223:: Which term describes the molten rock on the surface?
+a:: Magma
+b:: Lava
+c:: Ash
+d:: Crater
+đáp án:: b
+giải thích:: Molten rock on the surface is called lava.
+---
+loại:: mot_dap_an
+câu 224:: An angle that measures exactly $90^{\\circ}$ is a:
+a:: Acute angle
+b:: Right angle
+c:: Obtuse angle
+d:: Straight angle
+đáp án:: b
+giải thích:: A right angle is precisely $90^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 225:: What is "Solar energy"?
+a:: Energy from water
+b:: Energy from the sun
+c:: Energy from wind
+d:: Energy from coal
+đáp án:: b
+giải thích:: Solar energy is the power harnessed from sunlight.
+---
+loại:: mot_dap_an
+câu 226:: Identify the tense: "Cameramen were filming the eruption."
+a:: Past Simple
+b:: Past Continuous
+c:: Present Continuous
+d:: Present Simple
+đáp án:: b
+giải thích:: "Were + filming" is the Past Continuous tense.
+---
+loại:: mot_dap_an
+câu 227:: Which house type is "a house on a boat"?
+a:: Motorhome
+b:: Houseboat
+c:: Villa
+d:: Cottage
+đáp án:: b
+giải thích:: A houseboat is a residence built on a boat.
+---
+loại:: mot_dap_an
+câu 228:: In Science, a "Circuit" is:
+a:: A symbol for a battery
+b:: A closed system of wires
+c:: An acute angle
+d:: A crack in the earth
+đáp án:: b
+giải thích:: A circuit is a closed loop or system through which electricity flows.
+---
+loại:: mot_dap_an
+câu 229:: What does the word "Voltage" represent?
+a:: The unit of measurement
+b:: The force of the current
+c:: The path of the wire
+d:: The symbol for energy
+đáp án:: b
+giải thích:: Voltage is defined as the force of the electric current.
+---
+loại:: mot_dap_an
+câu 230:: An angle of $10^{\\circ}$ is a/an:
+a:: Acute angle
+b:: Obtuse angle
+c:: Reflex angle
+d:: Right angle
+đáp án:: a
+giải thích:: $10^{\\circ}$ is less than $90^{\\circ}$, so it is an acute angle.
+---
+loại:: mot_dap_an
+câu 231:: What is the term for the "opening" at the top of a volcano?
+a:: Lava
+b:: Crater
+c:: Ash
+d:: Fault
+đáp án:: b
+giải thích:: The crater is the bowl-shaped opening at the volcano's summit.
+---
+loại:: mot_dap_an
+câu 232:: "As soon as" means:
+a:: up to a point in time
+b:: immediately after
+c:: at the same time as
+d:: eventually
+đáp án:: b
+giải thích:: "As soon as" is used for actions happening immediately following another.
+---
+loại:: mot_dap_an
+câu 233:: Which triangle has 3 equal sides? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,15 90,85 10,85" fill="none" stroke="black" stroke-width="2"/></svg></div>
+a:: Isosceles triangle
+b:: Equilateral triangle
+c:: Right triangle
+d:: Scalene triangle
+đáp án:: b
+giải thích:: An equilateral triangle features three sides of the same length.
+---
+loại:: mot_dap_an
+câu 234:: Which appliance is used for washing clothes?
+a:: Dishwasher
+b:: Washing machine
+c:: Electric cooker
+d:: Solar panel
+đáp án:: b
+giải thích:: A washing machine is the standard appliance for laundry.
+---
+loại:: mot_dap_an
+câu 235:: In a parallel circuit, if one bulb breaks, what happens to the others?
+a:: They stay on
+b:: They all turn off
+c:: They explode
+d:: They change color
+đáp án:: a
+giải thích:: In a parallel circuit, devices on separate branches are unaffected by one another.
+---
+loại:: mot_dap_an
+câu 236:: "While" is used to show an action happening:
+a:: up to a point in time
+b:: at the same time as
+c:: immediately after
+d:: once in the past
+đáp án:: b
+giải thích:: "While" indicates simultaneous actions.
+---
+loại:: mot_dap_an
+câu 237:: Identify the adjective for a "smart" appliance:
+a:: hi-tech
+b:: special
+c:: fantastic
+d:: automatic
+đáp án:: a
+giải thích:: Hi-tech is the primary adjective for technologically advanced devices.
+---
+loại:: mot_dap_an
+câu 238:: What is the symbol for a "switch" that is open? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="40" viewBox="0 0 100 40"><circle cx="30" cy="30" r="3"/><circle cx="70" cy="30" r="3"/><line x1="33" y1="30" x2="60" y2="10" stroke="black" stroke-width="2"/></svg></div>
+a:: A circle with an X
+b:: A line that is "lifted up"
+c:: Two parallel lines
+d:: A zigzag line
+đáp án:: b
+giải thích:: An open switch is drawn with the line tilted upwards.
+---
+loại:: mot_dap_an
+câu 239:: A "Reflex angle" is:
+a:: Between $0$ and $90$ degrees
+b:: Between $180$ and $360$ degrees
+c:: Exactly $180$ degrees
+d:: Exactly $360$ degrees
+đáp án:: b
+giải thích:: Reflex angles are greater than straight angles but less than full turns.
+---
+loại:: mot_dap_an
+câu 240:: "In the year 79, a huge volcano exploded." What tense is "exploded"?
+a:: Present Simple
+b:: Past Simple
+c:: Past Continuous
+d:: Present Continuous
+đáp án:: b
+giải thích:: "Exploded" is the Past Simple form of the verb.
+---
+//===================================================================================
+// QUESTION DATABASE: TERM 3 WEEK 10 - CIE 6 (BATCH 7 - FINAL)
+// Format: Zero-Defect Plaintext for JavaScript Payload
+// Content: 100% English (Instructions & Explanations)
+//===================================================================================
+
+---
+loại:: dung_sai
+câu 241:: A "Straight angle" measures exactly $180^{\\circ}$. <br> <div style="display: flex; justify-content: center;"><svg width="150" height="40" viewBox="0 0 150 40"><line x1="10" y1="30" x2="140" y2="30" stroke="black" stroke-width="2"/><circle cx="75" cy="30" r="3" fill="red"/><path d="M 55 30 A 20 20 0 0 1 95 30" fill="none" stroke="red"/></svg></div>
+đáp án:: dung
+giải thích:: By definition, a straight angle is exactly $180^{\\circ}$.
+---
+loại:: dung_sai
+câu 242:: In a parallel circuit, there is only one pathway for the electricity to flow.
+đáp án:: sai
+giải thích:: A parallel circuit has more than one pathway; a series circuit has only one pathway.
+---
+loại:: dung_sai
+câu 243:: An equilateral triangle has three equal sides and three equal angles. <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><polygon points="50,15 90,85 10,85" fill="none" stroke="black" stroke-width="2"/><line x1="30" y1="50" x2="35" y2="50" stroke="red"/><line x1="65" y1="50" x2="70" y2="50" stroke="red"/><line x1="48" y1="85" x2="52" y2="85" stroke="red"/></svg></div>
+đáp án:: dung
+giải thích:: An equilateral triangle is defined as having all three sides and angles equal.
+---
+loại:: dung_sai
+câu 244:: "Voltage" is measured in kilograms (kg).
+đáp án:: sai
+giải thích:: Voltage is measured in Volts (V).
+---
+loại:: dung_sai
+câu 245:: A "Reflex angle" is smaller than a "Right angle".
+đáp án:: sai
+giải thích:: A reflex angle ($> 180^{\\circ}$) is much larger than a right angle ($90^{\\circ}$).
+---
+loại:: dung_sai
+câu 246:: Tectonic plates are large pieces of the Earth's surface that move.
+đáp án:: dung
+giải thích:: Tectonic plates (mảng kiến tạo) are the moving pieces of the Earth's crust.
+---
+loại:: dung_sai
+câu 247:: A "Motorhome" is an apartment located on the top floor of a skyscraper.
+đáp án:: sai
+giải thích:: A motorhome is a mobile house; a top-floor apartment is a penthouse.
+---
+loại:: dung_sai
+câu 248:: The word "Until" means "immediately after".
+đáp án:: sai
+giải thích:: "Until" means up to a point in time; "As soon as" means immediately after.
+---
+loại:: dung_sai
+câu 249:: A "Series circuit" uses symbols for all its components in a diagram.
+đáp án:: dung
+giải thích:: A circuit diagram, whether series or parallel, uses symbols for components.
+---
+loại:: dung_sai
+câu 250:: Lightning strikes when negative and positive charges connect.
+đáp án:: dung
+giải thích:: Lightning is the electrical connection between negative and positive charges during a storm.
+---
+loại:: dung_sai
+câu 251:: An "Obtuse angle" is between $90^{\\circ}$ and $180^{\\circ}$. <br> <div style="display: flex; justify-content: center;"><svg width="100" height="100" viewBox="0 0 100 100"><path d="M 10 90 L 90 90 M 10 90 L 90 40" fill="none" stroke="black" stroke-width="2"/><path d="M 40 90 A 30 30 0 0 0 35 75" fill="none" stroke="red"/></svg></div>
+đáp án:: dung
+giải thích:: An obtuse angle is defined as being larger than $90^{\\circ}$ but smaller than $180^{\\circ}$.
+---
+loại:: dung_sai
+câu 252:: "Lava" is molten rock that is still underground.
+đáp án:: sai
+giải thích:: Molten rock underground is magma; once it reaches the surface, it is lava.
+---
+loại:: dung_sai
+câu 253:: A "Houseboat" is a type of villa built in the countryside.
+đáp án:: sai
+giải thích:: A houseboat is a residence on water/a boat; a villa is a large house.
+---
+loại:: dung_sai
+câu 254:: The unit for measuring the strength of electricity is the Volt.
+đáp án:: dung
+giải thích:: The Volt is the standard unit for measuring the force or strength of electricity (voltage).
+---
+loại:: dung_sai
+câu 255:: An "Isosceles triangle" has 2 equal sides and 2 equal angles.
+đáp án:: dung
+giải thích:: This is the standard definition for an isosceles triangle.
+---
+loại:: dung_sai
+câu 256:: "While" is a connecting word used to show that something happens at the same time as something else.
+đáp án:: dung
+giải thích:: "While" indicates simultaneous actions.
+---
+loại:: dung_sai
+câu 257:: "Ash" is a liquid that flows out of a volcano.
+đáp án:: sai
+giải thích:: Ash is solid powder/burnt rock; lava is the liquid molten rock.
+---
+loại:: dung_sai
+câu 258:: A "Full turn" is exactly $360^{\\circ}$.
+đáp án:: dung
+giải thích:: A full turn is defined as one complete circle or $360^{\\circ}$.
+---
+loại:: dung_sai
+câu 259:: A "Circuit" is a closed system of wires for electricity.
+đáp án:: dung
+giải thích:: A circuit is a loop of wires through which current flows.
+---
+loại:: dung_sai
+câu 260:: "Right now" is a time phrase used with the Past Simple tense.
+đáp án:: sai
+giải thích:: "Right now" is used with the Present Continuous tense.
+---
+loại:: mot_dap_an
+câu 261:: **Reading Passage:** "Earthquakes happen along fault lines where tectonic plates shift. If an earthquake occurs, remember important instructions: Stay inside! Don't move! Hold on!" What is a "fault line"?
+a:: A type of volcano 
+b:: A crack in the Earth's crust 
+c:: A pathway for electricity 
+d:: A smart appliance 
+đáp án:: b
+giải thích:: A fault line is the crack where plates meet and shift.
+---
+loại:: mot_dap_an
+câu 262:: According to the earthquake passage, what should you do if there is an earthquake?
+a:: Run outside immediately! 
+b:: Stay inside and hold on! 
+c:: Film the eruption! 
+d:: Use solar energy! 
+đáp án:: b
+giải thích:: The text gives imperatives: "Stay inside!" and "Hold on!".
+---
+loại:: mot_dap_an
+câu 263:: **Reading Passage:** "Future smart homes will feature hi-tech appliances. A smart fridge can tell you what food you need, and a dishwasher can wash dishes automatically. These houses are very comfortable." What does "automatic" mean in this text?
+a:: Working on its own 
+b:: Very expensive 
+c:: Made of wood 
+d:: Dangerous 
+đáp án:: a
+giải thích:: Automatic describes something that functions by itself without manual effort.
+---
+loại:: mot_dap_an
+câu 264:: Based on the smart home text, which adjective describes the houses?
+a:: Special 
+b:: Different 
+c:: Comfortable 
+d:: Old 
+đáp án:: c
+giải thích:: The passage explicitly states these houses are "very comfortable".
+---
+loại:: mot_dap_an
+câu 265:: **Reading Passage:** "Yesterday, a huge storm hit the coast. While the wind was blowing, lightning strikes connected negative and positive charges in the clouds. As soon as the storm ended, the sun came out." What was happening at the same time as the wind blowing?
+a:: The storm ended 
+b:: Lightning connected charges 
+c:: The sun came out 
+d:: People moved to a houseboat 
+đáp án:: b
+giải thích:: The word "While" indicates the lightning happened simultaneously with the wind blowing.
+---
+loại:: mot_dap_an
+câu 266:: In the storm passage, when did the sun come out?
+a:: Before the storm 
+b:: During the lightning 
+c:: Immediately after the storm ended 
+d:: In the year 79 
+đáp án:: c
+giải thích:: "As soon as" means immediately after.
+---
+loại:: mot_dap_an
+câu 267:: **Reading Passage:** "Mount Vesuvius is a famous volcano in Italy. In 79 AD, it exploded and produced an ash cloud 20km high. Last summer, many tourists visited the site of the eruption." What did the volcano produce?
+a:: A parallel circuit 
+b:: An ash cloud 
+c:: A motorhome 
+d:: A right angle 
+đáp án:: b
+giải thích:: The text states the volcano produced an ash cloud.
+---
+loại:: mot_dap_an
+câu 268:: How high was the ash cloud from Mount Vesuvius?
+a:: 79 meters 
+b:: 20 meters 
+c:: 20 kilometers 
+d:: 79 kilometers 
+đáp án:: c
+giải thích:: The passage specifies the cloud was 20km high.
+---
+loại:: mot_dap_an
+câu 269:: **Reading Passage:** "In Maths, we learn about different angles and triangles. An isosceles triangle has two equal sides, while an equilateral triangle has three. Angles like reflex angles are larger than straight angles." Which triangle has three equal sides?
+a:: Isosceles 
+b:: Right 
+c:: Equilateral 
+d:: Obtuse 
+đáp án:: c
+giải thích:: The text states an equilateral triangle has three equal sides.
+---
+loại:: mot_dap_an
+câu 270:: According to the Maths passage, which angle is larger?
+a:: Straight angle 
+b:: Reflex angle 
+c:: Right angle 
+d:: Acute angle 
+đáp án:: b
+giải thích:: The text states reflex angles are larger than straight angles.
+---
+loại:: mot_dap_an
+câu 271:: **Reading Passage:** "Science Class: Electricity flows through circuits. In a series circuit, there is one path. In a parallel circuit, there are more paths. We use symbols to draw these diagrams." What do we use to draw circuit diagrams?
+a:: Real pictures 
+b:: Symbols 
+c:: Lava 
+d:: Tectonic plates 
+đáp án:: b
+giải thích:: The passage says we use symbols for diagrams.
+---
+loại:: mot_dap_an
+câu 272:: How many paths are in a series circuit?
+a:: One 
+b:: More than one 
+c:: Zero 
+d:: 360 
+đáp án:: a
+giải thích:: The text states a series circuit has one path.
+---
+loại:: dien_khuyet
+câu 273:: An angle that measures exactly $180^{\\circ}$ is called a .... <br> <div style="display: flex; justify-content: center;"><svg width="150" height="40" viewBox="0 0 150 40"><line x1="10" y1="30" x2="140" y2="30" stroke="black" stroke-width="2"/><circle cx="75" cy="30" r="3" fill="red"/></svg></div>
+đáp án:: straight angle
+giải thích:: A straight angle is exactly $180^{\\circ}$.
+---
+loại:: dien_khuyet
+câu 274:: A circuit where there is more than one pathway for electricity is a ....
+đáp án:: parallel circuit
+giải thích:: Parallel circuits offer multiple pathways.
+---
+loại:: dien_khuyet
+câu 275:: The molten rock that reaches the surface during a volcanic eruption is called ....
+đáp án:: lava
+giải thích:: Lava is molten rock on the surface.
+---
+loại:: dien_khuyet
+câu 276:: An angle greater than $180^{\\circ}$ but smaller than $360^{\\circ}$ is a ....
+đáp án:: reflex angle
+giải thích:: This range defines a reflex angle.
+---
+loại:: dien_khuyet
+câu 277:: The unit for measuring voltage is the ....
+đáp án:: volt
+giải thích:: Voltage is measured in Volts.
+---
+loại:: dien_khuyet
+câu 278:: A triangle with three equal sides is an ....
+đáp án:: equilateral triangle
+giải thích:: All three sides are equal in an equilateral triangle.
+---
+loại:: dien_khuyet
+câu 279:: The machine used to wash dishes automatically is a ....
+đáp án:: dishwasher
+giải thích:: A dishwasher washes dishes automatically.
+---
+loại:: dien_khuyet
+câu 280:: The crack in the Earth's crust along which earthquakes occur is a ....
+đáp án:: fault line
+giải thích:: Fault lines are the cracks between tectonic plates.
+---
+loại:: phan_loai
+câu 281:: Classify the following into "Natural Power" and "Smart Start" categories:
+nhom:: Natural Power (Unit 7)
+nhom:: Smart Start (Unit 10)
+the:: Lightning charges
+the:: Volcanic ash
+the:: Tectonic plates
+the:: Smart fridge
+the:: Solar energy
+the:: Skyscraper
+đáp án:: Lightning charges::1
+đáp án:: Volcanic ash::1
+đáp án:: Tectonic plates::1
+đáp án:: Smart fridge::2
+đáp án:: Solar energy::2
+đáp án:: Skyscraper::2
+giải thích:: Unit 7 focuses on nature; Unit 10 focuses on future homes.
+---
+loại:: phan_loai
+câu 282:: Classify the angles based on their size:
+nhom:: Less than or equal to $180^{\\circ}$
+nhom:: Greater than $180^{\\circ}$
+the:: Acute angle
+the:: Right angle
+the:: Obtuse angle
+the:: Straight angle
+the:: Reflex angle
+the:: Full turn
+đáp án:: Acute angle::1
+đáp án:: Right angle::1
+đáp án:: Obtuse angle::1
+đáp án:: Straight angle::1
+đáp án:: Reflex angle::2
+đáp án:: Full turn::2
+giải thích:: Reflex and Full turn are the only angles listed larger than $180^{\\circ}$.
+---
+loại:: noi
+câu 283:: Match the connecting words with their meanings:
+trai:: Until
+phai:: Up to a point in time
+trai:: As soon as
+phai:: Immediately after
+trai:: While
+phai:: At the same time as
+giải thích:: These are the defined meanings for connecting words in the grammar section.
+---
+loại:: noi
+câu 284:: Match the electrical terms with their definitions:
+trai:: Circuit
+phai:: A closed system of wires
+trai:: Symbol
+phai:: A sign used to represent a real thing
+trai:: Voltage
+phai:: The force of an electric current
+trai:: Volt
+phai:: The unit for measuring strength
+giải thích:: These definitions come from the Science Unit 5 section.
+---
+loại:: noi
+câu 285:: Match the triangles with their properties:
+trai:: Isosceles triangle
+phai:: 2 sides equal and 2 angles equal
+trai:: Equilateral triangle
+phai:: 3 sides equal and 3 angles equal
+giải thích:: These are the core properties of these triangles.
+---
+loại:: sap_xep
+câu 286:: Arrange the houses from the one on the ground to the one at the top of a building:
+muc:: Basement apartment
+muc:: Flat
+muc:: Penthouse
+giải thích:: Basement is lowest, flat is middle, penthouse is top floor.
+---
+loại:: sap_xep
+câu 287:: Arrange the stages of an earthquake response in order:
+muc:: Get down
+muc:: Stay inside
+muc:: Hold on
+giải thích:: Standard safety steps involve dropping down, staying in place, and holding on.
+---
+loại:: mot_dap_an
+câu 288:: If you are in a motorhome and want to use solar energy, what appliance might it power?
+a:: Tectonic plates 
+b:: Wireless TV 
+c:: Fault line 
+d:: Reflex angle 
+đáp án:: b
+giải thích:: A wireless TV is a smart appliance powered by energy.
+---
+loại:: mot_dap_an
+câu 289:: Which tense is used here: "Right now, scientists are studying the volcano."
+a:: Past Simple 
+b:: Present Continuous 
+c:: Past Continuous 
+d:: Future Simple 
+đáp án:: b
+giải thích:: "Are + studying" is the Present Continuous tense.
+---
+loại:: mot_dap_an
+câu 290:: An angle of $90.5^{\\circ}$ is:
+a:: Right angle 
+b:: Obtuse angle 
+c:: Acute angle 
+d:: Reflex angle 
+đáp án:: b
+giải thích:: Anything over $90^{\\circ}$ but under $180^{\\circ}$ is obtuse.
+---
+loại:: mot_dap_an
+câu 291:: What is the symbol for a "wire" in a circuit diagram? <br> <div style="display: flex; justify-content: center;"><svg width="100" height="20" viewBox="0 0 100 20"><line x1="10" y1="10" x2="90" y2="10" stroke="black" stroke-width="2"/></svg></div>
+a:: A circle with an X 
+b:: A straight line 
+c:: Two parallel lines 
+d:: A square 
+đáp án:: b
+giải thích:: A straight line represents the wires/cables.
+---
+loại:: mot_dap_an
+câu 292:: "The lava flowed down the mountain." What is the past tense form of "flow"?
+a:: Flow 
+b:: Flowed 
+c:: Flowing 
+d:: Flowes 
+đáp án:: b
+giải thích:: "Flowed" is the Past Simple form used in the text.
+---
+loại:: mot_dap_an
+câu 293:: Which house type is described as "a very large and beautiful house for royalty"?
+a:: Cottage 
+b:: Palace 
+c:: Motorhome 
+d:: Flat 
+đáp án:: b
+giải thích:: A palace is for kings, queens, or royalty.
+---
+loại:: mot_dap_an
+câu 294:: How many degrees are in a full turn?
+a:: $90^{\\circ}$ 
+b:: $180^{\\circ}$ 
+c:: $270^{\\circ}$ 
+d:: $360^{\\circ}$ 
+đáp án:: d
+giải thích:: A full turn is $360^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 295:: In Science, what is the unit for electricity strength?
+a:: Volt 
+b:: Voltage 
+c:: Circuit 
+d:: Symbol 
+đáp án:: a
+giải thích:: Volt is the unit, while Voltage is the force.
+---
+loại:: mot_dap_an
+câu 296:: Which adjective means "using high-tech or smart functions"?
+a:: Modern 
+b:: Special 
+c:: Smart 
+d:: Fantastic 
+đáp án:: c
+giải thích:: "Smart" implies the use of hi-tech/advanced functions.
+---
+loại:: mot_dap_an
+câu 297:: "While" is used to join two actions that happen:
+a:: Separately 
+b:: At the same time 
+c:: One after another 
+d:: In the year 79 
+đáp án:: b
+giải thích:: "While" connects simultaneous actions.
+---
+loại:: mot_dap_an
+câu 298:: What does "ash" look like?
+a:: Liquid rock 
+b:: Powder/Burnt rock 
+c:: A crack in the ground 
+d:: A flash of light 
+đáp án:: b
+giải thích:: Ash is the tro/tàn/powder produced by a volcano.
+---
+loại:: mot_dap_an
+câu 299:: How many right angles make a straight angle?
+a:: 1 
+b:: 2 
+c:: 3 
+d:: 4 
+đáp án:: b
+giải thích:: $90^{\\circ} \\times 2 = 180^{\\circ}$.
+---
+loại:: mot_dap_an
+câu 300:: Final question: Which type of circuit has only ONE pathway?
+a:: Parallel circuit 
+b:: Series circuit 
+c:: Triangle circuit 
+d:: Reflex circuit 
+đáp án:: b
+giải thích:: A series circuit has one single pathway for the current.
+---
+
+
+
 
 
         </script>
     </div>
 `);
+
 
 
