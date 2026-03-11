@@ -22,11 +22,12 @@ document.addEventListener('DOMContentLoaded', () => {
         'lichsudiali.json',
         'khoahoctunhien.json',
         'CIE6TW6.json',
-        'taon6.json',
+        'toan6.json',
         'ENGLISHHK1.json',
         'questiontest.json',
         'IEL90.json',
         'nguvan6.json'
+         'toanthaykien.json'
     ];
 
     // DOM Elements
@@ -1310,5 +1311,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 });
+
 
 
