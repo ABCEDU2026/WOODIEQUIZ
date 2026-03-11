@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const DATABASE_FILES = [
         'lichsudiali.json',
         'khoahoctunhien.json',
+       
         'toan6.json',
         'toanvip.json',
         'nguvan6.json',
