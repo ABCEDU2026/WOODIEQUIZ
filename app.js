@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'lichsudiali.json',
         'khoahoctunhien.json',
         'CIE6TW6.json',
-        'TOAN6.json',
+        'taon6.json',
         'ENGLISHHK1.json',
         'questiontest.json',
         'IEL90.json',
@@ -1310,4 +1310,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 });
+
 
