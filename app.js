@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // ĐÃ CHUYỂN TOÀN BỘ SANG ĐỊNH DẠNG .JSON
     const DATABASE_FILES = [
-        'LICHSUDIALI.json',
+        'líchudiali.json',
         'khoahoctunhien.json',
         'CIE6TW6.json',
         'TOAN6.json',
@@ -1307,5 +1307,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     initializeApp();
+
 
 });
