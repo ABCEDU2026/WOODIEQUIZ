@@ -1,0 +1,432 @@
+[
+  {
+    "_Note": "QUESTIONTEST - MOT DAP AN",
+    "topic": "MOT DAP AN",
+    "subject": "QUESTIONTEST",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Trong tiếng Việt, khi kết hợp với dấu hai chấm đứng ngay trước, dấu ngoặc kép thường thực hiện chức năng nào sau đây?",
+        "options": {
+          "a": "Đánh dấu các từ ngữ có ý nghĩa mỉa mai, châm biếm.",
+          "b": "Dẫn lời nói trực tiếp (câu trọn vẹn hoặc đoạn văn) của nhân vật.",
+          "c": "Đánh dấu tên các tác phẩm văn học, tờ báo, tập san.",
+          "d": "Nhấn mạnh các từ ngữ có ý nghĩa đặc biệt."
+        },
+        "answer": "b",
+        "explanation": "Dấu ngoặc kép dùng để dẫn lời nói trực tiếp. Khi lời dẫn là một câu trọn vẹn hoặc đoạn văn, bắt buộc phải dùng thêm dấu hai chấm đứng trước để báo hiệu.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "dung_sai",
+        "question": "Nhận định sau đúng hay sai: \"Khi lời dẫn trực tiếp chỉ là một từ hoặc cụm từ ngắn đan xen vào câu kể (không phải câu trọn vẹn), người viết vẫn bắt buộc phải dùng dấu hai chấm trước dấu ngoặc kép.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Quy tắc dùng dấu hai chấm chỉ bắt buộc khi lời nói trực tiếp là một câu trọn vẹn hay một đoạn văn. Nếu chỉ là từ/cụm từ xen kẽ vào mạch câu thì không cần dấu hai chấm.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
+  {
+    "_Note": "QUESTIONTEST - DIEN KHUYET",
+    "topic": "DIEN KHUYET",
+    "subject": "QUESTIONTEST",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q41",
+        "type": "dien_khuyet",
+        "question": "Lĩnh vực nghiên cứu về vật chất, năng lượng và sự biến đổi năng lượng là ...",
+        "answer": "Vật lí học",
+        "explanation": "Đây là định nghĩa của Vật lí học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q42",
+        "type": "dien_khuyet",
+        "question": "Lĩnh vực nghiên cứu về chất và sự biến đổi của chúng là ...",
+        "answer": "Hoá học",
+        "explanation": "Đây là định nghĩa của Hoá học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q43",
+        "type": "dien_khuyet",
+        "question": "Lĩnh vực nghiên cứu về các vật sống là ...",
+        "answer": "Sinh học",
+        "explanation": "Đây là định nghĩa của Sinh học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q44",
+        "type": "dien_khuyet",
+        "question": "Lĩnh vực nghiên cứu về Trái Đất và bầu khí quyển là ...",
+        "answer": "Khoa học Trái Đất",
+        "explanation": "Đây là định nghĩa của Khoa học Trái Đất.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
+  {
+    "_Note": "QUESTIONTEST - DUNG SAI",
+    "topic": "DUNG SAI",
+    "subject": "QUESTIONTEST",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q31",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Được phép ăn uống trong phòng thực hành nếu làm thí nghiệm không dùng hóa chất độc.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Quy định an toàn cấm tuyệt đối việc ăn, uống trong phòng thực hành trong mọi trường hợp, vì hóa chất có thể tồn dư trên bàn hoặc dụng cụ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q32",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Kí hiệu cảnh báo nguy hiểm về điện có hình tam giác đều, nền vàng.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Đây là mô tả chính xác của kí hiệu cảnh báo khu vực nguy hiểm về điện.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q33",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Lực kế là dụng cụ dùng để đo thể tích chất lỏng.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Lực kế dùng để đo lực. Dụng cụ đo thể tích là bình chia độ, ống đong, pipette.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q34",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Cân đồng hồ là dụng cụ dùng để đo khối lượng.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Cân các loại (cân đồng hồ, cân điện tử) được dùng để đo khối lượng.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
+  {
+    "_Note": "QUESTIONTEST - DROPDOWN",
+    "topic": "DROPDOWN",
+    "subject": "QUESTIONTEST",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q62",
+        "type": "dropdown",
+        "question": "Kí hiệu hình tròn viền đỏ có hình ngọn lửa bị gạch chéo nghĩa là [[Cấm lửa|Chất dễ cháy|Nơi chữa cháy]].",
+        "answer": "Cấm lửa",
+        "explanation": "Vòng tròn đỏ gạch chéo là biểu tượng \"cấm\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q63",
+        "type": "dropdown",
+        "question": "Để đo khối lượng của một vật, ta dùng [[Cân|Lực kế|Thước]].",
+        "answer": "Cân",
+        "explanation": "Cân đo khối lượng (kg), lực kế đo lực (N), thước đo chiều dài (m).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q64",
+        "type": "dropdown",
+        "question": "Để quan sát chi tiết một con kiến (vật nhỏ), ta nên dùng [[Kính lúp|Kính hiển vi|Mắt thường]].",
+        "answer": "Kính lúp",
+        "explanation": "Kính lúp phù hợp để quan sát vật nhỏ mà mắt thường khó quan sát. Kính hiển vi dùng cho vật rất nhỏ (tế bào).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q65",
+        "type": "dropdown",
+        "question": "Để quan sát cấu tạo của một tế bào biểu bì hành (vật rất nhỏ), ta phải dùng [[Kính hiển vi|Kính lúp|Mắt thường]].",
+        "answer": "Kính hiển vi",
+        "explanation": "Tế bào là vật rất nhỏ, mắt thường và kính lúp không thể thấy được cấu tạo bên trong, bắt buộc phải dùng kính hiển vi.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
+  {
+    "_Note": "QUESTIONTEST - PHAN LOAI",
+    "topic": "PHAN LOAI",
+    "subject": "QUESTIONTEST",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q78",
+        "type": "phan_loai",
+        "question": "Phân loại các hành động sau trong phòng thực hành:",
+        "nhom": [
+          "(A) Nên làm / Phải làm",
+          "(B) Không được làm"
+        ],
+        "the": [
+          "Rửa tay bằng xà phòng sau khi \"thí nghiệm\".",
+          "Nếm thử hóa chất để phân biệt.",
+          "Buộc tóc gọn gàng khi làm thí nghiệm với lửa.",
+          "Tự ý trộn lẫn các hóa chất với nhau.",
+          "Đeo kính bảo vệ mắt khi đun nóng."
+        ],
+        "dap_an": {
+          "Rửa tay bằng xà phòng sau khi thí nghiệm.": 0,
+          "Nếm thử hóa chất để phân biệt.": 1,
+          "Buộc tóc gọn gàng khi làm thí nghiệm với lửa.": 0,
+          "Tự ý trộn lẫn các hóa chất với nhau.": 1,
+          "Đeo kính bảo vệ mắt khi đun nóng.": 0
+        },
+        "explanation": "Nhóm (A) là các hành động tuân thủ quy định an toàn. Nhóm (B) là các hành động vi phạm nghiêm trọng (như ăn uống, tự ý làm thí nghiệm), có thể gây nguy hiểm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q79",
+        "type": "phan_loai",
+        "question": "Phân loại các dụng cụ sau theo chức năng chính:",
+        "nhom": [
+          "(A) Dụng cụ đo lường",
+          "(B) Dụng cụ quan sát"
+        ],
+        "the": [
+          "Kính lúp",
+          "\"Nhiệt kế\"",
+          "Cân đồng hồ",
+          "Kính hiển vi quang học",
+          "Lực kế"
+        ],
+        "dap_an": {
+          "Kính lúp": 1,
+          "Nhiệt kế": 0,
+          "Cân đồng hồ": 0,
+          "Kính hiển vi quang học": 1,
+          "Lực kế": 0
+        },
+        "explanation": "Nhóm (A) dùng để đo một đại lượng cụ thể (nhiệt độ, khối lượng, lực). Nhóm (B) dùng để phóng đại vật mẫu để quan sát.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
+  {
+    "_Note": "QUESTIONTEST - NOI",
+    "topic": "NOI",
+    "subject": "QUESTIONTEST",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q75",
+        "type": "noi",
+        "question": "Nối dụng cụ đo với đại lượng cần đo tương ứng.",
+        "leftCol": [
+          "Nhiệt kế",
+          "\"Cân đồng hồ\"",
+          "Lực kế",
+          "Thước cuộn",
+          "Đồng hồ bấm giây",
+          "Bình chia độ"
+        ],
+        "rightCol": [
+          "Nhiệt độ",
+          "Khối lượng",
+          "Lực",
+          "Chiều dài",
+          "Thời gian",
+          "Thể tích"
+        ],
+        "answer": {
+          "Nhiệt kế": "Nhiệt độ",
+          "\"Cân đồng hồ\"": "Khối lượng",
+          "Lực kế": "Lực",
+          "Thước cuộn": "Chiều dài",
+          "Đồng hồ bấm giây": "Thời gian",
+          "Bình chia độ": "Thể tích"
+        },
+        "explanation": "Mỗi đại lượng vật lý đều có một dụng cụ đo lường chuyên dụng được giới thiệu trong Bài 3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q76",
+        "type": "noi",
+        "question": "Nối các bộ phận của kính hiển vi với chức năng chính của chúng.",
+        "leftCol": [
+          "Thị kính",
+          "Vật kính",
+          "Ốc sơ cấp",
+          "Ốc vi cấp",
+          "Mâm kính"
+        ],
+        "rightCol": [
+          "Bộ phận để mắt nhìn vào.",
+          "Bộ phận nằm sát mẫu vật để phóng đại ảnh.",
+          "Điều chỉnh thô để tìm thấy ảnh (di chuyển nhanh).",
+          "Điều chỉnh tinh để ảnh rõ nét (di chuyển chậm).",
+          "Nơi đặt tiêu bản (vật mẫu) để quan sát."
+        ],
+        "answer": {
+          "Thị kính": "Bộ phận để mắt nhìn vào.",
+          "Vật kính": "Bộ phận nằm sát mẫu vật để phóng đại ảnh.",
+          "Ốc sơ cấp": "Điều chỉnh thô để tìm thấy ảnh (di chuyển nhanh).",
+          "Ốc vi cấp": "Điều chỉnh tinh để ảnh rõ nét (di chuyển chậm).",
+          "Mâm kính": "Nơi đặt tiêu bản (vật mẫu) để quan sát."
+        },
+        "explanation": "Đây là các chức năng cơ bản của 5 bộ phận quan trọng nhất khi vận hành kính hiển vi.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q77",
+        "type": "noi",
+        "question": "Nối kí hiệu cảnh báo với ý nghĩa của nó.",
+        "leftCol": [
+          "Hình tam giác vàng, tia sét",
+          "Hình tròn đỏ, ngọn lửa gạch chéo",
+          "Hình vuông cam, chất lỏng đổ lên tay",
+          "Hình tam giác vàng, đầu lâu xương chéo"
+        ],
+        "rightCol": [
+          "Nguy hiểm về điện",
+          "Cấm lửa",
+          "Chất ăn mòn",
+          "Hóa chất độc hại"
+        ],
+        "answer": {
+          "Hình tam giác vàng, tia sét": "Nguy hiểm về điện",
+          "Hình tròn đỏ, ngọn lửa gạch chéo": "Cấm lửa",
+          "Hình vuông cam, chất lỏng đổ lên tay": "Chất ăn mòn",
+          "Hình tam giác vàng, đầu lâu xương chéo": "Hóa chất độc hại"
+        },
+        "explanation": "Nhận diện đúng các kí hiệu cảnh báo là yêu cầu bắt buộc để đảm bảo an toàn trong phòng thực hành.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
+  {
+    "_Note": "QUESTIONTEST - SAP XEP",
+    "topic": "SAP XEP",
+    "subject": "QUESTIONTEST",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q51",
+        "type": "sap_xep",
+        "question": "Sắp xếp 5 bước đúng của quy trình đo khối lượng:",
+        "muc": [
+          "(1) Ước lượng khối lượng vật cần đo.",
+          "(2) Chọn cân có GHĐ và ĐCNN phù hợp.",
+          "(3) Hiệu chỉnh cân đúng cách (về vạch 0).",
+          "(4) Đặt vật lên cân.",
+          "(5) Đọc và ghi kết quả mỗi lần đo theo vạch chia gần nhất."
+        ],
+        "answer": [
+          "(1) Ước lượng khối lượng vật cần đo.",
+          "(2) Chọn cân có GHĐ và ĐCNN phù hợp.",
+          "(3) Hiệu chỉnh cân đúng cách (về vạch 0).",
+          "(4) Đặt vật lên cân.",
+          "(5) Đọc và ghi kết quả mỗi lần đo theo vạch chia gần nhất."
+        ],
+        "explanation": "Đây là 5 bước chuẩn để thực hiện một phép đo khối lượng, đảm bảo tính chính xác và khoa học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q52",
+        "type": "sap_xep",
+        "question": "Sắp xếp các đơn vị đo khối lượng sau theo thứ tự GIẢM DẦN:",
+        "muc": [
+          "(1) Tấn (t)",
+          "(2) Tạ",
+          "(3) Yến",
+          "(4) Kilôgam (kg)",
+          "(5) Gam (g)",
+          "(6) Miligam (mg)"
+        ],
+        "answer": [
+          "(1) Tấn (t)",
+          "(2) Tạ",
+          "(3) Yến",
+          "(4) Kilôgam (kg)",
+          "(5) Gam (g)",
+          "(6) Miligam (mg)"
+        ],
+        "explanation": "Tấn (1000kg) > Tạ (100kg) > Yến (10kg) > Kilôgam (1kg) > Gam (0.001kg) > Miligam (0.000001kg).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q53",
+        "type": "sap_xep",
+        "question": "Sắp xếp các bước để dùng cân Roberval và hộp quả cân để đo khối lượng một vật:",
+        "muc": [
+          "(1) Ước lượng khối lượng vật, chọn cân và hộp quả cân phù hợp.",
+          "(2) Hiệu chỉnh cân thăng bằng (kim ở vạch 0) khi chưa có vật.",
+          "(3) Đặt vật lên một đĩa cân.",
+          "(4) Đặt các quả cân lên đĩa cân bên kia, điều chỉnh con mã (nếu có) sao cho cân thăng bằng.",
+          "(5) Tính tổng khối lượng của các quả cân trên đĩa, đó chính là khối lượng của vật."
+        ],
+        "answer": [
+          "(1) Ước lượng khối lượng vật, chọn cân và hộp quả cân phù hợp.",
+          "(2) Hiệu chỉnh cân thăng bằng (kim ở vạch 0) khi chưa có vật.",
+          "(3) Đặt vật lên một đĩa cân.",
+          "(4) Đặt các quả cân lên đĩa cân bên kia, điều chỉnh con mã (nếu có) sao cho cân thăng bằng.",
+          "(5) Tính tổng khối lượng của các quả cân trên đĩa, đó chính là khối lượng của vật."
+        ],
+        "explanation": "Đây là quy trình chuẩn khi sử dụng cân Roberval (cân đĩa) để đo khối lượng.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  }
+]
