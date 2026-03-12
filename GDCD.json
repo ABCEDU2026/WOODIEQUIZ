@@ -1,0 +1,1049 @@
+[
+  {
+    "_Note": " MÔN HỌC GDCD LỚP 6",
+    "topic": "ÔN TẬP GIỮA KI II -",
+    "subject": "General",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Khi ở nhà một mình, có người lạ gõ cửa và tự xưng là thợ sửa điện hoặc bạn của bố mẹ, hành động nào sau đây đảm bảo an toàn nhất cho em?",
+        "options": {
+          "a": "Mở cửa ngay lập tức để người đó vào nhà vì họ là người quen của bố mẹ.",
+          "b": "Hỏi rõ tên tuổi, mục đích và tuyệt đối không mở cửa, sau đó gọi điện báo ngay cho bố mẹ.",
+          "c": "Mở hé cửa để quan sát xem người đó có mang theo dụng cụ gì không.",
+          "d": "Im lặng không trả lời và tiếp tục xem tivi để người đó tự rời đi."
+        },
+        "answer": "b",
+        "explanation": "Theo nguyên tắc ứng phó với tình huống nguy hiểm, khi ở nhà một mình, trẻ em không được mở cửa cho người lạ và cần tìm kiếm sự hỗ trợ từ người thân để đảm bảo an toàn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Những việc làm nào sau đây giúp phòng tránh tai nạn đuối nước hiệu quả nhất?",
+        "options": {
+          "a": "Tự ý rủ bạn bè ra sông, hồ tắm vào những ngày trời nắng nóng.",
+          "b": "Chỉ bơi ở những nơi an toàn, có người lớn giám sát và tuân thủ các biển báo nguy hiểm.",
+          "c": "Sử dụng phao bơi tự chế bằng xốp để tắm ở những khu vực nước sâu, chảy xiết.",
+          "d": "Thi bơi lặn cùng bạn bè ở những khu vực sông ngòi vắng vẻ để rèn luyện sức khỏe."
+        },
+        "answer": "b",
+        "explanation": "Phòng tránh đuối nước yêu cầu trẻ em không được tắm ở sông, hồ khi không có người lớn và phải tuân thủ biển báo tại các khu vực nước sâu.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Khi phát hiện người lạ có biểu hiện đáng nghi ngờ như cứ đi theo mình trên đoạn đường vắng, em nên xử lý như thế nào?",
+        "options": {
+          "a": "Đứng lại đối chất trực tiếp với người đó để hỏi rõ lý do tại sao đi theo.",
+          "b": "Tiếp tục đi bình thường và giả vờ như không có chuyện gì xảy ra để người đó không nghi ngờ.",
+          "c": "Giữ bình tĩnh, nhanh chóng di chuyển đến nơi đông người hoặc nhà dân gần nhất và tìm sự giúp đỡ.",
+          "d": "Bỏ chạy thật nhanh vào các ngõ nhỏ, vắng vẻ để cắt đuôi người đó."
+        },
+        "answer": "c",
+        "explanation": "Khi gặp tình huống bị theo dõi, cần giữ bình tĩnh và tìm đến nơi an toàn, đông người để nhận được sự hỗ trợ kịp thời.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Vì sao học sinh cần phải học cách ứng phó với các tình huống nguy hiểm?",
+        "options": {
+          "a": "Để có thể tự mình đối đầu và chiến đấu với tất cả các loại tội phạm nguy hiểm.",
+          "b": "Để nhận diện nguy cơ, bảo vệ sự an toàn về thể chất và tinh thần cho bản thân và người khác.",
+          "c": "Để được thầy cô giáo khen ngợi và đạt điểm cao trong môn Giáo dục công dân.",
+          "d": "Để giúp gia đình giảm bớt chi phí mua sắm các thiết bị bảo vệ an ninh."
+        },
+        "answer": "b",
+        "explanation": "Học cách ứng phó giúp trẻ em có khả năng tự bảo vệ mình trước những tình huống có thể gây tổn hại về thể chất và tinh thần.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Trong tình huống có sấm sét khi đang đi ngoài đường, tại sao chúng ta không nên đứng trú mưa dưới gốc cây lớn?",
+        "options": {
+          "a": "Vì gốc cây lớn thường bị ướt, làm bẩn quần áo của học sinh.",
+          "b": "Vì cây xanh là vật dẫn điện tốt và tán cây cao dễ thu hút sét đánh trực tiếp.",
+          "c": "Vì đứng dưới gốc cây lớn sẽ khiến việc di chuyển trở nên khó khăn hơn.",
+          "d": "Vì các loại côn trùng trên cây có thể rơi xuống gây nguy hiểm cho con người."
+        },
+        "answer": "b",
+        "explanation": "Sét thường đánh vào những vật cao và có khả năng dẫn điện, do đó trú dưới gốc cây to là hành vi cực kỳ nguy hiểm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Khi trời mưa giông kèm theo sấm sét mạnh, nơi nào sau đây là nơi trú ẩn an toàn nhất?",
+        "options": {
+          "a": "Đứng dưới hiên nhà của một căn nhà cao tầng có nhiều cửa kính.",
+          "b": "Ở trong nhà, đóng kín cửa, tránh xa các thiết bị điện và cửa sổ bằng kim loại.",
+          "c": "Chạy ra khu vực cánh đồng trống trải để sét không có vật cao để đánh vào.",
+          "d": "Đứng trú dưới gầm cầu sắt hoặc gần các cột dây điện cao thế."
+        },
+        "answer": "b",
+        "explanation": "Để an toàn khi có dông sét, cần ở trong nhà vững chắc và tránh xa các vật dụng có khả năng dẫn điện.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Vì sao hành vi chen lấn, xô đẩy ở cầu thang hoặc những nơi đông người tại trường học có thể gây nguy hiểm?",
+        "options": {
+          "a": "Vì nó làm mất đi vẻ đẹp cảnh quan và trật tự của môi trường sư phạm.",
+          "b": "Vì dễ dẫn đến tình trạng vấp ngã, giẫm đạp lên nhau gây chấn thương nghiêm trọng.",
+          "c": "Vì hành vi này khiến các bạn học sinh không thể vào lớp đúng giờ quy định.",
+          "d": "Vì chen lấn làm tốn nhiều sức lực và khiến học sinh cảm thấy mệt mỏi hơn."
+        },
+        "answer": "b",
+        "explanation": "Xô đẩy tại cầu thang là tình huống nguy hiểm có thể gây tai nạn hàng loạt và chấn thương thể chất cho trẻ em.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Để giữ an toàn cho bản thân và các bạn ở nơi đông người trong trường, em nên thực hiện việc làm nào?",
+        "options": {
+          "a": "Chạy thật nhanh để thoát khỏi đám đông nhanh nhất có thể.",
+          "b": "Xếp hàng trật tự, di chuyển theo sự chỉ dẫn của thầy cô và không chen lấn.",
+          "c": "La hét thật lớn để thu hút sự chú ý của mọi người xung quanh giúp mình đi nhanh hơn.",
+          "d": "Dùng sức đẩy các bạn phía trước để tạo khoảng trống cho bản thân di chuyển."
+        },
+        "answer": "b",
+        "explanation": "Di chuyển có trật tự và tuân thủ hướng dẫn là cách tốt nhất để phòng tránh các tai nạn tại nơi đông người.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Theo chương trình GDCD 6, tiết kiệm được định nghĩa là gì?",
+        "options": {
+          "a": "Là việc không bao giờ tiêu tiền, dù là cho những nhu cầu thiết yếu nhất.",
+          "b": "Là sử dụng một cách hợp lý tiền bạc, của cải, thời gian, sức lực của mình và người khác.",
+          "c": "Là chỉ tiêu tiền của người khác và giữ lại toàn bộ tiền bạc của cá nhân mình.",
+          "d": "Là việc mua những món đồ rẻ tiền nhất dù chất lượng của chúng không đảm bảo."
+        },
+        "answer": "b",
+        "explanation": "Tiết kiệm không phải là bủn xỉn mà là sử dụng các nguồn lực một cách có kế hoạch và hợp lý.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Vì sao mỗi chúng ta cần phải sử dụng hợp lý thời gian, tiền bạc và của cải?",
+        "options": {
+          "a": "Để người khác thấy mình là người giàu có vì tích lũy được nhiều tiền.",
+          "b": "Để giúp chúng ta quý trọng lao động, giảm gánh nặng cho gia đình và xã hội.",
+          "c": "Để có thể mua được nhiều món đồ hàng hiệu nhằm thể hiện đẳng cấp cá nhân.",
+          "d": "Để không phải thực hiện bất kỳ công việc lao động nào trong tương lai."
+        },
+        "answer": "b",
+        "explanation": "Tiết kiệm thể hiện lối sống văn minh, giúp con người có điều kiện hỗ trợ bản thân và cộng đồng khi gặp khó khăn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Hành động nào sau đây thể hiện tính tiết kiệm trong cuộc sống hằng ngày?",
+        "options": {
+          "a": "Thay điện thoại mới mỗi khi có phiên bản mới ra mắt dù điện thoại cũ vẫn dùng tốt.",
+          "b": "Tận dụng nước vo gạo để tưới cây hoặc tận dụng giấy một mặt để làm nháp.",
+          "c": "Để vòi nước chảy liên tục khi đang đánh răng vì tiền nước không đáng bao nhiêu.",
+          "d": "Mua thật nhiều đồ ăn vặt nhưng chỉ ăn một ít rồi bỏ đi vì không hợp khẩu vị."
+        },
+        "answer": "b",
+        "explanation": "Tận dụng tài nguyên và tránh lãng phí những thứ nhỏ nhất là biểu hiện điển hình của tính tiết kiệm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Vì sao việc mở điện hoặc quạt điện khi không có nhu cầu sử dụng được coi là hành vi lãng phí?",
+        "options": {
+          "a": "Vì nó khiến các thiết bị điện nhanh chóng bị hỏng hóc và phải sửa chữa.",
+          "b": "Vì tiêu tốn năng lượng điện và tiền bạc của cá nhân, gia đình một cách vô ích.",
+          "c": "Vì nó làm cho không khí trong phòng trở nên quá lạnh hoặc quá sáng.",
+          "d": "Vì mở điện khi không sử dụng sẽ gây cản trở cho việc nghỉ ngơi của người khác."
+        },
+        "answer": "b",
+        "explanation": "Lãng phí điện năng trực tiếp gây tốn kém chi phí và ảnh hưởng đến an ninh năng lượng quốc gia.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Lối sống tiết kiệm mang lại lợi ích trực tiếp nào sau đây cho bản thân và gia đình?",
+        "options": {
+          "a": "Giúp gia đình trở nên nổi tiếng nhất vùng về sự giàu sang, phú quý.",
+          "b": "Giúp có thêm nguồn dự phòng cho những lúc khó khăn và rèn luyện bản lĩnh cá nhân.",
+          "c": "Giúp chúng ta không cần phải học tập hay làm việc mà vẫn có cuộc sống dư dả.",
+          "d": "Giúp bản thân có thể đòi hỏi bố mẹ mua bất cứ món đồ xa xỉ nào mình thích."
+        },
+        "answer": "b",
+        "explanation": "Tiết kiệm tạo ra nguồn lực dự trữ và giúp con người tự chủ hơn trước các biến cố trong cuộc sống.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Việc tiết kiệm có góp phần bảo vệ môi trường hay không? Vì sao?",
+        "options": {
+          "a": "Không, vì tiết kiệm chỉ liên quan đến tiền bạc, không liên quan đến tự nhiên.",
+          "b": "Có, vì giảm tiêu thụ năng lượng và tài nguyên giúp giảm thiểu rác thải và ô nhiễm.",
+          "c": "Không, vì việc bảo vệ môi trường là trách nhiệm riêng của các nhà khoa học.",
+          "d": "Có, vì khi tiết kiệm tiền thì chúng ta sẽ có tiền để đi du lịch sinh thái nhiều hơn."
+        },
+        "answer": "b",
+        "explanation": "Tiết kiệm tài nguyên (điện, nước, giấy...) giúp giảm áp lực khai thác thiên nhiên, từ đó bảo vệ môi trường bền vững.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Tại sao có thể khẳng định tiết kiệm hoàn toàn khác với lối sống keo kiệt?",
+        "options": {
+          "a": "Vì tiết kiệm là không tiêu tiền, còn keo kiệt là tiêu rất ít tiền.",
+          "b": "Vì tiết kiệm là chi tiêu hợp lý, đúng lúc; còn keo kiệt là bủn xỉn ngay cả khi cần thiết.",
+          "c": "Vì người tiết kiệm thường giàu hơn, còn người keo kiệt thì thường nghèo hơn.",
+          "d": "Vì tiết kiệm là đức tính của học sinh, còn keo kiệt là đức tính của người lớn."
+        },
+        "answer": "b",
+        "explanation": "Tiết kiệm là lối sống văn minh, biết chi tiêu vào việc cần thiết, trong khi keo kiệt là hẹp hòi quá mức.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "mot_dap_an",
+        "question": "Ví dụ nào sau đây thể hiện sự tiết kiệm thời gian hiệu quả nhất trong học tập?",
+        "options": {
+          "a": "Vừa học bài vừa tranh thủ xem các video giải trí trên mạng xã hội.",
+          "b": "Lập thời gian biểu khoa học và tập trung hoàn thành bài tập đúng kế hoạch.",
+          "c": "Bỏ qua các môn học phụ để dành toàn bộ thời gian chỉ học duy nhất một môn yêu thích.",
+          "d": "Thức thật khuya để học bù cho thời gian đã đi chơi vào buổi chiều."
+        },
+        "answer": "b",
+        "explanation": "Tiết kiệm thời gian trong học tập là biết sắp xếp công việc hợp lý để đạt hiệu quả cao nhất trong thời gian ngắn nhất.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "Việc tiết kiệm thời gian giúp nâng cao hiệu quả học tập của học sinh như thế nào?",
+        "options": {
+          "a": "Giúp học sinh có nhiều thời gian hơn để đi chơi game mà không bị bố mẹ mắng.",
+          "b": "Giúp hoàn thành công việc chất lượng hơn, có thời gian nghỉ ngơi và rèn luyện kỹ năng khác.",
+          "c": "Giúp học sinh trở thành người thông minh nhất lớp mà không cần phải nỗ lực tư duy.",
+          "d": "Giúp giáo viên giảm bớt thời gian phải chấm bài tập cho học sinh mỗi ngày."
+        },
+        "answer": "b",
+        "explanation": "Sử dụng thời gian khoa học giúp học sinh cân bằng giữa học tập và phát triển bản thân toàn diện.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "mot_dap_an",
+        "question": "Nếu được bố mẹ cho tiền tiêu vặt mỗi tuần, cách sử dụng nào sau đây là hợp lý và tiết kiệm nhất?",
+        "options": {
+          "a": "Dùng toàn bộ số tiền đó để mời bạn bè đi ăn uống nhằm tăng cường tình bạn.",
+          "b": "Chi tiêu cho những nhu cầu thực sự cần thiết và để dành một phần vào heo đất.",
+          "c": "Cất kỹ toàn bộ số tiền đó, không bao giờ dùng tới ngay cả khi cần mua bút, vở.",
+          "d": "Mua ngay những món đồ chơi đang hợp thời trang để không bị lạc hậu với bạn bè."
+        },
+        "answer": "b",
+        "explanation": "Quản lý tài chính thông minh là biết ưu tiên nhu cầu cần thiết và có kế hoạch tích lũy.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "Theo quy định của pháp luật Việt Nam, Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam là người như thế nào?",
+        "options": {
+          "a": "Là người đang sinh sống và làm việc trên lãnh thổ Việt Nam.",
+          "b": "Là người có quốc tịch Việt Nam theo quy định của pháp luật.",
+          "c": "Là người có thể nói và viết thành thạo tiếng Việt như người bản xứ.",
+          "d": "Là người có tổ tiên, ông bà đã từng sinh sống lâu đời tại Việt Nam."
+        },
+        "answer": "b",
+        "explanation": "Căn cứ vào Hiến pháp 2013 và Luật Quốc tịch, quốc tịch là tiêu chuẩn duy nhất để xác định một người là công dân Việt Nam.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "Quốc tịch có ý nghĩa quan trọng như thế nào đối với mỗi cá nhân trong một quốc gia?",
+        "options": {
+          "a": "Là căn cứ để xác định quyền và nghĩa vụ của công dân đối với Nhà nước.",
+          "b": "Là tấm thẻ thông hành giúp một người có thể đi du lịch vòng quanh thế giới miễn phí.",
+          "c": "Là minh chứng cho thấy người đó có trình độ học vấn rất cao tại quốc gia đó.",
+          "d": "Là yếu tố bắt buộc để một người có thể tham gia vào các hoạt động thể thao quốc tế."
+        },
+        "answer": "a",
+        "explanation": "Quốc tịch xác lập mối quan hệ pháp lý giữa cá nhân và nhà nước, là cơ sở để hưởng quyền và thực hiện nghĩa vụ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "mot_dap_an",
+        "question": "Học sinh lớp 6 cần thực hiện trách nhiệm nào sau đây để xứng đáng là công dân Việt Nam nhỏ tuổi?",
+        "options": {
+          "a": "Chỉ cần tập trung học tập văn hóa, không cần quan tâm đến các vấn đề xã hội khác.",
+          "b": "Tự giác học tập, rèn luyện đạo đức và chấp hành tốt các quy định của pháp luật.",
+          "c": "Tham gia vào các tổ chức chính trị của người lớn để chứng tỏ sự trưởng thành.",
+          "d": "Yêu cầu Nhà nước phải đáp ứng mọi sở thích cá nhân của mình vì mình có quyền trẻ em."
+        },
+        "answer": "b",
+        "explanation": "Trách nhiệm của học sinh là rèn luyện cả về tri thức lẫn nhân cách để đóng góp cho đất nước trong tương lai.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "mot_dap_an",
+        "question": "Vì sao mỗi công dân nói chung và học sinh nói riêng cần phải tuân thủ pháp luật và nội quy nhà trường?",
+        "options": {
+          "a": "Để tránh bị thầy cô giáo phạt lao động hoặc bị nhà trường đuổi học.",
+          "b": "Để góp phần giữ gìn trật tự xã hội, tạo môi trường học tập an toàn và văn minh.",
+          "c": "Để được Nhà nước cấp tiền thưởng cho những người chấp hành đúng quy định.",
+          "d": "Để chứng tỏ mình là người có quyền lực hơn những bạn không chấp hành nội quy."
+        },
+        "answer": "b",
+        "explanation": "Tuân thủ quy định giúp duy trì sự ổn định của cộng đồng và bảo vệ quyền lợi hợp pháp của mọi người.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "mot_dap_an",
+        "question": "Học sinh lớp 6 có cần phải thực hiện nghĩa vụ công dân hay không? Vì sao?",
+        "options": {
+          "a": "Không cần, vì học sinh còn nhỏ, nghĩa vụ công dân chỉ dành cho người từ 18 tuổi.",
+          "b": "Có, vì học sinh là công dân Việt Nam và cần thực hiện những nghĩa vụ phù hợp với lứa tuổi.",
+          "c": "Không cần, vì học sinh đã đóng học phí nên không phải thực hiện thêm nghĩa vụ nào khác.",
+          "d": "Có, nhưng chỉ cần thực hiện nghĩa vụ khi có sự giám sát trực tiếp của cảnh sát."
+        },
+        "answer": "b",
+        "explanation": "Quyền luôn đi đôi với nghĩa vụ; học sinh dù nhỏ vẫn phải thực hiện các nghĩa vụ cơ bản như học tập, bảo vệ môi trường...",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "mot_dap_an",
+        "question": "Việc chấp hành nghiêm chỉnh pháp luật của mỗi công dân có ý nghĩa gì đối với sự phát triển của xã hội?",
+        "options": {
+          "a": "Khiến xã hội trở nên nhàm chán vì ai cũng làm đúng theo các quy tắc đã định.",
+          "b": "Xây dựng một xã hội công bằng, dân chủ, văn minh và phát triển bền vững.",
+          "c": "Giúp Nhà nước không cần phải duy trì các lực lượng như công an hay tòa án.",
+          "d": "Làm giảm bớt sự tự do cá nhân và khiến mọi người cảm thấy bị gò bó hơn."
+        },
+        "answer": "b",
+        "explanation": "Sự thượng tôn pháp luật là nền tảng cho sự tiến bộ và ổn định của bất kỳ quốc gia nào.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "mot_dap_an",
+        "question": "Hành động nào sau đây là biểu hiện rõ nét của trách nhiệm công dân của học sinh trong trường học?",
+        "options": {
+          "a": "Chỉ giúp đỡ những bạn học giỏi và có điều kiện kinh tế khá giả trong lớp.",
+          "b": "Bảo vệ của công, giữ gìn vệ sinh chung và tích cực tham gia các phong trào Đội.",
+          "c": "Tự ý sửa đổi nội quy của lớp học nếu cảm thấy nội quy đó không phù hợp với mình.",
+          "d": "Yêu cầu bạn khác làm trực nhật thay mình để dành thời gian cho việc học tập."
+        },
+        "answer": "b",
+        "explanation": "Trách nhiệm công dân thể hiện qua việc tôn trọng lợi ích chung và tham gia xây dựng tập thể.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "mot_dap_an",
+        "question": "Vì sao chúng ta tuyệt đối không nên chia sẻ những thông tin sai sự thật về đất nước trên mạng xã hội?",
+        "options": {
+          "a": "Vì việc đó có thể làm cho số lượng người theo dõi trang cá nhân của mình bị giảm đi.",
+          "b": "Vì gây hoang mang dư luận, xâm phạm lợi ích quốc gia và vi phạm pháp luật.",
+          "c": "Vì những thông tin đó thường không có hình ảnh minh họa đẹp mắt để thu hút người xem.",
+          "d": "Vì chia sẻ thông tin sai sẽ khiến điện thoại hoặc máy tính dễ bị nhiễm vi-rút hơn."
+        },
+        "answer": "b",
+        "explanation": "An ninh mạng là vấn đề hệ trọng; chia sẻ tin giả gây hại cho uy tín quốc gia và trật tự xã hội.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "mot_dap_an",
+        "question": "Việc học sinh tích cực tham gia các hoạt động tập thể của lớp và trường thể hiện điều gì?",
+        "options": {
+          "a": "Thể hiện học sinh là người có quá nhiều thời gian rảnh rỗi và không lo học tập.",
+          "b": "Thể hiện tinh thần trách nhiệm, sự năng động và ý thức gắn kết với cộng đồng.",
+          "c": "Thể hiện học sinh muốn được làm lãnh đạo để ra lệnh cho các bạn khác trong lớp.",
+          "d": "Thể hiện học sinh đang cố gắng để được bố mẹ mua cho những món quà đắt tiền."
+        },
+        "answer": "b",
+        "explanation": "Hoạt động tập thể giúp học sinh rèn luyện kỹ năng sống và thể hiện thái độ sống tích cực vì tập thể.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "mot_dap_an",
+        "question": "Theo em, một công dân tốt cần có những hành động cụ thể nào sau đây?",
+        "options": {
+          "a": "Luôn đặt lợi ích cá nhân lên trên hết trong mọi tình huống của cuộc sống.",
+          "b": "Sống và làm việc theo Hiến pháp, pháp luật, có lối sống đạo đức và nhân ái.",
+          "c": "Chỉ cần làm giàu cho bản thân mình là đủ, không cần quan tâm đến người xung quanh.",
+          "d": "Luôn phê bình người khác nhưng không bao giờ tự nhìn nhận lại lỗi lầm của mình."
+        },
+        "answer": "b",
+        "explanation": "Công dân tốt là người vừa có ý thức pháp luật cao vừa có phẩm chất đạo đức tốt đẹp.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "mot_dap_an",
+        "question": "Khi tham gia sử dụng mạng xã hội, học sinh lớp 6 cần chú ý điều gì để bảo vệ bản thân?",
+        "options": {
+          "a": "Công khai toàn bộ số điện thoại, địa chỉ nhà và mật khẩu cá nhân để kết bạn.",
+          "b": "Bảo mật thông tin cá nhân, cư xử văn minh và kiểm chứng thông tin trước khi chia sẻ.",
+          "c": "Kết bạn với tất cả những người lạ gửi lời mời kết bạn để trở nên nổi tiếng.",
+          "d": "Dành ít nhất 10 tiếng mỗi ngày để sử dụng mạng xã hội nhằm cập nhật tin tức."
+        },
+        "answer": "b",
+        "explanation": "Sử dụng mạng xã hội an toàn yêu cầu học sinh phải có kỹ năng bảo vệ thông tin và ứng xử có văn hóa.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "mot_dap_an",
+        "question": "Vì sao học sinh không được phép có hành vi nói xấu hoặc nhục mạ người khác trên không gian mạng?",
+        "options": {
+          "a": "Vì nói xấu người khác sẽ làm cho tốc độ truy cập internet của mình bị chậm lại.",
+          "b": "Vì đó là hành vi vi phạm đạo đức, xúc phạm danh dự và có thể bị xử lý pháp luật.",
+          "c": "Vì nói xấu trên mạng sẽ khiến người khác biết mình là người không có khiếu hài hước.",
+          "d": "Vì các trang mạng xã hội sẽ tự động khóa tài khoản nếu chúng ta đăng quá nhiều chữ."
+        },
+        "answer": "b",
+        "explanation": "Mạng xã hội là thế giới ảo nhưng trách nhiệm pháp lý là thật; xúc phạm danh dự người khác là hành vi vi phạm pháp luật.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q31",
+        "type": "mot_dap_an",
+        "question": "Nếu tình cờ thấy một người bạn trong lớp đăng tải thông tin sai sự thật lên mạng, em nên làm gì?",
+        "options": {
+          "a": "Vào bình luận cổ vũ và chia sẻ tiếp bài viết đó để giúp bạn tăng lượt tương tác.",
+          "b": "Nhắc nhở nhẹ nhàng để bạn xóa bài và giải thích cho bạn hiểu tác hại của tin giả.",
+          "c": "Lập tức lập một tài khoản ảo khác để vào chửi bới và xúc phạm người bạn đó.",
+          "d": "Lờ đi như không biết vì đó là việc cá nhân của bạn, không liên quan đến mình."
+        },
+        "answer": "b",
+        "explanation": "Giúp đỡ bạn bè nhận ra lỗi sai và ngăn chặn sự lan truyền thông tin độc hại là trách nhiệm của học sinh.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q32",
+        "type": "mot_dap_an",
+        "question": "Quyền tự do ngôn luận có cho phép một cá nhân được quyền xúc phạm danh dự của người khác hay không? Vì sao?",
+        "options": {
+          "a": "Có, vì tự do ngôn luận có nghĩa là thích nói gì thì nói mà không ai có quyền ngăn cản.",
+          "b": "Không, vì quyền tự do của mỗi người phải nằm trong khuôn khổ pháp luật và tôn trọng người khác.",
+          "c": "Có, nhưng chỉ được xúc phạm những người mà mình thực sự ghét hoặc có mâu thuẫn.",
+          "d": "Không, vì xúc phạm người khác trên mạng sẽ làm tốn bộ nhớ lưu trữ của máy chủ mạng xã hội."
+        },
+        "answer": "b",
+        "explanation": "Tự do ngôn luận gắn liền với trách nhiệm; không được lợi dụng quyền này để xâm phạm quyền và lợi ích hợp pháp của người khác.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q33",
+        "type": "mot_dap_an",
+        "question": "Việc kịp thời báo cho thầy cô hoặc người có trách nhiệm khi thấy hành vi sai trái trên mạng có ý nghĩa gì?",
+        "options": {
+          "a": "Giúp ngăn chặn hậu quả xấu, bảo vệ môi trường mạng an toàn và lành mạnh cho học sinh.",
+          "b": "Để chứng tỏ mình là \"mật thám\" của thầy cô và nhận được sự ưu ái trong điểm số.",
+          "c": "Để khiến cho bạn có hành vi sai trái bị đuổi học ngay lập tức mà không cần giải thích.",
+          "d": "Để giúp bản thân có thêm nhiều lượt theo dõi mới từ phía các giáo viên trong trường."
+        },
+        "answer": "a",
+        "explanation": "Báo cáo sai phạm giúp ngăn chặn những ảnh hưởng tiêu cực từ môi trường mạng đến đời sống thực.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q34",
+        "type": "mot_dap_an",
+        "question": "Học sinh cần làm gì để góp phần xây dựng một môi trường mạng văn minh và tích cực?",
+        "options": {
+          "a": "Chỉ chia sẻ những thông tin hữu ích, tốt đẹp và đấu tranh chống lại các biểu hiện tiêu cực.",
+          "b": "Liên tục đăng tải những hình ảnh ăn chơi xa xỉ của bản thân để người khác vào ngưỡng mộ.",
+          "c": "Dùng mạng xã hội để thách thức và tranh cãi với bất kỳ ai có ý kiến khác biệt với mình.",
+          "d": "Chỉ cần im lặng xem thông tin mà không bao giờ cần phải bày tỏ quan điểm về điều đúng."
+        },
+        "answer": "a",
+        "explanation": "Văn hóa mạng được xây dựng từ ý thức trách nhiệm và thái độ tích cực của mỗi người sử dụng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q35",
+        "type": "mot_dap_an",
+        "question": "Hãy chọn 2 việc làm thiết thực nhất giúp em trở thành một học sinh có trách nhiệm trong cuộc sống?",
+        "options": {
+          "a": "Tự giác học tập và tích cực giúp đỡ bố mẹ làm những công việc nhà phù hợp.",
+          "b": "Chỉ tập trung học tập và yêu cầu mọi người trong nhà phải phục vụ mình từ A đến Z.",
+          "c": "Hứa thật nhiều với mọi người xung quanh nhưng không bao giờ thực hiện lời hứa đó.",
+          "d": "Luôn làm theo ý mình mà không bao giờ lắng nghe lời khuyên bảo từ phía người lớn."
+        },
+        "answer": "a",
+        "explanation": "Trách nhiệm thể hiện qua việc hoàn thành nhiệm vụ của bản thân và quan tâm đến gia đình.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q36",
+        "type": "mot_dap_an",
+        "question": "Vì sao một học sinh cần phải đồng thời vừa học tập tốt vừa tích cực rèn luyện đạo đức?",
+        "options": {
+          "a": "Vì học tập tốt giúp có kiến thức, còn đạo đức tốt giúp chúng ta biết sống đúng mực, có ích.",
+          "b": "Vì rèn luyện đạo đức sẽ khiến học sinh không còn thời gian để tham gia các trò chơi.",
+          "c": "Vì giáo viên chỉ thích những bạn học giỏi và nghe lời chứ không quan tâm đến tài năng khác.",
+          "d": "Vì học giỏi mà không có đạo đức thì vẫn sẽ dễ dàng kiếm được nhiều tiền trong tương lai."
+        },
+        "answer": "a",
+        "explanation": "\"Có tài mà không có đức là người vô dụng\"; sự phát triển toàn diện yêu cầu cả kiến thức và nhân cách.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q37",
+        "type": "mot_dap_an",
+        "question": "Nếu tình cờ thấy bạn mình đang có hành vi nguy hiểm (như trèo lan can cao) trong trường, em nên làm gì?",
+        "options": {
+          "a": "Đứng lại xem bạn có trèo được không và dùng điện thoại quay clip để đăng lên mạng.",
+          "b": "Nhanh chóng nhắc nhở bạn xuống ngay và báo cho thầy cô giáo hoặc bác bảo vệ kịp thời.",
+          "c": "Thách đố bạn xem ai có thể trèo cao hơn để thể hiện lòng dũng cảm của bản thân mình.",
+          "d": "Bỏ đi chỗ khác để tránh bị liên lụy nếu chẳng may bạn bị ngã hoặc bị thầy cô phạt."
+        },
+        "answer": "b",
+        "explanation": "Ngăn chặn hành vi nguy hiểm của bạn là biểu hiện của sự quan tâm và trách nhiệm bảo vệ sự an toàn trong nhà trường.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q38",
+        "type": "mot_dap_an",
+        "question": "Để đảm bảo an toàn cho bản thân trước các nguy cơ, học sinh nên thực hiện 3 việc làm nào sau đây?",
+        "options": {
+          "a": "Luôn đi cùng người lạ, công khai mọi thông tin lên mạng và tự ý tắm sông một mình.",
+          "b": "Trang bị kỹ năng ứng phó, giữ bí mật thông tin cá nhân và tìm sự hỗ trợ khi gặp nguy hiểm.",
+          "c": "Luôn mang theo hung khí trong cặp sách, hay gây sự với bạn bè và thích đi chơi khuya.",
+          "d": "Tuyệt đối không học bất cứ kỹ năng nào vì tin rằng mình sẽ luôn gặp may mắn trong đời."
+        },
+        "answer": "b",
+        "explanation": "Kỹ năng và sự cẩn trọng là \"lá chắn\" tốt nhất bảo vệ trẻ em trước các tình huống nguy hiểm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q39",
+        "type": "mot_dap_an",
+        "question": "Trong gia đình, 3 việc làm nào sau đây thể hiện rõ nhất tính tiết kiệm của học sinh?",
+        "options": {
+          "a": "Mở nước chảy tự do, bật đèn cả ngày khi đi vắng và đòi mua đồ chơi mới liên tục.",
+          "b": "Tắt điện khi ra khỏi phòng, khóa vòi nước sau khi dùng và giữ gìn đồ dùng học tập bền đẹp.",
+          "c": "Ăn uống bỏ thừa nhiều, xé vở làm máy bay giấy và dùng tiền mừng tuổi để mua game.",
+          "d": "Không bao giờ lau dọn nhà cửa để tiết kiệm sức lực và thời gian nghỉ ngơi của bản thân."
+        },
+        "answer": "b",
+        "explanation": "Tiết kiệm trong gia đình bắt đầu từ những thói quen sử dụng tài nguyên hợp lý và bảo quản tài sản.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 40,
+        "id": "q40",
+        "type": "mot_dap_an",
+        "question": "Theo em, làm thế nào để trở thành một \"Công dân nhỏ tuổi\" có trách nhiệm đối với Tổ quốc?",
+        "options": {
+          "a": "Luôn tự hào về truyền thống dân tộc, chăm chỉ học tập và có ý thức xây dựng quê hương.",
+          "b": "Chỉ cần ca ngợi đất nước bằng lời nói mà không cần thực hiện bất kỳ hành động cụ thể nào.",
+          "c": "Mong muốn được chuyển đến sinh sống ở nước ngoài vì cho rằng ở đó sẽ phát triển hơn.",
+          "d": "Không cần quan tâm đến các quy định của pháp luật vì mình vẫn còn là học sinh lớp 6."
+        },
+        "answer": "a",
+        "explanation": "Trách nhiệm với Tổ quốc của học sinh bắt nguồn từ lòng yêu nước và nỗ lực rèn luyện để trở thành người hữu ích.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 41,
+        "id": "q1",
+        "type": "dien_khuyet",
+        "question": "Khi ở nhà một mình, có người lạ gõ cửa, em tuyệt đối không được ____ và cần gọi điện báo ngay cho người thân.",
+        "answer": "mở cửa",
+        "explanation": "Để đảm bảo an toàn khi ở nhà một mình, trẻ em cần bình tĩnh và không mở cửa cho người lạ[cite: 1953].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 42,
+        "id": "q2",
+        "type": "dien_khuyet",
+        "question": "Phòng tránh tai nạn đuối nước bằng cách chỉ bơi ở những nơi ____ và có người lớn giám sát.",
+        "answer": "an toàn",
+        "explanation": "Phòng tránh đuối nước yêu cầu trẻ em tuân thủ các biển báo và chỉ bơi nơi có người lớn trông giữ[cite: 1952, 1953].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 43,
+        "id": "q3",
+        "type": "dien_khuyet",
+        "question": "Khi gặp người lạ đáng nghi ngờ đi theo mình, em nên nhanh chóng di chuyển đến nơi ____ để tìm sự giúp đỡ.",
+        "answer": "đông người",
+        "explanation": "Di chuyển đến nơi công cộng hoặc nhà dân giúp học sinh nhận được sự hỗ trợ kịp thời[cite: 1954, 1955].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 44,
+        "id": "q4",
+        "type": "dien_khuyet",
+        "question": "Học cách ứng phó với tình huống nguy hiểm giúp học sinh bảo vệ sự an toàn về ____ cho bản thân và người khác.",
+        "answer": "thể chất và tinh thần",
+        "explanation": "Tình huống nguy hiểm là những tình huống có thể gây tổn hại về thể chất, tinh thần[cite: 1951].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 45,
+        "id": "q5",
+        "type": "dien_khuyet",
+        "question": "Khi có sấm sét, không nên đứng dưới gốc cây lớn vì cây xanh là vật ____ tốt, dễ thu hút sét.",
+        "answer": "dẫn điện",
+        "explanation": "Sét thường đánh vào các vật cao; do đó không được trú mưa dưới gốc cây to[cite: 1974, 1975].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 46,
+        "id": "q6",
+        "type": "dien_khuyet",
+        "question": "Khi trời mưa giông kèm sét, nơi trú ẩn an toàn nhất là ở ____ và tránh xa các thiết bị điện.",
+        "answer": "trong nhà",
+        "explanation": "Để ứng phó với dông sét, cần tìm nơi trú ẩn vững chắc, an toàn như trong nhà[cite: 1973].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 47,
+        "id": "q7",
+        "type": "dien_khuyet",
+        "question": "Chen lấn, xô đẩy ở cầu thang có thể dẫn đến hậu quả nguy hiểm là gây ____ cho học sinh.",
+        "answer": "tai nạn/vấp ngã",
+        "explanation": "Hành vi xô đẩy cầu thang là tình huống nguy hiểm cần phòng ngừa để đảm bảo an toàn[cite: 1939, 1940].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 48,
+        "id": "q8",
+        "type": "dien_khuyet",
+        "question": "Để giữ an toàn nơi đông người trong trường, học sinh cần thực hiện di chuyển một cách ____.",
+        "answer": "có trật tự",
+        "explanation": "Tuân thủ hướng dẫn và di chuyển trật tự giúp hạn chế rủi ro tại nơi đông người[cite: 1939].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 49,
+        "id": "q9",
+        "type": "dien_khuyet",
+        "question": "Tiết kiệm là sử dụng một cách ____ tiền bạc, của cải, thời gian và sức lực của mình và người khác.",
+        "answer": "hợp lí",
+        "explanation": "Tiết kiệm là việc sử dụng đúng mức, hợp lý các nguồn lực[cite: 2033].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 50,
+        "id": "q10",
+        "type": "dien_khuyet",
+        "question": "Cần sử dụng hợp lý thời gian và tiền bạc để giảm bớt ____ cho gia đình và xã hội.",
+        "answer": "gánh nặng",
+        "explanation": "Tiết kiệm giúp thể hiện lối sống văn minh và giảm chi phí cho gia đình[cite: 2035].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 51,
+        "id": "q11",
+        "type": "dien_khuyet",
+        "question": "Việc tận dụng nước vo gạo để tưới cây là một biểu hiện cụ thể của tính ____.",
+        "answer": "tiết kiệm",
+        "explanation": "Tiết kiệm bao gồm việc sử dụng hợp lý nguồn nước và các nguồn lực khác[cite: 2021].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 52,
+        "id": "q12",
+        "type": "dien_khuyet",
+        "question": "Việc quên không tắt điện, quạt khi rời khỏi phòng học là hành vi ____.",
+        "answer": "lãng phí",
+        "explanation": "Sử dụng điện khi không cần thiết gây tốn kém tiền bạc và tài nguyên[cite: 2017, 2032].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 53,
+        "id": "q13",
+        "type": "dien_khuyet",
+        "question": "Tiết kiệm giúp chúng ta có thêm điều kiện để ____ với những người có hoàn cảnh khó khăn.",
+        "answer": "giúp đỡ/chia sẻ",
+        "explanation": "Lối sống tiết kiệm cho phép chúng ta tích lũy nguồn lực để hỗ trợ cộng đồng[cite: 2035].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 54,
+        "id": "q14",
+        "type": "dien_khuyet",
+        "question": "Tiết kiệm tài nguyên thiên nhiên (như điện, nước) giúp bảo vệ ____ bền vững.",
+        "answer": "môi trường",
+        "explanation": "Sử dụng hợp lý nước sạch và điện năng góp phần bảo vệ tài nguyên quốc gia[cite: 2038].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 55,
+        "id": "q15",
+        "type": "dien_khuyet",
+        "question": "Tiết kiệm là chi tiêu đúng lúc, đúng chỗ, hoàn toàn khác với lối sống ____ ngay cả khi cần thiết.",
+        "answer": "keo kiệt",
+        "explanation": "Keo kiệt là bủn xỉn quá mức, trái ngược với tinh thần sử dụng hợp lý của tiết kiệm[cite: 2012].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 56,
+        "id": "q16",
+        "type": "dien_khuyet",
+        "question": "Việc lập thời gian biểu khoa học giúp học sinh tiết kiệm ____ trong học tập.",
+        "answer": "thời gian",
+        "explanation": "Sắp xếp thời gian làm việc khoa học là cách rèn luyện tính tiết kiệm hiệu quả[cite: 2039].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 57,
+        "id": "q17",
+        "type": "dien_khuyet",
+        "question": "Tiết kiệm thời gian giúp nâng cao ____ học tập và có thêm thời gian nghỉ ngơi.",
+        "answer": "hiệu quả",
+        "explanation": "Sử dụng thời gian hợp lý giúp hoàn thành công việc tốt hơn[cite: 2039].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 58,
+        "id": "q18",
+        "type": "dien_khuyet",
+        "question": "Tiền tiêu vặt mỗi tuần nên được ưu tiên sử dụng cho các nhu cầu ____.",
+        "answer": "thiết yếu",
+        "explanation": "Biết ưu tiên chi tiêu cần thiết là biểu hiện của quản lý tài chính tiết kiệm[cite: 2047, 2049].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 59,
+        "id": "q19",
+        "type": "dien_khuyet",
+        "question": "Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam là người mang ____ Việt Nam.",
+        "answer": "quốc tịch",
+        "explanation": "Quốc tịch là căn cứ pháp lý để xác định một người là công dân[cite: 2078, 2081].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 60,
+        "id": "q20",
+        "type": "dien_khuyet",
+        "question": "____ là căn cứ xác định công dân của một nước, thể hiện mối quan hệ giữa cá nhân và Nhà nước.",
+        "answer": "Quốc tịch",
+        "explanation": "Mỗi cá nhân đều có quyền có quốc tịch để hưởng các quyền công dân[cite: 2174].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 61,
+        "id": "q21",
+        "type": "dien_khuyet",
+        "question": "Trách nhiệm của học sinh là tự giác ____ và rèn luyện đạo đức để trở thành người có ích.",
+        "answer": "học tập",
+        "explanation": "Học tập là bổn phận quan trọng nhất của trẻ em đối với bản thân và xã hội[cite: 2335].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 62,
+        "id": "q22",
+        "type": "dien_khuyet",
+        "question": "Mọi công dân Việt Nam đều có nghĩa vụ tuân theo ____ và pháp luật.",
+        "answer": "Hiến pháp",
+        "explanation": "Công dân có nghĩa vụ thượng tôn pháp luật để giữ gìn trật tự xã hội[cite: 2250, 2276].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 63,
+        "id": "q23",
+        "type": "dien_khuyet",
+        "question": "Trẻ em Việt Nam có bổn phận yêu quê hương, đất nước và có ý thức xây dựng, ____ Tổ quốc.",
+        "answer": "bảo vệ",
+        "explanation": "Yêu nước và bảo vệ Tổ quốc là nghĩa vụ cơ bản của mọi công dân[cite: 2340].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 64,
+        "id": "q24",
+        "type": "dien_khuyet",
+        "question": "Việc công dân chấp hành pháp luật giúp xây dựng một xã hội ____, dân chủ, văn minh.",
+        "answer": "công bằng",
+        "explanation": "Tuân thủ pháp luật là điều kiện cần thiết cho sự phát triển của quốc gia[cite: 1361, 2215].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 65,
+        "id": "q25",
+        "type": "dien_khuyet",
+        "question": "Một biểu hiện trách nhiệm công dân của học sinh là bảo vệ ____ và giữ gìn vệ sinh chung.",
+        "answer": "của công/tài sản công",
+        "explanation": "Bảo vệ tài sản trường lớp là trách nhiệm của mỗi học sinh[cite: 2343].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 66,
+        "id": "q26",
+        "type": "dien_khuyet",
+        "question": "Không chia sẻ thông tin sai sự thật trên mạng vì đó là hành vi vi phạm ____.",
+        "answer": "pháp luật",
+        "explanation": "Thông tin sai sự thật gây hoang mang dư luận và bị pháp luật nghiêm cấm[cite: 2289, 2291].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 67,
+        "id": "q27",
+        "type": "dien_khuyet",
+        "question": "Tích cực tham gia hoạt động tập thể giúp học sinh rèn luyện tinh thần ____ và gắn kết bạn bè.",
+        "answer": "trách nhiệm",
+        "explanation": "Tham gia hoạt động Đội, nhóm giúp trẻ em phát triển toàn diện[cite: 2328].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 68,
+        "id": "q28",
+        "type": "dien_khuyet",
+        "question": "Công dân tốt là người sống và làm việc theo ____ và có đạo đức tốt đẹp.",
+        "answer": "Hiến pháp và pháp luật",
+        "explanation": "Đây là chuẩn mực cơ bản của một công dân trong xã hội hiện đại[cite: 2250].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 69,
+        "id": "q29",
+        "type": "dien_khuyet",
+        "question": "Khi sử dụng mạng xã hội, học sinh cần chú ý bảo mật ____ cá nhân.",
+        "answer": "thông tin",
+        "explanation": "Tự bảo vệ mình trên không gian mạng là kỹ năng cần thiết cho trẻ em[cite: 2273].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 70,
+        "id": "q30",
+        "type": "dien_khuyet",
+        "question": "Nói xấu người khác trên mạng là hành vi vi phạm đạo đức và xâm phạm ____ của người đó.",
+        "answer": "danh dự/nhân phẩm",
+        "explanation": "Tôn trọng danh dự người khác là yêu cầu bắt buộc khi sử dụng mạng[cite: 2272, 2343].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 71,
+        "id": "q31",
+        "type": "dien_khuyet",
+        "question": "Nếu thấy bạn đăng tin sai trên mạng, em nên khuyên bạn ____ bài viết đó kịp thời.",
+        "answer": "xóa",
+        "explanation": "Học sinh cần có trách nhiệm đấu tranh với các thông tin tiêu cực trên mạng[cite: 2292].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 72,
+        "id": "q32",
+        "type": "dien_khuyet",
+        "question": "Quyền ____ ngôn luận không cho phép bất kỳ ai được xúc phạm hay làm nhục người khác.",
+        "answer": "tự do",
+        "explanation": "Tự do phải nằm trong khuôn khổ đạo đức và pháp luật[cite: 2275, 2343].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 73,
+        "id": "q33",
+        "type": "dien_khuyet",
+        "question": "Việc báo cáo các hành vi sai trái trên mạng giúp xây dựng môi trường mạng ____ cho học sinh.",
+        "answer": "an toàn/lành mạnh",
+        "explanation": "Đây là hành động tích cực để bảo vệ cộng đồng người dùng mạng[cite: 2420].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 74,
+        "id": "q34",
+        "type": "dien_khuyet",
+        "question": "Xây dựng môi trường mạng văn minh bằng cách chỉ chia sẻ những thông tin ____ và tích cực.",
+        "answer": "hữu ích/đúng sự thật",
+        "explanation": "Học sinh cần rèn luyện thái độ ứng xử văn hóa trên không gian ảo[cite: 2291].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 75,
+        "id": "q35",
+        "type": "dien_khuyet",
+        "question": "Hai việc làm thiết thực thể hiện trách nhiệm học sinh là ____ và giúp đỡ gia đình.",
+        "answer": "tự giác học tập",
+        "explanation": "Hoàn thành tốt nhiệm vụ học tập là bổn phận hàng đầu của trẻ em[cite: 2335].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 76,
+        "id": "q36",
+        "type": "dien_khuyet",
+        "question": "Học sinh cần vừa học tập tốt vừa rèn luyện đạo đức để phát triển ____.",
+        "answer": "toàn diện",
+        "explanation": "Sự kết hợp giữa tri thức và đạo đức giúp học sinh trở thành công dân hữu ích[cite: 2348].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 77,
+        "id": "q37",
+        "type": "dien_khuyet",
+        "question": "Nếu thấy bạn có hành vi nguy hiểm, cần khuyên ngăn và báo ngay cho ____.",
+        "answer": "thầy cô/người lớn",
+        "explanation": "Kịp thời can thiệp giúp giảm thiểu hậu quả của các tình huống nguy hiểm[cite: 1953].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 78,
+        "id": "q38",
+        "type": "dien_khuyet",
+        "question": "Để đảm bảo an toàn, mỗi học sinh cần chủ động trang bị cho mình các ____ ứng phó cần thiết.",
+        "answer": "kỹ năng",
+        "explanation": "Kỹ năng giúp chúng ta bình tĩnh và xử lý hiệu quả các biến cố bất ngờ[cite: 1953, 1986].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 79,
+        "id": "q39",
+        "type": "dien_khuyet",
+        "question": "Tiết kiệm trong gia đình bằng cách tắt thiết bị ____ khi không có nhu cầu sử dụng.",
+        "answer": "điện",
+        "explanation": "Đây là thói quen đơn giản nhất để thực hành tiết kiệm hàng ngày[cite: 2037].",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 80,
+        "id": "q40",
+        "type": "dien_khuyet",
+        "question": "Để trở thành công dân nhỏ tuổi có trách nhiệm, học sinh cần nỗ lực ____ mỗi ngày.",
+        "answer": "rèn luyện",
+        "explanation": "Tương lai của đất nước phụ thuộc vào sự phấn đấu của thế hệ trẻ hôm nay[cite: 1351].",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  }
+]
