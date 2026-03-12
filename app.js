@@ -21,10 +21,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const DATABASE_FILES = [
         'lichsudiali.json',
         'khoahoctunhien.json',
-       
+        'GDCD.json',
         'toan6.json',
         'toanvip.json',
         'nguvan6.json',
+        
         'ENGLISHHK1.json',
         'CIE6TW6.json',
         'IEL90.json',
@@ -1354,5 +1355,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     initializeApp();
+
 
 });
