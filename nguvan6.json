@@ -144,10 +144,10 @@
           "Góc nhìn mang tính chủ quan, thể hiện rõ nội tâm của người kể."
         ],
         "dap_an": {
-          "gọi tên các nhân vật theo tên gọi của chúng.": 1,
-          "là nhân vật trong truyện.": 0,
-          "toàn tri.": 1,
-          "thể hiện rõ nội tâm của người kể.": 0
+          "Người kể giấu mình, gọi tên các nhân vật theo tên gọi của chúng.": 1,
+          "Người kể xưng \"tôi\", là nhân vật trong truyện.": 0,
+          "Góc nhìn mang tính khách quan, toàn tri.": 1,
+          "Góc nhìn mang tính chủ quan, thể hiện rõ nội tâm của người kể.": 0
         },
         "explanation": "Ngôi thứ nhất xưng tôi, chủ quan. Ngôi thứ ba giấu mặt, khách quan.",
         "_": "---",
