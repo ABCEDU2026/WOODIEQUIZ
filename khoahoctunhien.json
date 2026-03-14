@@ -1,5 +1,322 @@
 [
-  {
+ 
+
+
+ {
+    "_Note": "KHOA HOC TỰ NHIÊN - Bài Vật lý KT giữa học kì II",
+    "topic": "Bài Hóa học KT giữa học kì II",
+    "subject": "KHOA HOC TỰ NHIÊN",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Hiện tượng nào sau đây cho thấy gió mang năng lượng dưới dạng khả năng tác dụng lực?",
+        "options": {
+          "a": "Gió làm bầu trời trong xanh hơn.",
+          "b": "Gió thổi mạnh làm cánh buồm căng lên và đẩy thuyền di chuyển.",
+          "c": "Gió thổi làm giảm nhiệt độ không khí.",
+          "d": "Gió mang theo hơi ẩm từ biển vào đất liền."
+        },
+        "answer": "b",
+        "explanation": "Gió thổi làm căng buồm và đẩy thuyền đi chứng tỏ gió đã tác dụng một lực lên cánh buồm, thể hiện gió mang năng lượng dưới dạng khả năng tác dụng lực.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Tại sao dòng nước chảy xiết lại có thể làm quay bánh xe nước (cọn nước)?",
+        "options": {
+          "a": "Vì nước có màu trắng.",
+          "b": "Vì nước có vị nhạt.",
+          "c": "Vì dòng nước mang năng lượng có khả năng tác dụng lực lên cánh quạt của bánh xe.",
+          "d": "Vì nước có thể hòa tan được nhiều chất."
+        },
+        "answer": "c",
+        "explanation": "Nước chuyển động mang động năng, khi va chạm vào cánh quạt của bánh xe, nó tác dụng lực đẩy làm bánh xe quay.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Khi một bóng đèn điện đang sáng, điện năng đã chuyển hóa thành những dạng năng lượng chính nào?",
+        "options": {
+          "a": "Chỉ có hóa năng.",
+          "b": "Quang năng và nhiệt năng.",
+          "c": "Động năng và thế năng.",
+          "d": "Hóa năng và âm thanh."
+        },
+        "answer": "b",
+        "explanation": "Mục đích của bóng đèn là phát sáng (quang năng), tuy nhiên trong quá trình hoạt động dây tóc hoặc mạch điện nóng lên (nhiệt năng).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Khi bạn đặt một chiếc thìa inox vào cốc nước nóng, sau một lúc cán thìa nóng lên. Đây là ví dụ về sự truyền năng lượng dưới dạng nào?",
+        "options": {
+          "a": "Truyền nhiệt.",
+          "b": "Thực hiện công.",
+          "c": "Truyền âm.",
+          "d": "Phát sáng."
+        },
+        "answer": "a",
+        "explanation": "Năng lượng nhiệt từ nước nóng truyền sang thìa làm các phân tử ở cán thìa chuyển động nhanh lên mà không cần thực hiện công cơ học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Trong các ứng dụng sau, thiết bị nào hoạt động dựa trên nguyên lý năng lượng gió tác dụng lực làm quay cánh quạt?",
+        "options": {
+          "a": "Pin mặt trời.",
+          "b": "Đèn LED.",
+          "c": "Tua-bin điện gió.",
+          "d": "Bếp ga."
+        },
+        "answer": "c",
+        "explanation": "Tua-bin gió sử dụng lực đẩy của gió làm quay các cánh quạt, từ đó dẫn động máy phát điện.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Nhiên liệu nào sau đây thường được sử dụng phổ biến nhất để vận hành xe máy hiện nay?",
+        "options": {
+          "a": "Than tổ ong.",
+          "b": "Xăng.",
+          "c": "Củi khô.",
+          "d": "Khí Nitơ."
+        },
+        "answer": "b",
+        "explanation": "Xăng là loại nhiên liệu lỏng có mật độ năng lượng cao, dễ bay hơi và phù hợp với động cơ đốt trong của xe máy.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Dạng năng lượng nào được lưu trữ trong pin, ắc quy hoặc trong thực phẩm chúng ta ăn hàng ngày?",
+        "options": {
+          "a": "Nhiệt năng.",
+          "b": "Hóa năng.",
+          "c": "Điện năng.",
+          "d": "Cơ năng."
+        },
+        "answer": "b",
+        "explanation": "Hóa năng là năng lượng lưu trữ trong các liên kết hóa học của các chất, khi xảy ra phản ứng (đốt cháy, tiêu hóa) sẽ giải phóng năng lượng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Hiện tượng ánh sáng Mặt Trời làm nóng bãi cát vào mùa hè là ví dụ của sự truyền năng lượng theo hình thức nào?",
+        "options": {
+          "a": "Truyền năng lượng dưới dạng bức xạ nhiệt.",
+          "b": "Truyền năng lượng thông qua va chạm cơ học.",
+          "c": "Truyền điện năng từ Mặt Trời xuống đất.",
+          "d": "Truyền năng lượng bằng cách dẫn điện."
+        },
+        "answer": "a",
+        "explanation": "Năng lượng từ Mặt Trời truyền đến Trái Đất thông qua các tia nhiệt (sóng điện từ), không cần môi trường vật chất dẫn điện hay va chạm trực tiếp.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Phát biểu nào sau đây là đúng về định luật bảo toàn năng lượng?",
+        "options": {
+          "a": "Năng lượng tự nhiên sinh ra và cũng tự mất đi.",
+          "b": "Năng lượng không tự nhiên sinh ra cũng không tự mất đi, nó chỉ chuyển từ dạng này sang dạng khác hoặc truyền từ vật này sang vật khác.",
+          "c": "Tổng năng lượng của vũ trụ luôn giảm dần theo thời gian.",
+          "d": "Năng lượng chỉ có thể truyền từ vật này sang vật khác chứ không thể chuyển hóa dạng."
+        },
+        "answer": "b",
+        "explanation": "Đây là nội dung cơ bản của định luật bảo toàn năng lượng: tổng năng lượng của một hệ cô lập luôn không đổi.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Khi một quả bóng rơi từ trên cao xuống và chạm đất, thế năng của nó đã chuyển hóa chủ yếu thành dạng năng lượng nào ngay trước khi chạm đất?",
+        "options": {
+          "a": "Hóa năng.",
+          "b": "Động năng.",
+          "c": "Năng lượng hạt nhân.",
+          "d": "Quang năng."
+        },
+        "answer": "b",
+        "explanation": "Khi rơi, độ cao giảm dần (thế năng giảm) và vận tốc tăng dần (động năng tăng). Ngay trước khi chạm đất, thế năng chuyển hóa phần lớn thành động năng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Những vật liệu nào sau đây được gọi là nhiên liệu dùng để đun nấu hoặc chạy máy móc?",
+        "options": {
+          "a": "Sắt, đồng, nhôm.",
+          "b": "Đất, cát, đá vôi.",
+          "c": "Than đá, khí gas, xăng, dầu.",
+          "d": "Nước biển, muối ăn, không khí."
+        },
+        "answer": "c",
+        "explanation": "Nhiên liệu là những chất có khả năng giải phóng năng lượng khi bị đốt cháy. Than đá, gas, xăng, dầu đều thỏa mãn tính chất này.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Nhóm nào sau đây chỉ gồm các loại nhiên liệu hóa thạch thường dùng trong đời sống và sản xuất?",
+        "options": {
+          "a": "Than đá, dầu mỏ, khí tự nhiên.",
+          "b": "Củi khô, năng lượng mặt trời, gió.",
+          "c": "Xăng, dầu hỏa, năng lượng thủy triều.",
+          "d": "Khí biogas, củi, nến."
+        },
+        "answer": "a",
+        "explanation": "Nhiên liệu hóa thạch được hình thành từ xác sinh vật cổ đại qua hàng triệu năm dưới áp suất và nhiệt độ lớn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Xét nhận định sau: Gió lốc có năng lượng lớn nên có khả năng tác dụng lực mạnh làm tốc mái nhà hoặc quật đổ cây cối. Nhận định này đúng hay sai?",
+        "options": {
+          "a": "Đúng",
+          "b": "Sai"
+        },
+        "answer": "a",
+        "explanation": "Gió chuyển động với vận tốc cực lớn mang động năng khổng lồ, do đó lực tác động lên các vật cản là rất mạnh.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Trong khoa học, phát biểu nào sau đây về năng lượng của vật lạnh là chính xác nhất?",
+        "options": {
+          "a": "Vật lạnh không có bất kỳ loại năng lượng nào.",
+          "b": "Chỉ những vật đang nóng lên thì mới mang năng lượng.",
+          "c": "Vật dù lạnh vẫn mang năng lượng vì các phân tử cấu tạo nên vật luôn chuyển động.",
+          "d": "Vật lạnh chỉ có thế năng mà không có nhiệt năng."
+        },
+        "answer": "c",
+        "explanation": "Mọi vật dù ở nhiệt độ nào cũng có nội năng (năng lượng của các phân tử), do đó vật lạnh vẫn mang năng lượng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Cho các hiện tượng: (A) Gió thổi làm quay cánh quạt máy phát điện; (B) Sóng biển đánh vào bờ làm xói mòn đá; (C) Một hòn đá nằm yên trên đỉnh núi; (D) Dòng nước lũ cuốn trôi nhà cửa; (E) Quyển sách nằm yên trên mặt bàn. Có bao nhiêu hiện tượng thể hiện năng lượng đặc trưng cho khả năng tác dụng lực?",
+        "options": {
+          "a": "2",
+          "b": "3",
+          "c": "4",
+          "d": "5"
+        },
+        "answer": "b",
+        "explanation": "Có 3 hiện tượng chuyển động hoặc có xu hướng tác dụng lực mạnh gồm: A (gió đẩy quạt), B (sóng đẩy đá), D (nước đẩy nhà). C và E ở trạng thái cân bằng tĩnh ổn định.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q1",
+        "type": "sap_xep",
+        "question": "Hãy sắp xếp các bước lập luận để giải thích tại sao năng lượng hữu ích luôn ít hơn năng lượng ban đầu mà không trái với định luật bảo toàn năng lượng.",
+        "muc": [
+          "(1) Xác định lượng năng lượng ban đầu cung cấp cho máy.",
+          "(2) Phân tích quá trình máy làm biến đổi năng lượng từ dạng này sang dạng khác.",
+          "(3) Nhận diện sự xuất hiện tất yếu của năng lượng hao phí thoát ra môi trường.",
+          "(4) Xác định lượng năng lượng hữu ích thu được cuối cùng.",
+          "(5) Kết luận tổng năng lượng hữu ích và hao phí luôn bằng năng lượng ban đầu theo định luật bảo toàn."
+        ],
+        "answer": [
+          "(1) Xác định lượng năng lượng ban đầu cung cấp cho máy.",
+          "(2) Phân tích quá trình máy làm biến đổi năng lượng từ dạng này sang dạng khác.",
+          "(3) Nhận diện sự xuất hiện tất yếu của năng lượng hao phí thoát ra môi trường.",
+          "(4) Xác định lượng năng lượng hữu ích thu được cuối cùng.",
+          "(5) Kết luận tổng năng lượng hữu ích và hao phí luôn bằng năng lượng ban đầu theo định luật bảo toàn."
+        ],
+        "explanation": "Theo định luật bảo toàn, năng lượng không mất đi mà chỉ chuyển hóa. Năng lượng hữu ích ít hơn ban đầu vì một phần đã thành hao phí, thỏa mãn phương trình: Tổng năng lượng = Năng lượng hữu ích + Năng lượng hao phí.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q2",
+        "type": "sap_xep",
+        "question": "Hãy sắp xếp trình tự truyền năng lượng và các bước xử lý hao phí khi vận hành xe đạp từ nhà tới trường.",
+        "muc": [
+          "(1) Năng lượng từ cơ thể người truyền sang bàn đạp và hệ thống xích xe.",
+          "(2) Hệ thống truyền động làm bánh xe quay và đẩy xe chuyển động.",
+          "(3) Nhận diện năng lượng hao phí phát sinh do ma sát giữa các bộ phận và lực cản không khí.",
+          "(4) Thực hiện biện pháp tra dầu mỡ vào xích và ổ trục để giảm ma sát hao phí.",
+          "(5) Duy trì vận hành xe với hiệu suất năng lượng tối ưu nhất."
+        ],
+        "answer": [
+          "(1) Năng lượng từ cơ thể người truyền sang bàn đạp và hệ thống xích xe.",
+          "(2) Hệ thống truyền động làm bánh xe quay và đẩy xe chuyển động.",
+          "(3) Nhận diện năng lượng hao phí phát sinh do ma sát giữa các bộ phận và lực cản không khí.",
+          "(4) Thực hiện biện pháp tra dầu mỡ vào xích và ổ trục để giảm ma sát hao phí.",
+          "(5) Duy trì vận hành xe với hiệu suất năng lượng tối ưu nhất."
+        ],
+        "explanation": "Năng lượng truyền từ người sang xe thông qua công cơ học; việc giảm ma sát bằng dầu mỡ giúp tăng tỉ lệ năng lượng hữu ích cho chuyển động.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q3",
+        "type": "sap_xep",
+        "question": "Hãy sắp xếp các biện pháp tiết kiệm năng lượng khi sử dụng phương tiện giao thông theo thứ tự từ giai đoạn lựa chọn đến vận hành thực tế.",
+        "muc": [
+          "(1) Ưu tiên đi bộ, xe đạp hoặc phương tiện công cộng thay cho phương tiện cá nhân.",
+          "(2) Kiểm tra định kỳ và bảo dưỡng phương tiện để giảm ma sát.",
+          "(3) Lên kế hoạch lộ trình di chuyển hợp lý để tránh đường tắc hoặc quãng đường vòng.",
+          "(4) Điều khiển phương tiện đều ga, hạn chế tối đa việc phanh gấp hoặc tăng tốc đột ngột.",
+          "(5) Tắt máy xe khi dừng đèn đỏ lâu để tránh lãng phí nhiên liệu vô ích."
+        ],
+        "answer": [
+          "(1) Ưu tiên đi bộ, xe đạp hoặc phương tiện công cộng thay cho phương tiện cá nhân.",
+          "(2) Kiểm tra định kỳ và bảo dưỡng phương tiện để giảm ma sát.",
+          "(3) Lên kế hoạch lộ trình di chuyển hợp lý để tránh đường tắc hoặc quãng đường vòng.",
+          "(4) Điều khiển phương tiện đều ga, hạn chế tối đa việc phanh gấp hoặc tăng tốc đột ngột.",
+          "(5) Tắt máy xe khi dừng đèn đỏ lâu để tránh lãng phí nhiên liệu vô ích."
+        ],
+        "explanation": "Tiết kiệm năng lượng trong giao thông là sự kết hợp giữa việc thay đổi thói quen lựa chọn phương tiện, bảo trì kỹ thuật và kỹ năng điều khiển xe khoa học.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
+ {
     "_Note": "KHOA HOC TỰ NHIÊN - Bài Hóa học KT giữa học kì II",
     "topic": "Bài Hóa học KT giữa học kì II",
     "subject": "KHOA HOC TỰ NHIÊN",
