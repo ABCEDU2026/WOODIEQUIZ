@@ -71141,6 +71141,4806 @@
         "_divider": "-----------------"
       }
     ]
+  },
+  {
+    "_Note": "CIE6 - T4W2 - QUETION TEST",
+    "topic": "T4W2 - QUETION TEST",
+    "subject": "CIE6",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "In film studies, the term \"characters\" refers to what element of a movie narrative?",
+        "options": {
+          "a": "The fictional individuals who participate in the story",
+          "b": "The machines used to project the film",
+          "c": "The sound equipment used during filming",
+          "d": "The physical cinema building"
+        },
+        "answer": "a",
+        "explanation": "Characters are the fictional persons that take part in the events of the film narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Which term refers to performers who portray characters in a film?",
+        "options": {
+          "a": "actors",
+          "b": "audience",
+          "c": "editors",
+          "d": "writers"
+        },
+        "answer": "a",
+        "explanation": "Actors are performers who interpret and represent characters.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Which word describes the sequence of events that form the main story of a film?",
+        "options": {
+          "a": "plot",
+          "b": "screen",
+          "c": "costume",
+          "d": "soundtrack"
+        },
+        "answer": "a",
+        "explanation": "The plot organizes the events of the story.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "What term refers to noises added to a film to make scenes sound realistic?",
+        "options": {
+          "a": "sound effects",
+          "b": "soundtrack",
+          "c": "graphics",
+          "d": "dialogue"
+        },
+        "answer": "a",
+        "explanation": "Sound effects simulate environmental sounds.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "What is the name of the music used throughout a film?",
+        "options": {
+          "a": "soundtrack",
+          "b": "plot",
+          "c": "setting",
+          "d": "dialogue"
+        },
+        "answer": "a",
+        "explanation": "The soundtrack consists of musical pieces used in a film.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Which term describes the group of all actors in a film?",
+        "options": {
+          "a": "cast",
+          "b": "audience",
+          "c": "graphics",
+          "d": "crew"
+        },
+        "answer": "a",
+        "explanation": "The cast refers to all actors appearing in the film.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Which word describes the place where a story happens?",
+        "options": {
+          "a": "setting",
+          "b": "plot",
+          "c": "soundtrack",
+          "d": "screen"
+        },
+        "answer": "a",
+        "explanation": "The setting establishes the location and time.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Which clothing items worn by actors represent their characters?",
+        "options": {
+          "a": "costumes",
+          "b": "graphics",
+          "c": "scripts",
+          "d": "screens"
+        },
+        "answer": "a",
+        "explanation": "Costumes visually represent characters.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Which device shows films on a large screen?",
+        "options": {
+          "a": "film projector",
+          "b": "microphone",
+          "c": "camera",
+          "d": "speaker"
+        },
+        "answer": "a",
+        "explanation": "Film projectors display moving images.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Which group of people watch a film in a cinema?",
+        "options": {
+          "a": "audience",
+          "b": "actors",
+          "c": "characters",
+          "d": "editors"
+        },
+        "answer": "a",
+        "explanation": "The audience refers to viewers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "nhieu_dap_an",
+        "question": "Which elements are part of film production? Choose all correct answers.",
+        "options": {
+          "a": "actors",
+          "b": "sound effects",
+          "c": "numerator",
+          "d": "costumes"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Actors perform roles, sound effects create audio realism, and costumes represent characters.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "nhieu_dap_an",
+        "question": "Which words describe film components?",
+        "options": {
+          "a": "plot",
+          "b": "setting",
+          "c": "soundtrack",
+          "d": "denominator"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "These are film narrative elements.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "nhieu_dap_an",
+        "question": "Which adjectives describe how a person feels?",
+        "options": {
+          "a": "bored",
+          "b": "excited",
+          "c": "boring",
+          "d": "exciting"
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "explanation": "-ed adjectives describe feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "nhieu_dap_an",
+        "question": "Which items help protect the environment?",
+        "options": {
+          "a": "reusable bags",
+          "b": "recycling bins",
+          "c": "plastic waste",
+          "d": "reduce consumption"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Reusable items and recycling reduce environmental damage.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "nhieu_dap_an",
+        "question": "Which are examples of proper fractions?",
+        "options": {
+          "a": "3/5",
+          "b": "1/4",
+          "c": "7/3",
+          "d": "2/9"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Proper fractions have numerator smaller than denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "dien_khuyet",
+        "question": "In a fraction, the top number is called the ...",
+        "answer": "numerator",
+        "explanation": "The numerator represents selected parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "dien_khuyet",
+        "question": "In a fraction, the bottom number is called the ...",
+        "answer": "denominator",
+        "explanation": "The denominator represents total equal parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "dien_khuyet",
+        "question": "A fraction with numerator equal to one is called a ...",
+        "answer": "unit fraction",
+        "explanation": "Unit fractions have numerator 1.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "dien_khuyet",
+        "question": "Films without recorded sound were known as ...",
+        "answer": "silent films",
+        "explanation": "Silent films relied only on visual storytelling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "dien_khuyet",
+        "question": "The music used in a film is called the ...",
+        "answer": "soundtrack",
+        "explanation": "Soundtracks provide musical background.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "dropdown",
+        "question": "In grammar, adjectives ending with [[-ed|-ing|-ly]] describe feelings, while adjectives ending with [[-ing|-ed|-er]] describe causes.",
+        "answer": "-ed, -ing",
+        "explanation": "-ed describes feelings and -ing describes causes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "dropdown",
+        "question": "In optics, the [[incident ray|reflected ray|normal line]] approaches the mirror and the [[reflected ray|incident ray|axis]] leaves the mirror.",
+        "answer": "incident ray, reflected ray",
+        "explanation": "Incident rays approach the mirror and reflected rays leave.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "dropdown",
+        "question": "A [[proper fraction|improper fraction|decimal]] has a numerator smaller than the denominator, while an [[improper fraction|proper fraction|unit]] may be greater than one.",
+        "answer": "proper fraction, improper fraction",
+        "explanation": "Improper fractions may exceed one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A proper fraction has a numerator smaller than its denominator.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Proper fractions represent values less than one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The incident ray is the light ray leaving a mirror.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The incident ray approaches the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Reusable products help reduce environmental waste.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Reusable products decrease waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "noi",
+        "question": "Match each fraction term with its meaning.",
+        "leftCol": [
+          "Numerator",
+          "Denominator"
+        ],
+        "rightCol": [
+          "Top number of a fraction",
+          "Bottom number of a fraction"
+        ],
+        "answer": {
+          "Numerator": "Top number of a fraction",
+          "Denominator": "Bottom number of a fraction"
+        },
+        "explanation": "The numerator shows selected parts and the denominator shows total parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "noi",
+        "question": "Match film elements with descriptions.",
+        "leftCol": [
+          "Soundtrack",
+          "Plot"
+        ],
+        "rightCol": [
+          "Music used in a film",
+          "Sequence of story events"
+        ],
+        "answer": {
+          "Soundtrack": "Music used in a film",
+          "Plot": "Sequence of story events"
+        },
+        "explanation": "Soundtrack provides music while plot structures events.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "sap_xep",
+        "question": "Arrange the process of watching a movie in correct order.",
+        "muc": [
+          "(1) Buy a ticket",
+          "(2) Enter the cinema",
+          "(3) Watch the film",
+          "(4) Leave the theater"
+        ],
+        "answer": [
+          "(1) Buy a ticket",
+          "(2) Enter the cinema",
+          "(3) Watch the film",
+          "(4) Leave the theater"
+        ],
+        "explanation": "The logical order follows the movie experience.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "sap_xep",
+        "question": "Arrange the steps of reflection when light hits a mirror.",
+        "muc": [
+          "(1) Light travels toward the mirror",
+          "(2) Light strikes the mirror surface",
+          "(3) Light reflects away"
+        ],
+        "answer": [
+          "(1) Light travels toward the mirror",
+          "(2) Light strikes the mirror surface",
+          "(3) Light reflects away"
+        ],
+        "explanation": "Reflection occurs when light strikes a surface and bounces away.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q31",
+        "type": "phan_loai",
+        "question": "Classify the following terms into Film or Mathematics.",
+        "nhom": [
+          "(A) Film",
+          "(B) Mathematics"
+        ],
+        "the": [
+          "plot",
+          "numerator",
+          "soundtrack",
+          "denominator"
+        ],
+        "dap_an": {
+          "plot": 0,
+          "numerator": 1,
+          "soundtrack": 0,
+          "denominator": 1
+        },
+        "explanation": "Plot and soundtrack are film terms while numerator and denominator belong to mathematics.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q32",
+        "type": "phan_loai",
+        "question": "Classify environmental actions.",
+        "nhom": [
+          "(A) Protect environment",
+          "(B) Harm environment"
+        ],
+        "the": [
+          "reuse",
+          "reduce",
+          "plastic dumping",
+          "recycling"
+        ],
+        "dap_an": {
+          "reuse": 0,
+          "reduce": 0,
+          "plastic dumping": 1,
+          "recycling": 0
+        },
+        "explanation": "Reuse, reduce, and recycling help protect the environment.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q33",
+        "type": "listening",
+        "question": "What is the main topic of the audio?",
+        "audio_text": "Many early movies were silent films. They had no recorded sound, so musicians such as pianists played music during the screening to create emotion for the audience.",
+        "options": {
+          "a": "Silent film history",
+          "b": "Modern digital cameras",
+          "c": "Ocean pollution",
+          "d": "Mathematics fractions"
+        },
+        "answer": "a",
+        "explanation": "The script discusses silent films and live music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q34",
+        "type": "listening",
+        "question": "According to the audio, who played music during silent films?",
+        "audio_text": "During the silent film era, pianists often performed live music while the movie was shown on the screen.",
+        "options": {
+          "a": "pianists",
+          "b": "actors",
+          "c": "directors",
+          "d": "audience"
+        },
+        "answer": "a",
+        "explanation": "The script clearly mentions pianists.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q35",
+        "type": "mot_dap_an",
+        "question": "What environmental action means using an item again instead of throwing it away?",
+        "options": {
+          "a": "reuse",
+          "b": "destroy",
+          "c": "burn",
+          "d": "waste"
+        },
+        "answer": "a",
+        "explanation": "Reuse extends the life of products.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q36",
+        "type": "mot_dap_an",
+        "question": "Which container is used to collect recyclable materials?",
+        "options": {
+          "a": "recycling bin",
+          "b": "trash bag",
+          "c": "desk drawer",
+          "d": "food basket"
+        },
+        "answer": "a",
+        "explanation": "Recycling bins store recyclable materials.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q37",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/2 of 10?",
+        "options": {
+          "a": "5",
+          "b": "10",
+          "c": "20",
+          "d": "2"
+        },
+        "answer": "a",
+        "explanation": "Ten multiplied by one half equals five.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q38",
+        "type": "mot_dap_an",
+        "question": "Which scientific law states that the angle of incidence equals the angle of reflection?",
+        "options": {
+          "a": "law of reflection",
+          "b": "law of gravity",
+          "c": "law of energy",
+          "d": "law of motion"
+        },
+        "answer": "a",
+        "explanation": "The law of reflection explains light reflection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q39",
+        "type": "mot_dap_an",
+        "question": "Which device allows a submarine crew to see above water using mirrors?",
+        "options": {
+          "a": "periscope",
+          "b": "microscope",
+          "c": "calculator",
+          "d": "thermometer"
+        },
+        "answer": "a",
+        "explanation": "Periscopes use mirrors to redirect light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 40,
+        "id": "q40",
+        "type": "mot_dap_an",
+        "question": "Which type of mirror has a flat reflective surface?",
+        "options": {
+          "a": "plane mirror",
+          "b": "concave mirror",
+          "c": "convex mirror",
+          "d": "curved mirror"
+        },
+        "answer": "a",
+        "explanation": "Plane mirrors reflect light evenly.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 41,
+        "id": "q41",
+        "type": "mot_dap_an",
+        "question": "Which environmental change refers to rising ocean levels?",
+        "options": {
+          "a": "sea level rise",
+          "b": "soil erosion",
+          "c": "forest growth",
+          "d": "sound pollution"
+        },
+        "answer": "a",
+        "explanation": "Sea level rise is associated with climate change.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 42,
+        "id": "q42",
+        "type": "mot_dap_an",
+        "question": "What does the word \"effect\" describe?",
+        "options": {
+          "a": "A result produced by a cause",
+          "b": "A mathematical number",
+          "c": "A film character",
+          "d": "A camera device"
+        },
+        "answer": "a",
+        "explanation": "An effect is the outcome of an action.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 43,
+        "id": "q43",
+        "type": "mot_dap_an",
+        "question": "What does the verb \"exchange\" mean?",
+        "options": {
+          "a": "To trade something for another item",
+          "b": "To destroy something",
+          "c": "To hide something",
+          "d": "To measure distance"
+        },
+        "answer": "a",
+        "explanation": "Exchange means trading items.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 44,
+        "id": "q44",
+        "type": "mot_dap_an",
+        "question": "What does the verb \"invite\" mean?",
+        "options": {
+          "a": "To ask someone to attend or participate",
+          "b": "To refuse entry",
+          "c": "To destroy an item",
+          "d": "To measure distance"
+        },
+        "answer": "a",
+        "explanation": "Invite means requesting someone's presence.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 45,
+        "id": "q45",
+        "type": "mot_dap_an",
+        "question": "Which leadership role usually governs a country?",
+        "options": {
+          "a": "president",
+          "b": "teacher",
+          "c": "visitor",
+          "d": "assistant"
+        },
+        "answer": "a",
+        "explanation": "A president is often the head of state.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 46,
+        "id": "q46",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes something that can be used many times?",
+        "options": {
+          "a": "reusable",
+          "b": "temporary",
+          "c": "fragile",
+          "d": "expired"
+        },
+        "answer": "a",
+        "explanation": "Reusable items can be used repeatedly.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 47,
+        "id": "q47",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a container that can be filled again?",
+        "options": {
+          "a": "refillable",
+          "b": "disposable",
+          "c": "temporary",
+          "d": "fragile"
+        },
+        "answer": "a",
+        "explanation": "Refillable containers can be used repeatedly.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 48,
+        "id": "q48",
+        "type": "mot_dap_an",
+        "question": "What does \"reduce\" mean in environmental protection?",
+        "options": {
+          "a": "Decrease the amount of waste or resources used",
+          "b": "Increase production",
+          "c": "Destroy natural resources",
+          "d": "Ignore pollution"
+        },
+        "answer": "a",
+        "explanation": "Reducing consumption protects the environment.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 49,
+        "id": "q49",
+        "type": "mot_dap_an",
+        "question": "Which snack is commonly eaten while watching movies?",
+        "options": {
+          "a": "popcorn",
+          "b": "salad",
+          "c": "rice",
+          "d": "bread"
+        },
+        "answer": "a",
+        "explanation": "Popcorn is traditionally associated with cinemas.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 50,
+        "id": "q50",
+        "type": "mot_dap_an",
+        "question": "Which term refers to facial movements that show emotion?",
+        "options": {
+          "a": "expressions",
+          "b": "graphics",
+          "c": "screens",
+          "d": "costumes"
+        },
+        "answer": "a",
+        "explanation": "Expressions reveal emotions visually.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 51,
+        "id": "q51",
+        "type": "mot_dap_an",
+        "question": "Which early type of movie did not contain recorded dialogue or sound?",
+        "options": {
+          "a": "silent film",
+          "b": "documentary",
+          "c": "animated film",
+          "d": "digital film"
+        },
+        "answer": "a",
+        "explanation": "Silent films relied only on visual storytelling and often used live music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 52,
+        "id": "q52",
+        "type": "mot_dap_an",
+        "question": "Which person often played music during silent film screenings?",
+        "options": {
+          "a": "pianist",
+          "b": "director",
+          "c": "actor",
+          "d": "editor"
+        },
+        "answer": "a",
+        "explanation": "Pianists performed live music to accompany silent films.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 53,
+        "id": "q53",
+        "type": "mot_dap_an",
+        "question": "Which term refers to images and visual designs used in films or digital media?",
+        "options": {
+          "a": "graphics",
+          "b": "dialogue",
+          "c": "plot",
+          "d": "cast"
+        },
+        "answer": "a",
+        "explanation": "Graphics are visual images or digital illustrations used in media.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 54,
+        "id": "q54",
+        "type": "mot_dap_an",
+        "question": "Which phrase describes films that include synchronized sound and dialogue?",
+        "options": {
+          "a": "talkies",
+          "b": "silent films",
+          "c": "black-and-white films",
+          "d": "animated films"
+        },
+        "answer": "a",
+        "explanation": "Talkies were early films that included synchronized sound.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 55,
+        "id": "q55",
+        "type": "mot_dap_an",
+        "question": "Which visual style uses only shades of black, white, and gray?",
+        "options": {
+          "a": "black and white",
+          "b": "digital color",
+          "c": "animation",
+          "d": "graphics"
+        },
+        "answer": "a",
+        "explanation": "Black-and-white films contain no color images.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 56,
+        "id": "q56",
+        "type": "mot_dap_an",
+        "question": "Which scientific concept describes the space formed between two intersecting lines?",
+        "options": {
+          "a": "angle",
+          "b": "ray",
+          "c": "mirror",
+          "d": "shadow"
+        },
+        "answer": "a",
+        "explanation": "An angle is formed by two lines meeting at a point.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 57,
+        "id": "q57",
+        "type": "mot_dap_an",
+        "question": "Which ray approaches a mirror before reflection occurs?",
+        "options": {
+          "a": "incident ray",
+          "b": "reflected ray",
+          "c": "normal ray",
+          "d": "parallel ray"
+        },
+        "answer": "a",
+        "explanation": "The incident ray travels toward the mirror surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 58,
+        "id": "q58",
+        "type": "mot_dap_an",
+        "question": "Which ray leaves a mirror after reflection?",
+        "options": {
+          "a": "reflected ray",
+          "b": "incident ray",
+          "c": "normal line",
+          "d": "center ray"
+        },
+        "answer": "a",
+        "explanation": "The reflected ray moves away from the surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 59,
+        "id": "q59",
+        "type": "mot_dap_an",
+        "question": "Which imaginary line is perpendicular to a mirror surface in reflection diagrams?",
+        "options": {
+          "a": "normal",
+          "b": "axis",
+          "c": "shadow",
+          "d": "beam"
+        },
+        "answer": "a",
+        "explanation": "The normal line forms a right angle with the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 60,
+        "id": "q60",
+        "type": "mot_dap_an",
+        "question": "Which scientific device uses mirrors to allow observation from hidden positions?",
+        "options": {
+          "a": "periscope",
+          "b": "microscope",
+          "c": "thermometer",
+          "d": "calculator"
+        },
+        "answer": "a",
+        "explanation": "Periscopes redirect light using mirrors.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 61,
+        "id": "q61",
+        "type": "nhieu_dap_an",
+        "question": "Which items belong to environmental protection practices? Choose all correct answers.",
+        "options": {
+          "a": "reuse materials",
+          "b": "reduce plastic use",
+          "c": "throw waste into rivers",
+          "d": "recycle products"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Reuse, reduce, and recycle protect the environment.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 62,
+        "id": "q62",
+        "type": "nhieu_dap_an",
+        "question": "Which fractions are unit fractions?",
+        "options": {
+          "a": "1/2",
+          "b": "1/5",
+          "c": "2/5",
+          "d": "1/8"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Unit fractions have numerator equal to one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 63,
+        "id": "q63",
+        "type": "nhieu_dap_an",
+        "question": "Which elements are related to filmmaking?",
+        "options": {
+          "a": "actors",
+          "b": "soundtrack",
+          "c": "numerator",
+          "d": "costumes"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Actors, soundtrack, and costumes belong to filmmaking.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 64,
+        "id": "q64",
+        "type": "dien_khuyet",
+        "question": "The group of actors appearing in a film is called the ...",
+        "answer": "cast",
+        "explanation": "The cast refers to all actors in a film.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 65,
+        "id": "q65",
+        "type": "dien_khuyet",
+        "question": "The place where a story happens is called the ...",
+        "answer": "setting",
+        "explanation": "Setting describes location and time of events.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 66,
+        "id": "q66",
+        "type": "dien_khuyet",
+        "question": "The story structure of a film is called the ...",
+        "answer": "plot",
+        "explanation": "Plot refers to the sequence of events in a narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 67,
+        "id": "q67",
+        "type": "dropdown",
+        "question": "A [[numerator|denominator|operator]] is the top number of a fraction, while the [[denominator|numerator|decimal]] is the bottom number.",
+        "answer": "numerator, denominator",
+        "explanation": "The numerator is above the fraction line and denominator below.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 68,
+        "id": "q68",
+        "type": "dropdown",
+        "question": "In reflection, the [[incident ray|reflected ray|normal line]] moves toward the mirror and the [[reflected ray|incident ray|axis]] moves away.",
+        "answer": "incident ray, reflected ray",
+        "explanation": "Incident rays approach mirrors and reflected rays leave.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 69,
+        "id": "q69",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A denominator is the bottom number in a fraction.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "The denominator indicates total equal parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 70,
+        "id": "q70",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Sound effects are the music used in a film.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Sound effects are noises, while soundtracks are music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 71,
+        "id": "q71",
+        "type": "noi",
+        "question": "Match the following film terms with their meanings.",
+        "leftCol": [
+          "Actors",
+          "Audience"
+        ],
+        "rightCol": [
+          "People who perform characters",
+          "People who watch a film"
+        ],
+        "answer": {
+          "Actors": "People who perform characters",
+          "Audience": "People who watch a film"
+        },
+        "explanation": "Actors perform and audiences watch.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 72,
+        "id": "q72",
+        "type": "sap_xep",
+        "question": "Arrange the steps of creating a movie.",
+        "muc": [
+          "(1) Write the story",
+          "(2) Film the scenes",
+          "(3) Edit the movie",
+          "(4) Show the film to the audience"
+        ],
+        "answer": [
+          "(1) Write the story",
+          "(2) Film the scenes",
+          "(3) Edit the movie",
+          "(4) Show the film to the audience"
+        ],
+        "explanation": "Production begins with writing and ends with showing the film.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 73,
+        "id": "q73",
+        "type": "phan_loai",
+        "question": "Classify the following words.",
+        "nhom": [
+          "(A) Film vocabulary",
+          "(B) Mathematics vocabulary"
+        ],
+        "the": [
+          "plot",
+          "numerator",
+          "soundtrack",
+          "denominator"
+        ],
+        "dap_an": {
+          "plot": 0,
+          "numerator": 1,
+          "soundtrack": 0,
+          "denominator": 1
+        },
+        "explanation": "Plot and soundtrack relate to films; numerator and denominator to mathematics.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 74,
+        "id": "q74",
+        "type": "listening",
+        "question": "What did musicians do during silent film screenings?",
+        "audio_text": "In the early twentieth century, movies were silent. Because there was no recorded sound, musicians such as pianists played live music while the film was shown.",
+        "options": {
+          "a": "They performed live music",
+          "b": "They recorded dialogue",
+          "c": "They directed actors",
+          "d": "They built cinemas"
+        },
+        "answer": "a",
+        "explanation": "The script states musicians played live music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 75,
+        "id": "q75",
+        "type": "mot_dap_an",
+        "question": "Which environmental action means lowering the amount of waste produced?",
+        "options": {
+          "a": "reduce",
+          "b": "reuse",
+          "c": "wrap",
+          "d": "invite"
+        },
+        "answer": "a",
+        "explanation": "Reduce means decreasing resource consumption.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 76,
+        "id": "q76",
+        "type": "mot_dap_an",
+        "question": "Which environmental practice means using an item again?",
+        "options": {
+          "a": "reuse",
+          "b": "burn",
+          "c": "destroy",
+          "d": "remove"
+        },
+        "answer": "a",
+        "explanation": "Reuse extends the product’s life.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 77,
+        "id": "q77",
+        "type": "mot_dap_an",
+        "question": "Which container collects recyclable materials?",
+        "options": {
+          "a": "recycling bin",
+          "b": "desk drawer",
+          "c": "food basket",
+          "d": "sink"
+        },
+        "answer": "a",
+        "explanation": "Recycling bins store materials for recycling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 78,
+        "id": "q78",
+        "type": "mot_dap_an",
+        "question": "Which environmental problem is related to rising ocean water?",
+        "options": {
+          "a": "sea level rise",
+          "b": "forest growth",
+          "c": "soil creation",
+          "d": "air expansion"
+        },
+        "answer": "a",
+        "explanation": "Sea level rise is linked to climate change.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 79,
+        "id": "q79",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/3 of 12?",
+        "options": {
+          "a": "4",
+          "b": "6",
+          "c": "3",
+          "d": "12"
+        },
+        "answer": "a",
+        "explanation": "12 × 1/3 = 4.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 80,
+        "id": "q80",
+        "type": "mot_dap_an",
+        "question": "Which fraction represents one out of four equal parts?",
+        "options": {
+          "a": "1/4",
+          "b": "4/1",
+          "c": "2/4",
+          "d": "3/4"
+        },
+        "answer": "a",
+        "explanation": "A quarter represents one of four equal parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 81,
+        "id": "q81",
+        "type": "mot_dap_an",
+        "question": "Which fraction equals one whole?",
+        "options": {
+          "a": "5/5",
+          "b": "3/5",
+          "c": "1/5",
+          "d": "2/5"
+        },
+        "answer": "a",
+        "explanation": "A fraction equals one when numerator equals denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 82,
+        "id": "q82",
+        "type": "mot_dap_an",
+        "question": "Which fraction is greater than one?",
+        "options": {
+          "a": "7/6",
+          "b": "2/7",
+          "c": "1/8",
+          "d": "3/10"
+        },
+        "answer": "a",
+        "explanation": "Improper fractions have numerators larger than denominators.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 83,
+        "id": "q83",
+        "type": "mot_dap_an",
+        "question": "Which law states that the angle of incidence equals the angle of reflection?",
+        "options": {
+          "a": "law of reflection",
+          "b": "law of gravity",
+          "c": "law of motion",
+          "d": "law of energy"
+        },
+        "answer": "a",
+        "explanation": "The law of reflection describes how light reflects.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 84,
+        "id": "q84",
+        "type": "mot_dap_an",
+        "question": "Which mirror has a flat reflective surface?",
+        "options": {
+          "a": "plane mirror",
+          "b": "concave mirror",
+          "c": "convex mirror",
+          "d": "curved mirror"
+        },
+        "answer": "a",
+        "explanation": "Plane mirrors have flat surfaces.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 85,
+        "id": "q85",
+        "type": "mot_dap_an",
+        "question": "Which object reflects light to create an image?",
+        "options": {
+          "a": "mirror",
+          "b": "book",
+          "c": "speaker",
+          "d": "microphone"
+        },
+        "answer": "a",
+        "explanation": "Mirrors reflect light to produce images.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 86,
+        "id": "q86",
+        "type": "mot_dap_an",
+        "question": "Which word describes the result produced by an action?",
+        "options": {
+          "a": "effect",
+          "b": "angle",
+          "c": "actor",
+          "d": "fraction"
+        },
+        "answer": "a",
+        "explanation": "Effect means the result of a cause.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 87,
+        "id": "q87",
+        "type": "mot_dap_an",
+        "question": "Which research method collects information from many people?",
+        "options": {
+          "a": "survey",
+          "b": "animation",
+          "c": "reflection",
+          "d": "projection"
+        },
+        "answer": "a",
+        "explanation": "Surveys gather data from participants.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 88,
+        "id": "q88",
+        "type": "mot_dap_an",
+        "question": "What does the verb \"wrap\" mean?",
+        "options": {
+          "a": "Cover something with material",
+          "b": "Break something",
+          "c": "Throw something away",
+          "d": "Measure something"
+        },
+        "answer": "a",
+        "explanation": "Wrap means to cover or enclose something.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 89,
+        "id": "q89",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes materials from nature?",
+        "options": {
+          "a": "natural",
+          "b": "synthetic",
+          "c": "digital",
+          "d": "industrial"
+        },
+        "answer": "a",
+        "explanation": "Natural materials originate from nature.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 90,
+        "id": "q90",
+        "type": "mot_dap_an",
+        "question": "Which environmental action focuses on protecting resources for the future?",
+        "options": {
+          "a": "sustainability",
+          "b": "pollution",
+          "c": "destruction",
+          "d": "waste"
+        },
+        "answer": "a",
+        "explanation": "Sustainability preserves resources.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 91,
+        "id": "q91",
+        "type": "mot_dap_an",
+        "question": "Which person leads a country or organization?",
+        "options": {
+          "a": "president",
+          "b": "visitor",
+          "c": "assistant",
+          "d": "student"
+        },
+        "answer": "a",
+        "explanation": "A president is a leader of a nation or organization.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 92,
+        "id": "q92",
+        "type": "mot_dap_an",
+        "question": "Which activity improves environmental awareness?",
+        "options": {
+          "a": "conducting surveys",
+          "b": "burning waste",
+          "c": "throwing plastic",
+          "d": "destroying forests"
+        },
+        "answer": "a",
+        "explanation": "Surveys help understand environmental issues.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 93,
+        "id": "q93",
+        "type": "mot_dap_an",
+        "question": "Which object produces moving images on a screen?",
+        "options": {
+          "a": "film projector",
+          "b": "camera lens",
+          "c": "speaker",
+          "d": "microphone"
+        },
+        "answer": "a",
+        "explanation": "Projectors display moving pictures.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 94,
+        "id": "q94",
+        "type": "mot_dap_an",
+        "question": "Which visual technology creates the illusion of movement from drawings?",
+        "options": {
+          "a": "animation",
+          "b": "reflection",
+          "c": "fraction",
+          "d": "survey"
+        },
+        "answer": "a",
+        "explanation": "Animation creates motion from sequential images.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 95,
+        "id": "q95",
+        "type": "mot_dap_an",
+        "question": "Which snack is commonly eaten at movie theaters?",
+        "options": {
+          "a": "popcorn",
+          "b": "rice",
+          "c": "noodles",
+          "d": "bread"
+        },
+        "answer": "a",
+        "explanation": "Popcorn is traditionally associated with cinema.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 96,
+        "id": "q96",
+        "type": "mot_dap_an",
+        "question": "Which word describes facial looks showing emotions?",
+        "options": {
+          "a": "expressions",
+          "b": "graphics",
+          "c": "screens",
+          "d": "settings"
+        },
+        "answer": "a",
+        "explanation": "Expressions communicate feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 97,
+        "id": "q97",
+        "type": "mot_dap_an",
+        "question": "Which term refers to cosmetic materials applied to actors' faces?",
+        "options": {
+          "a": "make-up",
+          "b": "plot",
+          "c": "soundtrack",
+          "d": "screen"
+        },
+        "answer": "a",
+        "explanation": "Make-up changes an actor’s appearance.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 98,
+        "id": "q98",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a film that causes excitement?",
+        "options": {
+          "a": "exciting",
+          "b": "excited",
+          "c": "excitement",
+          "d": "excite"
+        },
+        "answer": "a",
+        "explanation": "-ing adjectives describe causes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 99,
+        "id": "q99",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a person who feels excitement?",
+        "options": {
+          "a": "excited",
+          "b": "exciting",
+          "c": "excite",
+          "d": "excitable"
+        },
+        "answer": "a",
+        "explanation": "-ed adjectives describe feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 100,
+        "id": "q100",
+        "type": "mot_dap_an",
+        "question": "Which sentence is an example of past passive voice?",
+        "options": {
+          "a": "The film was produced in 1995.",
+          "b": "The film produce in 1995.",
+          "c": "The film producing in 1995.",
+          "d": "The film produces in 1995."
+        },
+        "answer": "a",
+        "explanation": "Passive voice uses was or were plus past participle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 101,
+        "id": "q101",
+        "type": "mot_dap_an",
+        "question": "Which term refers to the sequence of events that organize a film’s story?",
+        "options": {
+          "a": "plot",
+          "b": "screen",
+          "c": "dialogue",
+          "d": "costume"
+        },
+        "answer": "a",
+        "explanation": "The plot is the structured sequence of events in a narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 102,
+        "id": "q102",
+        "type": "mot_dap_an",
+        "question": "Which term refers to the clothing worn by actors to represent characters?",
+        "options": {
+          "a": "costumes",
+          "b": "graphics",
+          "c": "sound effects",
+          "d": "screens"
+        },
+        "answer": "a",
+        "explanation": "Costumes visually represent characters and historical context.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 103,
+        "id": "q103",
+        "type": "mot_dap_an",
+        "question": "Which film element provides music that supports the emotional tone of scenes?",
+        "options": {
+          "a": "soundtrack",
+          "b": "plot",
+          "c": "setting",
+          "d": "script"
+        },
+        "answer": "a",
+        "explanation": "The soundtrack is the collection of music used in a film.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 104,
+        "id": "q104",
+        "type": "mot_dap_an",
+        "question": "Which term describes visual images or digital illustrations used in films?",
+        "options": {
+          "a": "graphics",
+          "b": "dialogue",
+          "c": "actors",
+          "d": "costumes"
+        },
+        "answer": "a",
+        "explanation": "Graphics are visual designs used to enhance film presentation.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 105,
+        "id": "q105",
+        "type": "mot_dap_an",
+        "question": "Which group of people watch a movie during a cinema screening?",
+        "options": {
+          "a": "audience",
+          "b": "actors",
+          "c": "editors",
+          "d": "directors"
+        },
+        "answer": "a",
+        "explanation": "Audience refers to viewers who watch the performance.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 106,
+        "id": "q106",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes how a person feels after watching an interesting movie?",
+        "options": {
+          "a": "excited",
+          "b": "exciting",
+          "c": "excite",
+          "d": "excitement"
+        },
+        "answer": "a",
+        "explanation": "-ed adjectives describe emotional states.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 107,
+        "id": "q107",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a movie that causes excitement?",
+        "options": {
+          "a": "exciting",
+          "b": "excited",
+          "c": "excite",
+          "d": "excitement"
+        },
+        "answer": "a",
+        "explanation": "-ing adjectives describe the cause of emotions.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 108,
+        "id": "q108",
+        "type": "mot_dap_an",
+        "question": "Which grammatical structure is used in the past simple passive voice?",
+        "options": {
+          "a": "was or were plus past participle",
+          "b": "is plus verb",
+          "c": "have plus verb",
+          "d": "will plus verb"
+        },
+        "answer": "a",
+        "explanation": "Passive voice uses auxiliary verbs plus past participles.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 109,
+        "id": "q109",
+        "type": "mot_dap_an",
+        "question": "Which sentence correctly uses passive voice?",
+        "options": {
+          "a": "The movie was filmed in Canada.",
+          "b": "The movie filming Canada.",
+          "c": "The movie film Canada.",
+          "d": "The movie films Canada."
+        },
+        "answer": "a",
+        "explanation": "The structure \"was filmed\" is a correct passive construction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 110,
+        "id": "q110",
+        "type": "mot_dap_an",
+        "question": "In mathematics, which number is written above the fraction line?",
+        "options": {
+          "a": "numerator",
+          "b": "denominator",
+          "c": "operator",
+          "d": "quotient"
+        },
+        "answer": "a",
+        "explanation": "The numerator is the top number of a fraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 111,
+        "id": "q111",
+        "type": "mot_dap_an",
+        "question": "Which number in a fraction shows the total number of equal parts?",
+        "options": {
+          "a": "denominator",
+          "b": "numerator",
+          "c": "product",
+          "d": "operator"
+        },
+        "answer": "a",
+        "explanation": "The denominator indicates the total equal divisions.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 112,
+        "id": "q112",
+        "type": "mot_dap_an",
+        "question": "Which fraction is a proper fraction?",
+        "options": {
+          "a": "3/7",
+          "b": "7/3",
+          "c": "9/4",
+          "d": "5/2"
+        },
+        "answer": "a",
+        "explanation": "Proper fractions have numerators smaller than denominators.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 113,
+        "id": "q113",
+        "type": "mot_dap_an",
+        "question": "Which fraction is an improper fraction?",
+        "options": {
+          "a": "9/7",
+          "b": "2/9",
+          "c": "1/5",
+          "d": "3/8"
+        },
+        "answer": "a",
+        "explanation": "Improper fractions have numerators greater than denominators.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 114,
+        "id": "q114",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/2 of 16?",
+        "options": {
+          "a": "8",
+          "b": "6",
+          "c": "4",
+          "d": "10"
+        },
+        "answer": "a",
+        "explanation": "Sixteen multiplied by one half equals eight.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 115,
+        "id": "q115",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/4 of 20?",
+        "options": {
+          "a": "5",
+          "b": "10",
+          "c": "4",
+          "d": "8"
+        },
+        "answer": "a",
+        "explanation": "Twenty multiplied by one quarter equals five.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 116,
+        "id": "q116",
+        "type": "mot_dap_an",
+        "question": "In optics, what occurs when light strikes a mirror and changes direction?",
+        "options": {
+          "a": "reflection",
+          "b": "refraction",
+          "c": "diffusion",
+          "d": "absorption"
+        },
+        "answer": "a",
+        "explanation": "Reflection occurs when light bounces off a surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 117,
+        "id": "q117",
+        "type": "mot_dap_an",
+        "question": "Which ray approaches the mirror surface?",
+        "options": {
+          "a": "incident ray",
+          "b": "reflected ray",
+          "c": "normal ray",
+          "d": "axis ray"
+        },
+        "answer": "a",
+        "explanation": "The incident ray travels toward the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 118,
+        "id": "q118",
+        "type": "mot_dap_an",
+        "question": "Which ray leaves the mirror after reflection?",
+        "options": {
+          "a": "reflected ray",
+          "b": "incident ray",
+          "c": "normal line",
+          "d": "parallel ray"
+        },
+        "answer": "a",
+        "explanation": "The reflected ray moves away from the surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 119,
+        "id": "q119",
+        "type": "mot_dap_an",
+        "question": "Which imaginary line is drawn perpendicular to a mirror at the point of incidence?",
+        "options": {
+          "a": "normal",
+          "b": "axis",
+          "c": "beam",
+          "d": "shadow"
+        },
+        "answer": "a",
+        "explanation": "The normal line forms a right angle with the mirror surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 120,
+        "id": "q120",
+        "type": "mot_dap_an",
+        "question": "Which scientific device allows observation over obstacles using mirrors?",
+        "options": {
+          "a": "periscope",
+          "b": "thermometer",
+          "c": "microscope",
+          "d": "barometer"
+        },
+        "answer": "a",
+        "explanation": "Periscopes redirect light to allow indirect viewing.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 121,
+        "id": "q121",
+        "type": "nhieu_dap_an",
+        "question": "Which actions help protect the environment?",
+        "options": {
+          "a": "reuse materials",
+          "b": "reduce waste",
+          "c": "burn plastic",
+          "d": "recycle products"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Reuse, reduce, and recycle reduce environmental damage.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 122,
+        "id": "q122",
+        "type": "nhieu_dap_an",
+        "question": "Which are examples of renewable environmental practices?",
+        "options": {
+          "a": "recycling",
+          "b": "reusing materials",
+          "c": "throwing plastic into oceans",
+          "d": "reducing consumption"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "These practices help conserve natural resources.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 123,
+        "id": "q123",
+        "type": "nhieu_dap_an",
+        "question": "Which elements are part of film production?",
+        "options": {
+          "a": "actors",
+          "b": "costumes",
+          "c": "soundtrack",
+          "d": "denominator"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Actors, costumes, and soundtracks belong to filmmaking.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 124,
+        "id": "q124",
+        "type": "dien_khuyet",
+        "question": "The top number of a fraction is called the ...",
+        "answer": "numerator",
+        "explanation": "The numerator indicates the selected parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 125,
+        "id": "q125",
+        "type": "dien_khuyet",
+        "question": "The bottom number of a fraction is called the ...",
+        "answer": "denominator",
+        "explanation": "The denominator shows the total parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 126,
+        "id": "q126",
+        "type": "dien_khuyet",
+        "question": "A fraction with numerator equal to one is called a ...",
+        "answer": "unit fraction",
+        "explanation": "Unit fractions have numerator equal to one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 127,
+        "id": "q127",
+        "type": "dropdown",
+        "question": "A [[proper fraction|improper fraction|decimal]] has a numerator smaller than its denominator, while an [[improper fraction|proper fraction|unit fraction]] may be greater than one.",
+        "answer": "proper fraction, improper fraction",
+        "explanation": "Improper fractions may represent numbers larger than one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 128,
+        "id": "q128",
+        "type": "dropdown",
+        "question": "In optics, the [[incident ray|reflected ray|normal]] moves toward a mirror, and the [[reflected ray|incident ray|axis]] moves away after reflection.",
+        "answer": "incident ray, reflected ray",
+        "explanation": "Incident rays approach mirrors and reflected rays move away.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 129,
+        "id": "q129",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A proper fraction has a numerator smaller than its denominator.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Proper fractions represent values less than one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 130,
+        "id": "q130",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The reflected ray travels toward the mirror.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The reflected ray moves away from the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 131,
+        "id": "q131",
+        "type": "noi",
+        "question": "Match fraction terms with their meanings.",
+        "leftCol": [
+          "Numerator",
+          "Denominator"
+        ],
+        "rightCol": [
+          "Top number in a fraction",
+          "Bottom number in a fraction"
+        ],
+        "answer": {
+          "Numerator": "Top number in a fraction",
+          "Denominator": "Bottom number in a fraction"
+        },
+        "explanation": "Numerator is top, denominator is bottom.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 132,
+        "id": "q132",
+        "type": "sap_xep",
+        "question": "Arrange the steps in watching a movie at a cinema.",
+        "muc": [
+          "(1) Buy a ticket",
+          "(2) Enter the cinema",
+          "(3) Watch the movie",
+          "(4) Leave the cinema"
+        ],
+        "answer": [
+          "(1) Buy a ticket",
+          "(2) Enter the cinema",
+          "(3) Watch the movie",
+          "(4) Leave the cinema"
+        ],
+        "explanation": "This sequence represents the logical movie experience.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 133,
+        "id": "q133",
+        "type": "phan_loai",
+        "question": "Classify the following terms.",
+        "nhom": [
+          "(A) Film vocabulary",
+          "(B) Mathematics vocabulary"
+        ],
+        "the": [
+          "plot",
+          "numerator",
+          "soundtrack",
+          "denominator"
+        ],
+        "dap_an": {
+          "plot": 0,
+          "numerator": 1,
+          "soundtrack": 0,
+          "denominator": 1
+        },
+        "explanation": "Plot and soundtrack are film terms; numerator and denominator belong to mathematics.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 134,
+        "id": "q134",
+        "type": "listening",
+        "question": "What did musicians do during silent film screenings?",
+        "audio_text": "During the silent film era, movies had no recorded dialogue. Musicians such as pianists played live music to create emotional atmosphere for the audience.",
+        "options": {
+          "a": "They played live music",
+          "b": "They directed the actors",
+          "c": "They built the cinema",
+          "d": "They edited the film"
+        },
+        "answer": "a",
+        "explanation": "The audio states musicians performed live music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 135,
+        "id": "q135",
+        "type": "mot_dap_an",
+        "question": "Which environmental term describes the result of an action?",
+        "options": {
+          "a": "effect",
+          "b": "fraction",
+          "c": "actor",
+          "d": "angle"
+        },
+        "answer": "a",
+        "explanation": "An effect is the outcome produced by a cause.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 136,
+        "id": "q136",
+        "type": "mot_dap_an",
+        "question": "Which research method gathers information from many participants?",
+        "options": {
+          "a": "survey",
+          "b": "animation",
+          "c": "projection",
+          "d": "reflection"
+        },
+        "answer": "a",
+        "explanation": "Surveys collect opinions or data from people.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 137,
+        "id": "q137",
+        "type": "mot_dap_an",
+        "question": "Which environmental action means using materials again instead of discarding them?",
+        "options": {
+          "a": "reuse",
+          "b": "destroy",
+          "c": "burn",
+          "d": "throw away"
+        },
+        "answer": "a",
+        "explanation": "Reuse extends the life of materials.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 138,
+        "id": "q138",
+        "type": "mot_dap_an",
+        "question": "Which environmental action means decreasing the amount of waste produced?",
+        "options": {
+          "a": "reduce",
+          "b": "wrap",
+          "c": "invite",
+          "d": "exchange"
+        },
+        "answer": "a",
+        "explanation": "Reducing consumption decreases waste production.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 139,
+        "id": "q139",
+        "type": "mot_dap_an",
+        "question": "Which container stores recyclable materials?",
+        "options": {
+          "a": "recycling bin",
+          "b": "food basket",
+          "c": "desk drawer",
+          "d": "sink"
+        },
+        "answer": "a",
+        "explanation": "Recycling bins collect recyclable waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 140,
+        "id": "q140",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes materials that come from nature?",
+        "options": {
+          "a": "natural",
+          "b": "artificial",
+          "c": "digital",
+          "d": "industrial"
+        },
+        "answer": "a",
+        "explanation": "Natural materials originate from nature.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 141,
+        "id": "q141",
+        "type": "mot_dap_an",
+        "question": "Which leadership position usually governs a country?",
+        "options": {
+          "a": "president",
+          "b": "assistant",
+          "c": "visitor",
+          "d": "student"
+        },
+        "answer": "a",
+        "explanation": "A president is often the head of state.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 142,
+        "id": "q142",
+        "type": "mot_dap_an",
+        "question": "Which environmental issue is related to rising ocean levels?",
+        "options": {
+          "a": "sea level rise",
+          "b": "air pollution",
+          "c": "forest expansion",
+          "d": "soil formation"
+        },
+        "answer": "a",
+        "explanation": "Sea level rise is associated with climate change.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 143,
+        "id": "q143",
+        "type": "mot_dap_an",
+        "question": "Which device projects moving images onto a screen?",
+        "options": {
+          "a": "film projector",
+          "b": "microphone",
+          "c": "speaker",
+          "d": "camera lens"
+        },
+        "answer": "a",
+        "explanation": "Projectors display films in cinemas.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 144,
+        "id": "q144",
+        "type": "mot_dap_an",
+        "question": "Which visual technology creates movement from a series of images?",
+        "options": {
+          "a": "animation",
+          "b": "reflection",
+          "c": "fraction",
+          "d": "survey"
+        },
+        "answer": "a",
+        "explanation": "Animation creates motion through sequential images.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 145,
+        "id": "q145",
+        "type": "mot_dap_an",
+        "question": "Which snack is commonly eaten while watching movies?",
+        "options": {
+          "a": "popcorn",
+          "b": "salad",
+          "c": "rice",
+          "d": "bread"
+        },
+        "answer": "a",
+        "explanation": "Popcorn is traditionally associated with cinemas.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 146,
+        "id": "q146",
+        "type": "mot_dap_an",
+        "question": "Which word describes facial movements that express emotion?",
+        "options": {
+          "a": "expressions",
+          "b": "graphics",
+          "c": "settings",
+          "d": "screens"
+        },
+        "answer": "a",
+        "explanation": "Expressions show feelings visually.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 147,
+        "id": "q147",
+        "type": "mot_dap_an",
+        "question": "Which cosmetic material changes an actor’s appearance?",
+        "options": {
+          "a": "make-up",
+          "b": "plot",
+          "c": "soundtrack",
+          "d": "screen"
+        },
+        "answer": "a",
+        "explanation": "Make-up alters appearance for characters.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 148,
+        "id": "q148",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a movie that causes interest?",
+        "options": {
+          "a": "interesting",
+          "b": "interested",
+          "c": "interest",
+          "d": "interestingly"
+        },
+        "answer": "a",
+        "explanation": "-ing adjectives describe causes of feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 149,
+        "id": "q149",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a viewer who feels interest?",
+        "options": {
+          "a": "interested",
+          "b": "interesting",
+          "c": "interest",
+          "d": "interestingly"
+        },
+        "answer": "a",
+        "explanation": "-ed adjectives describe feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 150,
+        "id": "q150",
+        "type": "mot_dap_an",
+        "question": "Which sentence is an example of past passive voice?",
+        "options": {
+          "a": "The film was invented by Edison.",
+          "b": "The film invent Edison.",
+          "c": "The film invents Edison.",
+          "d": "The film inventing Edison."
+        },
+        "answer": "a",
+        "explanation": "The passive form uses was plus past participle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 151,
+        "id": "q151",
+        "type": "mot_dap_an",
+        "question": "Which element of a film refers to the location and time in which events occur?",
+        "options": {
+          "a": "setting",
+          "b": "soundtrack",
+          "c": "plot",
+          "d": "dialogue"
+        },
+        "answer": "a",
+        "explanation": "The setting establishes where and when the story takes place.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 152,
+        "id": "q152",
+        "type": "mot_dap_an",
+        "question": "Which term refers to the background music used in a movie?",
+        "options": {
+          "a": "soundtrack",
+          "b": "plot",
+          "c": "costume",
+          "d": "screen"
+        },
+        "answer": "a",
+        "explanation": "The soundtrack includes musical pieces that support the emotional tone of scenes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 153,
+        "id": "q153",
+        "type": "mot_dap_an",
+        "question": "Which visual design element includes images and illustrations used in films?",
+        "options": {
+          "a": "graphics",
+          "b": "dialogue",
+          "c": "actors",
+          "d": "setting"
+        },
+        "answer": "a",
+        "explanation": "Graphics refer to visual images used in media presentations.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 154,
+        "id": "q154",
+        "type": "mot_dap_an",
+        "question": "Which clothing items help actors represent their characters visually?",
+        "options": {
+          "a": "costumes",
+          "b": "screens",
+          "c": "sound effects",
+          "d": "scripts"
+        },
+        "answer": "a",
+        "explanation": "Costumes represent characters’ appearance and historical context.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 155,
+        "id": "q155",
+        "type": "mot_dap_an",
+        "question": "Which word describes the sequence of events in a story?",
+        "options": {
+          "a": "plot",
+          "b": "screen",
+          "c": "dialogue",
+          "d": "costume"
+        },
+        "answer": "a",
+        "explanation": "The plot organizes the events that form the narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 156,
+        "id": "q156",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes how viewers feel after watching a frightening movie?",
+        "options": {
+          "a": "scared",
+          "b": "scaring",
+          "c": "fear",
+          "d": "fearfuling"
+        },
+        "answer": "a",
+        "explanation": "-ed adjectives describe feelings experienced by people.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 157,
+        "id": "q157",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a movie that causes fear?",
+        "options": {
+          "a": "scary",
+          "b": "scared",
+          "c": "fear",
+          "d": "fearing"
+        },
+        "answer": "a",
+        "explanation": "-y or -ing adjectives describe causes of feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 158,
+        "id": "q158",
+        "type": "mot_dap_an",
+        "question": "Which structure forms the passive voice in the past tense?",
+        "options": {
+          "a": "was or were plus past participle",
+          "b": "is plus verb",
+          "c": "will plus verb",
+          "d": "have plus verb"
+        },
+        "answer": "a",
+        "explanation": "Past passive sentences use was or were followed by a past participle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 159,
+        "id": "q159",
+        "type": "mot_dap_an",
+        "question": "Which sentence correctly uses passive voice?",
+        "options": {
+          "a": "The movie was directed by a famous filmmaker.",
+          "b": "The filmmaker direct the movie.",
+          "c": "The movie directing the actors.",
+          "d": "The movie direct the filmmaker."
+        },
+        "answer": "a",
+        "explanation": "The structure “was directed” is a correct passive form.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 160,
+        "id": "q160",
+        "type": "mot_dap_an",
+        "question": "Which number in the fraction 5/8 is the numerator?",
+        "options": {
+          "a": "5",
+          "b": "8",
+          "c": "13",
+          "d": "3"
+        },
+        "answer": "a",
+        "explanation": "The numerator is the top number in a fraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 161,
+        "id": "q161",
+        "type": "mot_dap_an",
+        "question": "Which number represents the denominator in the fraction 5/8?",
+        "options": {
+          "a": "8",
+          "b": "5",
+          "c": "3",
+          "d": "13"
+        },
+        "answer": "a",
+        "explanation": "The denominator is the bottom number.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 162,
+        "id": "q162",
+        "type": "mot_dap_an",
+        "question": "Which fraction is a proper fraction?",
+        "options": {
+          "a": "2/7",
+          "b": "7/2",
+          "c": "9/4",
+          "d": "6/3"
+        },
+        "answer": "a",
+        "explanation": "Proper fractions have numerators smaller than denominators.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 163,
+        "id": "q163",
+        "type": "mot_dap_an",
+        "question": "Which fraction is an improper fraction?",
+        "options": {
+          "a": "8/5",
+          "b": "3/7",
+          "c": "1/6",
+          "d": "2/9"
+        },
+        "answer": "a",
+        "explanation": "Improper fractions have numerators larger than denominators.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 164,
+        "id": "q164",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/2 of 12?",
+        "options": {
+          "a": "6",
+          "b": "4",
+          "c": "8",
+          "d": "3"
+        },
+        "answer": "a",
+        "explanation": "Twelve multiplied by one half equals six.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 165,
+        "id": "q165",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/3 of 15?",
+        "options": {
+          "a": "5",
+          "b": "6",
+          "c": "4",
+          "d": "3"
+        },
+        "answer": "a",
+        "explanation": "Fifteen multiplied by one third equals five.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 166,
+        "id": "q166",
+        "type": "mot_dap_an",
+        "question": "In optics, what happens when light strikes a mirror and bounces away?",
+        "options": {
+          "a": "reflection",
+          "b": "refraction",
+          "c": "absorption",
+          "d": "diffusion"
+        },
+        "answer": "a",
+        "explanation": "Reflection occurs when light changes direction after hitting a surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 167,
+        "id": "q167",
+        "type": "mot_dap_an",
+        "question": "Which ray approaches the mirror surface in a reflection diagram?",
+        "options": {
+          "a": "incident ray",
+          "b": "reflected ray",
+          "c": "normal line",
+          "d": "shadow ray"
+        },
+        "answer": "a",
+        "explanation": "The incident ray travels toward the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 168,
+        "id": "q168",
+        "type": "mot_dap_an",
+        "question": "Which ray leaves the mirror after reflection?",
+        "options": {
+          "a": "reflected ray",
+          "b": "incident ray",
+          "c": "normal line",
+          "d": "center ray"
+        },
+        "answer": "a",
+        "explanation": "The reflected ray moves away from the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 169,
+        "id": "q169",
+        "type": "mot_dap_an",
+        "question": "Which imaginary line forms a right angle with the mirror surface?",
+        "options": {
+          "a": "normal",
+          "b": "axis",
+          "c": "beam",
+          "d": "shadow"
+        },
+        "answer": "a",
+        "explanation": "The normal line is perpendicular to the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 170,
+        "id": "q170",
+        "type": "mot_dap_an",
+        "question": "Which instrument uses mirrors to allow observation from hidden positions?",
+        "options": {
+          "a": "periscope",
+          "b": "thermometer",
+          "c": "calculator",
+          "d": "barometer"
+        },
+        "answer": "a",
+        "explanation": "Periscopes use mirrors to redirect light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 171,
+        "id": "q171",
+        "type": "nhieu_dap_an",
+        "question": "Which actions help protect the environment?",
+        "options": {
+          "a": "reuse materials",
+          "b": "reduce waste",
+          "c": "recycle products",
+          "d": "throw plastic into rivers"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Reuse, reduce, and recycle reduce environmental pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 172,
+        "id": "q172",
+        "type": "nhieu_dap_an",
+        "question": "Which terms belong to filmmaking?",
+        "options": {
+          "a": "actors",
+          "b": "soundtrack",
+          "c": "costumes",
+          "d": "denominator"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Actors, soundtracks, and costumes are film terms.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 173,
+        "id": "q173",
+        "type": "nhieu_dap_an",
+        "question": "Which fractions are unit fractions?",
+        "options": {
+          "a": "1/2",
+          "b": "1/5",
+          "c": "3/5",
+          "d": "1/9"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Unit fractions have numerator equal to one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 174,
+        "id": "q174",
+        "type": "dien_khuyet",
+        "question": "The music used in a movie is called the ...",
+        "answer": "soundtrack",
+        "explanation": "The soundtrack is the musical background of a film.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 175,
+        "id": "q175",
+        "type": "dien_khuyet",
+        "question": "The top number of a fraction is the ...",
+        "answer": "numerator",
+        "explanation": "The numerator represents selected parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 176,
+        "id": "q176",
+        "type": "dien_khuyet",
+        "question": "The bottom number of a fraction is the ...",
+        "answer": "denominator",
+        "explanation": "The denominator shows total equal parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 177,
+        "id": "q177",
+        "type": "dropdown",
+        "question": "A [[proper fraction|improper fraction|decimal]] has a numerator smaller than the denominator, while an [[improper fraction|proper fraction|unit]] may be greater than one.",
+        "answer": "proper fraction, improper fraction",
+        "explanation": "Improper fractions may represent values greater than one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 178,
+        "id": "q178",
+        "type": "dropdown",
+        "question": "In reflection, the [[incident ray|reflected ray|normal]] approaches the mirror and the [[reflected ray|incident ray|axis]] leaves it.",
+        "answer": "incident ray, reflected ray",
+        "explanation": "Incident rays move toward mirrors and reflected rays move away.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 179,
+        "id": "q179",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Reusable products help reduce environmental waste.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Reusable products reduce single-use waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 180,
+        "id": "q180",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The denominator is the number written above the fraction line.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The denominator is written below the fraction line.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 181,
+        "id": "q181",
+        "type": "noi",
+        "question": "Match each term with its meaning.",
+        "leftCol": [
+          "Numerator",
+          "Denominator"
+        ],
+        "rightCol": [
+          "Top number of a fraction",
+          "Bottom number of a fraction"
+        ],
+        "answer": {
+          "Numerator": "Top number of a fraction",
+          "Denominator": "Bottom number of a fraction"
+        },
+        "explanation": "The numerator is above the fraction line and denominator below.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 182,
+        "id": "q182",
+        "type": "sap_xep",
+        "question": "Arrange the steps of watching a film in a cinema.",
+        "muc": [
+          "(1) Buy a ticket",
+          "(2) Enter the theater",
+          "(3) Watch the film",
+          "(4) Leave the cinema"
+        ],
+        "answer": [
+          "(1) Buy a ticket",
+          "(2) Enter the theater",
+          "(3) Watch the film",
+          "(4) Leave the cinema"
+        ],
+        "explanation": "This sequence represents the normal cinema experience.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 183,
+        "id": "q183",
+        "type": "phan_loai",
+        "question": "Classify the following terms.",
+        "nhom": [
+          "(A) Film vocabulary",
+          "(B) Mathematics vocabulary"
+        ],
+        "the": [
+          "plot",
+          "numerator",
+          "soundtrack",
+          "denominator"
+        ],
+        "dap_an": {
+          "plot": 0,
+          "numerator": 1,
+          "soundtrack": 0,
+          "denominator": 1
+        },
+        "explanation": "Plot and soundtrack are film terms, numerator and denominator belong to mathematics.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 184,
+        "id": "q184",
+        "type": "listening",
+        "question": "What did musicians do during silent film screenings?",
+        "audio_text": "In the early twentieth century, films were silent. Because there was no recorded sound, musicians such as pianists performed live music during the screening.",
+        "options": {
+          "a": "They played live music",
+          "b": "They edited the movie",
+          "c": "They wrote the script",
+          "d": "They built cinemas"
+        },
+        "answer": "a",
+        "explanation": "The script explains musicians performed live music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 185,
+        "id": "q185",
+        "type": "mot_dap_an",
+        "question": "Which environmental action means using an item again?",
+        "options": {
+          "a": "reuse",
+          "b": "burn",
+          "c": "destroy",
+          "d": "remove"
+        },
+        "answer": "a",
+        "explanation": "Reuse extends the life of products.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 186,
+        "id": "q186",
+        "type": "mot_dap_an",
+        "question": "Which environmental action means decreasing waste production?",
+        "options": {
+          "a": "reduce",
+          "b": "wrap",
+          "c": "invite",
+          "d": "exchange"
+        },
+        "answer": "a",
+        "explanation": "Reducing consumption lowers waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 187,
+        "id": "q187",
+        "type": "mot_dap_an",
+        "question": "Which container holds recyclable materials?",
+        "options": {
+          "a": "recycling bin",
+          "b": "desk drawer",
+          "c": "food basket",
+          "d": "sink"
+        },
+        "answer": "a",
+        "explanation": "Recycling bins store recyclable waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 188,
+        "id": "q188",
+        "type": "mot_dap_an",
+        "question": "Which environmental problem involves rising ocean water?",
+        "options": {
+          "a": "sea level rise",
+          "b": "soil growth",
+          "c": "forest expansion",
+          "d": "sound pollution"
+        },
+        "answer": "a",
+        "explanation": "Sea level rise is related to climate change.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 189,
+        "id": "q189",
+        "type": "mot_dap_an",
+        "question": "Which term describes materials from nature?",
+        "options": {
+          "a": "natural",
+          "b": "synthetic",
+          "c": "digital",
+          "d": "industrial"
+        },
+        "answer": "a",
+        "explanation": "Natural materials originate from nature.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 190,
+        "id": "q190",
+        "type": "mot_dap_an",
+        "question": "Which leadership position governs a country?",
+        "options": {
+          "a": "president",
+          "b": "assistant",
+          "c": "visitor",
+          "d": "student"
+        },
+        "answer": "a",
+        "explanation": "A president leads a nation.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 191,
+        "id": "q191",
+        "type": "mot_dap_an",
+        "question": "Which device projects films onto a screen?",
+        "options": {
+          "a": "film projector",
+          "b": "microphone",
+          "c": "speaker",
+          "d": "camera"
+        },
+        "answer": "a",
+        "explanation": "Projectors display movies in cinemas.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 192,
+        "id": "q192",
+        "type": "mot_dap_an",
+        "question": "Which technology creates motion from sequential images?",
+        "options": {
+          "a": "animation",
+          "b": "reflection",
+          "c": "fraction",
+          "d": "survey"
+        },
+        "answer": "a",
+        "explanation": "Animation creates motion using multiple images.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 193,
+        "id": "q193",
+        "type": "mot_dap_an",
+        "question": "Which snack is traditionally eaten while watching movies?",
+        "options": {
+          "a": "popcorn",
+          "b": "salad",
+          "c": "bread",
+          "d": "rice"
+        },
+        "answer": "a",
+        "explanation": "Popcorn is commonly associated with cinemas.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 194,
+        "id": "q194",
+        "type": "mot_dap_an",
+        "question": "Which term describes facial movements showing emotions?",
+        "options": {
+          "a": "expressions",
+          "b": "graphics",
+          "c": "screens",
+          "d": "settings"
+        },
+        "answer": "a",
+        "explanation": "Expressions reveal emotions visually.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 195,
+        "id": "q195",
+        "type": "mot_dap_an",
+        "question": "Which cosmetic material changes an actor’s appearance?",
+        "options": {
+          "a": "make-up",
+          "b": "plot",
+          "c": "soundtrack",
+          "d": "screen"
+        },
+        "answer": "a",
+        "explanation": "Make-up alters appearance for roles.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 196,
+        "id": "q196",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a movie that causes fear?",
+        "options": {
+          "a": "frightening",
+          "b": "frightened",
+          "c": "fear",
+          "d": "fearful"
+        },
+        "answer": "a",
+        "explanation": "-ing adjectives describe causes of feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 197,
+        "id": "q197",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a person who feels fear?",
+        "options": {
+          "a": "frightened",
+          "b": "frightening",
+          "c": "fear",
+          "d": "fearless"
+        },
+        "answer": "a",
+        "explanation": "-ed adjectives describe feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 198,
+        "id": "q198",
+        "type": "mot_dap_an",
+        "question": "Which sentence shows passive voice?",
+        "options": {
+          "a": "The film was produced in 2000.",
+          "b": "The film produce in 2000.",
+          "c": "The film produces in 2000.",
+          "d": "The film producing 2000."
+        },
+        "answer": "a",
+        "explanation": "Passive voice uses was plus past participle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 199,
+        "id": "q199",
+        "type": "mot_dap_an",
+        "question": "Which sentence correctly uses passive voice?",
+        "options": {
+          "a": "The projector was invented by Edison.",
+          "b": "The projector invent Edison.",
+          "c": "The projector invents Edison.",
+          "d": "The projector inventing Edison."
+        },
+        "answer": "a",
+        "explanation": "The phrase “was invented” forms a passive structure.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 200,
+        "id": "q200",
+        "type": "mot_dap_an",
+        "question": "Which statement describes the law of reflection?",
+        "options": {
+          "a": "The angle of incidence equals the angle of reflection",
+          "b": "Light always travels in a straight line",
+          "c": "Light disappears when it hits a mirror",
+          "d": "Light always forms shadows"
+        },
+        "answer": "a",
+        "explanation": "The law of reflection states that the angle of incidence equals the angle of reflection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 201,
+        "id": "q201",
+        "type": "mot_dap_an",
+        "question": "Which term describes the people who perform roles in a film?",
+        "options": {
+          "a": "actors",
+          "b": "audience",
+          "c": "editors",
+          "d": "directors"
+        },
+        "answer": "a",
+        "explanation": "Actors portray characters in films and performances.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 202,
+        "id": "q202",
+        "type": "mot_dap_an",
+        "question": "Which word describes the place where a movie scene happens?",
+        "options": {
+          "a": "setting",
+          "b": "plot",
+          "c": "screen",
+          "d": "dialogue"
+        },
+        "answer": "a",
+        "explanation": "The setting describes the location and time of events.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 203,
+        "id": "q203",
+        "type": "mot_dap_an",
+        "question": "Which element of film production creates artificial visual illusions?",
+        "options": {
+          "a": "special effects",
+          "b": "soundtrack",
+          "c": "plot",
+          "d": "costume"
+        },
+        "answer": "a",
+        "explanation": "Special effects create visual phenomena not normally possible.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 204,
+        "id": "q204",
+        "type": "mot_dap_an",
+        "question": "Which element adds realistic noises such as explosions or footsteps?",
+        "options": {
+          "a": "sound effects",
+          "b": "graphics",
+          "c": "dialogue",
+          "d": "costumes"
+        },
+        "answer": "a",
+        "explanation": "Sound effects simulate environmental sounds.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 205,
+        "id": "q205",
+        "type": "mot_dap_an",
+        "question": "Which word describes a group of performers appearing in a film?",
+        "options": {
+          "a": "cast",
+          "b": "audience",
+          "c": "crew",
+          "d": "editors"
+        },
+        "answer": "a",
+        "explanation": "The cast refers to all actors appearing in the film.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 206,
+        "id": "q206",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a person who feels boredom?",
+        "options": {
+          "a": "bored",
+          "b": "boring",
+          "c": "bore",
+          "d": "boredom"
+        },
+        "answer": "a",
+        "explanation": "-ed adjectives describe feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 207,
+        "id": "q207",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes something that causes boredom?",
+        "options": {
+          "a": "boring",
+          "b": "bored",
+          "c": "bore",
+          "d": "boredly"
+        },
+        "answer": "a",
+        "explanation": "-ing adjectives describe causes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 208,
+        "id": "q208",
+        "type": "mot_dap_an",
+        "question": "Which grammar structure is used when the doer of an action is not important?",
+        "options": {
+          "a": "passive voice",
+          "b": "active voice",
+          "c": "future tense",
+          "d": "present tense"
+        },
+        "answer": "a",
+        "explanation": "Passive voice focuses on the action rather than the actor.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 209,
+        "id": "q209",
+        "type": "mot_dap_an",
+        "question": "Which sentence is written in passive voice?",
+        "options": {
+          "a": "The film was produced in Hollywood.",
+          "b": "The director produces the film.",
+          "c": "Actors perform the scene.",
+          "d": "The audience watches the movie."
+        },
+        "answer": "a",
+        "explanation": "“Was produced” is passive structure.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 210,
+        "id": "q210",
+        "type": "mot_dap_an",
+        "question": "Which fraction represents one part out of six equal parts?",
+        "options": {
+          "a": "1/6",
+          "b": "6/1",
+          "c": "3/6",
+          "d": "2/6"
+        },
+        "answer": "a",
+        "explanation": "A unit fraction has numerator one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 211,
+        "id": "q211",
+        "type": "mot_dap_an",
+        "question": "Which fraction is greater than one?",
+        "options": {
+          "a": "5/3",
+          "b": "2/5",
+          "c": "1/8",
+          "d": "3/10"
+        },
+        "answer": "a",
+        "explanation": "Improper fractions have larger numerators.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 212,
+        "id": "q212",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/2 of 24?",
+        "options": {
+          "a": "12",
+          "b": "6",
+          "c": "8",
+          "d": "10"
+        },
+        "answer": "a",
+        "explanation": "24 × 1/2 = 12.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 213,
+        "id": "q213",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/4 of 28?",
+        "options": {
+          "a": "7",
+          "b": "14",
+          "c": "4",
+          "d": "8"
+        },
+        "answer": "a",
+        "explanation": "28 × 1/4 = 7.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 214,
+        "id": "q214",
+        "type": "mot_dap_an",
+        "question": "Which ray travels toward a mirror surface?",
+        "options": {
+          "a": "incident ray",
+          "b": "reflected ray",
+          "c": "normal line",
+          "d": "shadow"
+        },
+        "answer": "a",
+        "explanation": "Incident rays approach the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 215,
+        "id": "q215",
+        "type": "mot_dap_an",
+        "question": "Which ray moves away from a mirror after reflection?",
+        "options": {
+          "a": "reflected ray",
+          "b": "incident ray",
+          "c": "axis ray",
+          "d": "center ray"
+        },
+        "answer": "a",
+        "explanation": "Reflected rays move away from the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 216,
+        "id": "q216",
+        "type": "mot_dap_an",
+        "question": "Which line is perpendicular to the mirror surface?",
+        "options": {
+          "a": "normal",
+          "b": "axis",
+          "c": "ray",
+          "d": "shadow"
+        },
+        "answer": "a",
+        "explanation": "The normal line forms a 90-degree angle with the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 217,
+        "id": "q217",
+        "type": "mot_dap_an",
+        "question": "Which instrument uses mirrors to see objects above water?",
+        "options": {
+          "a": "periscope",
+          "b": "microscope",
+          "c": "barometer",
+          "d": "thermometer"
+        },
+        "answer": "a",
+        "explanation": "Periscopes use mirrors to redirect light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 218,
+        "id": "q218",
+        "type": "mot_dap_an",
+        "question": "Which environmental action means lowering the amount of waste?",
+        "options": {
+          "a": "reduce",
+          "b": "reuse",
+          "c": "wrap",
+          "d": "invite"
+        },
+        "answer": "a",
+        "explanation": "Reduce means decreasing consumption.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 219,
+        "id": "q219",
+        "type": "mot_dap_an",
+        "question": "Which environmental action means using items again?",
+        "options": {
+          "a": "reuse",
+          "b": "destroy",
+          "c": "burn",
+          "d": "throw"
+        },
+        "answer": "a",
+        "explanation": "Reuse extends product life.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 220,
+        "id": "q220",
+        "type": "mot_dap_an",
+        "question": "Which container stores recyclable materials?",
+        "options": {
+          "a": "recycling bin",
+          "b": "trash bag",
+          "c": "food basket",
+          "d": "desk drawer"
+        },
+        "answer": "a",
+        "explanation": "Recycling bins collect recyclable waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 221,
+        "id": "q221",
+        "type": "nhieu_dap_an",
+        "question": "Which practices help protect the environment?",
+        "options": {
+          "a": "recycling",
+          "b": "reducing waste",
+          "c": "reusing materials",
+          "d": "dumping plastic in rivers"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "The first three actions reduce pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 222,
+        "id": "q222",
+        "type": "nhieu_dap_an",
+        "question": "Which elements belong to film production?",
+        "options": {
+          "a": "actors",
+          "b": "costumes",
+          "c": "soundtrack",
+          "d": "numerator"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Numerator belongs to mathematics.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 223,
+        "id": "q223",
+        "type": "nhieu_dap_an",
+        "question": "Which fractions are proper fractions?",
+        "options": {
+          "a": "3/7",
+          "b": "1/5",
+          "c": "9/4",
+          "d": "2/9"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Proper fractions have smaller numerators.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 224,
+        "id": "q224",
+        "type": "dien_khuyet",
+        "question": "The group of actors appearing in a film is called the ...",
+        "answer": "cast",
+        "explanation": "Cast refers to all performers in a movie.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 225,
+        "id": "q225",
+        "type": "dien_khuyet",
+        "question": "The music used in a movie is called the ...",
+        "answer": "soundtrack",
+        "explanation": "Soundtrack refers to musical components.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 226,
+        "id": "q226",
+        "type": "dien_khuyet",
+        "question": "A fraction with numerator equal to one is called a ...",
+        "answer": "unit fraction",
+        "explanation": "Unit fractions have numerator equal to one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 227,
+        "id": "q227",
+        "type": "dropdown",
+        "question": "The [[numerator|denominator|operator]] is the top number of a fraction, and the [[denominator|numerator|decimal]] is the bottom number.",
+        "answer": "numerator, denominator",
+        "explanation": "Numerator is above the fraction line.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 228,
+        "id": "q228",
+        "type": "dropdown",
+        "question": "In optics, the [[incident ray|reflected ray|normal]] moves toward the mirror, while the [[reflected ray|incident ray|axis]] moves away.",
+        "answer": "incident ray, reflected ray",
+        "explanation": "Incident rays approach mirrors and reflected rays move away.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 229,
+        "id": "q229",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A unit fraction has a numerator equal to one.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Unit fractions always have numerator 1.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 230,
+        "id": "q230",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The reflected ray travels toward the mirror.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Reflected rays move away from the mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 231,
+        "id": "q231",
+        "type": "noi",
+        "question": "Match the following terms with meanings.",
+        "leftCol": [
+          "Actors",
+          "Audience"
+        ],
+        "rightCol": [
+          "People who perform characters",
+          "People who watch a film"
+        ],
+        "answer": {
+          "Actors": "People who perform characters",
+          "Audience": "People who watch a film"
+        },
+        "explanation": "Actors perform and audience watches.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 232,
+        "id": "q232",
+        "type": "sap_xep",
+        "question": "Arrange the steps of making a movie.",
+        "muc": [
+          "(1) Write the script",
+          "(2) Film the scenes",
+          "(3) Edit the footage",
+          "(4) Release the movie"
+        ],
+        "answer": [
+          "(1) Write the script",
+          "(2) Film the scenes",
+          "(3) Edit the footage",
+          "(4) Release the movie"
+        ],
+        "explanation": "Production begins with writing and ends with release.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 233,
+        "id": "q233",
+        "type": "phan_loai",
+        "question": "Classify the following words.",
+        "nhom": [
+          "(A) Film vocabulary",
+          "(B) Mathematics vocabulary"
+        ],
+        "the": [
+          "plot",
+          "numerator",
+          "soundtrack",
+          "denominator"
+        ],
+        "dap_an": {
+          "plot": 0,
+          "numerator": 1,
+          "soundtrack": 0,
+          "denominator": 1
+        },
+        "explanation": "Film and math terms belong to different subjects.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 234,
+        "id": "q234",
+        "type": "listening",
+        "question": "What happened during silent film screenings?",
+        "audio_text": "During the silent film era, movies did not contain recorded dialogue. Pianists often played live music in theaters to create emotional atmosphere.",
+        "options": {
+          "a": "Musicians played live music",
+          "b": "Actors recorded sound",
+          "c": "Directors narrated the film",
+          "d": "Audiences sang songs"
+        },
+        "answer": "a",
+        "explanation": "The script mentions pianists performing music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 235,
+        "id": "q235",
+        "type": "mot_dap_an",
+        "question": "Which environmental problem refers to rising ocean water levels?",
+        "options": {
+          "a": "sea level rise",
+          "b": "air pollution",
+          "c": "soil erosion",
+          "d": "forest growth"
+        },
+        "answer": "a",
+        "explanation": "Sea level rise is related to climate change.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 236,
+        "id": "q236",
+        "type": "mot_dap_an",
+        "question": "Which word describes materials that come from nature?",
+        "options": {
+          "a": "natural",
+          "b": "synthetic",
+          "c": "digital",
+          "d": "artificial"
+        },
+        "answer": "a",
+        "explanation": "Natural materials originate from nature.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 237,
+        "id": "q237",
+        "type": "mot_dap_an",
+        "question": "Which research method collects information from many people?",
+        "options": {
+          "a": "survey",
+          "b": "animation",
+          "c": "reflection",
+          "d": "projection"
+        },
+        "answer": "a",
+        "explanation": "Surveys gather data from participants.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 238,
+        "id": "q238",
+        "type": "mot_dap_an",
+        "question": "Which word describes the result of an action?",
+        "options": {
+          "a": "effect",
+          "b": "actor",
+          "c": "fraction",
+          "d": "angle"
+        },
+        "answer": "a",
+        "explanation": "Effect refers to a result.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 239,
+        "id": "q239",
+        "type": "mot_dap_an",
+        "question": "Which snack is commonly eaten at movie theaters?",
+        "options": {
+          "a": "popcorn",
+          "b": "rice",
+          "c": "bread",
+          "d": "salad"
+        },
+        "answer": "a",
+        "explanation": "Popcorn is traditionally eaten while watching movies.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 240,
+        "id": "q240",
+        "type": "mot_dap_an",
+        "question": "Which word describes facial movements showing emotion?",
+        "options": {
+          "a": "expressions",
+          "b": "graphics",
+          "c": "screens",
+          "d": "settings"
+        },
+        "answer": "a",
+        "explanation": "Expressions reveal feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 241,
+        "id": "q241",
+        "type": "mot_dap_an",
+        "question": "Which cosmetic material changes an actor's appearance?",
+        "options": {
+          "a": "make-up",
+          "b": "plot",
+          "c": "soundtrack",
+          "d": "screen"
+        },
+        "answer": "a",
+        "explanation": "Make-up alters appearance.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 242,
+        "id": "q242",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a movie that causes excitement?",
+        "options": {
+          "a": "exciting",
+          "b": "excited",
+          "c": "excite",
+          "d": "excitement"
+        },
+        "answer": "a",
+        "explanation": "-ing adjectives describe causes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 243,
+        "id": "q243",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a viewer who feels excitement?",
+        "options": {
+          "a": "excited",
+          "b": "exciting",
+          "c": "excite",
+          "d": "excitement"
+        },
+        "answer": "a",
+        "explanation": "-ed adjectives describe feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 244,
+        "id": "q244",
+        "type": "mot_dap_an",
+        "question": "Which device shows films on a screen?",
+        "options": {
+          "a": "film projector",
+          "b": "speaker",
+          "c": "camera",
+          "d": "microphone"
+        },
+        "answer": "a",
+        "explanation": "Projectors display movies.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 245,
+        "id": "q245",
+        "type": "mot_dap_an",
+        "question": "Which technology creates movement from a sequence of images?",
+        "options": {
+          "a": "animation",
+          "b": "reflection",
+          "c": "fraction",
+          "d": "survey"
+        },
+        "answer": "a",
+        "explanation": "Animation produces motion from images.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 246,
+        "id": "q246",
+        "type": "mot_dap_an",
+        "question": "Which sentence is written in passive voice?",
+        "options": {
+          "a": "The movie was produced in 1999.",
+          "b": "The director produce the movie.",
+          "c": "Actors produce the movie.",
+          "d": "The movie produce actors."
+        },
+        "answer": "a",
+        "explanation": "“Was produced” is passive.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 247,
+        "id": "q247",
+        "type": "mot_dap_an",
+        "question": "Which law states that the angle of incidence equals the angle of reflection?",
+        "options": {
+          "a": "law of reflection",
+          "b": "law of gravity",
+          "c": "law of motion",
+          "d": "law of energy"
+        },
+        "answer": "a",
+        "explanation": "This law explains mirror reflection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 248,
+        "id": "q248",
+        "type": "mot_dap_an",
+        "question": "Which fraction equals one whole?",
+        "options": {
+          "a": "6/6",
+          "b": "3/6",
+          "c": "1/6",
+          "d": "2/6"
+        },
+        "answer": "a",
+        "explanation": "Numerator equals denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 249,
+        "id": "q249",
+        "type": "mot_dap_an",
+        "question": "Which fraction represents one out of eight equal parts?",
+        "options": {
+          "a": "1/8",
+          "b": "8/1",
+          "c": "4/8",
+          "d": "2/8"
+        },
+        "answer": "a",
+        "explanation": "Unit fractions represent one part.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 250,
+        "id": "q250",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/5 of 25?",
+        "options": {
+          "a": "5",
+          "b": "10",
+          "c": "4",
+          "d": "6"
+        },
+        "answer": "a",
+        "explanation": "25 × 1/5 = 5.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 251,
+        "id": "q251",
+        "type": "mot_dap_an",
+        "question": "Which term refers to the fictional people that exist in a movie story?",
+        "options": {
+          "a": "characters",
+          "b": "audience",
+          "c": "editors",
+          "d": "directors"
+        },
+        "answer": "a",
+        "explanation": "Characters are the fictional individuals who participate in the story.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 252,
+        "id": "q252",
+        "type": "mot_dap_an",
+        "question": "Which group of people watch a performance or film?",
+        "options": {
+          "a": "audience",
+          "b": "cast",
+          "c": "actors",
+          "d": "directors"
+        },
+        "answer": "a",
+        "explanation": "The audience consists of people who watch the film.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 253,
+        "id": "q253",
+        "type": "mot_dap_an",
+        "question": "Which technology creates motion by displaying a sequence of drawings or images?",
+        "options": {
+          "a": "animation",
+          "b": "reflection",
+          "c": "projection",
+          "d": "fraction"
+        },
+        "answer": "a",
+        "explanation": "Animation produces the illusion of movement using sequential images.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 254,
+        "id": "q254",
+        "type": "mot_dap_an",
+        "question": "Which term refers to the clothes worn by actors in a movie?",
+        "options": {
+          "a": "costumes",
+          "b": "graphics",
+          "c": "screens",
+          "d": "scripts"
+        },
+        "answer": "a",
+        "explanation": "Costumes visually represent the characters.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 255,
+        "id": "q255",
+        "type": "mot_dap_an",
+        "question": "Which word refers to facial movements that show emotions?",
+        "options": {
+          "a": "expressions",
+          "b": "graphics",
+          "c": "settings",
+          "d": "scripts"
+        },
+        "answer": "a",
+        "explanation": "Expressions reveal feelings through facial movement.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 256,
+        "id": "q256",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a film that causes excitement?",
+        "options": {
+          "a": "exciting",
+          "b": "excited",
+          "c": "excite",
+          "d": "excitement"
+        },
+        "answer": "a",
+        "explanation": "-ing adjectives describe the cause of a feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 257,
+        "id": "q257",
+        "type": "mot_dap_an",
+        "question": "Which adjective describes a person who feels excitement?",
+        "options": {
+          "a": "excited",
+          "b": "exciting",
+          "c": "excite",
+          "d": "excitement"
+        },
+        "answer": "a",
+        "explanation": "-ed adjectives describe a person's feelings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 258,
+        "id": "q258",
+        "type": "mot_dap_an",
+        "question": "Which grammar structure focuses on the action rather than the person doing it?",
+        "options": {
+          "a": "passive voice",
+          "b": "active voice",
+          "c": "future tense",
+          "d": "present tense"
+        },
+        "answer": "a",
+        "explanation": "Passive voice emphasizes the action instead of the actor.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 259,
+        "id": "q259",
+        "type": "mot_dap_an",
+        "question": "Which sentence uses passive voice correctly?",
+        "options": {
+          "a": "The movie was created in 2005.",
+          "b": "The movie create in 2005.",
+          "c": "The movie creating 2005.",
+          "d": "The movie creates 2005."
+        },
+        "answer": "a",
+        "explanation": "Passive voice uses was or were with a past participle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 260,
+        "id": "q260",
+        "type": "mot_dap_an",
+        "question": "Which number is the numerator in the fraction 3/8?",
+        "options": {
+          "a": "3",
+          "b": "8",
+          "c": "11",
+          "d": "5"
+        },
+        "answer": "a",
+        "explanation": "The numerator is the number above the fraction line.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 261,
+        "id": "q261",
+        "type": "nhieu_dap_an",
+        "question": "Which actions help reduce environmental pollution?",
+        "options": {
+          "a": "recycling",
+          "b": "reusing materials",
+          "c": "reducing waste",
+          "d": "burning plastic"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "The first three actions reduce environmental damage.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 262,
+        "id": "q262",
+        "type": "nhieu_dap_an",
+        "question": "Which elements belong to filmmaking?",
+        "options": {
+          "a": "actors",
+          "b": "soundtrack",
+          "c": "costumes",
+          "d": "denominator"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Denominator belongs to mathematics.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 263,
+        "id": "q263",
+        "type": "nhieu_dap_an",
+        "question": "Which fractions are proper fractions?",
+        "options": {
+          "a": "3/8",
+          "b": "1/4",
+          "c": "9/5",
+          "d": "2/7"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Proper fractions have numerators smaller than denominators.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 264,
+        "id": "q264",
+        "type": "dien_khuyet",
+        "question": "The top number in a fraction is called the ...",
+        "answer": "numerator",
+        "explanation": "The numerator represents selected parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 265,
+        "id": "q265",
+        "type": "dien_khuyet",
+        "question": "The bottom number in a fraction is called the ...",
+        "answer": "denominator",
+        "explanation": "The denominator represents the total number of parts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 266,
+        "id": "q266",
+        "type": "dien_khuyet",
+        "question": "Films that had no spoken dialogue were called ...",
+        "answer": "silent films",
+        "explanation": "Silent films had no recorded sound.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 267,
+        "id": "q267",
+        "type": "dropdown",
+        "question": "The [[numerator|denominator|operator]] is the top number of a fraction, while the [[denominator|numerator|decimal]] is the bottom number.",
+        "answer": "numerator, denominator",
+        "explanation": "Numerator is above the fraction line.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 268,
+        "id": "q268",
+        "type": "dropdown",
+        "question": "In reflection, the [[incident ray|reflected ray|normal]] approaches the mirror and the [[reflected ray|incident ray|axis]] leaves it.",
+        "answer": "incident ray, reflected ray",
+        "explanation": "Incident rays move toward mirrors and reflected rays move away.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 269,
+        "id": "q269",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A proper fraction has a numerator smaller than the denominator.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Proper fractions represent values less than one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 270,
+        "id": "q270",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Sound effects are the music used in a film.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Sound effects are noises; soundtracks are music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 271,
+        "id": "q271",
+        "type": "noi",
+        "question": "Match each term with its definition.",
+        "leftCol": [
+          "Soundtrack",
+          "Plot"
+        ],
+        "rightCol": [
+          "Music used in a movie",
+          "The story events in a film"
+        ],
+        "answer": {
+          "Soundtrack": "Music used in a movie",
+          "Plot": "The story events in a film"
+        },
+        "explanation": "Soundtrack is music and plot is the story.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 272,
+        "id": "q272",
+        "type": "sap_xep",
+        "question": "Arrange the process of watching a movie.",
+        "muc": [
+          "(1) Buy a ticket",
+          "(2) Enter the cinema",
+          "(3) Watch the movie",
+          "(4) Leave the theater"
+        ],
+        "answer": [
+          "(1) Buy a ticket",
+          "(2) Enter the cinema",
+          "(3) Watch the movie",
+          "(4) Leave the theater"
+        ],
+        "explanation": "These are the normal steps of watching a movie.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 273,
+        "id": "q273",
+        "type": "phan_loai",
+        "question": "Classify the following terms.",
+        "nhom": [
+          "(A) Film vocabulary",
+          "(B) Mathematics vocabulary"
+        ],
+        "the": [
+          "plot",
+          "numerator",
+          "soundtrack",
+          "denominator"
+        ],
+        "dap_an": {
+          "plot": 0,
+          "numerator": 1,
+          "soundtrack": 0,
+          "denominator": 1
+        },
+        "explanation": "Film and math terms belong to different subjects.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 274,
+        "id": "q274",
+        "type": "listening",
+        "question": "What did musicians do during silent film screenings?",
+        "audio_text": "In early cinema history, films had no recorded sound. Pianists often played music during screenings to help create emotional atmosphere for viewers.",
+        "options": {
+          "a": "They played live music",
+          "b": "They edited the film",
+          "c": "They wrote the script",
+          "d": "They filmed the scenes"
+        },
+        "answer": "a",
+        "explanation": "The script states pianists performed live music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 275,
+        "id": "q275",
+        "type": "mot_dap_an",
+        "question": "Which environmental problem involves rising ocean levels?",
+        "options": {
+          "a": "sea level rise",
+          "b": "forest expansion",
+          "c": "soil formation",
+          "d": "sound pollution"
+        },
+        "answer": "a",
+        "explanation": "Sea level rise results from climate change.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 276,
+        "id": "q276",
+        "type": "mot_dap_an",
+        "question": "Which term describes materials that come from nature?",
+        "options": {
+          "a": "natural",
+          "b": "synthetic",
+          "c": "digital",
+          "d": "industrial"
+        },
+        "answer": "a",
+        "explanation": "Natural materials originate from nature.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 277,
+        "id": "q277",
+        "type": "mot_dap_an",
+        "question": "Which research method collects information from many people?",
+        "options": {
+          "a": "survey",
+          "b": "animation",
+          "c": "projection",
+          "d": "reflection"
+        },
+        "answer": "a",
+        "explanation": "Surveys gather opinions and data.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 278,
+        "id": "q278",
+        "type": "mot_dap_an",
+        "question": "Which word describes the result of an action?",
+        "options": {
+          "a": "effect",
+          "b": "actor",
+          "c": "angle",
+          "d": "fraction"
+        },
+        "answer": "a",
+        "explanation": "An effect is the result of a cause.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 279,
+        "id": "q279",
+        "type": "mot_dap_an",
+        "question": "Which snack is commonly eaten in movie theaters?",
+        "options": {
+          "a": "popcorn",
+          "b": "bread",
+          "c": "rice",
+          "d": "salad"
+        },
+        "answer": "a",
+        "explanation": "Popcorn is traditionally associated with cinema.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 280,
+        "id": "q280",
+        "type": "mot_dap_an",
+        "question": "Which word describes facial movements that express emotion?",
+        "options": {
+          "a": "expressions",
+          "b": "graphics",
+          "c": "settings",
+          "d": "scripts"
+        },
+        "answer": "a",
+        "explanation": "Expressions reveal emotions.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 281,
+        "id": "q281",
+        "type": "mot_dap_an",
+        "question": "Which cosmetic product changes an actor's appearance?",
+        "options": {
+          "a": "make-up",
+          "b": "plot",
+          "c": "soundtrack",
+          "d": "screen"
+        },
+        "answer": "a",
+        "explanation": "Make-up alters appearance for acting roles.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 282,
+        "id": "q282",
+        "type": "mot_dap_an",
+        "question": "Which device projects films onto a large screen?",
+        "options": {
+          "a": "film projector",
+          "b": "microphone",
+          "c": "speaker",
+          "d": "camera"
+        },
+        "answer": "a",
+        "explanation": "Film projectors display movies.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 283,
+        "id": "q283",
+        "type": "mot_dap_an",
+        "question": "Which technology creates motion using many sequential images?",
+        "options": {
+          "a": "animation",
+          "b": "reflection",
+          "c": "survey",
+          "d": "fraction"
+        },
+        "answer": "a",
+        "explanation": "Animation produces motion from sequential images.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 284,
+        "id": "q284",
+        "type": "mot_dap_an",
+        "question": "Which sentence is written in passive voice?",
+        "options": {
+          "a": "The movie was produced in 2001.",
+          "b": "The director produce the movie.",
+          "c": "Actors produce the movie.",
+          "d": "The movie produce actors."
+        },
+        "answer": "a",
+        "explanation": "“Was produced” is passive voice.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 285,
+        "id": "q285",
+        "type": "mot_dap_an",
+        "question": "Which law states that the angle of incidence equals the angle of reflection?",
+        "options": {
+          "a": "law of reflection",
+          "b": "law of gravity",
+          "c": "law of motion",
+          "d": "law of energy"
+        },
+        "answer": "a",
+        "explanation": "The law of reflection describes mirror reflection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 286,
+        "id": "q286",
+        "type": "mot_dap_an",
+        "question": "Which fraction equals one whole?",
+        "options": {
+          "a": "4/4",
+          "b": "2/4",
+          "c": "1/4",
+          "d": "3/4"
+        },
+        "answer": "a",
+        "explanation": "When numerator equals denominator, the value is one.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 287,
+        "id": "q287",
+        "type": "mot_dap_an",
+        "question": "Which fraction represents one part out of ten equal parts?",
+        "options": {
+          "a": "1/10",
+          "b": "10/1",
+          "c": "5/10",
+          "d": "2/10"
+        },
+        "answer": "a",
+        "explanation": "Unit fractions represent one part.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 288,
+        "id": "q288",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/2 of 20?",
+        "options": {
+          "a": "10",
+          "b": "5",
+          "c": "4",
+          "d": "8"
+        },
+        "answer": "a",
+        "explanation": "20 × 1/2 = 10.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 289,
+        "id": "q289",
+        "type": "mot_dap_an",
+        "question": "What is the value of 1/4 of 16?",
+        "options": {
+          "a": "4",
+          "b": "8",
+          "c": "6",
+          "d": "2"
+        },
+        "answer": "a",
+        "explanation": "16 × 1/4 = 4.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 290,
+        "id": "q290",
+        "type": "mot_dap_an",
+        "question": "Which ray travels toward the mirror surface?",
+        "options": {
+          "a": "incident ray",
+          "b": "reflected ray",
+          "c": "normal",
+          "d": "shadow"
+        },
+        "answer": "a",
+        "explanation": "Incident rays move toward mirrors.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 291,
+        "id": "q291",
+        "type": "mot_dap_an",
+        "question": "Which ray moves away from the mirror after reflection?",
+        "options": {
+          "a": "reflected ray",
+          "b": "incident ray",
+          "c": "axis ray",
+          "d": "center ray"
+        },
+        "answer": "a",
+        "explanation": "Reflected rays move away.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 292,
+        "id": "q292",
+        "type": "mot_dap_an",
+        "question": "Which imaginary line is perpendicular to the mirror surface?",
+        "options": {
+          "a": "normal",
+          "b": "axis",
+          "c": "beam",
+          "d": "shadow"
+        },
+        "answer": "a",
+        "explanation": "The normal line forms a 90-degree angle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 293,
+        "id": "q293",
+        "type": "mot_dap_an",
+        "question": "Which device uses mirrors to see above obstacles?",
+        "options": {
+          "a": "periscope",
+          "b": "thermometer",
+          "c": "calculator",
+          "d": "microscope"
+        },
+        "answer": "a",
+        "explanation": "Periscopes redirect light using mirrors.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 294,
+        "id": "q294",
+        "type": "mot_dap_an",
+        "question": "Which environmental action means decreasing waste production?",
+        "options": {
+          "a": "reduce",
+          "b": "reuse",
+          "c": "wrap",
+          "d": "exchange"
+        },
+        "answer": "a",
+        "explanation": "Reduce means lowering consumption.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 295,
+        "id": "q295",
+        "type": "mot_dap_an",
+        "question": "Which environmental action means using items again?",
+        "options": {
+          "a": "reuse",
+          "b": "destroy",
+          "c": "burn",
+          "d": "throw away"
+        },
+        "answer": "a",
+        "explanation": "Reuse extends the life of products.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 296,
+        "id": "q296",
+        "type": "mot_dap_an",
+        "question": "Which container holds recyclable materials?",
+        "options": {
+          "a": "recycling bin",
+          "b": "desk drawer",
+          "c": "food basket",
+          "d": "sink"
+        },
+        "answer": "a",
+        "explanation": "Recycling bins collect recyclable waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 297,
+        "id": "q297",
+        "type": "mot_dap_an",
+        "question": "Which environmental problem refers to plastic pollution in oceans?",
+        "options": {
+          "a": "marine pollution",
+          "b": "forest growth",
+          "c": "soil formation",
+          "d": "air expansion"
+        },
+        "answer": "a",
+        "explanation": "Marine pollution harms ocean ecosystems.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 298,
+        "id": "q298",
+        "type": "mot_dap_an",
+        "question": "Which leadership position usually leads a country?",
+        "options": {
+          "a": "president",
+          "b": "assistant",
+          "c": "visitor",
+          "d": "student"
+        },
+        "answer": "a",
+        "explanation": "A president is a national leader.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 299,
+        "id": "q299",
+        "type": "mot_dap_an",
+        "question": "Which activity helps researchers understand people's opinions?",
+        "options": {
+          "a": "survey",
+          "b": "animation",
+          "c": "projection",
+          "d": "reflection"
+        },
+        "answer": "a",
+        "explanation": "Surveys collect information from participants.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 300,
+        "id": "q300",
+        "type": "mot_dap_an",
+        "question": "Why is protecting natural resources important?",
+        "options": {
+          "a": "It ensures sustainability for future generations",
+          "b": "It increases pollution",
+          "c": "It destroys ecosystems",
+          "d": "It eliminates recycling"
+        },
+        "answer": "a",
+        "explanation": "Sustainable resource use protects the environment for the future.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
   }
 ]
 
