@@ -174,6 +174,35 @@ document.addEventListener('DOMContentLoaded', () => {
     function normalizeString(str) {
         return str ? str.toString().trim().toLowerCase().replace(/\s+/g, ' ') : '';
     }
+// ================= IELTS SPEAKING ENGINE =================
+const IELTS_CONFIG = {
+    maxAttempts: 3,
+    slowRate: 0.75
+};
+
+function evaluateSpeakingIELTS(userSpeech, correctText) {
+    const similarity = calculateSimilarity(userSpeech, correctText);
+
+    const userWords = normalizeString(userSpeech).split(' ');
+    const correctWords = normalizeString(correctText).split(' ');
+
+    let match = 0;
+    correctWords.forEach(w => {
+        if (userWords.includes(w)) match++;
+    });
+
+    const coverage = correctWords.length ? match / correctWords.length : 0;
+
+    let score = similarity * 0.5 + coverage * 50;
+
+    if (userWords.length >= correctWords.length * 0.8) {
+        score += 20;
+    }
+
+    const band = Math.min(9, (score / 100) * 9).toFixed(1);
+
+    return { similarity, coverage, band };
+}
 
     function shuffleArray(array) {
         const arr = Array.isArray(array) ? [...array] : [];
@@ -386,6 +415,12 @@ document.addEventListener('DOMContentLoaded', () => {
         if (bestVoice) utterance.voice = bestVoice;
         window.speechSynthesis.speak(utterance);
     }
+function playSlow(text) {
+    const u = new SpeechSynthesisUtterance(text);
+    u.rate = 0.7;
+    u.lang = 'en-US';
+    speechSynthesis.speak(u);
+}
 
     // -------------------------------------------------------------------------
     // 6. DATA LOADING
@@ -1058,100 +1093,63 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    function renderSpeaking(question) {
-        dom.optionsContainer.innerHTML = `
-            <div class="speaking-layout" style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 20px;">
-                <div id="mic-wrapper" class="mic-container">
-                    <div class="pulse-ring"></div>
-                    <button id="start-record-btn" class="mic-btn">
-                        <svg width="40" height="40" viewBox="0 0 24 24" fill="white">
-                            <path d="M12 14c1.66 0 3-1.34 3-3V5c0-1.66-1.34-3-3-3S9 3.34 9 5v6c0 1.66 1.34 3 3 3z"/>
-                            <path d="M17 11c0 2.76-2.24 5-5 5s-5-2.24-5-5H5c0 3.53 2.61 6.43 6 6.92V21h2v-3.08c3.39-.49 6-3.39 6-6.92h-2z"/>
-                        </svg>
-                    </button>
-                </div>
-                <div class="target-text-box">
-                    <p style="color: var(--grey-text); font-weight: 700; margin-bottom: 5px;">HÃY ĐỌC CÂU SAU:</p>
-                    <h3 style="color: var(--primary-color); font-size: 1.5rem;">"${escapeHtml(question.answer || '')}"</h3>
-                </div>
-                <div id="user-transcript" class="hidden" style="color: var(--primary-dark); font-style: italic; background: #f0f4ff; padding: 10px 20px; border-radius: 50px; border: 1px dashed var(--primary-color);">
-                    Đang nghe...
-                </div>
+function renderSpeaking(question) {
+    if (!question.attempts) question.attempts = 0;
+
+    dom.optionsContainer.innerHTML = `
+        <div style="text-align:center">
+            <h3>🎤 IELTS Speaking</h3>
+
+            <p>Đọc câu sau:</p>
+            <h2 style="color:#6366f1">${escapeHtml(question.answer || '')}</h2>
+
+            <div style="margin:20px">
+                <button id="play-btn">🔊 Nghe</button>
+                <button id="slow-btn">🐢 Nghe chậm</button>
             </div>
-        `;
 
-        const micBtn = $('start-record-btn');
-        const micWrapper = $('mic-wrapper');
-        const transcriptArea = $('user-transcript');
-        if (!micBtn || !micWrapper || !transcriptArea) return;
+            <button id="speak-btn">🎙️ Nói</button>
 
-        micBtn.onclick = async () => {
-            if (question.isAnswered || state.isReviewMode) return;
-            if (state.speech.isRecognitionActive) return;
+            <p id="result"></p>
+            <p id="score"></p>
 
-            if (!state.speech.recognition) {
-                state.speech.recognition = initSpeechRecognition();
-                if (!state.speech.recognition) {
-                    showAlert('❌ Trình duyệt không hỗ trợ Micro Speech Recognition.');
-                    return;
-                }
-            }
+            <p>Lần thử: ${question.attempts}/3</p>
+        </div>
+    `;
 
-            state.speech.isProcessingSpeechResult = false;
+    const playBtn = document.getElementById('play-btn');
+    const slowBtn = document.getElementById('slow-btn');
+    const speakBtn = document.getElementById('speak-btn');
 
-            state.speech.recognition.onstart = () => {
-                state.speech.isRecognitionActive = true;
-                micWrapper.classList.add('recording');
-                transcriptArea.textContent = '🎙️ Listening...';
-                transcriptArea.classList.remove('hidden');
-            };
+    if (playBtn) playBtn.onclick = () => playNativeAudio(question.answer);
+    if (slowBtn) slowBtn.onclick = () => playSlow(question.answer);
+    if (speakBtn) speakBtn.onclick = () => startIELTSSpeaking(question);
+}
+function startIELTSSpeaking(question) {
+    const rec = state.speech.recognition;
 
-            state.speech.recognition.onresult = (event) => {
-                if (state.speech.isProcessingSpeechResult) return;
-                state.speech.isProcessingSpeechResult = true;
-                const result = event.results?.[0]?.[0]?.transcript || '';
-                transcriptArea.innerHTML = `I heard: "<strong>${escapeHtml(result)}</strong>"`;
-
-                const similarity = calculateSimilarity(result, question.answer);
-                const isPassed = similarity >= SPEECH_PASS_THRESHOLD;
-                question.isAnswered = true;
-                question.userAnswer = result;
-                question._isCorrect = isPassed;
-                setTimeout(() => finalizeAnswer(isPassed, question), 800);
-            };
-
-            state.speech.recognition.onerror = (event) => {
-                state.speech.isRecognitionActive = false;
-                micWrapper.classList.remove('recording');
-                if (event.error === 'not-allowed') {
-                    showAlert('⚠️ Bạn chưa cho phép Micro.');
-                } else if (event.error === 'audio-capture') {
-                    showAlert('⚠️ Không tìm thấy microphone.');
-                } else if (event.error === 'no-speech') {
-                    transcriptArea.textContent = 'Không nghe thấy gì. Hãy nói lại.';
-                    transcriptArea.classList.remove('hidden');
-                } else if (event.error === 'network') {
-                    transcriptArea.textContent = 'Lỗi mạng khi nhận diện giọng nói.';
-                } else if (event.error === 'aborted') {
-                    transcriptArea.textContent = 'Phiên ghi âm đã bị hủy.';
-                }
-            };
-
-            state.speech.recognition.onend = () => {
-                state.speech.isRecognitionActive = false;
-                micWrapper.classList.remove('recording');
-            };
-
-            try {
-                state.speech.recognition.start();
-            } catch (err) {
-                try { state.speech.recognition.stop(); } catch (_) {}
-                setTimeout(() => {
-                    try { state.speech.recognition.start(); } catch (_) {}
-                }, 300);
-            }
-        };
+    if (!rec) {
+        alert("Browser không hỗ trợ mic");
+        return;
     }
+
+    rec.onresult = (e) => {
+        const text = e.results[0][0].transcript;
+
+        question.attempts++;
+
+        const result = evaluateSpeakingIELTS(text, question.answer);
+
+        $('result').innerHTML = `Bạn nói: <b>${text}</b>`;
+        $('score').innerHTML = `Band: ${result.band} | Similarity: ${result.similarity}%`;
+
+        if (question.attempts >= 3) {
+            finalizeAnswer(result.band >= 6, question);
+        }
+    };
+
+    rec.start();
+}
 
     function renderMultiResponse(question) {
         if (!question.options) return;
