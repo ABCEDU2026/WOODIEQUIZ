@@ -358,6 +358,88 @@ function evaluateSpeakingIELTS(userSpeech, correctText) {
         });
     }
 
+
+// ================= MIC VISUALIZER =================
+let audioContext = null;
+let analyser = null;
+let dataArray = null;
+let source = null;
+let stream = null;
+let animationFrameId = null;
+
+async function initMicVisualizer() {
+    try {
+        if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+            throw new Error('Browser không hỗ trợ microphone');
+        }
+
+        stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+
+        audioContext = new (window.AudioContext || window.webkitAudioContext)();
+
+        analyser = audioContext.createAnalyser();
+        analyser.fftSize = 128;
+        analyser.smoothingTimeConstant = 0.8;
+
+        source = audioContext.createMediaStreamSource(stream);
+        source.connect(analyser);
+
+        dataArray = new Uint8Array(analyser.frequencyBinCount);
+
+        return true;
+    } catch (err) {
+        console.error('Mic init error:', err);
+        alert('Không thể truy cập microphone');
+        return false;
+    }
+}
+
+function drawWaveform() {
+    const canvas = document.getElementById('waveform');
+    if (!canvas || !analyser) return;
+
+    const ctx = canvas.getContext('2d');
+
+    function draw() {
+        animationFrameId = requestAnimationFrame(draw);
+
+        analyser.getByteFrequencyData(dataArray);
+
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        const barWidth = (canvas.width / dataArray.length) * 2;
+        let x = 0;
+
+        for (let i = 0; i < dataArray.length; i++) {
+            const barHeight = dataArray[i] / 2;
+            ctx.fillRect(x, canvas.height - barHeight, barWidth, barHeight);
+            x += barWidth + 1;
+        }
+    }
+
+    draw();
+}
+
+function stopMicVisualizer() {
+    if (animationFrameId) {
+        cancelAnimationFrame(animationFrameId);
+        animationFrameId = null;
+    }
+
+    if (stream) {
+        stream.getTracks().forEach(t => t.stop());
+        stream = null;
+    }
+
+    if (audioContext) {
+        audioContext.close();
+        audioContext = null;
+    }
+
+    analyser = null;
+    dataArray = null;
+}
+
     // -------------------------------------------------------------------------
     // 5. SPEECH / TTS
     // -------------------------------------------------------------------------
@@ -1096,27 +1178,32 @@ function playSlow(text) {
 function renderSpeaking(question) {
     if (!question.attempts) question.attempts = 0;
 
-    dom.optionsContainer.innerHTML = `
-        <div style="text-align:center">
-            <h3>🎤 IELTS Speaking</h3>
+    dom.optionsContainer.innerHTML = 
+   dom.optionsContainer.innerHTML = `
+    <div style="text-align:center">
+        <h3>🎤 IELTS Speaking</h3>
 
-            <p>Đọc câu sau:</p>
-            <h2 style="color:#6366f1">${escapeHtml(question.answer || '')}</h2>
+        <p>Đọc câu sau:</p>
+        <h2 style="color:#6366f1">${escapeHtml(question.answer || '')}</h2>
 
-            <div style="margin:20px">
-                <button id="play-btn">🔊 Nghe</button>
-                <button id="slow-btn">🐢 Nghe chậm</button>
-            </div>
-
-            <button id="speak-btn">🎙️ Nói</button>
-
-            <p id="result"></p>
-            <p id="score"></p>
-
-            <p>Lần thử: ${question.attempts}/3</p>
+        <div style="margin:20px">
+            <button id="play-btn">🔊 Nghe</button>
+            <button id="slow-btn">🐢 Nghe chậm</button>
         </div>
-    `;
 
+        <!-- 🔥 WAVEFORM -->
+        <div class="mic-visualizer">
+            <canvas id="waveform" width="300" height="60"></canvas>
+        </div>
+
+        <button id="speak-btn">🎙️ Nói</button>
+
+        <p id="result"></p>
+        <p id="score"></p>
+
+        <p>Lần thử: ${question.attempts || 0}/3</p>
+    </div>
+`;
     const playBtn = document.getElementById('play-btn');
     const slowBtn = document.getElementById('slow-btn');
     const speakBtn = document.getElementById('speak-btn');
@@ -1125,7 +1212,10 @@ function renderSpeaking(question) {
     if (slowBtn) slowBtn.onclick = () => playSlow(question.answer);
     if (speakBtn) speakBtn.onclick = () => startIELTSSpeaking(question);
 }
-function startIELTSSpeaking(question) {
+
+
+
+async function startIELTSSpeaking(question) {
     const rec = state.speech.recognition;
 
     if (!rec) {
@@ -1133,10 +1223,35 @@ function startIELTSSpeaking(question) {
         return;
     }
 
+    // 🔥 reset trước
+    stopMicVisualizer();
+
+    const ok = await initMicVisualizer();
+    if (!ok) return;
+
+    drawWaveform();
+
+    document.body.classList.add('recording');
+
+    rec.onstart = () => {
+        console.log("🎤 Recording...");
+    };
+
+    rec.onend = () => {
+        document.body.classList.remove('recording');
+      stopMicVisualizer(); // reset nếu user bấm nhiều lần
+    };
+
+    rec.onerror = (e) => {
+        console.error("Speech error", e);
+        document.body.classList.remove('recording');
+      stopMicVisualizer(); // reset nếu user bấm nhiều lần
+    };
+
     rec.onresult = (e) => {
         const text = e.results[0][0].transcript;
 
-        question.attempts++;
+        question.attempts = (question.attempts || 0) + 1;
 
         const result = evaluateSpeakingIELTS(text, question.answer);
 
@@ -1149,6 +1264,10 @@ function startIELTSSpeaking(question) {
     };
 
     rec.start();
+
+    setTimeout(() => {
+        try { rec.stop(); } catch (_) {}
+    }, 6000);
 }
 
     function renderMultiResponse(question) {
