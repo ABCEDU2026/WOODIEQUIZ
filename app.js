@@ -1178,39 +1178,47 @@ function playSlow(text) {
 function renderSpeaking(question) {
     if (!question.attempts) question.attempts = 0;
 
-    dom.optionsContainer.innerHTML = 
-   dom.optionsContainer.innerHTML = `
-    <div style="text-align:center">
-        <h3>🎤 IELTS Speaking</h3>
+    dom.optionsContainer.innerHTML = `
+    <div class="speaking-card">
 
-        <p>Đọc câu sau:</p>
-        <h2 style="color:#6366f1">${escapeHtml(question.answer || '')}</h2>
-
-        <div style="margin:20px">
-            <button id="play-btn">🔊 Nghe</button>
-            <button id="slow-btn">🐢 Nghe chậm</button>
+        <div class="speaking-header">
+            <span class="badge">Câu ${state.currentQuestionIndex + 1}</span>
+            <span class="title">🎤 IELTS Speaking</span>
         </div>
 
-        <!-- 🔥 WAVEFORM -->
-        <div class="mic-visualizer">
-            <canvas id="waveform" width="300" height="60"></canvas>
+        <div class="speaking-text">
+            ${escapeHtml(question.answer || '')}
         </div>
 
-        <button id="speak-btn">🎙️ Nói</button>
+        <div class="audio-controls">
+            <button id="play-btn" class="icon-btn">
+                🎧
+            </button>
+            <button id="slow-btn" class="icon-btn slow">
+                🎧🎧
+            </button>
+        </div>
 
-        <p id="result"></p>
-        <p id="score"></p>
+        <div class="wave-container">
+            <canvas id="waveform" width="260" height="50"></canvas>
+        </div>
 
-        <p>Lần thử: ${question.attempts || 0}/3</p>
+        <button id="speak-btn" class="speak-btn">
+            🎙️
+        </button>
+
+        <div class="result-box">
+            <p id="result"></p>
+            <p id="score"></p>
+            <p class="attempt">Lần thử: ${question.attempts}/3</p>
+        </div>
+
     </div>
-`;
-    const playBtn = document.getElementById('play-btn');
-    const slowBtn = document.getElementById('slow-btn');
-    const speakBtn = document.getElementById('speak-btn');
+    `;
 
-    if (playBtn) playBtn.onclick = () => playNativeAudio(question.answer);
-    if (slowBtn) slowBtn.onclick = () => playSlow(question.answer);
-    if (speakBtn) speakBtn.onclick = () => startIELTSSpeaking(question);
+    document.getElementById('play-btn').onclick = () => playNativeAudio(question.answer);
+    document.getElementById('slow-btn').onclick = () => playSlow(question.answer);
+    document.getElementById('speak-btn').onclick = () => startIELTSSpeaking(question);
 }
 
 
