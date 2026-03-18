@@ -379,15 +379,105 @@ line.hint-line { stroke: var(--correct-color); stroke-width: 3; stroke-dasharray
     transform: translateY(4px);
     box-shadow: 0 0 0 #c2410c;
 }
-.mic-visualizer {
-    margin: 20px auto;
-    width: 300px;
-    height: 60px;
-    background: #111;
-    border-radius: 10px;
-    overflow: hidden;
+/* ===== SPEAKING CARD COMPACT ===== */
+.speaking-card {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+    max-width: 420px;
+    margin: 0 auto;
 }
 
-.recording .mic-visualizer {
-    box-shadow: 0 0 20px rgba(99,102,241,0.6);
+/* Header */
+.speaking-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.badge {
+    background: #eef2ff;
+    color: #6366f1;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-weight: 800;
+    font-size: 0.8rem;
+}
+
+.title {
+    font-weight: 800;
+    color: #111827;
+}
+
+/* Text */
+.speaking-text {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #4f46e5;
+    margin: 15px 0;
+}
+
+/* Audio buttons */
+.audio-controls {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.icon-btn {
+    font-size: 1.2rem;
+    padding: 10px 14px;
+    border-radius: 10px;
+    border: none;
+    background: #f1f5f9;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.icon-btn:hover {
+    background: #e2e8f0;
+}
+
+.icon-btn.slow {
+    background: #fff7ed;
+}
+
+/* Wave */
+.wave-container {
+    background: #0f172a;
+    border-radius: 10px;
+    padding: 6px;
+    margin-bottom: 15px;
+}
+
+/* Speak button */
+.speak-btn {
+    font-size: 1.6rem;
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    margin-bottom: 15px;
+    transition: 0.2s;
+}
+
+.speak-btn:hover {
+    transform: scale(1.1);
+}
+
+/* Result */
+.result-box {
+    font-size: 0.9rem;
+    color: #374151;
+}
+
+.attempt {
+    color: #6b7280;
 }
