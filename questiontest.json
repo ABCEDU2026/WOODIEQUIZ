@@ -486,5 +486,43 @@
         "_divider": "-----------------"
       }
     ]
+  },
+{
+    "_Note": "QUESTIONTEST - SPEAKING",
+    "topic": "SPEAKING",
+    "subject": "QUESTIONTEST",
+    "questions": [
+
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "speaking",
+        "question": "Hãy đọc to phép tính sau:",
+        "answer": "Twenty-seven plus thirty-five equals sixty-two",
+        "explanation": "Nhấn mạnh \"plus\" và \"equals\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "speaking",
+        "question": "Hãy đọc to:",
+        "answer": "Fifty-two minus thirty-eight equals fourteen",
+        "explanation": "Âm cuối \"teen\" rõ ràng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "speaking",
+        "question": "Hãy đọc:",
+        "answer": "Forty-six plus twenty-seven equals seventy-three",
+        "explanation": "Chú ý phát âm \"seventy\"",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
   }
 ]
