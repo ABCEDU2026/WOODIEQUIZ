@@ -379,3 +379,15 @@ line.hint-line { stroke: var(--correct-color); stroke-width: 3; stroke-dasharray
     transform: translateY(4px);
     box-shadow: 0 0 0 #c2410c;
 }
+.mic-visualizer {
+    margin: 20px auto;
+    width: 300px;
+    height: 60px;
+    background: #111;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.recording .mic-visualizer {
+    box-shadow: 0 0 20px rgba(99,102,241,0.6);
+}
