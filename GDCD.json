@@ -1,4 +1,1044 @@
 [
+{
+    "_Note": " CÔNG NGHỆ LỚP 6",
+    "topic": "Bài  KT giữa học kì II",
+    "subject": "CÔNG NGHỆ LỚP 6",
+    "questions": [
+
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Vai trò của trang phục?",
+        "options": {
+          "a": "Chỉ dùng để phân biệt các vùng miền và quốc gia khác nhau.",
+          "b": "Bảo vệ cơ thể khỏi tác động xấu của môi trường (nắng, mưa, côn trùng...) và làm đẹp cho con người, giúp tự tin và thể hiện cá tính.",
+          "c": "Giúp con người thay đổi hoàn toàn vóc dáng và chiều cao tự nhiên.",
+          "d": "Làm cho quần áo luôn bền đẹp và không bao giờ bị hư hỏng theo thời gian."
+        },
+        "answer": "b",
+        "explanation": "Vai trò của trang phục bao gồm bảo vệ cơ thể khỏi tác động xấu của môi trường và làm đẹp cho con người.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Thời trang liên quan đến những yếu tố nào?",
+        "options": {
+          "a": "Chỉ liên quan đến giá thành và thương hiệu của bộ đồ.",
+          "b": "Kiểu dáng, màu sắc, chất liệu và đường nét của trang phục.",
+          "c": "Chỉ liên quan đến tên của các nhà thiết kế nổi tiếng.",
+          "d": "Liên quan đến địa chỉ của các cửa hàng may mặc."
+        },
+        "answer": "b",
+        "explanation": "Thời trang là sự tổng hòa của các yếu tố kiểu dáng, màu sắc, chất liệu và đường nét.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Vai trò cơ bản của thời trang đối với con người?",
+        "options": {
+          "a": "Giúp con người tiết kiệm tối đa thời gian giặt giũ hằng ngày.",
+          "b": "Tôn lên vẻ đẹp của người mặc, giúp họ tự tin, thể hiện trình độ văn hóa và thẩm mỹ của cá nhân.",
+          "c": "Làm cho mọi người có vẻ ngoài giống hệt nhau khi ra đường.",
+          "d": "Chỉ có vai trò duy nhất là giữ ấm cho cơ thể vào mùa đông."
+        },
+        "answer": "b",
+        "explanation": "Thời trang giúp tôn vinh vẻ đẹp, tạo sự tự tin và phản ánh trình độ thẩm mỹ của mỗi cá nhân.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Các yếu tố ảnh hưởng đến xu hướng thời trang?",
+        "options": {
+          "a": "Chỉ có sự thay đổi của thời tiết theo từng ngày trong tuần.",
+          "b": "Sự phát triển của kinh tế - xã hội, văn hóa, khoa học công nghệ, môi trường và nhu cầu của con người.",
+          "c": "Chỉ có sở thích riêng biệt của từng cá nhân học sinh.",
+          "d": "Chỉ có việc giảm giá tại các cửa hàng bán quần áo."
+        },
+        "answer": "b",
+        "explanation": "Xu hướng thời trang bị tác động bởi kinh tế, văn hóa, công nghệ, môi trường và nhu cầu con người.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Các bộ phận chính của một bộ trang phục?",
+        "options": {
+          "a": "Chỉ gồm có áo sơ mi trắng và quần tây dài màu xanh.",
+          "b": "Áo, quần (hoặc váy) và các vật dụng đi kèm (giày, mũ, túi xách, khăn...).",
+          "c": "Chỉ gồm các phụ kiện trang sức như đồng hồ và nhẫn.",
+          "d": "Các bộ phận không bao giờ được tách rời khỏi nhau khi mặc."
+        },
+        "answer": "b",
+        "explanation": "Bộ trang phục đầy đủ bao gồm phần mặc chính (áo, quần/váy) và các vật dụng đi kèm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Biểu hiện không phù hợp khi lựa chọn trang phục?",
+        "options": {
+          "a": "Mặc sạch sẽ, gọn gàng và đúng nội quy nhà trường quy định.",
+          "b": "Mặc đồ quá chật, quá ngắn, hở hang, màu sắc quá lòe loẹt không đúng hoàn cảnh hoặc không phù hợp độ tuổi học sinh.",
+          "c": "Mặc đồng phục đúng quy định của nhà trường khi đi học.",
+          "d": "Mặc trang phục phù hợp với đặc điểm cơ thể của chính mình."
+        },
+        "answer": "b",
+        "explanation": "Mặc đồ không đúng hoàn cảnh hoặc độ tuổi là biểu hiện không phù hợp cần tránh.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Lợi ích khi trang phục phù hợp với đặc điểm cơ thể?",
+        "options": {
+          "a": "Giúp người mặc không bao giờ cảm thấy mệt mỏi khi hoạt động.",
+          "b": "Giúp che đi các khuyết điểm về vóc dáng (gầy, béo, thấp...) và tôn lên những ưu điểm vốn có của người mặc.",
+          "c": "Làm cho giá tiền của bộ trang phục trở nên rẻ hơn rất nhiều.",
+          "d": "Giúp trang phục tự động co giãn theo kích thước cơ thể."
+        },
+        "answer": "b",
+        "explanation": "Sự phù hợp giúp khắc phục nhược điểm và làm nổi bật ưu điểm cơ thể.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Ví dụ về trang phục phù hợp đặc điểm cơ thể của người vóc dáng gầy?",
+        "options": {
+          "a": "Nên mặc vải màu tối và kẻ sọc dọc.",
+          "b": "Nên mặc vải có màu sáng, kẻ sọc ngang, hoa văn lớn để trông đầy đặn hơn.",
+          "c": "Nên mặc vải mỏng, màu đen và ôm sát vào cơ thể.",
+          "d": "Không nên mặc vải có bất kỳ hoa văn nào."
+        },
+        "answer": "b",
+        "explanation": "Vải màu sáng, kẻ ngang và hoa văn lớn giúp người gầy trông đầy đặn hơn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Ví dụ về trang phục phù hợp đặc điểm cơ thể của người vóc dáng thấp?",
+        "options": {
+          "a": "Nên mặc vải có kẻ sọc dọc để tạo cảm giác cao hơn.",
+          "b": "Nên mặc vải có kẻ sọc ngang bản rộng.",
+          "c": "Nên mặc vải có hoa văn rực rỡ và kích thước lớn.",
+          "d": "Nên mặc vải có màu sắc tối và trơn hoàn toàn."
+        },
+        "answer": "a",
+        "explanation": "Kẻ sọc dọc giúp tạo cảm giác cao hơn cho người có vóc dáng thấp.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Tại sao cần chọn trang phục theo tính chất công việc?",
+        "options": {
+          "a": "Để tiết kiệm tối đa chi phí mua sắm quần áo mới hằng năm.",
+          "b": "Để đảm bảo sự an toàn (đồ bảo hộ), thuận tiện cho các hoạt động và thể hiện sự tôn trọng với môi trường làm việc/giao tiếp.",
+          "c": "Để mọi người xung quanh dễ dàng nhận ra vị trí công tác của mình.",
+          "d": "Để trang phục luôn sạch sẽ và không bao giờ bị lấm bẩn khi lao động."
+        },
+        "answer": "b",
+        "explanation": "Sự phù hợp đảm bảo tính an toàn, thuận tiện và văn hóa trong giao tiếp.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Ví dụ về trang phục phù hợp đi học?",
+        "options": {
+          "a": "Mặc trang phục tự do theo ý thích cá nhân và đi dép lê đến trường.",
+          "b": "Đồng phục trường hoặc áo sơ mi trắng, quần tây/váy tối màu, đi giày hoặc dép có quai hậu, đảm bảo lịch sự và gọn gàng.",
+          "c": "Mặc quần áo thể thao rực rỡ phối cùng nhiều đồ trang sức đắt tiền.",
+          "d": "Mặc váy dạ hội lộng lẫy và đi giày cao gót nhọn đến lớp học."
+        },
+        "answer": "b",
+        "explanation": "Đồng phục trường hoặc sơ mi, quần/váy tối màu và giày dép có quai hậu là chuẩn mực trang phục học sinh.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Tại sao cần quan tâm đến tài chính gia đình khi chọn trang phục?",
+        "options": {
+          "a": "Để người khác biết gia đình mình luôn có điều kiện kinh tế khá giả.",
+          "b": "Để chi tiêu hợp lý, tránh lãng phí vào các món đồ đắt tiền không cần thiết, giúp giữ vững sự ổn định kinh tế của gia đình.",
+          "c": "Để có thể mua được số lượng quần áo nhiều nhất có thể trong một lần.",
+          "d": "Để dành tiền mua những vật phẩm xa xỉ không phục vụ nhu cầu sinh hoạt."
+        },
+        "answer": "b",
+        "explanation": "Quan tâm tài chính giúp chi tiêu hợp lý và bảo vệ ngân sách gia đình.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Lợi ích khi lựa chọn trang phục phù hợp với gia đình?",
+        "options": {
+          "a": "Giúp cho gia đình trở nên nổi tiếng và được nhiều người chú ý hơn.",
+          "b": "Xây dựng lối sống giản dị, tiết kiệm, tạo sự hài hòa trong mối quan hệ và sự an tâm cho cha mẹ về cách chi tiêu của con cái.",
+          "c": "Giúp cha mẹ mua được nhiều quà tặng đắt tiền cho con cái hơn.",
+          "d": "Để tất cả các thành viên trong gia đình đều mặc quần áo giống hệt nhau."
+        },
+        "answer": "b",
+        "explanation": "Lối sống giản dị mang lại sự hài hòa và niềm tin trong gia đình.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "sap_xep",
+        "question": "Sắp xếp các nội dung về vai trò của trang phục:",
+        "muc": [
+          "Bảo vệ cơ thể khỏi tác động xấu của môi trường (nắng, mưa, côn trùng...).",
+          "Làm đẹp cho con người.",
+          "Giúp tự tin và thể hiện cá tính."
+        ],
+        "answer": [
+          "Bảo vệ cơ thể khỏi tác động xấu của môi trường (nắng, mưa, côn trùng...).",
+          "Làm đẹp cho con người.",
+          "Giúp tự tin và thể hiện cá tính."
+        ],
+        "explanation": "Vai trò trang phục đi từ chức năng bảo vệ cơ bản đến các giá trị thẩm mỹ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "sap_xep",
+        "question": "Sắp xếp trình tự các yếu tố liên quan đến thời trang:",
+        "muc": [
+          "Kiểu dáng",
+          "Màu sắc",
+          "Chất liệu",
+          "Đường nét"
+        ],
+        "answer": [
+          "Kiểu dáng",
+          "Màu sắc",
+          "Chất liệu",
+          "Đường nét"
+        ],
+        "explanation": "Đây là bốn yếu tố tạo nên sản phẩm thời trang.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "sap_xep",
+        "question": "Sắp xếp các vai trò cơ bản của thời trang đối với con người:",
+        "muc": [
+          "Tôn lên vẻ đẹp của người mặc.",
+          "Giúp họ tự tin.",
+          "Thể hiện trình độ văn hóa và thẩm mỹ của cá nhân."
+        ],
+        "answer": [
+          "Tôn lên vẻ đẹp của người mặc.",
+          "Giúp họ tự tin.",
+          "Thể hiện trình độ văn hóa và thẩm mỹ của cá nhân."
+        ],
+        "explanation": "Thời trang mang lại vẻ đẹp, sự tự tin và phản ánh văn hóa cá nhân.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "sap_xep",
+        "question": "Sắp xếp trình tự các yếu tố ảnh hưởng đến xu hướng thời trang:",
+        "muc": [
+          "Sự phát triển của kinh tế - xã hội, văn hóa.",
+          "Khoa học công nghệ, môi trường.",
+          "Nhu cầu của con người."
+        ],
+        "answer": [
+          "Sự phát triển của kinh tế - xã hội, văn hóa.",
+          "Khoa học công nghệ, môi trường.",
+          "Nhu cầu của con người."
+        ],
+        "explanation": "Xu hướng thời trang bị ảnh hưởng bởi xã hội, công nghệ và nhu cầu con người.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "sap_xep",
+        "question": "Sắp xếp các bộ phận chính của một bộ trang phục:",
+        "muc": [
+          "Áo",
+          "Quần (hoặc váy)",
+          "Các vật dụng đi kèm (giày, mũ, túi xách, khăn...)"
+        ],
+        "answer": [
+          "Áo",
+          "Quần (hoặc váy)",
+          "Các vật dụng đi kèm (giày, mũ, túi xách, khăn...)"
+        ],
+        "explanation": "Thành phần trang phục gồm phần chính và các phụ kiện hỗ trợ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "sap_xep",
+        "question": "Sắp xếp biểu hiện không phù hợp khi lựa chọn trang phục:",
+        "muc": [
+          "Mặc đồ quá chật, quá ngắn, hở hang.",
+          "Màu sắc quá lòe loẹt.",
+          "Không đúng hoàn cảnh hoặc không phù hợp độ tuổi học sinh."
+        ],
+        "answer": [
+          "Mặc đồ quá chật, quá ngắn, hở hang.",
+          "Màu sắc quá lòe loẹt.",
+          "Không đúng hoàn cảnh hoặc không phù hợp độ tuổi học sinh."
+        ],
+        "explanation": "Các biểu hiện thiếu thẩm mỹ học sinh cần tránh.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "sap_xep",
+        "question": "Sắp xếp các lợi ích khi trang phục phù hợp với đặc điểm cơ thể:",
+        "muc": [
+          "Giúp che đi các khuyết điểm về vóc dáng (gầy, béo, thấp...).",
+          "Tôn lên những ưu điểm vốn có của người mặc."
+        ],
+        "answer": [
+          "Giúp che đi các khuyết điểm về vóc dáng (gầy, béo, thấp...).",
+          "Tôn lên những ưu điểm vốn có của người mặc."
+        ],
+        "explanation": "Trình tự lợi ích giúp cải thiện ngoại hình thông qua trang phục.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "sap_xep",
+        "question": "Sắp xếp ví dụ trang phục phù hợp cho người vóc dáng gầy:",
+        "muc": [
+          "Vải có màu sáng.",
+          "Kẻ sọc ngang.",
+          "Hoa văn lớn để trông đầy đặn hơn."
+        ],
+        "answer": [
+          "Vải có màu sáng.",
+          "Kẻ sọc ngang.",
+          "Hoa văn lớn để trông đầy đặn hơn."
+        ],
+        "explanation": "Các yếu tố giúp người gầy trông cân đối hơn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "sap_xep",
+        "question": "Sắp xếp lý do cần chọn trang phục theo tính chất công việc:",
+        "muc": [
+          "Đảm bảo sự an toàn (đồ bảo hộ).",
+          "Thuận tiện cho các hoạt động.",
+          "Thể hiện sự tôn trọng với môi trường làm việc/giao tiếp."
+        ],
+        "answer": [
+          "Đảm bảo sự an toàn (đồ bảo hộ).",
+          "Thuận tiện cho các hoạt động.",
+          "Thể hiện sự tôn trọng với môi trường làm việc/giao tiếp."
+        ],
+        "explanation": "Trình tự ưu tiên khi chọn đồ phục vụ công việc.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "sap_xep",
+        "question": "Sắp xếp các bộ phận của trang phục phù hợp đi học:",
+        "muc": [
+          "Đồng phục trường hoặc áo sơ mi trắng, quần tây/váy tối màu.",
+          "Giày hoặc dép có quai hậu.",
+          "Đảm bảo lịch sự và gọn gàng."
+        ],
+        "answer": [
+          "Đồng phục trường hoặc áo sơ mi trắng, quần tây/váy tối màu.",
+          "Giày hoặc dép có quai hậu.",
+          "Đảm bảo lịch sự và gọn gàng."
+        ],
+        "explanation": "Các bước để đảm bảo trang phục đi học đúng quy định.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "sap_xep",
+        "question": "Sắp xếp lý do cần quan tâm đến tài chính gia đình khi chọn trang phục:",
+        "muc": [
+          "Chi tiêu hợp lý.",
+          "Tránh lãng phí vào các món đồ đắt tiền không cần thiết.",
+          "Giúp giữ vững sự ổn định kinh tế của gia đình."
+        ],
+        "answer": [
+          "Chi tiêu hợp lý.",
+          "Tránh lãng phí vào các món đồ đắt tiền không cần thiết.",
+          "Giúp giữ vững sự ổn định kinh tế của gia đình."
+        ],
+        "explanation": "Mục tiêu của việc chi tiêu trang phục có kế hoạch.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "sap_xep",
+        "question": "Sắp xếp lợi ích khi lựa chọn trang phục phù hợp với gia đình:",
+        "muc": [
+          "Xây dựng lối sống giản dị, tiết kiệm.",
+          "Tạo sự hài hòa trong mối quan hệ.",
+          "Sự an tâm cho cha mẹ về cách chi tiêu của con cái."
+        ],
+        "answer": [
+          "Xây dựng lối sống giản dị, tiết kiệm.",
+          "Tạo sự hài hòa trong mối quan hệ.",
+          "Sự an tâm cho cha mẹ về cách chi tiêu của con cái."
+        ],
+        "explanation": "Lợi ích của việc mặc phù hợp đối với gia đình.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "sap_xep",
+        "question": "Sắp xếp các tác nhân môi trường cần được bảo vệ:",
+        "muc": [
+          "Nắng",
+          "Mưa",
+          "Côn trùng..."
+        ],
+        "answer": [
+          "Nắng",
+          "Mưa",
+          "Côn trùng..."
+        ],
+        "explanation": "Các tác nhân xấu trang phục giúp ngăn chặn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "sap_xep",
+        "question": "Sắp xếp các đặc điểm vóc dáng cần che đi khuyết điểm:",
+        "muc": [
+          "Gầy",
+          "Béo",
+          "Thấp..."
+        ],
+        "answer": [
+          "Gầy",
+          "Béo",
+          "Thấp..."
+        ],
+        "explanation": "Các đặc điểm cơ thể cần lưu ý khi chọn đồ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "sap_xep",
+        "question": "Sắp xếp danh sách vật dụng đi kèm bộ trang phục:",
+        "muc": [
+          "Giày, mũ.",
+          "Túi xách.",
+          "Khăn..."
+        ],
+        "answer": [
+          "Giày, mũ.",
+          "Túi xách.",
+          "Khăn..."
+        ],
+        "explanation": "Thứ tự các phụ kiện đi kèm bộ trang phục chính.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "sap_xep",
+        "question": "Sắp xếp các yếu tố ảnh hưởng xu hướng thời trang theo danh sách:",
+        "muc": [
+          "Kinh tế - xã hội, văn hóa.",
+          "Khoa học công nghệ, môi trường.",
+          "Nhu cầu của con người."
+        ],
+        "answer": [
+          "Kinh tế - xã hội, văn hóa.",
+          "Khoa học công nghệ, môi trường.",
+          "Nhu cầu của con người."
+        ],
+        "explanation": "Các yếu tố tác động đến sự thay đổi của thời trang.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "sap_xep",
+        "question": "Sắp xếp trình tự đạt được lợi ích từ việc mặc phù hợp gia đình:",
+        "muc": [
+          "Xây dựng lối sống giản dị, tiết kiệm.",
+          "Tạo sự hài hòa trong mối quan hệ.",
+          "Sự an tâm cho cha mẹ."
+        ],
+        "answer": [
+          "Xây dựng lối sống giản dị, tiết kiệm.",
+          "Tạo sự hài hòa trong mối quan hệ.",
+          "Sự an tâm cho cha mẹ."
+        ],
+        "explanation": "Kết quả tích cực khi lựa chọn trang phục đúng mực.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q31",
+        "type": "mot_dap_an",
+        "question": "Vai trò cơ bản của trang phục đối với sức khỏe là gì?",
+        "options": {
+          "a": "Làm tăng cân nặng người mặc.",
+          "b": "Bảo vệ cơ thể khỏi tác động xấu của môi trường (nắng, mưa, côn trùng...).",
+          "c": "Giúp người mặc không cần vận động.",
+          "d": "Làm da trắng sáng hơn."
+        },
+        "answer": "b",
+        "explanation": "Chức năng bảo vệ cơ thể là vai trò hàng đầu của trang phục.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q32",
+        "type": "mot_dap_an",
+        "question": "Chất liệu là một trong những yếu tố liên quan đến:",
+        "options": {
+          "a": "Sở thích cá nhân.",
+          "b": "Thời trang.",
+          "c": "Giá thành sản xuất.",
+          "d": "Kích thước tủ quần áo."
+        },
+        "answer": "b",
+        "explanation": "Thời trang liên quan đến kiểu dáng, màu sắc, chất liệu và đường nét.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q33",
+        "type": "mot_dap_an",
+        "question": "Thời trang giúp tôn lên vẻ đẹp và giúp người mặc:",
+        "options": {
+          "a": "Trở nên giàu có.",
+          "b": "Tự tin.",
+          "c": "Ngủ ngon hơn.",
+          "d": "Không bị ốm đau."
+        },
+        "answer": "b",
+        "explanation": "Sự tự tin là lợi ích tinh thần thời trang mang lại.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q34",
+        "type": "mot_dap_an",
+        "question": "Yếu tố nào sau đây ảnh hưởng đến xu hướng thời trang?",
+        "options": {
+          "a": "Sự phát triển của khoa học công nghệ.",
+          "b": "Loại thực phẩm ăn hằng ngày.",
+          "c": "Số lượng tivi trong nhà.",
+          "d": "Màu sắc của các loại xe cộ."
+        },
+        "answer": "a",
+        "explanation": "Khoa học công nghệ là một yếu tố ảnh hưởng xu hướng thời trang.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q35",
+        "type": "mot_dap_an",
+        "question": "Vật dụng nào sau đây là vật dụng đi kèm của trang phục?",
+        "options": {
+          "a": "Điện thoại di động.",
+          "b": "Mũ và khăn.",
+          "c": "Sách và vở.",
+          "d": "Xe đạp điện."
+        },
+        "answer": "b",
+        "explanation": "Mũ và khăn là các phụ kiện đi kèm trong bộ trang phục.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q36",
+        "type": "mot_dap_an",
+        "question": "Mặc đồ quá ngắn, hở hang là biểu hiện:",
+        "options": {
+          "a": "Rất đẹp và hiện đại.",
+          "b": "Không phù hợp học sinh cần tránh.",
+          "c": "Được nhà trường khuyến khích.",
+          "d": "Giúp học sinh học giỏi hơn."
+        },
+        "answer": "b",
+        "explanation": "Mặc đồ hở hang là biểu hiện không phù hợp cần tránh.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q37",
+        "type": "mot_dap_an",
+        "question": "Trang phục phù hợp giúp tôn lên những:",
+        "options": {
+          "a": "Lỗi lầm cá nhân.",
+          "b": "Ưu điểm vốn có của người mặc.",
+          "c": "Khuyết điểm cơ thể.",
+          "d": "Sở thích tốn kém."
+        },
+        "answer": "b",
+        "explanation": "Mặc phù hợp giúp làm nổi bật những ưu điểm của vóc dáng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q38",
+        "type": "mot_dap_an",
+        "question": "Người vóc dáng thấp nên chọn vải có đặc điểm gì?",
+        "options": {
+          "a": "Hoa văn rất lớn.",
+          "b": "Kẻ sọc dọc.",
+          "c": "Màu sắc tối đen.",
+          "d": "Kẻ sọc ngang."
+        },
+        "answer": "b",
+        "explanation": "Kẻ sọc dọc giúp người thấp có cảm giác cao hơn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q39",
+        "type": "mot_dap_an",
+        "question": "Chọn đồ theo tính chất công việc nhằm đảm bảo:",
+        "options": {
+          "a": "Sự nổi tiếng.",
+          "b": "Sự an toàn (đồ bảo hộ).",
+          "c": "Sự đắt tiền.",
+          "d": "Sự sành điệu."
+        },
+        "answer": "b",
+        "explanation": "An toàn là ưu tiên khi chọn đồ theo công việc.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 40,
+        "id": "q40",
+        "type": "mot_dap_an",
+        "question": "Trang phục đi học chuẩn mực bao gồm:",
+        "options": {
+          "a": "Dép lê không quai.",
+          "b": "Giày hoặc dép có quai hậu.",
+          "c": "Váy đầm dạ hội.",
+          "d": "Quần áo ngủ thoải mái."
+        },
+        "answer": "b",
+        "explanation": "Giày hoặc dép quai hậu là quy định cho trang phục đi học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 41,
+        "id": "q41",
+        "type": "mot_dap_an",
+        "question": "Chi tiêu trang phục hợp lý giúp giữ vững:",
+        "options": {
+          "a": "Sự ổn định kinh tế của gia đình.",
+          "b": "Sự giàu sang phú quý.",
+          "c": "Sự ngưỡng mộ của bạn bè.",
+          "d": "Số lượng quần áo trong tủ."
+        },
+        "answer": "a",
+        "explanation": "Tiết kiệm trang phục giúp bảo vệ tài chính gia đình.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 42,
+        "id": "q42",
+        "type": "mot_dap_an",
+        "question": "Sự an tâm cho cha mẹ có được khi con cái lựa chọn trang phục:",
+        "options": {
+          "a": "Đắt tiền nhất trường.",
+          "b": "Phù hợp với gia đình.",
+          "c": "Theo phong cách hở hang.",
+          "d": "Lòe loẹt rực rỡ."
+        },
+        "answer": "b",
+        "explanation": "Lựa chọn trang phục phù hợp gia đình mang lại sự an tâm cho cha mẹ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 43,
+        "id": "q43",
+        "type": "sap_xep",
+        "question": "Sắp xếp quy trình chọn đồ cho người vóc dáng thấp:",
+        "muc": [
+          "Chọn vải có họa tiết kẻ sọc dọc.",
+          "Tạo cảm giác cao hơn."
+        ],
+        "answer": [
+          "Chọn vải có họa tiết kẻ sọc dọc.",
+          "Tạo cảm giác cao hơn."
+        ],
+        "explanation": "Cách thức khắc phục nhược điểm chiều cao.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 44,
+        "id": "q44",
+        "type": "sap_xep",
+        "question": "Sắp xếp các bước chi tiêu trang phục tiết kiệm:",
+        "muc": [
+          "Tránh lãng phí vào đồ đắt tiền không cần thiết.",
+          "Giúp giữ vững sự ổn định kinh tế gia đình."
+        ],
+        "answer": [
+          "Tránh lãng phí vào đồ đắt tiền không cần thiết.",
+          "Giúp giữ vững sự ổn định kinh tế gia đình."
+        ],
+        "explanation": "Hành động dẫn đến kết quả ổn định tài chính.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 45,
+        "id": "q45",
+        "type": "sap_xep",
+        "question": "Sắp xếp các biểu hiện của lối sống tốt qua trang phục:",
+        "muc": [
+          "Giản dị",
+          "Tiết kiệm",
+          "Hài hòa"
+        ],
+        "answer": [
+          "Giản dị",
+          "Tiết kiệm",
+          "Hài hòa"
+        ],
+        "explanation": "Các giá trị đạo đức trong cách lựa chọn trang phục.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 46,
+        "id": "q46",
+        "type": "sap_xep",
+        "question": "Sắp xếp trình tự ảnh hưởng xu hướng thời trang:",
+        "muc": [
+          "Khoa học công nghệ phát triển.",
+          "Nhu cầu con người thay đổi.",
+          "Xu hướng thời trang ra đời."
+        ],
+        "answer": [
+          "Khoa học công nghệ phát triển.",
+          "Nhu cầu con người thay đổi.",
+          "Xu hướng thời trang ra đời."
+        ],
+        "explanation": "Sự phát triển thúc đẩy nhu cầu và tạo ra xu hướng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 47,
+        "id": "q47",
+        "type": "sap_xep",
+        "question": "Sắp xếp các vật dụng đi kèm theo mức độ phổ biến:",
+        "muc": [
+          "Giày, mũ.",
+          "Túi xách, khăn."
+        ],
+        "answer": [
+          "Giày, mũ.",
+          "Túi xách, khăn."
+        ],
+        "explanation": "Các phụ kiện thường gặp trong bộ trang phục.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 48,
+        "id": "q48",
+        "type": "sap_xep",
+        "question": "Sắp xếp trình tự lựa chọn trang phục công việc:",
+        "muc": [
+          "Đảm bảo thuận tiện cho các hoạt động.",
+          "Thể hiện sự tôn trọng với môi trường làm việc."
+        ],
+        "answer": [
+          "Đảm bảo thuận tiện cho các hoạt động.",
+          "Thể hiện sự tôn trọng với môi trường làm việc."
+        ],
+        "explanation": "Mục tiêu hướng đến sự chuyên nghiệp trong công việc.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 49,
+        "id": "q49",
+        "type": "sap_xep",
+        "question": "Sắp xếp các tác nhân gây hại cần trang phục bảo vệ:",
+        "muc": [
+          "Nắng",
+          "Mưa",
+          "Côn trùng"
+        ],
+        "answer": [
+          "Nắng",
+          "Mưa",
+          "Côn trùng"
+        ],
+        "explanation": "Các yếu tố tự nhiên gây ảnh hưởng xấu đến cơ thể.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 50,
+        "id": "q50",
+        "type": "sap_xep",
+        "question": "Sắp xếp trình tự đạt được sự tự tin qua thời trang:",
+        "muc": [
+          "Tôn lên vẻ đẹp người mặc.",
+          "Giúp họ tự tin."
+        ],
+        "answer": [
+          "Tôn lên vẻ đẹp người mặc.",
+          "Giúp họ tự tin."
+        ],
+        "explanation": "Vẻ đẹp bên ngoài tạo nên sự tự tin bên trong.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 51,
+        "id": "q51",
+        "type": "mot_dap_an",
+        "question": "Mặc trang phục sạch sẽ, gọn gàng là ví dụ của:",
+        "options": {
+          "a": "Sơ mi trắng quần tây tối màu.",
+          "b": "Trang phục đi học phù hợp.",
+          "c": "Biểu hiện cần tránh.",
+          "d": "Sở thích tốn kém."
+        },
+        "answer": "b",
+        "explanation": "Gọn gàng, lịch sự là tiêu chuẩn đi học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 52,
+        "id": "q52",
+        "type": "mot_dap_an",
+        "question": "Người gầy mặc vải màu sáng để:",
+        "options": {
+          "a": "Trông gầy hơn nữa.",
+          "b": "Trông đầy đặn hơn.",
+          "c": "Che đi các vết bẩn.",
+          "d": "Tiết kiệm vải."
+        },
+        "answer": "b",
+        "explanation": "Màu sáng tạo cảm giác cơ thể nở nang hơn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 53,
+        "id": "q53",
+        "type": "mot_dap_an",
+        "question": "Thể hiện cá tính là một phần vai trò của:",
+        "options": {
+          "a": "Giày dép cũ.",
+          "b": "Trang phục.",
+          "c": "Giá tiền.",
+          "d": "Thời tiết."
+        },
+        "answer": "b",
+        "explanation": "Trang phục giúp con người thể hiện cá tính riêng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 54,
+        "id": "q54",
+        "type": "mot_dap_an",
+        "question": "Môi trường là một yếu tố ảnh hưởng đến:",
+        "options": {
+          "a": "Xu hướng thời trang.",
+          "b": "Chiều cao con người.",
+          "c": "Tài chính cá nhân.",
+          "d": "Độ tuổi học sinh."
+        },
+        "answer": "a",
+        "explanation": "Môi trường tác động đến xu hướng thời trang.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 55,
+        "id": "q55",
+        "type": "mot_dap_an",
+        "question": "Trang phục đi học cần đảm bảo yếu tố hàng đầu là:",
+        "options": {
+          "a": "Đắt tiền.",
+          "b": "Lịch sự và gọn gàng.",
+          "c": "Nổi bật.",
+          "d": "Lòe loẹt."
+        },
+        "answer": "b",
+        "explanation": "Lịch sự, gọn gàng là yêu cầu quan trọng nhất khi đi học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 56,
+        "id": "q56",
+        "type": "sap_xep",
+        "question": "Sắp xếp các bước để che khuyết điểm cơ thể:",
+        "muc": [
+          "Nhận biết khuyết điểm vóc dáng.",
+          "Lựa chọn trang phục phù hợp.",
+          "Che đi các khuyết điểm về vóc dáng."
+        ],
+        "answer": [
+          "Nhận biết khuyết điểm vóc dáng.",
+          "Lựa chọn trang phục phù hợp.",
+          "Che đi các khuyết điểm về vóc dáng."
+        ],
+        "explanation": "Quy trình cải thiện ngoại hình bằng cách mặc đồ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 57,
+        "id": "q57",
+        "type": "sap_xep",
+        "question": "Sắp xếp các yếu tố cấu thành vai trò thời trang:",
+        "muc": [
+          "Thể hiện trình độ văn hóa.",
+          "Thể hiện trình độ thẩm mỹ."
+        ],
+        "answer": [
+          "Thể hiện trình độ văn hóa.",
+          "Thể hiện trình độ thẩm mỹ."
+        ],
+        "explanation": "Thời trang phản ánh trình độ của mỗi cá nhân.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 58,
+        "id": "q58",
+        "type": "sap_xep",
+        "question": "Sắp xếp quy tắc vải cho người gầy theo màu sắc và hoa văn:",
+        "muc": [
+          "Vải màu sáng.",
+          "Hoa văn lớn."
+        ],
+        "answer": [
+          "Vải màu sáng.",
+          "Hoa văn lớn."
+        ],
+        "explanation": "Cách phối hợp giúp tạo cảm giác đầy đặn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 59,
+        "id": "q59",
+        "type": "sap_xep",
+        "question": "Sắp xếp trình tự các bộ phận chính của một bộ trang phục từ trên xuống:",
+        "muc": [
+          "Áo",
+          "Quần hoặc váy"
+        ],
+        "answer": [
+          "Áo",
+          "Quần hoặc váy"
+        ],
+        "explanation": "Hai thành phần chính cấu tạo nên bộ đồ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 60,
+        "id": "q60",
+        "type": "sap_xep",
+        "question": "Sắp xếp kết quả của việc mặc phù hợp gia đình:",
+        "muc": [
+          "Tạo sự hài hòa trong mối quan hệ.",
+          "Sự an tâm cho cha mẹ."
+        ],
+        "answer": [
+          "Tạo sự hài hòa trong mối quan hệ.",
+          "Sự an tâm cho cha mẹ."
+        ],
+        "explanation": "Lợi ích về mặt tâm lý và tình cảm gia đình.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
   {
     "_Note": " MÔN HỌC GDCD LỚP 6",
     "topic": "ÔN TẬP GIỮA KI II -",
