@@ -1,6 +1,523 @@
 [
- 
+  {
+    "_Note": "KHOA HOC TỰ NHIÊN - Bài Sinh học KT giữa học kì II",
+    "topic": " Bài Sinh học KT giữa học kì II",
+    "subject": "SINH HỌC",
+    "questions": [
 
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "phan_loai",
+        "question": "Em hãy phân loại các bệnh sau đây vào nhóm bệnh do virus hoặc do vi khuẩn gây ra:",
+        "nhom": [
+          "(A) Bệnh do Virus",
+          "(B) Bệnh do Vi khuẩn"
+        ],
+        "the": [
+          "Sốt xuất huyết",
+          "Bệnh Lao",
+          "Bệnh Cúm",
+          "Bệnh Tả",
+          "Viêm gan B",
+          "Bệnh Lỵ"
+        ],
+        "dap_an": {
+          "Sốt xuất huyết": 0,
+          "Bệnh Lao": 1,
+          "Bệnh Cúm": 0,
+          "Bệnh Tả": 1,
+          "Bệnh Lỵ": 1
+        },
+        "explanation": "Sốt xuất huyết, Cúm, Viêm gan B do virus. Lao, Tả, Lỵ do vi khuẩn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Đặc điểm nào dưới đây là đặc trưng nhất của lớp Lưỡng cư giúp chúng có thể hô hấp khi ở dưới nước?",
+        "options": {
+          "a": "Có vảy sừng khô bao bọc",
+          "b": "Da trần và luôn ẩm ướt",
+          "c": "Có hệ thống túi khí dày đặc",
+          "d": "Hô hấp hoàn toàn bằng mang"
+        },
+        "answer": "b",
+        "explanation": "Lưỡng cư có da trần, ẩm ướt và chứa nhiều mao mạch giúp trao đổi khí trực tiếp qua da khi ở dưới nước hoặc môi trường ẩm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Thực vật có vai trò cung cấp khí Carbon dioxide (CO2) giúp con người hô hấp.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Thực vật quang hợp hấp thụ CO2 và giải phóng khí Oxygen (O2) giúp con người và động vật hô hấp.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "dien_khuyet",
+        "question": "Khi để thức ăn nấu chín ngoài môi trường trong thời gian dài, các loại ... từ môi trường sẽ xâm nhập và phân giải chất hữu cơ làm thức ăn bị ôi thiu.",
+        "answer": "vi sinh vật",
+        "explanation": "Vi sinh vật (bao gồm vi khuẩn và nấm mốc) là tác nhân chính gây ra hiện tượng phân hủy và làm hỏng thực phẩm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "noi",
+        "question": "Hãy nối nhóm động vật ở cột bên trái với các đại diện tương ứng ở cột bên phải:",
+        "leftCol": [
+          "Động vật không xương sống",
+          "Động vật có xương sống"
+        ],
+        "rightCol": [
+          "Giun đất, Ốc sên, Tôm",
+          "Cá chép, Ếch đồng, Chim bồ câu"
+        ],
+        "answer": {
+          "Động vật không xương sống": "Giun đất, Ốc sên, Tôm",
+          "Động vật có xương sống": "Cá chép, Ếch đồng, Chim bồ câu"
+        },
+        "explanation": "Động vật không xương sống bao gồm giun, thân mềm, chân khớp. Động vật có xương sống bao gồm cá, lưỡng cư, bò sát, chim, thú.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "dropdown",
+        "question": "Bệnh sốt xuất huyết do [[Virus|Vi khuẩn|Nấm]] gây ra, trong khi bệnh lao phổi lại do [[Vi khuẩn|Virus|Ký sinh trùng]] gây ra.",
+        "answer": "Virus, Vi khuẩn",
+        "explanation": "Cần phân biệt rõ tác nhân: Sốt xuất huyết là bệnh truyền nhiễm do virus Dengue, bệnh lao do vi khuẩn Mycobacterium tuberculosis.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "sap_xep",
+        "question": "Hãy sắp xếp thứ tự các nhóm động vật có xương sống theo chiều hướng tiến hóa từ dưới nước lên cạn:",
+        "muc": [
+          "(1) Lớp Cá",
+          "(2) Lớp Lưỡng cư",
+          "(3) Lớp Bò sát",
+          "(4) Lớp Thú"
+        ],
+        "answer": [
+          "(1) Lớp Cá",
+          "(2) Lớp Lưỡng cư",
+          "(3) Lớp Bò sát",
+          "(4) Lớp Thú"
+        ],
+        "explanation": "Trình tự tiến hóa chung của động vật có xương sống bắt đầu từ môi trường nước (Cá), chuyển tiếp (Lưỡng cư) rồi lên cạn hoàn toàn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "nhieu_dap_an",
+        "question": "Những vai trò nào dưới đây thuộc về thực vật đối với đời sống con người?",
+        "options": {
+          "a": "Cung cấp lương thực, thực phẩm",
+          "b": "Làm dược liệu chữa bệnh",
+          "c": "Cung cấp gỗ làm nhà và giấy",
+          "d": "Gây ra hiện tượng xói mòn đất"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Thực vật cung cấp thực phẩm, dược liệu và nguyên liệu. Ngược lại, thực vật giúp ngăn chặn xói mòn chứ không phải gây ra xói mòn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Tại sao không nên sử dụng thực phẩm đã bị ôi thiu?",
+        "options": {
+          "a": "Vì thực phẩm đó đã bị mất hết màu sắc ban đầu",
+          "b": "Vì chứa các độc tố do vi sinh vật tiết ra gây ngộ độc",
+          "c": "Vì thực phẩm đó bị khô và khó tiêu hóa hơn",
+          "d": "Vì thực phẩm đó không còn mùi thơm của gia vị"
+        },
+        "answer": "b",
+        "explanation": "Vi sinh vật phân hủy thức ăn không chỉ làm mất dinh dưỡng mà còn tiết ra độc tố gây hại cho hệ tiêu hóa con người.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Con nòng nọc (con non của ếch) hô hấp bằng mang và sống hoàn toàn dưới nước.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Lưỡng cư có quá trình biến thái, con non (nòng nọc) sống dưới nước và hô hấp bằng mang trước khi phát triển thành ếch hô hấp bằng phổi và da.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "phan_loai",
+        "question": "Phân loại các bệnh sau vào nhóm tác nhân tương ứng:",
+        "nhom": [
+          "(A) Do Virus",
+          "(B) Do Vi khuẩn"
+        ],
+        "the": [
+          "Bệnh Sởi",
+          "Bệnh Quai bị",
+          "Bệnh Phong (cùi)",
+          "Bệnh Uốn ván",
+          "Bệnh COVID-19",
+          "Bệnh Giang mai"
+        ],
+        "dap_an": {
+          "Bệnh Sởi": 0,
+          "Bệnh Quai bị": 0,
+          "Bệnh Phong (cùi)": 1,
+          "Bệnh Uốn ván": 1,
+          "Bệnh COVID": 18,
+          "Bệnh Giang mai": 1
+        },
+        "explanation": "Sởi, Quai bị, Covid-19 do virus. Phong, Uốn ván, Giang mai do vi khuẩn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "dropdown",
+        "question": "Thực vật hấp thụ khí [[Carbon dioxide|Oxygen]] và giải phóng khí [[Oxygen|Carbon dioxide]] trong quá trình quang hợp giúp điều hòa không khí.",
+        "answer": "Carbon dioxide, Oxygen",
+        "explanation": "Quang hợp giúp giảm CO2 và tăng O2, là cơ chế quan trọng của thực vật trong bảo vệ môi trường.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Nhóm động vật nào sau đây thuộc nhóm Động vật không xương sống?",
+        "options": {
+          "a": "Lớp Cá",
+          "b": "Lớp Chân khớp",
+          "c": "Lớp Chim",
+          "d": "Lớp Thú"
+        },
+        "answer": "b",
+        "explanation": "Chân khớp (như tôm, dế) không có xương cột sống, thuộc ngành Động vật không xương sống.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "dien_khuyet",
+        "question": "Lưỡng cư là động vật ... nhiệt, nhiệt độ cơ thể thay đổi theo nhiệt độ của môi trường.",
+        "answer": "biến",
+        "explanation": "Đặc điểm chung của Lưỡng cư, Cá và Bò sát là động vật biến nhiệt.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Trong các biện pháp sau, đâu là cách tốt nhất để hạn chế thức ăn bị ôi thiu khi chưa sử dụng ngay?",
+        "options": {
+          "a": "Để thức ăn trên bàn ở nhiệt độ phòng",
+          "b": "Bảo quản thực phẩm trong tủ lạnh hoặc sấy khô",
+          "c": "Nấu chín thực phẩm nhiều lần trong ngày",
+          "d": "Đậy thực phẩm bằng lồng bàn nhựa"
+        },
+        "answer": "b",
+        "explanation": "Nhiệt độ thấp (tủ lạnh) hoặc môi trường khô (sấy) giúp ức chế sự phát triển của vi khuẩn và nấm mốc.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Tất cả các loại vi khuẩn đều có hại và gây bệnh cho con người.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Nhiều vi khuẩn có lợi như vi khuẩn trong sữa chua, vi khuẩn hỗ trợ tiêu hóa trong đường ruột người.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "noi",
+        "question": "Nối vai trò của thực vật với ví dụ minh họa tương ứng:",
+        "leftCol": [
+          "Cung cấp lương thực",
+          "Cung cấp dược liệu",
+          "Làm cảnh"
+        ],
+        "rightCol": [
+          "Lúa, Ngô, Khoai lang",
+          "Nhân sâm, Đinh lăng, Bạc hà",
+          "Hoa hồng, Hoa lan, Cây mai"
+        ],
+        "answer": {
+          "Cung cấp lương thực": "Lúa, Ngô, Khoai lang",
+          "Cung cấp dược liệu": "Nhân sâm, Đinh lăng, Bạc hà",
+          "Làm cảnh": "Hoa hồng, Hoa lan, Cây mai"
+        },
+        "explanation": "Thực vật đa dạng về công dụng đối với đời sống con người từ ăn uống đến chữa bệnh và thẩm mỹ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "nhieu_dap_an",
+        "question": "Các bệnh nào sau đây do vi khuẩn gây ra?",
+        "options": {
+          "a": "Bệnh Tả",
+          "b": "Bệnh Sốt xuất huyết",
+          "c": "Bệnh Thương hàn",
+          "d": "Bệnh Viêm hạnh nhân"
+        },
+        "answer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "explanation": "Sốt xuất huyết do virus, 3 bệnh còn lại đều do vi khuẩn xâm nhập gây ra.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "Đặc điểm nào giúp Lưỡng cư có tên gọi là \"Đời sống kép\"?",
+        "options": {
+          "a": "Vì chúng vừa có thể đẻ trứng vừa có thể đẻ con",
+          "b": "Vì chúng có thể sống cả ở môi trường nước và môi trường cạn",
+          "c": "Vì chúng vừa có vảy sừng vừa có lông vũ",
+          "d": "Vì chúng có thể ăn cả thực vật và động vật"
+        },
+        "answer": "b",
+        "explanation": "Tên gọi Lưỡng cư (hai nơi ở) phản ánh khả năng sống ở hai môi trường khác nhau trong vòng đời.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "dien_khuyet",
+        "question": "Để phòng bệnh do virus gây ra, biện pháp hiệu quả nhất hiện nay là tiêm chủng ...",
+        "answer": "vắc xin",
+        "explanation": "Vắc xin giúp cơ thể tạo ra kháng thể để chống lại sự xâm nhập và tấn công của các loại virus cụ thể.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "phan_loai",
+        "question": "Phân loại các đại diện sau vào nhóm động vật không xương sống hoặc có xương sống:",
+        "nhom": [
+          "(A) Động vật không xương sống",
+          "(B) Động vật có xương sống"
+        ],
+        "the": [
+          "Con Mực",
+          "Con Rùa",
+          "Con Nhện",
+          "Con Chim sẻ",
+          "Con San hô",
+          "Con Cá voi"
+        ],
+        "dap_an": {
+          "Con Mực": 0,
+          "Con Rùa": 1,
+          "Con Nhện": 0,
+          "Con Chim sẻ": 1,
+          "Con San hô": 0,
+          "Con Cá voi": 1
+        },
+        "explanation": "Mực, Nhện, San hô không có xương sống. Rùa, Chim sẻ, Cá voi (Thú) có xương cột sống.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "dropdown",
+        "question": "Khi nấu chín thức ăn, nhiệt độ cao sẽ [[tiêu diệt|nuôi dưỡng]] phần lớn vi khuẩn. Tuy nhiên nếu để ngoài không khí, vi khuẩn từ môi trường [[vẫn có thể|không thể]] xâm nhập trở lại.",
+        "answer": "tiêu diệt, vẫn có thể",
+        "explanation": "Nấu chín chỉ làm sạch thức ăn tại thời điểm đó, sự xâm nhập thứ cấp từ môi trường luôn xảy ra nếu không được che đậy hoặc bảo quản.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "mot_dap_an",
+        "question": "Thực vật góp phần làm giảm hiện tượng hiệu ứng nhà kính chủ yếu nhờ vào khả năng nào?",
+        "options": {
+          "a": "Hấp thụ khí Oxygen",
+          "b": "Hấp thụ khí Carbon dioxide",
+          "c": "Giải phóng hơi nước qua lá",
+          "d": "Tỏa nhiệt ra môi trường xung quanh"
+        },
+        "answer": "b",
+        "explanation": "CO2 là khí chính gây hiệu ứng nhà kính. Thực vật hấp thụ CO2 để quang hợp giúp giảm nồng độ khí này trong khí quyển.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Sử dụng thuốc kháng sinh là phương pháp hiệu quả nhất để điều trị các bệnh do virus như Cúm, Sởi.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Kháng sinh chỉ có tác dụng tiêu diệt vi khuẩn, không có tác dụng đối với virus.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "sap_xep",
+        "question": "Sắp xếp các bước giải thích hiện tượng thức ăn bị ôi thiu theo trình tự logic:",
+        "muc": [
+          "(1) Vi sinh vật từ môi trường xâm nhập vào thức ăn.",
+          "(2) Vi sinh vật phân giải các chất hữu cơ trong thức ăn để lấy dinh dưỡng.",
+          "(3) Vi sinh vật thải ra các độc tố và thay đổi tính chất thức ăn.",
+          "(4) Thức ăn có mùi lạ, biến đổi màu sắc và không thể sử dụng."
+        ],
+        "answer": [
+          "(1) Vi sinh vật từ môi trường xâm nhập vào thức ăn.",
+          "(2) Vi sinh vật phân giải các chất hữu cơ trong thức ăn để lấy dinh dưỡng.",
+          "(3) Vi sinh vật thải ra các độc tố và thay đổi tính chất thức ăn.",
+          "(4) Thức ăn có mùi lạ, biến đổi màu sắc và không thể sử dụng."
+        ],
+        "explanation": "Đây là quy trình sinh hóa dẫn đến sự hỏng hóc của thực phẩm do tác động của vi sinh vật.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "nhieu_dap_an",
+        "question": "Những đặc điểm nào sau đây thuộc về lớp Lưỡng cư?",
+        "options": {
+          "a": "Hô hấp bằng da và phổi",
+          "b": "Đẻ trứng dưới nước",
+          "c": "Là động vật biến nhiệt",
+          "d": "Có bộ lông vũ bao bọc cơ thể"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Lông vũ là đặc điểm của lớp Chim, không phải của Lưỡng cư.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "mot_dap_an",
+        "question": "Nhóm thực vật nào cung cấp nguyên liệu chính để sản xuất giấy?",
+        "options": {
+          "a": "Cây lương thực (Lúa, Ngô)",
+          "b": "Cây thân gỗ (Bạch đàn, Thông)",
+          "c": "Cây hoa cảnh (Hoa mai, Hoa đào)",
+          "d": "Cây dược liệu (Sâm, Bạc hà)"
+        },
+        "answer": "b",
+        "explanation": "Cây thân gỗ cung cấp sợi cellulose, là nguyên liệu chính để sản xuất giấy.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "dien_khuyet",
+        "question": "Bệnh ... là một bệnh truyền nhiễm do vi khuẩn gây ra, thường tấn công vào phổi và có khả năng lây lan qua đường hô hấp.",
+        "answer": "Lao",
+        "explanation": "Bệnh lao do vi khuẩn Mycobacterium tuberculosis gây ra, là bệnh điển hình trong chương trình học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "noi",
+        "question": "Hãy nối tên bệnh với triệu chứng hoặc đặc điểm tương ứng:",
+        "leftCol": [
+          "Sốt xuất huyết",
+          "Bệnh Tả",
+          "Bệnh Cúm"
+        ],
+        "rightCol": [
+          "Do muỗi vằn truyền virus vào máu",
+          "Gây tiêu chảy cấp do vi khuẩn từ nguồn nước bẩn",
+          "Lây qua đường hô hấp do virus cúm"
+        ],
+        "answer": {
+          "Sốt xuất huyết": "Do muỗi vằn truyền virus vào máu",
+          "Bệnh Tả": "Gây tiêu chảy cấp do vi khuẩn từ nguồn nước bẩn",
+          "Bệnh Cúm": "Lây qua đường hô hấp do virus cúm"
+        },
+        "explanation": "Mỗi bệnh có tác nhân và con đường lây nhiễm khác nhau cần ghi nhớ để phòng tránh.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "mot_dap_an",
+        "question": "Tại sao ở những vùng có nhiều cây xanh, không khí thường trong lành và mát mẻ hơn?",
+        "options": {
+          "a": "Vì cây xanh giải phóng nhiều khí Nitrogen",
+          "b": "Vì cây xanh thực hiện quang hợp giải phóng Oxy và thoát hơi nước",
+          "c": "Vì lá cây ngăn cản hoàn toàn ánh nắng mặt trời",
+          "d": "Vì cây xanh hấp thụ toàn bộ bụi bẩn vào trong thân"
+        },
+        "answer": "b",
+        "explanation": "Quang hợp tạo ra Oxy, đồng thời quá trình thoát hơi nước giúp làm hạ nhiệt độ môi trường xung quanh.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
 
  {
     "_Note": "KHOA HOC TỰ NHIÊN - Bài Vật lý KT giữa học kì II",
