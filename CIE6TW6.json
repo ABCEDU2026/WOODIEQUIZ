@@ -75941,9 +75941,5278 @@
         "_divider": "-----------------"
       }
     ]
+  },
+{
+    "_Note": "CIE6 - T4W3 - QUETION TEST",
+    "topic": "CIET4W3 - QUETION TEST",
+    "subject": "CIE6",
+    "questions": [
+
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "A film critic wrote: \"Despite strong performances from the cast, the film fails to engage viewers because its storyline is predictable and lacks originality.\" Which aspect of the film is mainly criticized?",
+        "options": {
+          "a": "the acting quality",
+          "b": "the soundtrack composition",
+          "c": "the plot development",
+          "d": "the visual design"
+        },
+        "answer": "c",
+        "explanation": "The phrase “predictable storyline” directly refers to weaknesses in the plot, not acting or visuals.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "In a historical film set in ancient Egypt, the director focuses on costumes, architecture, and locations to recreate a realistic environment. Which element of film is emphasized?",
+        "options": {
+          "a": "plot",
+          "b": "setting",
+          "c": "soundtrack",
+          "d": "audience"
+        },
+        "answer": "b",
+        "explanation": "Setting includes time and place, represented through costumes, architecture, and location.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "dropdown",
+        "question": "The lecture was extremely [[confusing|confused|confuse]], so many students felt completely [[lost|losing|lose]] by the end.",
+        "answer": "confusing, lost",
+        "explanation": "“Lecture” causes the feeling → confusing; “students” experience it → lost.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Why is passive voice commonly used in academic writing, as in the sentence: \"The experiment was conducted under controlled conditions\"?",
+        "options": {
+          "a": "To avoid using verbs",
+          "b": "To emphasize the action rather than the doer",
+          "c": "To make sentences informal",
+          "d": "To reduce sentence length"
+        },
+        "answer": "b",
+        "explanation": "Passive focuses on the process/result, not the person performing it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "A student says that in the fraction 5/8, the number 5 is the denominator because it is written first. Why is this incorrect?",
+        "options": {
+          "a": "The denominator is always the larger number",
+          "b": "The denominator depends on position, not order of mention",
+          "c": "Fractions do not have denominators",
+          "d": "5/8 is not a valid fraction"
+        },
+        "answer": "b",
+        "explanation": "Denominator is defined by position (bottom), not by order in speech.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "When light passes from air into water and bends toward the normal line, what can be inferred?",
+        "options": {
+          "a": "Light speeds up",
+          "b": "Light slows down",
+          "c": "Light disappears",
+          "d": "Light reflects"
+        },
+        "answer": "b",
+        "explanation": "Bending toward the normal indicates a decrease in speed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A convex lens spreads light rays apart, making images less focused.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Convex lenses converge light rays, forming a focal point.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Which action best represents an environmentally responsible behavior in daily life?",
+        "options": {
+          "a": "Using single-use plastic bags for convenience",
+          "b": "Reusing glass containers multiple times",
+          "c": "Throwing rubbish into rivers",
+          "d": "Burning waste materials at home"
+        },
+        "answer": "b",
+        "explanation": "Reusing reduces waste and supports sustainability.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "listening",
+        "question": "What is the speaker’s main opinion about the film?",
+        "audio_text": "Although the film features impressive visual effects and high-quality graphics, it lacks emotional depth and fails to connect with the audience on a meaningful level.",
+        "options": {
+          "a": "The film is emotionally powerful",
+          "b": "The film is visually strong but emotionally weak",
+          "c": "The film has poor graphics",
+          "d": "The film is suitable for children"
+        },
+        "answer": "b",
+        "explanation": "“lacks emotional depth” contrasts with strong visuals.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "speaking",
+        "question": "Read aloud the following sentence:",
+        "answer": "The experiment demonstrates how light refracts when it passes through different media.",
+        "explanation": "Stress on DEMonstrates, reFRACTS, DIfferent MEdia; clear final /s/ sound.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "nhieu_dap_an",
+        "question": "Which statements correctly describe improper fractions?",
+        "options": {
+          "a": "They can be greater than one",
+          "b": "They always have numerator smaller than denominator",
+          "c": "They can be written as mixed numbers",
+          "d": "They are not valid numbers"
+        },
+        "answer": [
+          "a",
+          "c"
+        ],
+        "explanation": "Improper fractions ≥1 and convertible to mixed numbers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "A reviewer says: \"The audience was captivated by the film’s immersive soundtrack and stunning visuals.\" Which elements contributed most to engagement?",
+        "options": {
+          "a": "plot and dialogue",
+          "b": "graphics and soundtrack",
+          "c": "setting and cast",
+          "d": "script and theme"
+        },
+        "answer": "b",
+        "explanation": "“stunning visuals” = graphics; “immersive soundtrack” = music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "dien_khuyet",
+        "question": "The results of the experiment were ... (surprise), challenging previous assumptions.",
+        "answer": "surprising",
+        "explanation": "Results cause surprise → surprising.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "If a student calculates \"1/2 of 30\" as 31, what is the likely mistake?",
+        "options": {
+          "a": "They added instead of multiplying",
+          "b": "They subtracted incorrectly",
+          "c": "They reversed the fraction",
+          "d": "They divided incorrectly"
+        },
+        "answer": "a",
+        "explanation": "“of” means multiplication, not addition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "sap_xep",
+        "question": "Arrange the process of light refraction in correct order:",
+        "muc": [
+          "(1) Light enters a new medium at an angle",
+          "(2) Light changes speed",
+          "(3) Light changes direction"
+        ],
+        "answer": [
+          "(1) Light enters a new medium at an angle",
+          "(2) Light changes speed",
+          "(3) Light changes direction"
+        ],
+        "explanation": "Speed change causes direction change.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "mot_dap_an",
+        "question": "Which term refers to all actors appearing in a film collectively?",
+        "options": {
+          "a": "audience",
+          "b": "cast",
+          "c": "characters",
+          "d": "setting"
+        },
+        "answer": "b",
+        "explanation": "Cast = all actors in a film.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "Films without spoken dialogue but often accompanied by music are known as:",
+        "options": {
+          "a": "talkies",
+          "b": "silent films",
+          "c": "animations",
+          "d": "documentaries"
+        },
+        "answer": "b",
+        "explanation": "Silent films have no spoken dialogue.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "dropdown",
+        "question": "The instructions were [[confusing|confused|confuse]], so students became [[frustrated|frustrating|frustrate]].",
+        "answer": "confusing, frustrated",
+        "explanation": "Instructions cause feeling; students experience it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "Why might a writer omit \"by + subject\" in a passive sentence?",
+        "options": {
+          "a": "It is grammatically incorrect",
+          "b": "The doer is unknown or unimportant",
+          "c": "Passive sentences cannot include subjects",
+          "d": "It changes tense"
+        },
+        "answer": "b",
+        "explanation": "Passive often removes unnecessary agent.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "Which fraction is a unit fraction?",
+        "options": {
+          "a": "2/5",
+          "b": "1/6",
+          "c": "3/7",
+          "d": "4/9"
+        },
+        "answer": "b",
+        "explanation": "Unit fraction has numerator = 1.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "mot_dap_an",
+        "question": "A review states: \"Despite excellent acting, the narrative lacks coherence.\" What is the main issue?",
+        "options": {
+          "a": "acting",
+          "b": "plot",
+          "c": "soundtrack",
+          "d": "graphics"
+        },
+        "answer": "b",
+        "explanation": "Narrative refers to plot.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "mot_dap_an",
+        "question": "Which element creates movement from still images in films?",
+        "options": {
+          "a": "setting",
+          "b": "animation",
+          "c": "soundtrack",
+          "d": "plot"
+        },
+        "answer": "b",
+        "explanation": "Animation produces motion illusion.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "dropdown",
+        "question": "The results were [[disappointing|disappointed|disappoint]] and students felt [[unprepared|unprepare|unpreparing]].",
+        "answer": "disappointing, unprepared",
+        "explanation": "Results cause emotion; students feel it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "mot_dap_an",
+        "question": "Which sentence is grammatically correct?",
+        "options": {
+          "a": "The theory was prove in 1990.",
+          "b": "The theory was proven in 1990.",
+          "c": "The theory is prove in 1990.",
+          "d": "The theory proven in 1990."
+        },
+        "answer": "b",
+        "explanation": "Passive → was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "mot_dap_an",
+        "question": "Why is 8/3 an improper fraction?",
+        "options": {
+          "a": "It is less than 1",
+          "b": "Numerator is greater than denominator",
+          "c": "It cannot be simplified",
+          "d": "It is not a fraction"
+        },
+        "answer": "b",
+        "explanation": "Improper fraction has numerator ≥ denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "mot_dap_an",
+        "question": "When light exits water into air, it bends away from the normal. What happens to its speed?",
+        "options": {
+          "a": "decreases",
+          "b": "increases",
+          "c": "stays the same",
+          "d": "becomes zero"
+        },
+        "answer": "b",
+        "explanation": "Less dense medium → faster speed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Soundtrack and sound effects refer to the same concept.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Soundtrack = music; sound effects = additional sounds.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "mot_dap_an",
+        "question": "Which behavior supports environmental sustainability?",
+        "options": {
+          "a": "Throwing rubbish in public places",
+          "b": "Using reusable containers",
+          "c": "Burning plastic waste",
+          "d": "Ignoring pollution"
+        },
+        "answer": "b",
+        "explanation": "Reusable reduces waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "listening",
+        "question": "What is implied about the film?",
+        "audio_text": "While the performances are convincing, the predictable storyline makes the film less engaging for experienced viewers.",
+        "options": {
+          "a": "The acting is weak",
+          "b": "The plot lacks originality",
+          "c": "The visuals are poor",
+          "d": "The film is too long"
+        },
+        "answer": "b",
+        "explanation": "Predictable = not original.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Improper fractions can be converted into mixed numbers for easier understanding.",
+        "explanation": "Stress: imPROper, CONverted.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q31",
+        "type": "nhieu_dap_an",
+        "question": "Which actions reduce pollution?",
+        "options": {
+          "a": "Recycling",
+          "b": "Reusing materials",
+          "c": "Burning waste",
+          "d": "Dumping rubbish"
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "explanation": "a,b positive; c,d harmful.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q32",
+        "type": "mot_dap_an",
+        "question": "Who are the \"audience\" in a film context?",
+        "options": {
+          "a": "actors",
+          "b": "viewers",
+          "c": "directors",
+          "d": "writers"
+        },
+        "answer": "b",
+        "explanation": "Audience = viewers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q33",
+        "type": "dien_khuyet",
+        "question": "The lecture was very ... (interest), keeping students engaged.",
+        "answer": "interesting",
+        "explanation": "Lecture causes feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q34",
+        "type": "mot_dap_an",
+        "question": "If 2/5 of 50 = 52, what mistake occurred?",
+        "options": {
+          "a": "addition instead of multiplication",
+          "b": "division error",
+          "c": "subtraction error",
+          "d": "fraction reversal"
+        },
+        "answer": "a",
+        "explanation": "“of” = multiply.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q35",
+        "type": "sap_xep",
+        "question": "Arrange passive sentence formation:",
+        "muc": [
+          "(1) Identify object",
+          "(2) Use was/were + V3",
+          "(3) Add by-agent if needed"
+        ],
+        "answer": [
+          "(1) Identify object",
+          "(2) Use was/were + V3",
+          "(3) Add by-agent if needed"
+        ],
+        "explanation": "Standard transformation steps.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q36",
+        "type": "mot_dap_an",
+        "question": "Which term refers to time and place in a story?",
+        "options": {
+          "a": "plot",
+          "b": "setting",
+          "c": "cast",
+          "d": "soundtrack"
+        },
+        "answer": "b",
+        "explanation": "Setting defines context.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q37",
+        "type": "mot_dap_an",
+        "question": "Early films with sound are called:",
+        "options": {
+          "a": "silent films",
+          "b": "talkies",
+          "c": "animations",
+          "d": "documentaries"
+        },
+        "answer": "b",
+        "explanation": "Talkies include sound.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q38",
+        "type": "dropdown",
+        "question": "The film was [[boring|bored|bore]], so viewers felt [[disappointed|disappointing|disappoint]].",
+        "answer": "boring, disappointed",
+        "explanation": "Film causes emotion; viewers feel it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q39",
+        "type": "mot_dap_an",
+        "question": "Why omit the agent in passive voice?",
+        "options": {
+          "a": "grammar rule",
+          "b": "unknown or irrelevant doer",
+          "c": "tense change",
+          "d": "style only"
+        },
+        "answer": "b",
+        "explanation": "Focus on action/result.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 40,
+        "id": "q40",
+        "type": "mot_dap_an",
+        "question": "Which fraction equals 1?",
+        "options": {
+          "a": "3/4",
+          "b": "6/6",
+          "c": "2/3",
+          "d": "5/8"
+        },
+        "answer": "b",
+        "explanation": "Numerator = denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 41,
+        "id": "q41",
+        "type": "phan_loai",
+        "question": "Classify fractions",
+        "nhom": [
+          "(A) Proper",
+          "(B) Improper"
+        ],
+        "the": [
+          "2/7",
+          "9/4"
+        ],
+        "dap_an": {
+          "2/7": 0,
+          "9/4": 1
+        },
+        "explanation": "2/7 <1; 9/4 >1.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 42,
+        "id": "q42",
+        "type": "mot_dap_an",
+        "question": "What are graphics in films?",
+        "options": {
+          "a": "dialogue",
+          "b": "visual images",
+          "c": "music",
+          "d": "actors"
+        },
+        "answer": "b",
+        "explanation": "Graphics = visuals.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 43,
+        "id": "q43",
+        "type": "dien_khuyet",
+        "question": "The explanation was ... (confuse), leading to misunderstanding.",
+        "answer": "confusing",
+        "explanation": "Explanation causes confusion.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 44,
+        "id": "q44",
+        "type": "mot_dap_an",
+        "question": "If light changes speed in a new medium, what occurs?",
+        "options": {
+          "a": "reflection",
+          "b": "refraction",
+          "c": "absorption",
+          "d": "stopping"
+        },
+        "answer": "b",
+        "explanation": "Speed change → refraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 45,
+        "id": "q45",
+        "type": "noi",
+        "question": "Match terms",
+        "leftCol": [
+          "numerator",
+          "denominator"
+        ],
+        "rightCol": [
+          "top number",
+          "bottom number"
+        ],
+        "answer": {
+          "numerator": "top number",
+          "denominator": "bottom number"
+        },
+        "explanation": "Correct definitions.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 46,
+        "id": "q46",
+        "type": "mot_dap_an",
+        "question": "Which is NOT eco-friendly?",
+        "options": {
+          "a": "recycling",
+          "b": "reusing",
+          "c": "dumping waste in rivers",
+          "d": "reducing plastic"
+        },
+        "answer": "c",
+        "explanation": "Causes pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 47,
+        "id": "q47",
+        "type": "listening",
+        "question": "What is the main idea?",
+        "audio_text": "Reducing waste by reusing materials and avoiding single-use plastics is essential for protecting the environment.",
+        "options": {
+          "a": "Plastic is useful",
+          "b": "Reuse protects environment",
+          "c": "Waste is necessary",
+          "d": "Recycling is useless"
+        },
+        "answer": "b",
+        "explanation": "Focus on reuse.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 48,
+        "id": "q48",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The audience was impressed by the film’s innovative visual effects.",
+        "explanation": "Stress: imPRESSED, INnovative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 49,
+        "id": "q49",
+        "type": "mot_dap_an",
+        "question": "What does \"cast\" mean?",
+        "options": {
+          "a": "viewers",
+          "b": "actors group",
+          "c": "story",
+          "d": "music"
+        },
+        "answer": "b",
+        "explanation": "Cast = actors.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 50,
+        "id": "q50",
+        "type": "mot_dap_an",
+        "question": "Which sentence is correct?",
+        "options": {
+          "a": "I am boring by the film",
+          "b": "The film is bored",
+          "c": "I am bored by the film",
+          "d": "The film is bore"
+        },
+        "answer": "c",
+        "explanation": "Person → bored; cause → boring.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 51,
+        "id": "q51",
+        "type": "mot_dap_an",
+        "question": "A film review states: \"While the director successfully builds visual tension through lighting and camera angles, the narrative lacks depth, making the film emotionally unengaging.\" What is the primary weakness identified?",
+        "options": {
+          "a": "cinematography",
+          "b": "plot development",
+          "c": "sound design",
+          "d": "actor performance"
+        },
+        "answer": "b",
+        "explanation": "“lacks depth” in narrative indicates weakness in plot, not visuals.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 52,
+        "id": "q52",
+        "type": "mot_dap_an",
+        "question": "In film production, which element is most closely related to how a story is structured and unfolds over time?",
+        "options": {
+          "a": "setting",
+          "b": "plot",
+          "c": "cast",
+          "d": "soundtrack"
+        },
+        "answer": "b",
+        "explanation": "Plot determines sequence of events.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 53,
+        "id": "q53",
+        "type": "dropdown",
+        "question": "The instructions were [[overwhelming|overwhelmed|overwhelm]], leaving students feeling [[confused|confusing|confuse]] about the task.",
+        "answer": "overwhelming, confused",
+        "explanation": "Instructions cause emotion; students feel it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 54,
+        "id": "q54",
+        "type": "mot_dap_an",
+        "question": "Which sentence best demonstrates correct passive voice usage in formal writing?",
+        "options": {
+          "a": "The data analyzed by researchers.",
+          "b": "The data was analyzed by researchers.",
+          "c": "The data is analyze by researchers.",
+          "d": "The data analyzing by researchers."
+        },
+        "answer": "b",
+        "explanation": "Correct form: was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 55,
+        "id": "q55",
+        "type": "mot_dap_an",
+        "question": "A student claims that 10/2 is a proper fraction because it can be simplified. Why is this incorrect?",
+        "options": {
+          "a": "Proper fractions cannot be simplified",
+          "b": "Proper fractions must be less than 1",
+          "c": "10/2 is not a fraction",
+          "d": "Simplification defines improper fractions"
+        },
+        "answer": "b",
+        "explanation": "10/2 = 5 (>1) → improper.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 56,
+        "id": "q56",
+        "type": "mot_dap_an",
+        "question": "When light travels from glass into air, it bends away from the normal. What does this suggest about the optical density of air?",
+        "options": {
+          "a": "Air is more dense than glass",
+          "b": "Air is less dense than glass",
+          "c": "Air has equal density to glass",
+          "d": "Air blocks light"
+        },
+        "answer": "b",
+        "explanation": "Light speeds up in less dense medium → air is less dense.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 57,
+        "id": "q57",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Animation refers only to cartoons for children.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Animation là kỹ thuật, không giới hạn đối tượng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 58,
+        "id": "q58",
+        "type": "mot_dap_an",
+        "question": "Which behavior demonstrates sustainable environmental practice in a community?",
+        "options": {
+          "a": "Using disposable plastics daily",
+          "b": "Organizing recycling programs",
+          "c": "Burning waste regularly",
+          "d": "Ignoring waste management"
+        },
+        "answer": "b",
+        "explanation": "Recycling programs support sustainability.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 59,
+        "id": "q59",
+        "type": "listening",
+        "question": "What can be inferred from the speaker?",
+        "audio_text": "The film impresses with its technical achievements, but without a strong storyline, it fails to leave a lasting impact on viewers.",
+        "options": {
+          "a": "The film is technically weak",
+          "b": "The film lacks emotional depth",
+          "c": "The film has poor acting",
+          "d": "The film is too long"
+        },
+        "answer": "b",
+        "explanation": "“fails to leave a lasting impact” → thiếu chiều sâu.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 60,
+        "id": "q60",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Refraction occurs when light changes direction as it passes between different media.",
+        "explanation": "Stress: reFRACtion, DIrection, ME dia.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 61,
+        "id": "q61",
+        "type": "nhieu_dap_an",
+        "question": "Which characteristics apply to proper fractions?",
+        "options": {
+          "a": "Numerator less than denominator",
+          "b": "Value less than one",
+          "c": "Always greater than one",
+          "d": "Can be converted into mixed numbers"
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "explanation": "Proper fraction <1.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 62,
+        "id": "q62",
+        "type": "mot_dap_an",
+        "question": "Which element contributes most to making a film feel realistic through sound?",
+        "options": {
+          "a": "plot",
+          "b": "sound effects",
+          "c": "setting",
+          "d": "graphics"
+        },
+        "answer": "b",
+        "explanation": "Sound effects create realism.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 63,
+        "id": "q63",
+        "type": "dien_khuyet",
+        "question": "The experiment results were ... (astonish), surprising even the researchers.",
+        "answer": "astonishing",
+        "explanation": "Results cause emotion.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 64,
+        "id": "q64",
+        "type": "mot_dap_an",
+        "question": "If a student calculates 3/5 of 50 as 53, what is the conceptual error?",
+        "options": {
+          "a": "Incorrect multiplication",
+          "b": "Misunderstanding of \"of\" as addition",
+          "c": "Wrong fraction type",
+          "d": "Division mistake"
+        },
+        "answer": "b",
+        "explanation": "“of” must be multiplication.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 65,
+        "id": "q65",
+        "type": "sap_xep",
+        "question": "Arrange steps of scientific passive sentence construction:",
+        "muc": [
+          "(1) Identify object",
+          "(2) Apply was/were + V3",
+          "(3) Add optional agent"
+        ],
+        "answer": [
+          "(1) Identify object",
+          "(2) Apply was/were + V3",
+          "(3) Add optional agent"
+        ],
+        "explanation": "Standard passive process.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 66,
+        "id": "q66",
+        "type": "mot_dap_an",
+        "question": "Which term refers to the people watching a performance or film?",
+        "options": {
+          "a": "cast",
+          "b": "audience",
+          "c": "characters",
+          "d": "director"
+        },
+        "answer": "b",
+        "explanation": "Audience = viewers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 67,
+        "id": "q67",
+        "type": "mot_dap_an",
+        "question": "Which type of film includes synchronized dialogue and sound?",
+        "options": {
+          "a": "silent film",
+          "b": "talkie",
+          "c": "animation",
+          "d": "documentary"
+        },
+        "answer": "b",
+        "explanation": "Talkies include sound.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 68,
+        "id": "q68",
+        "type": "dropdown",
+        "question": "The lecture was [[boring|bored|bore]], so students felt [[tired|tiring|tire]].",
+        "answer": "boring, tired",
+        "explanation": "Lecture causes; students feel.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 69,
+        "id": "q69",
+        "type": "mot_dap_an",
+        "question": "Why is passive voice often preferred in scientific reports?",
+        "options": {
+          "a": "To make writing informal",
+          "b": "To emphasize objectivity",
+          "c": "To avoid verbs",
+          "d": "To shorten sentences"
+        },
+        "answer": "b",
+        "explanation": "Focus on results, not researcher.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 70,
+        "id": "q70",
+        "type": "mot_dap_an",
+        "question": "Which fraction represents a value greater than 1?",
+        "options": {
+          "a": "2/5",
+          "b": "3/7",
+          "c": "5/3",
+          "d": "1/4"
+        },
+        "answer": "c",
+        "explanation": "Numerator > denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 71,
+        "id": "q71",
+        "type": "mot_dap_an",
+        "question": "A review mentions \"strong character arcs\". What does this refer to?",
+        "options": {
+          "a": "visual effects",
+          "b": "character development",
+          "c": "soundtrack",
+          "d": "setting"
+        },
+        "answer": "b",
+        "explanation": "Character arc = development.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 72,
+        "id": "q72",
+        "type": "mot_dap_an",
+        "question": "Which technique creates movement in animated films?",
+        "options": {
+          "a": "editing",
+          "b": "animation",
+          "c": "sound design",
+          "d": "lighting"
+        },
+        "answer": "b",
+        "explanation": "Animation creates motion illusion.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 73,
+        "id": "q73",
+        "type": "dropdown",
+        "question": "The movie was [[thrilling|thrilled|thrill]], making the audience feel [[excited|exciting|excite]].",
+        "answer": "thrilling, excited",
+        "explanation": "Movie causes; audience feels.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 74,
+        "id": "q74",
+        "type": "mot_dap_an",
+        "question": "Which sentence is grammatically correct?",
+        "options": {
+          "a": "The experiment was complete yesterday.",
+          "b": "The experiment was completed yesterday.",
+          "c": "The experiment completed yesterday.",
+          "d": "The experiment is completed yesterday."
+        },
+        "answer": "b",
+        "explanation": "Passive → was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 75,
+        "id": "q75",
+        "type": "mot_dap_an",
+        "question": "Why is 6/6 not a proper fraction?",
+        "options": {
+          "a": "It equals 1",
+          "b": "It is too large",
+          "c": "It cannot be simplified",
+          "d": "It is not valid"
+        },
+        "answer": "a",
+        "explanation": "Proper fraction must be <1.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 76,
+        "id": "q76",
+        "type": "mot_dap_an",
+        "question": "What happens when light slows down entering a denser medium?",
+        "options": {
+          "a": "It reflects",
+          "b": "It refracts toward normal",
+          "c": "It disappears",
+          "d": "It stops"
+        },
+        "answer": "b",
+        "explanation": "Denser medium → bend toward normal.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 77,
+        "id": "q77",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Special effects only include sound elements.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Special effects include visual and sound.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 78,
+        "id": "q78",
+        "type": "mot_dap_an",
+        "question": "Which is an example of environmentally harmful behavior?",
+        "options": {
+          "a": "Recycling plastic",
+          "b": "Using reusable bags",
+          "c": "Dumping waste into oceans",
+          "d": "Reusing materials"
+        },
+        "answer": "c",
+        "explanation": "Causes pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 79,
+        "id": "q79",
+        "type": "listening",
+        "question": "What is the speaker’s opinion?",
+        "audio_text": "The film's impressive visuals cannot compensate for its weak narrative, which ultimately makes it forgettable.",
+        "options": {
+          "a": "The film is memorable",
+          "b": "The film lacks strong story",
+          "c": "The film has bad visuals",
+          "d": "The film is too short"
+        },
+        "answer": "b",
+        "explanation": "Weak narrative emphasized.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 80,
+        "id": "q80",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The numerator indicates how many parts are being considered.",
+        "explanation": "Stress: NUmerator, INdicates.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 81,
+        "id": "q81",
+        "type": "nhieu_dap_an",
+        "question": "Which actions promote sustainability?",
+        "options": {
+          "a": "Reducing waste",
+          "b": "Recycling",
+          "c": "Burning trash",
+          "d": "Reusing items"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c harmful.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 82,
+        "id": "q82",
+        "type": "mot_dap_an",
+        "question": "Which term refers to visual design elements in films?",
+        "options": {
+          "a": "graphics",
+          "b": "plot",
+          "c": "cast",
+          "d": "dialogue"
+        },
+        "answer": "a",
+        "explanation": "Graphics = visuals.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 83,
+        "id": "q83",
+        "type": "dien_khuyet",
+        "question": "The explanation was ... (confuse), making it difficult to understand.",
+        "answer": "confusing",
+        "explanation": "Cause → confusing.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 84,
+        "id": "q84",
+        "type": "mot_dap_an",
+        "question": "If light changes direction due to speed change, what phenomenon occurs?",
+        "options": {
+          "a": "reflection",
+          "b": "refraction",
+          "c": "absorption",
+          "d": "diffusion"
+        },
+        "answer": "b",
+        "explanation": "Definition of refraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 85,
+        "id": "q85",
+        "type": "noi",
+        "question": "Match concepts",
+        "leftCol": [
+          "proper fraction",
+          "improper fraction"
+        ],
+        "rightCol": [
+          "value less than 1",
+          "value greater than or equal to 1"
+        ],
+        "answer": {
+          "proper fraction": "value less than 1",
+          "improper fraction": "value greater than or equal to 1"
+        },
+        "explanation": "Correct definitions.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 86,
+        "id": "q86",
+        "type": "mot_dap_an",
+        "question": "Which action is eco-friendly?",
+        "options": {
+          "a": "Burning plastic",
+          "b": "Reusing containers",
+          "c": "Dumping waste",
+          "d": "Ignoring pollution"
+        },
+        "answer": "b",
+        "explanation": "Supports environment.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 87,
+        "id": "q87",
+        "type": "listening",
+        "question": "What is the main idea?",
+        "audio_text": "People should reduce plastic use and recycle materials to protect the environment and reduce pollution.",
+        "options": {
+          "a": "Plastic is necessary",
+          "b": "Reduce and recycle help environment",
+          "c": "Waste is harmless",
+          "d": "Recycling is difficult"
+        },
+        "answer": "b",
+        "explanation": "Focus on reduce & recycle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 88,
+        "id": "q88",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The film was praised for its compelling narrative and strong performances.",
+        "explanation": "Stress: comPELling, PERformances.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 89,
+        "id": "q89",
+        "type": "mot_dap_an",
+        "question": "What does \"character\" mean in film?",
+        "options": {
+          "a": "actor",
+          "b": "role in story",
+          "c": "viewer",
+          "d": "director"
+        },
+        "answer": "b",
+        "explanation": "Character = role.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 90,
+        "id": "q90",
+        "type": "mot_dap_an",
+        "question": "Which sentence is correct?",
+        "options": {
+          "a": "I am exciting about the movie",
+          "b": "The movie is excited",
+          "c": "I am excited about the movie",
+          "d": "The movie is excite"
+        },
+        "answer": "c",
+        "explanation": "Person → excited.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 91,
+        "id": "q91",
+        "type": "mot_dap_an",
+        "question": "A review states that the \"pacing of the film is too slow.\" What aspect is criticized?",
+        "options": {
+          "a": "speed of story development",
+          "b": "visual quality",
+          "c": "sound effects",
+          "d": "acting"
+        },
+        "answer": "a",
+        "explanation": "Pacing = speed of narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 92,
+        "id": "q92",
+        "type": "mot_dap_an",
+        "question": "Which element includes background music in films?",
+        "options": {
+          "a": "plot",
+          "b": "soundtrack",
+          "c": "setting",
+          "d": "graphics"
+        },
+        "answer": "b",
+        "explanation": "Soundtrack = music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 93,
+        "id": "q93",
+        "type": "dropdown",
+        "question": "The documentary was [[informative|informed|inform]], leaving viewers [[impressed|impressing|impress]].",
+        "answer": "informative, impressed",
+        "explanation": "Documentary causes; viewers feel.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 94,
+        "id": "q94",
+        "type": "mot_dap_an",
+        "question": "Which passive sentence is correct?",
+        "options": {
+          "a": "The film was produce in 2001.",
+          "b": "The film was produced in 2001.",
+          "c": "The film produced in 2001.",
+          "d": "The film is produced in 2001 yesterday."
+        },
+        "answer": "b",
+        "explanation": "was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 95,
+        "id": "q95",
+        "type": "mot_dap_an",
+        "question": "Which fraction is less than 1?",
+        "options": {
+          "a": "7/5",
+          "b": "9/4",
+          "c": "2/3",
+          "d": "5/2"
+        },
+        "answer": "c",
+        "explanation": "Numerator < denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 96,
+        "id": "q96",
+        "type": "mot_dap_an",
+        "question": "When light enters a denser medium, what happens?",
+        "options": {
+          "a": "speed increases",
+          "b": "speed decreases",
+          "c": "no change",
+          "d": "stops"
+        },
+        "answer": "b",
+        "explanation": "Denser → slower.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 97,
+        "id": "q97",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Recycling increases environmental pollution.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Recycling reduces pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 98,
+        "id": "q98",
+        "type": "mot_dap_an",
+        "question": "Which is a sustainable habit?",
+        "options": {
+          "a": "Using plastic bags daily",
+          "b": "Reusing materials",
+          "c": "Throwing waste anywhere",
+          "d": "Ignoring recycling"
+        },
+        "answer": "b",
+        "explanation": "Reduces waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 99,
+        "id": "q99",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "Although visually impressive, the film lacks originality, making it less appealing to experienced viewers.",
+        "options": {
+          "a": "The film is unique",
+          "b": "The film lacks originality",
+          "c": "The film is too long",
+          "d": "The film has poor acting"
+        },
+        "answer": "b",
+        "explanation": "Direct implication.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 100,
+        "id": "q100",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Sustainable practices are essential for protecting the environment.",
+        "explanation": "Stress: susTAINable, proTECTing.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 101,
+        "id": "q101",
+        "type": "mot_dap_an",
+        "question": "A film analysis states: \"The director employs nonlinear storytelling, which challenges the audience but ultimately enhances thematic depth.\" What is the primary effect of this technique?",
+        "options": {
+          "a": "It simplifies the narrative structure",
+          "b": "It makes the film visually appealing",
+          "c": "It increases intellectual engagement",
+          "d": "It reduces audience interest"
+        },
+        "answer": "c",
+        "explanation": "Nonlinear storytelling requires active interpretation → increases engagement.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 102,
+        "id": "q102",
+        "type": "mot_dap_an",
+        "question": "In cinematic terms, how does \"character development\" contribute to audience engagement?",
+        "options": {
+          "a": "By improving visual quality",
+          "b": "By creating emotional connections",
+          "c": "By enhancing sound effects",
+          "d": "By shortening the plot"
+        },
+        "answer": "b",
+        "explanation": "Character development builds emotional investment.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 103,
+        "id": "q103",
+        "type": "dropdown",
+        "question": "The scientific explanation was [[complex|complexed|complexing]], leaving students [[confused|confusing|confuse]] about the conclusion.",
+        "answer": "complex, confused",
+        "explanation": "Explanation causes difficulty; students feel confused.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 104,
+        "id": "q104",
+        "type": "mot_dap_an",
+        "question": "Which passive sentence correctly emphasizes the result of an experiment?",
+        "options": {
+          "a": "Researchers conducted the experiment carefully.",
+          "b": "The experiment was conducted carefully.",
+          "c": "The experiment conducted carefully.",
+          "d": "The experiment is conduct carefully."
+        },
+        "answer": "b",
+        "explanation": "Passive focuses on result, correct form was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 105,
+        "id": "q105",
+        "type": "mot_dap_an",
+        "question": "A student incorrectly claims that 12/5 is less than 1 because 5 is smaller than 12. What misconception is demonstrated?",
+        "options": {
+          "a": "Confusion about numerator position",
+          "b": "Misunderstanding of fraction value",
+          "c": "Incorrect multiplication",
+          "d": "Misuse of denominator"
+        },
+        "answer": "b",
+        "explanation": "Value depends on division, not comparison of numbers alone.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 106,
+        "id": "q106",
+        "type": "mot_dap_an",
+        "question": "When light passes from air into glass at an angle and bends toward the normal, what underlying principle explains this behavior?",
+        "options": {
+          "a": "Reflection due to surface interaction",
+          "b": "Change in speed between media",
+          "c": "Absorption of light energy",
+          "d": "Diffusion of light waves"
+        },
+        "answer": "b",
+        "explanation": "Refraction occurs due to speed change in different media.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 107,
+        "id": "q107",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The term 'audience' refers to the performers in a film.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Audience = viewers, not performers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 108,
+        "id": "q108",
+        "type": "mot_dap_an",
+        "question": "Which action best demonstrates long-term environmental sustainability?",
+        "options": {
+          "a": "Using disposable items for convenience",
+          "b": "Recycling and reducing consumption",
+          "c": "Burning waste to save space",
+          "d": "Ignoring environmental policies"
+        },
+        "answer": "b",
+        "explanation": "Reduce + recycle = sustainable strategy.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 109,
+        "id": "q109",
+        "type": "listening",
+        "question": "What is the speaker’s main argument?",
+        "audio_text": "While the film excels in visual storytelling, its lack of narrative coherence prevents it from delivering a meaningful message, leaving audiences visually satisfied but intellectually unfulfilled.",
+        "options": {
+          "a": "The film is intellectually deep",
+          "b": "The film lacks narrative strength",
+          "c": "The film has poor visuals",
+          "d": "The film is too complex"
+        },
+        "answer": "b",
+        "explanation": "“lack of narrative coherence” = weak story.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 110,
+        "id": "q110",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The data was analyzed to determine the relationship between variables.",
+        "explanation": "Stress: A-nalyzed, re-LA-tion-ship, VAR-i-a-bles.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 111,
+        "id": "q111",
+        "type": "nhieu_dap_an",
+        "question": "Which statements correctly describe refraction?",
+        "options": {
+          "a": "It involves change in light direction",
+          "b": "It occurs due to speed variation",
+          "c": "It only happens in air",
+          "d": "It requires different media"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Refraction requires medium change and speed difference.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 112,
+        "id": "q112",
+        "type": "mot_dap_an",
+        "question": "In film production, what role do sound effects play compared to soundtrack?",
+        "options": {
+          "a": "They replace dialogue",
+          "b": "They enhance realism",
+          "c": "They provide narrative structure",
+          "d": "They define setting"
+        },
+        "answer": "b",
+        "explanation": "Sound effects simulate real-world sounds.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 113,
+        "id": "q113",
+        "type": "dien_khuyet",
+        "question": "The findings were ... (remark), attracting attention from the scientific community.",
+        "answer": "remarkable",
+        "explanation": "Adjective describing results.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 114,
+        "id": "q114",
+        "type": "mot_dap_an",
+        "question": "If a student calculates 4/5 of 100 as 104, what error is present?",
+        "options": {
+          "a": "Incorrect fraction simplification",
+          "b": "Misinterpretation of \"of\" as addition",
+          "c": "Division mistake",
+          "d": "Reversal of numerator"
+        },
+        "answer": "b",
+        "explanation": "“of” = multiplication.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 115,
+        "id": "q115",
+        "type": "sap_xep",
+        "question": "Arrange the logical process of forming a passive sentence:",
+        "muc": [
+          "(1) Identify object",
+          "(2) Apply correct tense of \"be\"",
+          "(3) Use past participle"
+        ],
+        "answer": [
+          "(1) Identify object",
+          "(2) Apply correct tense of \"be\"",
+          "(3) Use past participle"
+        ],
+        "explanation": "Standard passive structure.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 116,
+        "id": "q116",
+        "type": "mot_dap_an",
+        "question": "Which term refers to the sequence of events in a film?",
+        "options": {
+          "a": "setting",
+          "b": "plot",
+          "c": "cast",
+          "d": "graphics"
+        },
+        "answer": "b",
+        "explanation": "Plot = sequence of events.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 117,
+        "id": "q117",
+        "type": "mot_dap_an",
+        "question": "Which film type introduced synchronized sound?",
+        "options": {
+          "a": "silent film",
+          "b": "talkie",
+          "c": "animation",
+          "d": "documentary"
+        },
+        "answer": "b",
+        "explanation": "Talkies introduced sound.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 118,
+        "id": "q118",
+        "type": "dropdown",
+        "question": "The presentation was [[engaging|engaged|engage]], making students feel [[interested|interesting|interest]].",
+        "answer": "engaging, interested",
+        "explanation": "Presentation causes; students feel.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 119,
+        "id": "q119",
+        "type": "mot_dap_an",
+        "question": "Why is passive voice important in scientific contexts?",
+        "options": {
+          "a": "It removes verbs",
+          "b": "It highlights objectivity",
+          "c": "It simplifies ideas",
+          "d": "It shortens sentences"
+        },
+        "answer": "b",
+        "explanation": "Focus on results, not person.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 120,
+        "id": "q120",
+        "type": "mot_dap_an",
+        "question": "Which fraction is equivalent to a value greater than 1?",
+        "options": {
+          "a": "3/4",
+          "b": "5/6",
+          "c": "7/3",
+          "d": "2/5"
+        },
+        "answer": "c",
+        "explanation": "Improper fraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 121,
+        "id": "q121",
+        "type": "mot_dap_an",
+        "question": "A critic mentions \"poor pacing reduces tension.\" What does pacing refer to?",
+        "options": {
+          "a": "visual design",
+          "b": "speed of story progression",
+          "c": "sound quality",
+          "d": "actor performance"
+        },
+        "answer": "b",
+        "explanation": "Pacing = narrative speed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 122,
+        "id": "q122",
+        "type": "mot_dap_an",
+        "question": "Which technique is essential for creating animated films?",
+        "options": {
+          "a": "lighting",
+          "b": "animation",
+          "c": "editing",
+          "d": "sound mixing"
+        },
+        "answer": "b",
+        "explanation": "Core technique.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 123,
+        "id": "q123",
+        "type": "dropdown",
+        "question": "The experiment was [[challenging|challenged|challenge]], leaving participants [[exhausted|exhausting|exhaust]].",
+        "answer": "challenging, exhausted",
+        "explanation": "Experiment causes; participants feel.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 124,
+        "id": "q124",
+        "type": "mot_dap_an",
+        "question": "Which sentence is correct?",
+        "options": {
+          "a": "The results was published",
+          "b": "The results were published",
+          "c": "The results published",
+          "d": "The results is published"
+        },
+        "answer": "b",
+        "explanation": "Plural subject → were.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 125,
+        "id": "q125",
+        "type": "mot_dap_an",
+        "question": "Why is 9/9 not a proper fraction?",
+        "options": {
+          "a": "It equals 1",
+          "b": "It is too small",
+          "c": "It cannot be reduced",
+          "d": "It is not valid"
+        },
+        "answer": "a",
+        "explanation": "Proper fraction <1.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 126,
+        "id": "q126",
+        "type": "mot_dap_an",
+        "question": "When light enters a denser medium, what happens?",
+        "options": {
+          "a": "It speeds up",
+          "b": "It slows down and bends toward normal",
+          "c": "It disappears",
+          "d": "It reflects fully"
+        },
+        "answer": "b",
+        "explanation": "Refraction principle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 127,
+        "id": "q127",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Graphics in films refer to background music.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Graphics = visuals, not sound.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 128,
+        "id": "q128",
+        "type": "mot_dap_an",
+        "question": "Which behavior reduces environmental impact?",
+        "options": {
+          "a": "Using single-use plastics",
+          "b": "Recycling materials",
+          "c": "Dumping waste",
+          "d": "Ignoring pollution"
+        },
+        "answer": "b",
+        "explanation": "Recycling reduces impact.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 129,
+        "id": "q129",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "Despite impressive cinematography, the film lacks emotional resonance, making it visually appealing but ultimately forgettable.",
+        "options": {
+          "a": "The film is memorable",
+          "b": "The film lacks emotional impact",
+          "c": "The film has poor visuals",
+          "d": "The film is too short"
+        },
+        "answer": "b",
+        "explanation": "Key phrase: lacks emotional resonance.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 130,
+        "id": "q130",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Refraction explains how lenses focus light to form clear images.",
+        "explanation": "Stress: reFRACtion, FOcus.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 131,
+        "id": "q131",
+        "type": "mot_dap_an",
+        "question": "A film studies student writes: \"Although the film relies heavily on visually stunning special effects, its lack of narrative coherence and underdeveloped characters prevent the audience from forming a meaningful emotional connection.\" Based on this evaluation, which combination best explains why the film fails critically?",
+        "options": {
+          "a": "Strong visuals but weak storytelling and character development",
+          "b": "Weak visuals but strong storytelling",
+          "c": "Strong soundtrack but poor acting",
+          "d": "Weak setting but strong dialogue"
+        },
+        "answer": "a",
+        "explanation": "The sentence contrasts strong visuals with weak narrative and character depth, which are key to emotional engagement.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 132,
+        "id": "q132",
+        "type": "mot_dap_an",
+        "question": "In an academic discussion, a lecturer states: \"The setting of a film not only provides a physical location but also reflects the social and historical context in which the story unfolds.\" What is the deeper function of \"setting\" implied here?",
+        "options": {
+          "a": "It only describes geographical location",
+          "b": "It determines the sequence of events",
+          "c": "It contributes to thematic meaning and context",
+          "d": "It replaces the need for character development"
+        },
+        "answer": "c",
+        "explanation": "Setting includes cultural and historical context, influencing interpretation and themes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 133,
+        "id": "q133",
+        "type": "dropdown",
+        "question": "The research findings were considered [[controversial|controversially|controversy]], leaving many experts [[divided|dividing|divide]] in their opinions about the conclusions.",
+        "answer": "controversial, divided",
+        "explanation": "Findings (cause) → controversial; experts (feel) → divided.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 134,
+        "id": "q134",
+        "type": "mot_dap_an",
+        "question": "Which sentence best demonstrates appropriate use of passive voice to emphasize results in a scientific report?",
+        "options": {
+          "a": "Researchers carefully measured the temperature changes during the experiment.",
+          "b": "The temperature changes were carefully measured during the experiment.",
+          "c": "The temperature changes carefully measured during the experiment.",
+          "d": "The temperature changes are measure during the experiment."
+        },
+        "answer": "b",
+        "explanation": "Passive focuses on results; correct structure: were + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 135,
+        "id": "q135",
+        "type": "mot_dap_an",
+        "question": "A student argues that 15/4 is less than 1 because 4 is smaller than 15. Which reasoning error does this demonstrate?",
+        "options": {
+          "a": "Misunderstanding of fraction notation",
+          "b": "Failure to interpret division meaning of fractions",
+          "c": "Confusion between proper and unit fractions",
+          "d": "Incorrect simplification"
+        },
+        "answer": "b",
+        "explanation": "Fraction represents division (15 ÷ 4 > 1), not comparison of digits.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 136,
+        "id": "q136",
+        "type": "mot_dap_an",
+        "question": "In an experiment involving light passing through different materials, it is observed that the light ray bends toward the normal when entering glass from air. Which conclusion is scientifically valid?",
+        "options": {
+          "a": "Light travels faster in glass than in air",
+          "b": "Light slows down due to increased optical density",
+          "c": "Light is reflected completely at the boundary",
+          "d": "Light loses energy and disappears"
+        },
+        "answer": "b",
+        "explanation": "Denser medium → lower speed → bending toward normal.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 137,
+        "id": "q137",
+        "type": "dung_sai",
+        "question": "Nhận định: \"In film analysis, 'plot' and 'setting' can be used interchangeably because both describe the story.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Plot = sequence of events; setting = time/place context.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 138,
+        "id": "q138",
+        "type": "mot_dap_an",
+        "question": "Which scenario best illustrates sustainable environmental behavior at a community level rather than an individual level?",
+        "options": {
+          "a": "A person using a reusable bottle daily",
+          "b": "A city implementing a large-scale recycling program",
+          "c": "A student picking up trash in a park",
+          "d": "A family reducing plastic use at home"
+        },
+        "answer": "b",
+        "explanation": "Community-level action involves organized, large-scale systems.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 139,
+        "id": "q139",
+        "type": "listening",
+        "question": "What is the speaker’s overall evaluation of the film?",
+        "audio_text": "While the film succeeds in creating visually immersive scenes through advanced graphics and special effects, it ultimately falls short due to its lack of a compelling storyline and weak character arcs, leaving the audience disengaged despite its technical brilliance.",
+        "options": {
+          "a": "The film is both visually and narratively strong",
+          "b": "The film is visually strong but narratively weak",
+          "c": "The film has poor technical quality",
+          "d": "The film is suitable for all audiences"
+        },
+        "answer": "b",
+        "explanation": "Contrast structure: strong visuals vs weak narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 140,
+        "id": "q140",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The experiment was conducted to evaluate how light behaves when it transitions between different optical media.",
+        "explanation": "Stress: conDUCTed, eVALuate, tranSItion, OPtical MEdia.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 141,
+        "id": "q141",
+        "type": "nhieu_dap_an",
+        "question": "Which statements accurately explain why passive voice is preferred in academic and scientific writing?",
+        "options": {
+          "a": "It emphasizes processes and results over individuals",
+          "b": "It increases objectivity and neutrality",
+          "c": "It eliminates the need for verbs",
+          "d": "It avoids unnecessary repetition of subjects"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Passive supports objectivity and avoids repetition; verbs are still required.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 142,
+        "id": "q142",
+        "type": "mot_dap_an",
+        "question": "In film production, how do sound effects differ fundamentally from a soundtrack in terms of function?",
+        "options": {
+          "a": "Sound effects create emotional tone while soundtrack adds realism",
+          "b": "Sound effects simulate real-world sounds while soundtrack provides musical background",
+          "c": "Sound effects replace dialogue while soundtrack replaces visuals",
+          "d": "There is no functional difference"
+        },
+        "answer": "b",
+        "explanation": "Sound effects = realism; soundtrack = music/emotion.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 143,
+        "id": "q143",
+        "type": "dien_khuyet",
+        "question": "The results of the experiment were highly ... (signify), indicating a strong correlation between the variables.",
+        "answer": "significant",
+        "explanation": "Adjective describing importance of results.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 144,
+        "id": "q144",
+        "type": "mot_dap_an",
+        "question": "A student calculates 3/4 of 80 as 83. Which cognitive error most likely occurred?",
+        "options": {
+          "a": "Misinterpretation of multiplication as addition",
+          "b": "Incorrect simplification of fraction",
+          "c": "Confusion between numerator and denominator",
+          "d": "Arithmetic error in division"
+        },
+        "answer": "a",
+        "explanation": "“of” = multiply; student added instead.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 145,
+        "id": "q145",
+        "type": "sap_xep",
+        "question": "Arrange the logical sequence of events when light refracts:",
+        "muc": [
+          "(1) Light enters a new medium at an angle",
+          "(2) Light changes speed due to medium properties",
+          "(3) Light bends and changes direction"
+        ],
+        "answer": [
+          "(1) Light enters a new medium at an angle",
+          "(2) Light changes speed due to medium properties",
+          "(3) Light bends and changes direction"
+        ],
+        "explanation": "Speed change leads to directional change.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 146,
+        "id": "q146",
+        "type": "mot_dap_an",
+        "question": "A critic states that a film has \"poor character arcs and inconsistent pacing.\" What combined issue does this suggest?",
+        "options": {
+          "a": "Weak visual effects and soundtrack",
+          "b": "Problems with narrative structure and development",
+          "c": "Issues with filming location",
+          "d": "Lack of audience engagement only due to sound"
+        },
+        "answer": "b",
+        "explanation": "Character arcs + pacing = narrative issues.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 147,
+        "id": "q147",
+        "type": "mot_dap_an",
+        "question": "Which explanation best describes why improper fractions can represent values greater than one?",
+        "options": {
+          "a": "Because the numerator is always equal to the denominator",
+          "b": "Because the numerator exceeds the denominator, indicating multiple wholes",
+          "c": "Because improper fractions are always simplified",
+          "d": "Because they are not real numbers"
+        },
+        "answer": "b",
+        "explanation": "Numerator > denominator → value >1.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 148,
+        "id": "q148",
+        "type": "dropdown",
+        "question": "The film was widely [[praised|praising|praise]] by critics, leaving audiences [[impressed|impressing|impress]] by its originality and depth.",
+        "answer": "praised, impressed",
+        "explanation": "Passive + audience feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 149,
+        "id": "q149",
+        "type": "mot_dap_an",
+        "question": "Which environmental strategy is most effective in reducing long-term pollution at a systemic level?",
+        "options": {
+          "a": "Encouraging individuals to clean their homes",
+          "b": "Implementing policies to reduce industrial waste",
+          "c": "Using disposable products responsibly",
+          "d": "Burning waste in controlled environments"
+        },
+        "answer": "b",
+        "explanation": "Systemic impact > individual actions.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 150,
+        "id": "q150",
+        "type": "listening",
+        "question": "What conclusion can be drawn from the speaker?",
+        "audio_text": "Although individuals can contribute by reducing waste and recycling, significant environmental change requires coordinated policies and large-scale efforts at the governmental and industrial levels.",
+        "options": {
+          "a": "Individual actions are sufficient",
+          "b": "Government action is unnecessary",
+          "c": "System-level action is essential for major impact",
+          "d": "Recycling is ineffective"
+        },
+        "answer": "c",
+        "explanation": "Speaker contrasts individual vs systemic impact → emphasizes large-scale action.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 151,
+        "id": "q151",
+        "type": "mot_dap_an",
+        "question": "A film scholar argues that \"the overuse of visual spectacle without narrative substance results in a shallow cinematic experience.\" What is the core criticism in this statement?",
+        "options": {
+          "a": "The film lacks visual quality",
+          "b": "The film prioritizes effects over meaningful storytelling",
+          "c": "The film has poor acting performances",
+          "d": "The film is too short"
+        },
+        "answer": "b",
+        "explanation": "Criticism targets imbalance: visuals dominate while narrative is weak.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 152,
+        "id": "q152",
+        "type": "mot_dap_an",
+        "question": "In advanced film analysis, how does \"setting\" contribute beyond physical location?",
+        "options": {
+          "a": "It determines the length of the film",
+          "b": "It shapes thematic interpretation and cultural context",
+          "c": "It replaces the plot entirely",
+          "d": "It defines the soundtrack"
+        },
+        "answer": "b",
+        "explanation": "Setting reflects historical, cultural, and thematic dimensions.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 153,
+        "id": "q153",
+        "type": "dropdown",
+        "question": "The argument was highly [[convincing|convinced|convince]], leaving the audience [[persuaded|persuading|persuade]] by the evidence presented.",
+        "answer": "convincing, persuaded",
+        "explanation": "Argument causes; audience feels.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 154,
+        "id": "q154",
+        "type": "mot_dap_an",
+        "question": "Which sentence best reflects formal academic passive construction?",
+        "options": {
+          "a": "Researchers have discovered the pattern.",
+          "b": "The pattern has been discovered.",
+          "c": "The pattern discovered.",
+          "d": "The pattern discovering."
+        },
+        "answer": "b",
+        "explanation": "Present perfect passive: has been + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 155,
+        "id": "q155",
+        "type": "mot_dap_an",
+        "question": "A learner claims that 18/6 is a proper fraction because it simplifies to 3. What misconception is shown?",
+        "options": {
+          "a": "Misunderstanding simplification rules",
+          "b": "Ignoring value comparison of fractions",
+          "c": "Confusion between unit and improper fractions",
+          "d": "Incorrect arithmetic calculation"
+        },
+        "answer": "b",
+        "explanation": "18/6 = 3 (>1) → not proper; value matters.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 156,
+        "id": "q156",
+        "type": "mot_dap_an",
+        "question": "When light transitions from a denser to a less dense medium and bends away from the normal, what principle explains this?",
+        "options": {
+          "a": "Energy absorption",
+          "b": "Increase in velocity",
+          "c": "Reflection law",
+          "d": "Wave cancellation"
+        },
+        "answer": "b",
+        "explanation": "Less dense medium → higher speed → bending away.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 157,
+        "id": "q157",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The term 'cast' refers to the audience watching a film.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Cast = actors, not viewers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 158,
+        "id": "q158",
+        "type": "mot_dap_an",
+        "question": "Which strategy is most effective in promoting environmental sustainability at a national level?",
+        "options": {
+          "a": "Encouraging individuals to recycle occasionally",
+          "b": "Implementing regulations to limit industrial emissions",
+          "c": "Ignoring waste management policies",
+          "d": "Increasing production of disposable goods"
+        },
+        "answer": "b",
+        "explanation": "Policy-level actions have large-scale impact.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 159,
+        "id": "q159",
+        "type": "listening",
+        "question": "What is the main implication of the speaker’s statement?",
+        "audio_text": "Despite its technical brilliance, the film fails to deliver a coherent narrative, which limits its ability to resonate with audiences on a deeper level.",
+        "options": {
+          "a": "The film is emotionally powerful",
+          "b": "The film lacks narrative coherence",
+          "c": "The film has poor visuals",
+          "d": "The film is too complex"
+        },
+        "answer": "b",
+        "explanation": "Key phrase: fails to deliver coherent narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 160,
+        "id": "q160",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The results were analyzed to assess the impact of environmental policies on pollution levels.",
+        "explanation": "Stress: aNAlyzed, asSESS, enVIronmental.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 161,
+        "id": "q161",
+        "type": "nhieu_dap_an",
+        "question": "Which factors contribute to effective storytelling in films?",
+        "options": {
+          "a": "Strong character development",
+          "b": "Coherent plot structure",
+          "c": "Excessive use of visual effects",
+          "d": "Clear thematic message"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c may distract if overused.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 162,
+        "id": "q162",
+        "type": "mot_dap_an",
+        "question": "What distinguishes sound effects from soundtrack in cinematic terms?",
+        "options": {
+          "a": "Sound effects are music tracks",
+          "b": "Soundtrack includes environmental sounds",
+          "c": "Sound effects simulate real-life sounds",
+          "d": "There is no difference"
+        },
+        "answer": "c",
+        "explanation": "Sound effects = realism sounds.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 163,
+        "id": "q163",
+        "type": "dien_khuyet",
+        "question": "The findings were statistically ... (rely), ensuring the validity of the conclusions.",
+        "answer": "reliable",
+        "explanation": "Adjective describing trustworthiness.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 164,
+        "id": "q164",
+        "type": "mot_dap_an",
+        "question": "If a student calculates 2/3 of 90 as 92, what is the underlying misunderstanding?",
+        "options": {
+          "a": "Confusion between multiplication and addition",
+          "b": "Incorrect fraction simplification",
+          "c": "Division error",
+          "d": "Reversal of numbers"
+        },
+        "answer": "a",
+        "explanation": "“of” = multiply, not add.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 165,
+        "id": "q165",
+        "type": "sap_xep",
+        "question": "Arrange the steps of refraction logically:",
+        "muc": [
+          "(1) Light enters new medium",
+          "(2) Speed changes",
+          "(3) Direction changes"
+        ],
+        "answer": [
+          "(1) Light enters new medium",
+          "(2) Speed changes",
+          "(3) Direction changes"
+        ],
+        "explanation": "Speed change causes bending.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 166,
+        "id": "q166",
+        "type": "mot_dap_an",
+        "question": "A critic describes a film as having \"inconsistent pacing and underdeveloped characters.\" What does this indicate?",
+        "options": {
+          "a": "Strong visual quality",
+          "b": "Weak narrative construction",
+          "c": "Excellent soundtrack",
+          "d": "Clear thematic message"
+        },
+        "answer": "b",
+        "explanation": "Both issues relate to narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 167,
+        "id": "q167",
+        "type": "mot_dap_an",
+        "question": "Why can improper fractions exceed one in value?",
+        "options": {
+          "a": "Because denominators are always larger",
+          "b": "Because numerators represent multiple wholes",
+          "c": "Because they are always simplified",
+          "d": "Because they are not fractions"
+        },
+        "answer": "b",
+        "explanation": "Numerator > denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 168,
+        "id": "q168",
+        "type": "dropdown",
+        "question": "The theory was widely [[accepted|accepting|accept]] by scientists, leaving researchers [[satisfied|satisfying|satisfy]] with the results.",
+        "answer": "accepted, satisfied",
+        "explanation": "Passive + feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 169,
+        "id": "q169",
+        "type": "mot_dap_an",
+        "question": "Which environmental policy would most effectively reduce pollution?",
+        "options": {
+          "a": "Encouraging littering fines enforcement",
+          "b": "Promoting single-use plastics",
+          "c": "Ignoring industrial emissions",
+          "d": "Reducing recycling programs"
+        },
+        "answer": "a",
+        "explanation": "Law enforcement reduces pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 170,
+        "id": "q170",
+        "type": "listening",
+        "question": "What conclusion can be drawn?",
+        "audio_text": "While individual actions such as recycling are important, large-scale environmental improvements depend heavily on government policies and industrial responsibility.",
+        "options": {
+          "a": "Individuals have no role",
+          "b": "System-level action is crucial",
+          "c": "Recycling is ineffective",
+          "d": "Pollution cannot be reduced"
+        },
+        "answer": "b",
+        "explanation": "Emphasis on large-scale action.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 171,
+        "id": "q171",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Refraction occurs because light travels at different speeds in different media.",
+        "explanation": "Stress: reFRACtion, DIfferent.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 172,
+        "id": "q172",
+        "type": "mot_dap_an",
+        "question": "A film is described as \"visually stunning but narratively empty.\" What is implied?",
+        "options": {
+          "a": "Strong story and visuals",
+          "b": "Weak story despite strong visuals",
+          "c": "Poor visuals",
+          "d": "Excellent acting"
+        },
+        "answer": "b",
+        "explanation": "Contrast structure.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 173,
+        "id": "q173",
+        "type": "mot_dap_an",
+        "question": "Which element defines the sequence of events?",
+        "options": {
+          "a": "setting",
+          "b": "plot",
+          "c": "cast",
+          "d": "soundtrack"
+        },
+        "answer": "b",
+        "explanation": "Plot = sequence.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 174,
+        "id": "q174",
+        "type": "dropdown",
+        "question": "The experiment was [[demanding|demanded|demand]], leaving participants [[exhausted|exhausting|exhaust]].",
+        "answer": "demanding, exhausted",
+        "explanation": "Cause vs feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 175,
+        "id": "q175",
+        "type": "mot_dap_an",
+        "question": "Which sentence is correct?",
+        "options": {
+          "a": "The data was analyze",
+          "b": "The data were analyzed",
+          "c": "The data analyzed",
+          "d": "The data is analyzed yesterday"
+        },
+        "answer": "b",
+        "explanation": "Plural noun + were + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 176,
+        "id": "q176",
+        "type": "mot_dap_an",
+        "question": "Which fraction is greater than 1?",
+        "options": {
+          "a": "2/5",
+          "b": "3/4",
+          "c": "7/2",
+          "d": "1/3"
+        },
+        "answer": "c",
+        "explanation": "Numerator > denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 177,
+        "id": "q177",
+        "type": "mot_dap_an",
+        "question": "When light enters a denser medium, what occurs?",
+        "options": {
+          "a": "Speed increases",
+          "b": "Speed decreases and bends toward normal",
+          "c": "Stops",
+          "d": "Reflects only"
+        },
+        "answer": "b",
+        "explanation": "Refraction rule.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 178,
+        "id": "q178",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Reusing materials increases environmental waste.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Reusing reduces waste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 179,
+        "id": "q179",
+        "type": "mot_dap_an",
+        "question": "Which practice reduces environmental harm?",
+        "options": {
+          "a": "Burning waste",
+          "b": "Recycling",
+          "c": "Dumping trash",
+          "d": "Ignoring waste"
+        },
+        "answer": "b",
+        "explanation": "Recycling reduces pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 180,
+        "id": "q180",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "Although the film features cutting-edge visuals, its lack of originality makes it less appealing to critical audiences.",
+        "options": {
+          "a": "The film is original",
+          "b": "The film lacks originality",
+          "c": "The visuals are poor",
+          "d": "The acting is weak"
+        },
+        "answer": "b",
+        "explanation": "Direct implication.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 181,
+        "id": "q181",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Sustainable development requires cooperation between individuals and institutions.",
+        "explanation": "Stress: susTAINable, coOPeration.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 182,
+        "id": "q182",
+        "type": "nhieu_dap_an",
+        "question": "Which actions are environmentally responsible?",
+        "options": {
+          "a": "Reducing waste",
+          "b": "Recycling",
+          "c": "Burning plastic",
+          "d": "Reusing materials"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c harmful.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 183,
+        "id": "q183",
+        "type": "mot_dap_an",
+        "question": "What does \"audience engagement\" refer to?",
+        "options": {
+          "a": "Actors performing",
+          "b": "Viewers’ emotional involvement",
+          "c": "Film duration",
+          "d": "Sound quality"
+        },
+        "answer": "b",
+        "explanation": "Engagement = involvement.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 184,
+        "id": "q184",
+        "type": "dien_khuyet",
+        "question": "The explanation was ... (clarity), making the concept easy to understand.",
+        "answer": "clear",
+        "explanation": "Adjective form.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 185,
+        "id": "q185",
+        "type": "mot_dap_an",
+        "question": "If light changes direction due to speed variation, what is this called?",
+        "options": {
+          "a": "reflection",
+          "b": "refraction",
+          "c": "diffusion",
+          "d": "absorption"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 186,
+        "id": "q186",
+        "type": "noi",
+        "question": "Match concepts",
+        "leftCol": [
+          "plot",
+          "setting"
+        ],
+        "rightCol": [
+          "sequence of events",
+          "time and place"
+        ],
+        "answer": {
+          "plot": "sequence of events",
+          "setting": "time and place"
+        },
+        "explanation": "Correct mapping.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 187,
+        "id": "q187",
+        "type": "mot_dap_an",
+        "question": "Which is NOT sustainable?",
+        "options": {
+          "a": "Recycling",
+          "b": "Reusing",
+          "c": "Dumping waste",
+          "d": "Reducing plastic"
+        },
+        "answer": "c",
+        "explanation": "Causes pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 188,
+        "id": "q188",
+        "type": "listening",
+        "question": "What is the main idea?",
+        "audio_text": "Environmental protection requires both individual responsibility and large-scale policy implementation.",
+        "options": {
+          "a": "Only individuals matter",
+          "b": "Only government matters",
+          "c": "Both levels are necessary",
+          "d": "Environment is not important"
+        },
+        "answer": "c",
+        "explanation": "Balanced view.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 189,
+        "id": "q189",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The film was criticized for its weak plot and lack of character development.",
+        "explanation": "Stress: CRIticized, DEvelopment.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 190,
+        "id": "q190",
+        "type": "mot_dap_an",
+        "question": "What does \"cast\" refer to?",
+        "options": {
+          "a": "viewers",
+          "b": "actors",
+          "c": "story",
+          "d": "music"
+        },
+        "answer": "b",
+        "explanation": "Cast = actors.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 191,
+        "id": "q191",
+        "type": "mot_dap_an",
+        "question": "Which sentence is correct?",
+        "options": {
+          "a": "I am boring",
+          "b": "The film is bored",
+          "c": "I am bored",
+          "d": "The film is bore"
+        },
+        "answer": "c",
+        "explanation": "Correct usage.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 192,
+        "id": "q192",
+        "type": "mot_dap_an",
+        "question": "What does pacing affect?",
+        "options": {
+          "a": "sound",
+          "b": "story speed",
+          "c": "actors",
+          "d": "setting"
+        },
+        "answer": "b",
+        "explanation": "Pacing = speed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 193,
+        "id": "q193",
+        "type": "dropdown",
+        "question": "The lecture was [[informative|informed|inform]], making students [[interested|interesting|interest]].",
+        "answer": "informative, interested",
+        "explanation": "Cause vs feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 194,
+        "id": "q194",
+        "type": "mot_dap_an",
+        "question": "Which passive is correct?",
+        "options": {
+          "a": "The film was create",
+          "b": "The film was created",
+          "c": "The film created",
+          "d": "The film is created yesterday"
+        },
+        "answer": "b",
+        "explanation": "was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 195,
+        "id": "q195",
+        "type": "mot_dap_an",
+        "question": "Which fraction is less than 1?",
+        "options": {
+          "a": "5/3",
+          "b": "7/4",
+          "c": "3/5",
+          "d": "9/2"
+        },
+        "answer": "c",
+        "explanation": "Numerator < denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 196,
+        "id": "q196",
+        "type": "mot_dap_an",
+        "question": "When light slows down, what happens?",
+        "options": {
+          "a": "reflection",
+          "b": "refraction",
+          "c": "disappear",
+          "d": "stop"
+        },
+        "answer": "b",
+        "explanation": "Speed change → refraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 197,
+        "id": "q197",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Recycling harms the environment.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Recycling helps.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 198,
+        "id": "q198",
+        "type": "mot_dap_an",
+        "question": "Which action is eco-friendly?",
+        "options": {
+          "a": "burning waste",
+          "b": "recycling",
+          "c": "dumping trash",
+          "d": "ignoring pollution"
+        },
+        "answer": "b",
+        "explanation": "Correct behavior.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 199,
+        "id": "q199",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "Despite its strong visuals, the film fails to impress due to its predictable storyline.",
+        "options": {
+          "a": "The film is original",
+          "b": "The film lacks originality",
+          "c": "The film is too long",
+          "d": "The acting is poor"
+        },
+        "answer": "b",
+        "explanation": "Predictable = not original.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 200,
+        "id": "q200",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Environmental sustainability depends on responsible resource management.",
+        "explanation": "Stress: susTAINability, reSOURCE.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 201,
+        "id": "q201",
+        "type": "mot_dap_an",
+        "question": "A film critique states: \"The film attempts to compensate for its weak narrative through excessive visual effects, but this strategy ultimately undermines audience engagement.\" What is the main implication?",
+        "options": {
+          "a": "Visual effects enhance storytelling",
+          "b": "Overuse of effects cannot replace strong storytelling",
+          "c": "The audience prefers visual effects",
+          "d": "The narrative is highly complex"
+        },
+        "answer": "b",
+        "explanation": "Statement shows imbalance: visuals cannot substitute for narrative quality.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 202,
+        "id": "q202",
+        "type": "mot_dap_an",
+        "question": "In advanced film analysis, how does \"character development\" influence audience perception?",
+        "options": {
+          "a": "It determines filming location",
+          "b": "It shapes emotional investment and relatability",
+          "c": "It controls background music",
+          "d": "It defines camera angles"
+        },
+        "answer": "b",
+        "explanation": "Character depth allows audience connection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 203,
+        "id": "q203",
+        "type": "dropdown",
+        "question": "The results were [[unexpected|unexpectedly|unexpectedness]], leaving researchers [[surprised|surprising|surprise]] by the outcome.",
+        "answer": "unexpected, surprised",
+        "explanation": "Results cause; researchers feel.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 204,
+        "id": "q204",
+        "type": "mot_dap_an",
+        "question": "Which sentence correctly uses passive voice to emphasize outcome?",
+        "options": {
+          "a": "Scientists conducted the experiment in 2022.",
+          "b": "The experiment was conducted in 2022.",
+          "c": "The experiment conducted in 2022.",
+          "d": "The experiment is conduct in 2022."
+        },
+        "answer": "b",
+        "explanation": "Correct passive: was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 205,
+        "id": "q205",
+        "type": "mot_dap_an",
+        "question": "A student believes 20/5 is a proper fraction because it equals a whole number. Why is this incorrect?",
+        "options": {
+          "a": "Proper fractions must be less than one",
+          "b": "Whole numbers are not valid",
+          "c": "Fractions cannot equal integers",
+          "d": "Denominators must be larger"
+        },
+        "answer": "a",
+        "explanation": "20/5 = 4 (>1) → improper.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 206,
+        "id": "q206",
+        "type": "mot_dap_an",
+        "question": "When light moves from air into water and bends toward the normal, what does this indicate?",
+        "options": {
+          "a": "Decrease in speed",
+          "b": "Increase in speed",
+          "c": "No change in speed",
+          "d": "Complete reflection"
+        },
+        "answer": "a",
+        "explanation": "Denser medium slows light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 207,
+        "id": "q207",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Audience refers to the technical crew of a film.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Audience = viewers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 208,
+        "id": "q208",
+        "type": "mot_dap_an",
+        "question": "Which environmental initiative would have the greatest long-term impact?",
+        "options": {
+          "a": "Occasional recycling",
+          "b": "Implementing national environmental laws",
+          "c": "Cleaning one park",
+          "d": "Ignoring waste issues"
+        },
+        "answer": "b",
+        "explanation": "System-level impact is greatest.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 209,
+        "id": "q209",
+        "type": "listening",
+        "question": "What is implied about the film?",
+        "audio_text": "Although the cinematography is visually striking, the lack of a compelling storyline prevents the film from achieving critical success.",
+        "options": {
+          "a": "The film is visually weak",
+          "b": "The film lacks narrative strength",
+          "c": "The film is too long",
+          "d": "The film has strong acting"
+        },
+        "answer": "b",
+        "explanation": "Contrast highlights weak story.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 210,
+        "id": "q210",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The experiment was designed to investigate how light behaves in different environments.",
+        "explanation": "Stress: deSIGNED, INvestigate, enVIronments.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 211,
+        "id": "q211",
+        "type": "nhieu_dap_an",
+        "question": "Which elements are essential for strong storytelling?",
+        "options": {
+          "a": "Coherent plot",
+          "b": "Character development",
+          "c": "Excessive visual effects",
+          "d": "Clear themes"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c may distract.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 212,
+        "id": "q212",
+        "type": "mot_dap_an",
+        "question": "What is the main purpose of sound effects in films?",
+        "options": {
+          "a": "To provide music",
+          "b": "To enhance realism",
+          "c": "To replace dialogue",
+          "d": "To define plot"
+        },
+        "answer": "b",
+        "explanation": "Sound effects simulate real sounds.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 213,
+        "id": "q213",
+        "type": "dien_khuyet",
+        "question": "The results were scientifically ... (validate), confirming the hypothesis.",
+        "answer": "valid",
+        "explanation": "Adjective form needed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 214,
+        "id": "q214",
+        "type": "mot_dap_an",
+        "question": "If a student calculates 5/6 of 60 as 65, what mistake is likely?",
+        "options": {
+          "a": "Addition instead of multiplication",
+          "b": "Division error",
+          "c": "Fraction simplification error",
+          "d": "Numerator confusion"
+        },
+        "answer": "a",
+        "explanation": "“of” misinterpreted.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 215,
+        "id": "q215",
+        "type": "sap_xep",
+        "question": "Arrange refraction steps:",
+        "muc": [
+          "(1) Light enters medium",
+          "(2) Speed changes",
+          "(3) Direction changes"
+        ],
+        "answer": [
+          "(1) Light enters medium",
+          "(2) Speed changes",
+          "(3) Direction changes"
+        ],
+        "explanation": "Standard sequence.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 216,
+        "id": "q216",
+        "type": "mot_dap_an",
+        "question": "A film described as \"narratively inconsistent\" likely has issues with:",
+        "options": {
+          "a": "visual effects",
+          "b": "story coherence",
+          "c": "soundtrack",
+          "d": "lighting"
+        },
+        "answer": "b",
+        "explanation": "Narrative inconsistency = poor plot structure.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 217,
+        "id": "q217",
+        "type": "mot_dap_an",
+        "question": "Why can improper fractions represent multiple wholes?",
+        "options": {
+          "a": "Because denominator is larger",
+          "b": "Because numerator exceeds denominator",
+          "c": "Because they are simplified",
+          "d": "Because they are decimals"
+        },
+        "answer": "b",
+        "explanation": "Numerator > denominator.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 218,
+        "id": "q218",
+        "type": "dropdown",
+        "question": "The film was widely [[criticized|criticizing|criticize]] for its weak plot, leaving viewers [[disappointed|disappointing|disappoint]].",
+        "answer": "criticized, disappointed",
+        "explanation": "Passive + feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 219,
+        "id": "q219",
+        "type": "mot_dap_an",
+        "question": "Which policy most effectively reduces environmental damage?",
+        "options": {
+          "a": "Ignoring waste",
+          "b": "Regulating industrial emissions",
+          "c": "Increasing plastic use",
+          "d": "Reducing recycling"
+        },
+        "answer": "b",
+        "explanation": "Policy-level control.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 220,
+        "id": "q220",
+        "type": "listening",
+        "question": "What conclusion can be drawn?",
+        "audio_text": "Individual efforts are important, but large-scale environmental improvement depends on government action and industrial responsibility.",
+        "options": {
+          "a": "Individuals are irrelevant",
+          "b": "System-level action is necessary",
+          "c": "Recycling is useless",
+          "d": "Pollution cannot be reduced"
+        },
+        "answer": "b",
+        "explanation": "Focus on large-scale.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 221,
+        "id": "q221",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Refraction explains how light changes direction when entering a different medium.",
+        "explanation": "Stress: reFRACtion, DIrection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 222,
+        "id": "q222",
+        "type": "mot_dap_an",
+        "question": "A film described as \"visually impressive but emotionally shallow\" suggests:",
+        "options": {
+          "a": "Strong narrative",
+          "b": "Weak emotional depth",
+          "c": "Poor visuals",
+          "d": "Excellent acting"
+        },
+        "answer": "b",
+        "explanation": "Contrast meaning.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 223,
+        "id": "q223",
+        "type": "mot_dap_an",
+        "question": "Which term describes the sequence of events?",
+        "options": {
+          "a": "setting",
+          "b": "plot",
+          "c": "cast",
+          "d": "soundtrack"
+        },
+        "answer": "b",
+        "explanation": "Plot.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 224,
+        "id": "q224",
+        "type": "dropdown",
+        "question": "The lecture was [[challenging|challenged|challenge]], making students [[confused|confusing|confuse]].",
+        "answer": "challenging, confused",
+        "explanation": "Cause vs feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 225,
+        "id": "q225",
+        "type": "mot_dap_an",
+        "question": "Which sentence is correct?",
+        "options": {
+          "a": "The data was analyze",
+          "b": "The data were analyzed",
+          "c": "The data analyzed",
+          "d": "The data is analyzed yesterday"
+        },
+        "answer": "b",
+        "explanation": "Plural + were + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 226,
+        "id": "q226",
+        "type": "mot_dap_an",
+        "question": "Which fraction is greater than 1?",
+        "options": {
+          "a": "2/7",
+          "b": "3/5",
+          "c": "8/3",
+          "d": "1/4"
+        },
+        "answer": "c",
+        "explanation": "Improper fraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 227,
+        "id": "q227",
+        "type": "mot_dap_an",
+        "question": "When light enters a denser medium, what occurs?",
+        "options": {
+          "a": "Speed increases",
+          "b": "Speed decreases and bends",
+          "c": "Stops",
+          "d": "Reflects only"
+        },
+        "answer": "b",
+        "explanation": "Refraction principle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 228,
+        "id": "q228",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Recycling increases pollution levels.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Opposite effect.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 229,
+        "id": "q229",
+        "type": "mot_dap_an",
+        "question": "Which action supports sustainability?",
+        "options": {
+          "a": "Burning waste",
+          "b": "Recycling materials",
+          "c": "Dumping trash",
+          "d": "Ignoring waste"
+        },
+        "answer": "b",
+        "explanation": "Correct behavior.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 230,
+        "id": "q230",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "Despite impressive effects, the film fails due to a predictable storyline.",
+        "options": {
+          "a": "The film is original",
+          "b": "The film lacks originality",
+          "c": "The film is long",
+          "d": "The acting is poor"
+        },
+        "answer": "b",
+        "explanation": "Predictable = not original.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 231,
+        "id": "q231",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Environmental policies play a crucial role in reducing pollution.",
+        "explanation": "Stress: poLIcies, CRUcial.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 232,
+        "id": "q232",
+        "type": "nhieu_dap_an",
+        "question": "Which actions are sustainable?",
+        "options": {
+          "a": "Reducing waste",
+          "b": "Recycling",
+          "c": "Burning plastic",
+          "d": "Reusing items"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c harmful.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 233,
+        "id": "q233",
+        "type": "mot_dap_an",
+        "question": "What does \"audience engagement\" mean?",
+        "options": {
+          "a": "Actor performance",
+          "b": "Viewer involvement",
+          "c": "Film length",
+          "d": "Sound quality"
+        },
+        "answer": "b",
+        "explanation": "Engagement = involvement.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 234,
+        "id": "q234",
+        "type": "dien_khuyet",
+        "question": "The explanation was ... (logic), making it easy to follow.",
+        "answer": "logical",
+        "explanation": "Adjective form.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 235,
+        "id": "q235",
+        "type": "mot_dap_an",
+        "question": "What is refraction?",
+        "options": {
+          "a": "Light reflection",
+          "b": "Light bending due to speed change",
+          "c": "Light absorption",
+          "d": "Light stopping"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 236,
+        "id": "q236",
+        "type": "noi",
+        "question": "Match terms",
+        "leftCol": [
+          "numerator",
+          "denominator"
+        ],
+        "rightCol": [
+          "top number",
+          "bottom number"
+        ],
+        "answer": {
+          "numerator": "top number",
+          "denominator": "bottom number"
+        },
+        "explanation": "Correct.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 237,
+        "id": "q237",
+        "type": "mot_dap_an",
+        "question": "Which is NOT eco-friendly?",
+        "options": {
+          "a": "Recycling",
+          "b": "Reusing",
+          "c": "Dumping waste",
+          "d": "Reducing plastic"
+        },
+        "answer": "c",
+        "explanation": "Pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 238,
+        "id": "q238",
+        "type": "listening",
+        "question": "What is the main idea?",
+        "audio_text": "Sustainable development requires cooperation between individuals, governments, and industries.",
+        "options": {
+          "a": "Only individuals matter",
+          "b": "Only government matters",
+          "c": "All levels are needed",
+          "d": "Environment is unimportant"
+        },
+        "answer": "c",
+        "explanation": "Combined effort.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 239,
+        "id": "q239",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The film was praised for its innovative storytelling and strong performances.",
+        "explanation": "Stress: INnovative, PERformances.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 240,
+        "id": "q240",
+        "type": "mot_dap_an",
+        "question": "What does \"cast\" mean?",
+        "options": {
+          "a": "viewers",
+          "b": "actors",
+          "c": "music",
+          "d": "story"
+        },
+        "answer": "b",
+        "explanation": "Actors.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 241,
+        "id": "q241",
+        "type": "mot_dap_an",
+        "question": "Which is correct?",
+        "options": {
+          "a": "I am boring",
+          "b": "The film is bored",
+          "c": "I am bored",
+          "d": "The film is bore"
+        },
+        "answer": "c",
+        "explanation": "Correct usage.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 242,
+        "id": "q242",
+        "type": "mot_dap_an",
+        "question": "What does pacing affect?",
+        "options": {
+          "a": "sound",
+          "b": "story speed",
+          "c": "actors",
+          "d": "setting"
+        },
+        "answer": "b",
+        "explanation": "Narrative speed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 243,
+        "id": "q243",
+        "type": "dropdown",
+        "question": "The documentary was [[informative|informed|inform]], making viewers [[interested|interesting|interest]].",
+        "answer": "informative, interested",
+        "explanation": "Cause vs feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 244,
+        "id": "q244",
+        "type": "mot_dap_an",
+        "question": "Which passive is correct?",
+        "options": {
+          "a": "The theory was prove",
+          "b": "The theory was proven",
+          "c": "The theory proven",
+          "d": "The theory is proven yesterday"
+        },
+        "answer": "b",
+        "explanation": "was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 245,
+        "id": "q245",
+        "type": "mot_dap_an",
+        "question": "Which fraction is less than 1?",
+        "options": {
+          "a": "7/3",
+          "b": "5/2",
+          "c": "3/4",
+          "d": "9/2"
+        },
+        "answer": "c",
+        "explanation": "Proper fraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 246,
+        "id": "q246",
+        "type": "mot_dap_an",
+        "question": "When light slows down, what happens?",
+        "options": {
+          "a": "reflection",
+          "b": "refraction",
+          "c": "disappear",
+          "d": "stop"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 247,
+        "id": "q247",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Reusing materials harms the environment.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Opposite.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 248,
+        "id": "q248",
+        "type": "mot_dap_an",
+        "question": "Which is eco-friendly?",
+        "options": {
+          "a": "burning waste",
+          "b": "recycling",
+          "c": "dumping trash",
+          "d": "ignoring pollution"
+        },
+        "answer": "b",
+        "explanation": "Correct.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 249,
+        "id": "q249",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "The film’s predictable narrative reduces its overall impact despite strong visuals.",
+        "options": {
+          "a": "The film is original",
+          "b": "The film lacks originality",
+          "c": "The film is long",
+          "d": "The acting is weak"
+        },
+        "answer": "b",
+        "explanation": "Predictable.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 250,
+        "id": "q250",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Sustainable practices are essential for long-term environmental protection.",
+        "explanation": "Stress: susTAINable, proTECtion.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 251,
+        "id": "q251",
+        "type": "mot_dap_an",
+        "question": "A film critic argues: \"Despite its ambitious visual design, the film ultimately fails because its narrative lacks cohesion and its characters remain underdeveloped.\" What is the most accurate interpretation of this critique?",
+        "options": {
+          "a": "The film succeeds due to visuals alone",
+          "b": "The film lacks both technical and narrative quality",
+          "c": "The film is visually strong but narratively weak",
+          "d": "The film has strong character development"
+        },
+        "answer": "c",
+        "explanation": "Critique contrasts strong visuals with weak narrative and characters.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 252,
+        "id": "q252",
+        "type": "mot_dap_an",
+        "question": "In academic film analysis, why is \"character arc\" considered essential for storytelling?",
+        "options": {
+          "a": "It determines filming location",
+          "b": "It reflects changes in characters over time",
+          "c": "It controls sound effects",
+          "d": "It replaces the plot structure"
+        },
+        "answer": "b",
+        "explanation": "Character arc = development across the story.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 253,
+        "id": "q253",
+        "type": "dropdown",
+        "question": "The explanation was [[insightful|insightfully|insight]], leaving the audience [[impressed|impressing|impress]] by its depth.",
+        "answer": "insightful, impressed",
+        "explanation": "Explanation causes; audience feels.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 254,
+        "id": "q254",
+        "type": "mot_dap_an",
+        "question": "Which passive construction best emphasizes the outcome of a study?",
+        "options": {
+          "a": "Researchers conducted the study carefully.",
+          "b": "The study was conducted carefully.",
+          "c": "The study conducting carefully.",
+          "d": "The study is conduct carefully."
+        },
+        "answer": "b",
+        "explanation": "Passive highlights result.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 255,
+        "id": "q255",
+        "type": "mot_dap_an",
+        "question": "A student claims that 21/7 is a proper fraction because it equals a whole number. Why is this incorrect?",
+        "options": {
+          "a": "Proper fractions must be less than 1",
+          "b": "Whole numbers are invalid",
+          "c": "Fractions cannot be simplified",
+          "d": "Denominators must be larger"
+        },
+        "answer": "a",
+        "explanation": "21/7 = 3 (>1) → improper.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 256,
+        "id": "q256",
+        "type": "mot_dap_an",
+        "question": "When light moves from water into air and bends away from the normal, what happens to its speed?",
+        "options": {
+          "a": "It decreases",
+          "b": "It increases",
+          "c": "It stays constant",
+          "d": "It stops"
+        },
+        "answer": "b",
+        "explanation": "Less dense medium → higher speed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 257,
+        "id": "q257",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The term 'plot' refers to the visual design of a film.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Plot = sequence of events.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 258,
+        "id": "q258",
+        "type": "mot_dap_an",
+        "question": "Which environmental measure is most effective at reducing pollution on a global scale?",
+        "options": {
+          "a": "Individual recycling efforts only",
+          "b": "International agreements on emissions",
+          "c": "Ignoring industrial waste",
+          "d": "Increasing plastic production"
+        },
+        "answer": "b",
+        "explanation": "Global problems require global solutions.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 259,
+        "id": "q259",
+        "type": "listening",
+        "question": "What is implied about the film?",
+        "audio_text": "While the film demonstrates technical excellence through its use of visual effects, it ultimately fails to engage audiences due to its weak and predictable storyline.",
+        "options": {
+          "a": "The film is technically weak",
+          "b": "The film lacks narrative strength",
+          "c": "The film is highly original",
+          "d": "The film has poor acting"
+        },
+        "answer": "b",
+        "explanation": "Predictable storyline = weak narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 260,
+        "id": "q260",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The experiment was conducted to analyze how light behaves when transitioning between different media.",
+        "explanation": "Stress: conDUCTed, A-nalyze, tranSItion.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 261,
+        "id": "q261",
+        "type": "nhieu_dap_an",
+        "question": "Which factors contribute to audience engagement in films?",
+        "options": {
+          "a": "Emotional connection to characters",
+          "b": "Coherent storyline",
+          "c": "Excessive special effects",
+          "d": "Clear thematic message"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c may distract.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 262,
+        "id": "q262",
+        "type": "mot_dap_an",
+        "question": "What is the primary role of sound effects in film production?",
+        "options": {
+          "a": "To provide background music",
+          "b": "To simulate realistic sounds",
+          "c": "To replace dialogue",
+          "d": "To define narrative structure"
+        },
+        "answer": "b",
+        "explanation": "Sound effects enhance realism.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 263,
+        "id": "q263",
+        "type": "dien_khuyet",
+        "question": "The conclusions were scientifically ... (justify), supporting the initial hypothesis.",
+        "answer": "justified",
+        "explanation": "Passive adjective form.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 264,
+        "id": "q264",
+        "type": "mot_dap_an",
+        "question": "If a student calculates 7/8 of 80 as 87, what conceptual misunderstanding is evident?",
+        "options": {
+          "a": "Confusion between addition and multiplication",
+          "b": "Incorrect simplification",
+          "c": "Division mistake",
+          "d": "Numerator reversal"
+        },
+        "answer": "a",
+        "explanation": "“of” misinterpreted.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 265,
+        "id": "q265",
+        "type": "sap_xep",
+        "question": "Arrange the sequence of refraction:",
+        "muc": [
+          "(1) Light enters new medium",
+          "(2) Speed changes",
+          "(3) Direction changes"
+        ],
+        "answer": [
+          "(1) Light enters new medium",
+          "(2) Speed changes",
+          "(3) Direction changes"
+        ],
+        "explanation": "Speed change leads to bending.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 266,
+        "id": "q266",
+        "type": "mot_dap_an",
+        "question": "A film described as \"structurally inconsistent\" likely suffers from:",
+        "options": {
+          "a": "visual issues",
+          "b": "plot inconsistency",
+          "c": "sound problems",
+          "d": "lighting issues"
+        },
+        "answer": "b",
+        "explanation": "Structure relates to plot.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 267,
+        "id": "q267",
+        "type": "mot_dap_an",
+        "question": "Why do improper fractions represent values greater than one?",
+        "options": {
+          "a": "Denominator is larger",
+          "b": "Numerator exceeds denominator",
+          "c": "They are decimals",
+          "d": "They cannot be simplified"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 268,
+        "id": "q268",
+        "type": "dropdown",
+        "question": "The film was widely [[recognized|recognizing|recognize]] for its originality, leaving critics [[impressed|impressing|impress]].",
+        "answer": "recognized, impressed",
+        "explanation": "Passive + feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 269,
+        "id": "q269",
+        "type": "mot_dap_an",
+        "question": "Which policy best reduces environmental pollution?",
+        "options": {
+          "a": "Ignoring emissions",
+          "b": "Regulating industries",
+          "c": "Increasing plastic use",
+          "d": "Reducing recycling"
+        },
+        "answer": "b",
+        "explanation": "System control.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 270,
+        "id": "q270",
+        "type": "listening",
+        "question": "What conclusion can be drawn?",
+        "audio_text": "Although individuals play a role in reducing waste, significant environmental improvements depend largely on policy and industrial responsibility.",
+        "options": {
+          "a": "Individuals are unimportant",
+          "b": "System-level action is essential",
+          "c": "Recycling is useless",
+          "d": "Pollution cannot be reduced"
+        },
+        "answer": "b",
+        "explanation": "Focus on policy.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 271,
+        "id": "q271",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Refraction explains how light bends when passing through materials of different densities.",
+        "explanation": "Stress: reFRACtion, DENsities.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 272,
+        "id": "q272",
+        "type": "mot_dap_an",
+        "question": "A film described as \"emotionally detached\" suggests:",
+        "options": {
+          "a": "Strong emotional connection",
+          "b": "Weak emotional engagement",
+          "c": "Strong visuals",
+          "d": "Good pacing"
+        },
+        "answer": "b",
+        "explanation": "Detached = lack of emotion.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 273,
+        "id": "q273",
+        "type": "mot_dap_an",
+        "question": "Which term refers to the storyline?",
+        "options": {
+          "a": "setting",
+          "b": "plot",
+          "c": "cast",
+          "d": "soundtrack"
+        },
+        "answer": "b",
+        "explanation": "Plot.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 274,
+        "id": "q274",
+        "type": "dropdown",
+        "question": "The lecture was [[stimulating|stimulated|stimulate]], making students [[engaged|engaging|engage]].",
+        "answer": "stimulating, engaged",
+        "explanation": "Cause vs feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 275,
+        "id": "q275",
+        "type": "mot_dap_an",
+        "question": "Which sentence is correct?",
+        "options": {
+          "a": "The data was analyze",
+          "b": "The data were analyzed",
+          "c": "The data analyzed",
+          "d": "The data is analyzed yesterday"
+        },
+        "answer": "b",
+        "explanation": "Plural + were + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 276,
+        "id": "q276",
+        "type": "mot_dap_an",
+        "question": "Which fraction is greater than 1?",
+        "options": {
+          "a": "2/9",
+          "b": "3/8",
+          "c": "9/4",
+          "d": "1/5"
+        },
+        "answer": "c",
+        "explanation": "Improper fraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 277,
+        "id": "q277",
+        "type": "mot_dap_an",
+        "question": "When light enters a denser medium, what occurs?",
+        "options": {
+          "a": "Speed increases",
+          "b": "Speed decreases and bends",
+          "c": "Stops",
+          "d": "Reflects only"
+        },
+        "answer": "b",
+        "explanation": "Refraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 278,
+        "id": "q278",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Recycling contributes to environmental damage.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Opposite.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 279,
+        "id": "q279",
+        "type": "mot_dap_an",
+        "question": "Which action supports sustainability?",
+        "options": {
+          "a": "Burning waste",
+          "b": "Recycling",
+          "c": "Dumping waste",
+          "d": "Ignoring pollution"
+        },
+        "answer": "b",
+        "explanation": "Correct.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 280,
+        "id": "q280",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "Despite its innovative visuals, the film lacks originality in its storyline, making it less engaging.",
+        "options": {
+          "a": "The film is original",
+          "b": "The film lacks originality",
+          "c": "The film is too long",
+          "d": "The acting is poor"
+        },
+        "answer": "b",
+        "explanation": "Predictable narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 281,
+        "id": "q281",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Environmental sustainability requires coordinated efforts across multiple sectors.",
+        "explanation": "Stress: susTAINability, COordinated.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 282,
+        "id": "q282",
+        "type": "nhieu_dap_an",
+        "question": "Which actions are environmentally responsible?",
+        "options": {
+          "a": "Reducing waste",
+          "b": "Recycling",
+          "c": "Burning plastic",
+          "d": "Reusing items"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c harmful.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 283,
+        "id": "q283",
+        "type": "mot_dap_an",
+        "question": "What does \"audience engagement\" mean?",
+        "options": {
+          "a": "Actor performance",
+          "b": "Viewer involvement",
+          "c": "Film length",
+          "d": "Sound quality"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 284,
+        "id": "q284",
+        "type": "dien_khuyet",
+        "question": "The explanation was ... (convince), making the argument strong.",
+        "answer": "convincing",
+        "explanation": "Cause → convincing.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 285,
+        "id": "q285",
+        "type": "mot_dap_an",
+        "question": "What is refraction?",
+        "options": {
+          "a": "Light reflection",
+          "b": "Light bending due to speed change",
+          "c": "Light absorption",
+          "d": "Light stopping"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 286,
+        "id": "q286",
+        "type": "noi",
+        "question": "Match terms",
+        "leftCol": [
+          "plot",
+          "setting"
+        ],
+        "rightCol": [
+          "storyline",
+          "time and place"
+        ],
+        "answer": {
+          "plot": "storyline",
+          "setting": "time and place"
+        },
+        "explanation": "Correct.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 287,
+        "id": "q287",
+        "type": "mot_dap_an",
+        "question": "Which is NOT sustainable?",
+        "options": {
+          "a": "Recycling",
+          "b": "Reusing",
+          "c": "Dumping waste",
+          "d": "Reducing plastic"
+        },
+        "answer": "c",
+        "explanation": "Pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 288,
+        "id": "q288",
+        "type": "listening",
+        "question": "What is the main idea?",
+        "audio_text": "Protecting the environment requires both individual responsibility and strong governmental policies.",
+        "options": {
+          "a": "Only individuals matter",
+          "b": "Only government matters",
+          "c": "Both are necessary",
+          "d": "Environment is unimportant"
+        },
+        "answer": "c",
+        "explanation": "Combined approach.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 289,
+        "id": "q289",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The film was critically acclaimed for its compelling narrative and strong performances.",
+        "explanation": "Stress: acCLAIMED, comPELling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 290,
+        "id": "q290",
+        "type": "mot_dap_an",
+        "question": "What does \"cast\" mean?",
+        "options": {
+          "a": "viewers",
+          "b": "actors",
+          "c": "music",
+          "d": "story"
+        },
+        "answer": "b",
+        "explanation": "Actors.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 291,
+        "id": "q291",
+        "type": "mot_dap_an",
+        "question": "Which is correct?",
+        "options": {
+          "a": "I am boring",
+          "b": "The film is bored",
+          "c": "I am bored",
+          "d": "The film is bore"
+        },
+        "answer": "c",
+        "explanation": "Correct usage.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 292,
+        "id": "q292",
+        "type": "mot_dap_an",
+        "question": "What does pacing affect?",
+        "options": {
+          "a": "sound",
+          "b": "story speed",
+          "c": "actors",
+          "d": "setting"
+        },
+        "answer": "b",
+        "explanation": "Narrative speed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 293,
+        "id": "q293",
+        "type": "dropdown",
+        "question": "The documentary was [[informative|informed|inform]], making viewers [[interested|interesting|interest]].",
+        "answer": "informative, interested",
+        "explanation": "Cause vs feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 294,
+        "id": "q294",
+        "type": "mot_dap_an",
+        "question": "Which passive is correct?",
+        "options": {
+          "a": "The theory was prove",
+          "b": "The theory was proven",
+          "c": "The theory proven",
+          "d": "The theory is proven yesterday"
+        },
+        "answer": "b",
+        "explanation": "was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 295,
+        "id": "q295",
+        "type": "mot_dap_an",
+        "question": "Which fraction is less than 1?",
+        "options": {
+          "a": "8/3",
+          "b": "5/2",
+          "c": "2/5",
+          "d": "9/2"
+        },
+        "answer": "c",
+        "explanation": "Proper fraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 296,
+        "id": "q296",
+        "type": "mot_dap_an",
+        "question": "When light slows down, what happens?",
+        "options": {
+          "a": "reflection",
+          "b": "refraction",
+          "c": "disappear",
+          "d": "stop"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 297,
+        "id": "q297",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Reusing materials increases waste.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Opposite.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 298,
+        "id": "q298",
+        "type": "mot_dap_an",
+        "question": "Which is eco-friendly?",
+        "options": {
+          "a": "burning waste",
+          "b": "recycling",
+          "c": "dumping trash",
+          "d": "ignoring pollution"
+        },
+        "answer": "b",
+        "explanation": "Correct.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 299,
+        "id": "q299",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "The film’s lack of originality makes it less engaging despite its strong technical features.",
+        "options": {
+          "a": "The film is original",
+          "b": "The film lacks originality",
+          "c": "The film is long",
+          "d": "The acting is weak"
+        },
+        "answer": "b",
+        "explanation": "Predictable.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 300,
+        "id": "q300",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Sustainable development is essential for ensuring long-term environmental protection.",
+        "explanation": "Stress: susTAINable, deVELopment.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 301,
+        "id": "q301",
+        "type": "mot_dap_an",
+        "question": "A film theorist states: \"When spectacle dominates substance, cinema risks becoming visually impressive but intellectually hollow.\" What is the most accurate interpretation?",
+        "options": {
+          "a": "Visual effects enhance intellectual depth",
+          "b": "Overemphasis on visuals weakens meaningful content",
+          "c": "Films should avoid visual design",
+          "d": "Intellectual films lack visuals"
+        },
+        "answer": "b",
+        "explanation": "Statement criticizes imbalance: visuals > substance.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 302,
+        "id": "q302",
+        "type": "mot_dap_an",
+        "question": "In narrative theory, how does \"pacing\" influence audience engagement?",
+        "options": {
+          "a": "It determines filming location",
+          "b": "It controls the speed of story progression",
+          "c": "It defines character roles",
+          "d": "It replaces dialogue"
+        },
+        "answer": "b",
+        "explanation": "Pacing = speed of narrative delivery.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 303,
+        "id": "q303",
+        "type": "dropdown",
+        "question": "The results were [[remarkable|remarkably|remark]], leaving scientists [[astonished|astonishing|astonish]] by the findings.",
+        "answer": "remarkable, astonished",
+        "explanation": "Results cause; scientists feel.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 304,
+        "id": "q304",
+        "type": "mot_dap_an",
+        "question": "Which sentence correctly uses passive voice in a formal academic context?",
+        "options": {
+          "a": "Researchers have analyze the data.",
+          "b": "The data has been analyzed.",
+          "c": "The data analyzed.",
+          "d": "The data is analyze."
+        },
+        "answer": "b",
+        "explanation": "Present perfect passive.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 305,
+        "id": "q305",
+        "type": "mot_dap_an",
+        "question": "A student argues that 25/5 is a proper fraction because it equals 5. Why is this incorrect?",
+        "options": {
+          "a": "Proper fractions must be less than one",
+          "b": "Fractions cannot equal whole numbers",
+          "c": "Denominators must be larger",
+          "d": "Improper fractions do not exist"
+        },
+        "answer": "a",
+        "explanation": "25/5 >1 → improper.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 306,
+        "id": "q306",
+        "type": "mot_dap_an",
+        "question": "When light passes from a denser medium to a less dense medium, what happens?",
+        "options": {
+          "a": "It slows down",
+          "b": "It speeds up and bends away from normal",
+          "c": "It stops",
+          "d": "It reflects completely"
+        },
+        "answer": "b",
+        "explanation": "Lower density → higher speed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 307,
+        "id": "q307",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The audience is responsible for producing the film.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Audience = viewers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 308,
+        "id": "q308",
+        "type": "mot_dap_an",
+        "question": "Which global strategy is most effective for environmental protection?",
+        "options": {
+          "a": "Individual recycling only",
+          "b": "International environmental agreements",
+          "c": "Ignoring emissions",
+          "d": "Increasing plastic production"
+        },
+        "answer": "b",
+        "explanation": "Global cooperation needed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 309,
+        "id": "q309",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "Although the film demonstrates technical mastery, its lack of narrative originality limits its impact on audiences.",
+        "options": {
+          "a": "The film is original",
+          "b": "The film lacks originality",
+          "c": "The visuals are weak",
+          "d": "The acting is poor"
+        },
+        "answer": "b",
+        "explanation": "Explicit implication.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 310,
+        "id": "q310",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The experiment was conducted to examine how light behaves under varying conditions.",
+        "explanation": "Stress: conDUCTed, exAMine, conDI tions.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 311,
+        "id": "q311",
+        "type": "nhieu_dap_an",
+        "question": "Which factors contribute to a successful film?",
+        "options": {
+          "a": "Engaging storyline",
+          "b": "Strong character development",
+          "c": "Overuse of effects",
+          "d": "Clear thematic message"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c is distractor.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 312,
+        "id": "q312",
+        "type": "mot_dap_an",
+        "question": "What is the role of graphics in films?",
+        "options": {
+          "a": "To create sound",
+          "b": "To provide visual elements",
+          "c": "To define plot",
+          "d": "To replace actors"
+        },
+        "answer": "b",
+        "explanation": "Graphics = visuals.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 313,
+        "id": "q313",
+        "type": "dien_khuyet",
+        "question": "The conclusions were scientifically ... (support), strengthening the argument.",
+        "answer": "supported",
+        "explanation": "Passive adjective.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 314,
+        "id": "q314",
+        "type": "mot_dap_an",
+        "question": "If a student calculates 6/7 of 70 as 76, what error is present?",
+        "options": {
+          "a": "Addition instead of multiplication",
+          "b": "Division mistake",
+          "c": "Simplification error",
+          "d": "Numerator reversal"
+        },
+        "answer": "a",
+        "explanation": "“of” misinterpreted.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 315,
+        "id": "q315",
+        "type": "sap_xep",
+        "question": "Arrange refraction process:",
+        "muc": [
+          "(1) Light enters medium",
+          "(2) Speed changes",
+          "(3) Direction changes"
+        ],
+        "answer": [
+          "(1) Light enters medium",
+          "(2) Speed changes",
+          "(3) Direction changes"
+        ],
+        "explanation": "Correct order.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 316,
+        "id": "q316",
+        "type": "mot_dap_an",
+        "question": "A film described as \"narratively fragmented\" likely suffers from:",
+        "options": {
+          "a": "visual issues",
+          "b": "plot inconsistency",
+          "c": "sound problems",
+          "d": "acting issues"
+        },
+        "answer": "b",
+        "explanation": "Narrative fragmentation.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 317,
+        "id": "q317",
+        "type": "mot_dap_an",
+        "question": "Why are improper fractions greater than one?",
+        "options": {
+          "a": "Denominator larger",
+          "b": "Numerator exceeds denominator",
+          "c": "They are decimals",
+          "d": "They are simplified"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 318,
+        "id": "q318",
+        "type": "dropdown",
+        "question": "The film was widely [[acclaimed|acclaiming|acclaim]] by critics, leaving audiences [[impressed|impressing|impress]].",
+        "answer": "acclaimed, impressed",
+        "explanation": "Passive + feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 319,
+        "id": "q319",
+        "type": "mot_dap_an",
+        "question": "Which policy reduces pollution most effectively?",
+        "options": {
+          "a": "Ignoring waste",
+          "b": "Regulating industries",
+          "c": "Increasing plastic use",
+          "d": "Reducing recycling"
+        },
+        "answer": "b",
+        "explanation": "System-level control.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 320,
+        "id": "q320",
+        "type": "listening",
+        "question": "What conclusion can be drawn?",
+        "audio_text": "Significant environmental improvements require coordinated efforts between governments, industries, and individuals.",
+        "options": {
+          "a": "Individuals alone are enough",
+          "b": "Cooperation is essential",
+          "c": "Government is unnecessary",
+          "d": "Recycling is useless"
+        },
+        "answer": "b",
+        "explanation": "Key idea: cooperation.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 321,
+        "id": "q321",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Refraction occurs when light changes speed as it passes through different materials.",
+        "explanation": "Stress: reFRACtion, MAterials.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 322,
+        "id": "q322",
+        "type": "mot_dap_an",
+        "question": "A film described as \"emotionally resonant\" suggests:",
+        "options": {
+          "a": "Weak emotional impact",
+          "b": "Strong emotional connection",
+          "c": "Poor visuals",
+          "d": "Fast pacing"
+        },
+        "answer": "b",
+        "explanation": "Resonant = strong connection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 323,
+        "id": "q323",
+        "type": "mot_dap_an",
+        "question": "Which term refers to the storyline?",
+        "options": {
+          "a": "setting",
+          "b": "plot",
+          "c": "cast",
+          "d": "soundtrack"
+        },
+        "answer": "b",
+        "explanation": "Plot.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 324,
+        "id": "q324",
+        "type": "dropdown",
+        "question": "The lecture was [[engaging|engaged|engage]], making students [[motivated|motivating|motivate]].",
+        "answer": "engaging, motivated",
+        "explanation": "Cause vs feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 325,
+        "id": "q325",
+        "type": "mot_dap_an",
+        "question": "Which sentence is correct?",
+        "options": {
+          "a": "The data was analyze",
+          "b": "The data were analyzed",
+          "c": "The data analyzed",
+          "d": "The data is analyzed yesterday"
+        },
+        "answer": "b",
+        "explanation": "Plural noun.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 326,
+        "id": "q326",
+        "type": "mot_dap_an",
+        "question": "Which fraction is greater than 1?",
+        "options": {
+          "a": "2/3",
+          "b": "3/5",
+          "c": "10/4",
+          "d": "1/6"
+        },
+        "answer": "c",
+        "explanation": "Improper fraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 327,
+        "id": "q327",
+        "type": "mot_dap_an",
+        "question": "When light enters a denser medium, what happens?",
+        "options": {
+          "a": "Speed increases",
+          "b": "Speed decreases",
+          "c": "Stops",
+          "d": "Reflects only"
+        },
+        "answer": "b",
+        "explanation": "Refraction rule.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 328,
+        "id": "q328",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Recycling is harmful to the environment.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Opposite.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 329,
+        "id": "q329",
+        "type": "mot_dap_an",
+        "question": "Which is eco-friendly?",
+        "options": {
+          "a": "burning waste",
+          "b": "recycling",
+          "c": "dumping trash",
+          "d": "ignoring pollution"
+        },
+        "answer": "b",
+        "explanation": "Correct.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 330,
+        "id": "q330",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "The film’s lack of originality weakens its impact despite strong technical elements.",
+        "options": {
+          "a": "The film is original",
+          "b": "The film lacks originality",
+          "c": "The film is long",
+          "d": "The acting is poor"
+        },
+        "answer": "b",
+        "explanation": "Predictable.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 331,
+        "id": "q331",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Environmental protection requires sustainable and coordinated action.",
+        "explanation": "Stress: proTECtion, coORdinated.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 332,
+        "id": "q332",
+        "type": "nhieu_dap_an",
+        "question": "Which actions are sustainable?",
+        "options": {
+          "a": "Reducing waste",
+          "b": "Recycling",
+          "c": "Burning plastic",
+          "d": "Reusing"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c harmful.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 333,
+        "id": "q333",
+        "type": "mot_dap_an",
+        "question": "What does \"audience engagement\" mean?",
+        "options": {
+          "a": "Actor performance",
+          "b": "Viewer involvement",
+          "c": "Film duration",
+          "d": "Sound quality"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 334,
+        "id": "q334",
+        "type": "dien_khuyet",
+        "question": "The explanation was ... (persuade), convincing the audience.",
+        "answer": "persuasive",
+        "explanation": "Adjective form.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 335,
+        "id": "q335",
+        "type": "mot_dap_an",
+        "question": "What is refraction?",
+        "options": {
+          "a": "Reflection",
+          "b": "Bending due to speed change",
+          "c": "Absorption",
+          "d": "Stopping"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 336,
+        "id": "q336",
+        "type": "noi",
+        "question": "Match terms",
+        "leftCol": [
+          "numerator",
+          "denominator"
+        ],
+        "rightCol": [
+          "top number",
+          "bottom number"
+        ],
+        "answer": {
+          "numerator": "top number",
+          "denominator": "bottom number"
+        },
+        "explanation": "Correct.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 337,
+        "id": "q337",
+        "type": "mot_dap_an",
+        "question": "Which is NOT sustainable?",
+        "options": {
+          "a": "Recycling",
+          "b": "Reusing",
+          "c": "Dumping waste",
+          "d": "Reducing plastic"
+        },
+        "answer": "c",
+        "explanation": "Pollution.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 338,
+        "id": "q338",
+        "type": "listening",
+        "question": "What is the main idea?",
+        "audio_text": "Long-term environmental protection depends on sustainable practices and global cooperation.",
+        "options": {
+          "a": "Only individuals matter",
+          "b": "Only government matters",
+          "c": "Cooperation is essential",
+          "d": "Environment is unimportant"
+        },
+        "answer": "c",
+        "explanation": "Key idea.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 339,
+        "id": "q339",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "The film was praised for its emotional depth and compelling narrative.",
+        "explanation": "Stress: eMOtional, comPELling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 340,
+        "id": "q340",
+        "type": "mot_dap_an",
+        "question": "What does \"cast\" refer to?",
+        "options": {
+          "a": "viewers",
+          "b": "actors",
+          "c": "music",
+          "d": "story"
+        },
+        "answer": "b",
+        "explanation": "Actors.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 341,
+        "id": "q341",
+        "type": "mot_dap_an",
+        "question": "Which is correct?",
+        "options": {
+          "a": "I am boring",
+          "b": "The film is bored",
+          "c": "I am bored",
+          "d": "The film is bore"
+        },
+        "answer": "c",
+        "explanation": "Correct usage.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 342,
+        "id": "q342",
+        "type": "mot_dap_an",
+        "question": "What does pacing affect?",
+        "options": {
+          "a": "sound",
+          "b": "story speed",
+          "c": "actors",
+          "d": "setting"
+        },
+        "answer": "b",
+        "explanation": "Narrative speed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 343,
+        "id": "q343",
+        "type": "dropdown",
+        "question": "The documentary was [[informative|informed|inform]], making viewers [[interested|interesting|interest]].",
+        "answer": "informative, interested",
+        "explanation": "Cause vs feeling.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 344,
+        "id": "q344",
+        "type": "mot_dap_an",
+        "question": "Which passive is correct?",
+        "options": {
+          "a": "The theory was prove",
+          "b": "The theory was proven",
+          "c": "The theory proven",
+          "d": "The theory is proven yesterday"
+        },
+        "answer": "b",
+        "explanation": "was + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 345,
+        "id": "q345",
+        "type": "mot_dap_an",
+        "question": "Which fraction is less than 1?",
+        "options": {
+          "a": "9/4",
+          "b": "7/3",
+          "c": "3/5",
+          "d": "8/2"
+        },
+        "answer": "c",
+        "explanation": "Proper fraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 346,
+        "id": "q346",
+        "type": "mot_dap_an",
+        "question": "When light slows down, what occurs?",
+        "options": {
+          "a": "reflection",
+          "b": "refraction",
+          "c": "disappear",
+          "d": "stop"
+        },
+        "answer": "b",
+        "explanation": "Definition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 347,
+        "id": "q347",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Reusing materials increases pollution.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Opposite.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 348,
+        "id": "q348",
+        "type": "mot_dap_an",
+        "question": "Which is eco-friendly?",
+        "options": {
+          "a": "burning waste",
+          "b": "recycling",
+          "c": "dumping trash",
+          "d": "ignoring pollution"
+        },
+        "answer": "b",
+        "explanation": "Correct.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 349,
+        "id": "q349",
+        "type": "listening",
+        "question": "What is implied?",
+        "audio_text": "The predictable storyline weakens the film’s impact despite strong visuals.",
+        "options": {
+          "a": "The film is original",
+          "b": "The film lacks originality",
+          "c": "The film is long",
+          "d": "The acting is poor"
+        },
+        "answer": "b",
+        "explanation": "Predictable.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 350,
+        "id": "q350",
+        "type": "speaking",
+        "question": "Read aloud:",
+        "answer": "Sustainable development ensures the balance between economic growth and environmental protection.",
+        "explanation": "Stress: susTAINable, eCONomic, proTECtion.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
   }
 ]
-
 
 
 
