@@ -1076,6 +1076,64 @@
       {
         "number": 1,
         "id": "q1",
+        "type": "sap_xep",
+        "question": "Hãy sắp xếp các đoạn sau để hoàn thành nội dung trả lời về việc tiếp thu văn hóa:",
+        "muc": [
+          "(1) Em không đồng ý, vì:",
+          "(2) Người Việt tiếp thu 1 cách sáng tạo chứ không phải không có chọn lọc, ví dụ sáng tạo ra chữ Nôm dựa trên chữ Hán.",
+          "(3) Người Việt vẫn bảo tồn các phong tục riêng như: tục nhuộm răng, ăn trầu, xăm mình, búi tóc, thờ cúng tổ tiên."
+        ],
+        "answer": [
+          "(1) Em không đồng ý, vì:",
+          "(2) Người Việt tiếp thu 1 cách sáng tạo chứ không phải không có chọn lọc, ví dụ sáng tạo ra chữ Nôm dựa trên chữ Hán.",
+          "(3) Người Việt vẫn bảo tồn các phong tục riêng như: tục nhuộm răng, ăn trầu, xăm mình, búi tóc, thờ cúng tổ tiên."
+        ],
+        "explanation": "Nội dung giữ nguyên bản gốc từ tài liệu, sắp xếp theo trình tự lập luận: Khẳng định thái độ -> Lý lẽ về tính sáng tạo -> Minh chứng về sự bảo tồn phong tục.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "sap_xep",
+        "question": "Hãy sắp xếp các ý sau theo đúng cấu trúc phân tích về khởi nghĩa Hai Bà Trưng:",
+        "muc": [
+          "(1) Mục tiêu khởi nghĩa Hai Bà Trưng: + Đánh bại quân Đông Hán. + Giành độc lập cho dân tộc. + Trả thù cho chồng là Thi Sách",
+          "(2) Ý nghĩa khởi nghĩa Hai Bà Trưng: + Là cuộc khởi nghĩa lớn đầu tiên trong thời kỳ Bắc Thuộc.",
+          "(3) + Thể hiện tinh thần yêu nước của nhân dân ta. + Thể hiện vai trò của người phụ nữ đối với lịch sử dân tộc."
+        ],
+        "answer": [
+          "(1) Mục tiêu khởi nghĩa Hai Bà Trưng: + Đánh bại quân Đông Hán. + Giành độc lập cho dân tộc. + Trả thù cho chồng là Thi Sách",
+          "(2) Ý nghĩa khởi nghĩa Hai Bà Trưng: + Là cuộc khởi nghĩa lớn đầu tiên trong thời kỳ Bắc Thuộc.",
+          "(3) + Thể hiện tinh thần yêu nước của nhân dân ta. + Thể hiện vai trò của người phụ nữ đối với lịch sử dân tộc."
+        ],
+        "explanation": "Sắp xếp các dòng nội dung nguyên bản để học sinh nắm rõ các mục tiêu cụ thể và các tầng ý nghĩa của cuộc khởi nghĩa.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "sap_xep",
+        "question": "Hãy sắp xếp các thành phần sau để hoàn chỉnh phần trình bày về chiến thắng Bạch Đằng năm 938:",
+        "muc": [
+          "(1) - Chiến thuật “ lợi dụng thủy triều để đánh cọc trên sông, sau đó dụ giặc vào bãi cọc ngầm và tập kích đánh giặc.",
+          "(2) - Ý nghĩa trận Bạch Đằng năm 938 là chấm dứt thời kỳ Bắc Thuộc",
+          "(3) mở ra thời kỳ độc lập, tự chủ lâu dài cho dân tộc ta."
+        ],
+        "answer": [
+          "(1) - Chiến thuật “ lợi dụng thủy triều để đánh cọc trên sông, sau đó dụ giặc vào bãi cọc ngầm và tập kích đánh giặc.",
+          "(2) - Ý nghĩa trận Bạch Đằng năm 938 là chấm dứt thời kỳ Bắc Thuộc",
+          "(3) mở ra thời kỳ độc lập, tự chủ lâu dài cho dân tộc ta."
+        ],
+        "explanation": "Nội dung được chia nhỏ từ bản gốc giúp học sinh ghi nhớ cấu trúc: mô tả chiến thuật -> kết quả trực tiếp (chấm dứt Bắc thuộc) -> giá trị lâu dài (độc lập tự chủ).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+
+      {
+        "number": 1,
+        "id": "q1",
         "type": "mot_dap_an",
         "question": "Trước âm mưu đồng hóa của phương bắc, người Việt đã",
         "options": {
