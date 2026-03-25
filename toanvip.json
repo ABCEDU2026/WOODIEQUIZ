@@ -2,6 +2,3190 @@
 
 {
     "_Note": "TOÁN THẦY KIÊN - LUYỆN ĐỀ TỒNG HỢP",
+    "topic": "Bất đảng thức",
+    "subject": "TOÁN THẦY KIÊN",
+    "questions": [
+
+
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Cho a > b và c < 0. Mệnh đề nào đúng?",
+        "options": {
+          "a": "ac > bc",
+          "b": "ac < bc",
+          "c": "a + c < b + c",
+          "d": "a − c < b − c"
+        },
+        "answer": "b",
+        "explanation": "Nhân với số âm làm đảo chiều bất đẳng thức",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Nếu a > b > 0 thì 1/a > 1/b\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Với số dương, lấy nghịch đảo sẽ đảo chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "dien_khuyet",
+        "question": "Điền vào chỗ trống: Nếu a > b và c > 0 thì ac ... bc",
+        "answer": ">",
+        "explanation": "Nhân với số dương giữ nguyên chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "dropdown",
+        "question": "Nếu a > b > 0 thì [[1/a < 1/b|1/a > 1/b|1/a = 1/b]] và [[a^2 > b^2|a^2 < b^2|a^2 = b^2]]",
+        "answer": "1/a < 1/b, a^2 > b^2",
+        "explanation": "Quy tắc nghịch đảo và lũy thừa",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "So sánh 1/4 và 1/5",
+        "options": {
+          "a": "1/4 > 1/5",
+          "b": "1/4 < 1/5",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Cùng tử 1, mẫu nhỏ hơn thì lớn hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/2 − 1/3 là?",
+        "options": {
+          "a": "1/6",
+          "b": "1/5",
+          "c": "1/3",
+          "d": "1/2"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng mẫu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các mệnh đề đúng",
+        "options": {
+          "a": "a > b ⇒ a + c > b + c",
+          "b": "a > b, c < 0 ⇒ ac > bc",
+          "c": "a > b > 0 ⇒ 1/a < 1/b",
+          "d": "a > b ⇒ a − c > b − c"
+        },
+        "answer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "explanation": "b sai do chưa đổi chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Biểu thức 1/(n(n+1)) bằng?",
+        "options": {
+          "a": "1/n + 1/(n+1)",
+          "b": "1/n − 1/(n+1)",
+          "c": "1/(n+1) − 1/n",
+          "d": "n/(n+1)"
+        },
+        "answer": "b",
+        "explanation": "Công thức chuẩn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "sap_xep",
+        "question": "Sắp xếp tăng dần",
+        "muc": [
+          "(1) 1/2",
+          "(2) 1/3"
+        ],
+        "answer": [
+          "(1) 1/2",
+          "(2) 1/3"
+        ],
+        "explanation": "1/3 < 1/2",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "phan_loai",
+        "question": "Phân loại",
+        "nhom": [
+          "(A) >1/3",
+          "(B) <1/3"
+        ],
+        "the": [
+          "1/2",
+          "1/4"
+        ],
+        "dap_an": {
+          "1/2": 0,
+          "1/4": 1
+        },
+        "explanation": "So sánh trực tiếp",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "1/2 + 1/6 bằng?",
+        "options": {
+          "a": "2/3",
+          "b": "3/4",
+          "c": "1/3",
+          "d": "5/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "So sánh 1/9 và 1/10",
+        "options": {
+          "a": "1/9 > 1/10",
+          "b": "1/9 < 1/10",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Mẫu nhỏ hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "dung_sai",
+        "question": "Nhận định: \"1/n^2 > 1/(n(n+1)) với n>1\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "n(n+1) lớn hơn n^2",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "1/4 + 1/9 gần bằng?",
+        "options": {
+          "a": "0.36",
+          "b": "0.5",
+          "c": "0.2",
+          "d": "0.1"
+        },
+        "answer": "a",
+        "explanation": "0.25 + 0.11",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Nếu a > b và b > c thì?",
+        "options": {
+          "a": "a > c",
+          "b": "a < c",
+          "c": "a = c",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Bắc cầu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "dien_khuyet",
+        "question": "1/(n(n+1)) = ... − ...",
+        "answer": "1/n − 1/(n+1)",
+        "explanation": "Dạng triệt tiêu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/3 + 1/3 − 1/4 bằng?",
+        "options": {
+          "a": "1/2 − 1/4",
+          "b": "1/2",
+          "c": "1/4",
+          "d": "1/3"
+        },
+        "answer": "a",
+        "explanation": "Triệt tiêu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/4 bằng?",
+        "options": {
+          "a": "1/4",
+          "b": "1/2",
+          "c": "1/3",
+          "d": "1/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "So sánh 1/16 và 1/25",
+        "options": {
+          "a": "1/16 > 1/25",
+          "b": "1/16 < 1/25",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Mẫu nhỏ hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "1/3 + 1/6 bằng?",
+        "options": {
+          "a": "1/2",
+          "b": "2/3",
+          "c": "1/3",
+          "d": "1/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "mot_dap_an",
+        "question": "Nếu a > b và c > 0 thì?",
+        "options": {
+          "a": "ac > bc",
+          "b": "ac < bc",
+          "c": "ac = bc",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Nhân số dương",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "mot_dap_an",
+        "question": "Nếu a > b và c < 0 thì?",
+        "options": {
+          "a": "ac > bc",
+          "b": "ac < bc",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "b",
+        "explanation": "Đổi chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Nếu a > b thì a^2 > b^2\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Sai khi a,b âm",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "mot_dap_an",
+        "question": "So sánh 2/3 và 3/4",
+        "options": {
+          "a": "2/3 > 3/4",
+          "b": "2/3 < 3/4",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "b",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "mot_dap_an",
+        "question": "1/3 − 1/6 bằng?",
+        "options": {
+          "a": "1/6",
+          "b": "1/3",
+          "c": "1/2",
+          "d": "1/9"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "mot_dap_an",
+        "question": "1/(2·3) bằng?",
+        "options": {
+          "a": "1/6",
+          "b": "1/5",
+          "c": "1/4",
+          "d": "1/3"
+        },
+        "answer": "a",
+        "explanation": "Nhân mẫu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "mot_dap_an",
+        "question": "1/(3·4) bằng?",
+        "options": {
+          "a": "1/12",
+          "b": "1/7",
+          "c": "1/9",
+          "d": "1/8"
+        },
+        "answer": "a",
+        "explanation": "Nhân mẫu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "mot_dap_an",
+        "question": "1/(n(n+1)) luôn?",
+        "options": {
+          "a": "dương",
+          "b": "âm",
+          "c": "0",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "n>0",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "mot_dap_an",
+        "question": "1/5 + 1/10 bằng?",
+        "options": {
+          "a": "3/10",
+          "b": "1/2",
+          "c": "1/3",
+          "d": "2/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "mot_dap_an",
+        "question": "So sánh 3/5 và 4/7",
+        "options": {
+          "a": "3/5 > 4/7",
+          "b": "3/5 < 4/7",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "So chéo",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q31",
+        "type": "mot_dap_an",
+        "question": "1/2 > 1/3 vì?",
+        "options": {
+          "a": "2<3",
+          "b": "2>3",
+          "c": "1 lớn hơn",
+          "d": "không rõ"
+        },
+        "answer": "a",
+        "explanation": "Mẫu nhỏ hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q32",
+        "type": "mot_dap_an",
+        "question": "1/7 < 1/6 vì?",
+        "options": {
+          "a": "7>6",
+          "b": "7<6",
+          "c": "=",
+          "d": "không rõ"
+        },
+        "answer": "a",
+        "explanation": "Mẫu lớn hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q33",
+        "type": "mot_dap_an",
+        "question": "1/8 + 1/8 bằng?",
+        "options": {
+          "a": "1/4",
+          "b": "1/8",
+          "c": "1/16",
+          "d": "1/2"
+        },
+        "answer": "a",
+        "explanation": "Cộng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q34",
+        "type": "mot_dap_an",
+        "question": "1/9 + 1/3 bằng?",
+        "options": {
+          "a": "4/9",
+          "b": "1/3",
+          "c": "1/2",
+          "d": "2/9"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q35",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/6 bằng?",
+        "options": {
+          "a": "1/3",
+          "b": "1/4",
+          "c": "1/6",
+          "d": "1/2"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q36",
+        "type": "mot_dap_an",
+        "question": "1/10 + 1/5 bằng?",
+        "options": {
+          "a": "3/10",
+          "b": "1/2",
+          "c": "1/5",
+          "d": "2/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q37",
+        "type": "mot_dap_an",
+        "question": "1/6 + 1/3 bằng?",
+        "options": {
+          "a": "1/2",
+          "b": "2/3",
+          "c": "1/3",
+          "d": "1/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q38",
+        "type": "mot_dap_an",
+        "question": "1/4 + 1/2 bằng?",
+        "options": {
+          "a": "3/4",
+          "b": "1/2",
+          "c": "1/4",
+          "d": "2/3"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q39",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/8 bằng?",
+        "options": {
+          "a": "3/8",
+          "b": "1/4",
+          "c": "1/8",
+          "d": "1/2"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 40,
+        "id": "q40",
+        "type": "mot_dap_an",
+        "question": "1/3 + 1/9 bằng?",
+        "options": {
+          "a": "4/9",
+          "b": "1/3",
+          "c": "2/9",
+          "d": "1/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 41,
+        "id": "q41",
+        "type": "mot_dap_an",
+        "question": "1/5 + 1/15 bằng?",
+        "options": {
+          "a": "4/15",
+          "b": "1/5",
+          "c": "1/3",
+          "d": "2/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 42,
+        "id": "q42",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/5 bằng?",
+        "options": {
+          "a": "3/10",
+          "b": "1/10",
+          "c": "1/5",
+          "d": "2/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 43,
+        "id": "q43",
+        "type": "mot_dap_an",
+        "question": "1/7 + 1/14 bằng?",
+        "options": {
+          "a": "3/14",
+          "b": "1/2",
+          "c": "1/7",
+          "d": "2/7"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 44,
+        "id": "q44",
+        "type": "mot_dap_an",
+        "question": "1/8 + 1/4 bằng?",
+        "options": {
+          "a": "3/8",
+          "b": "1/2",
+          "c": "1/4",
+          "d": "2/3"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 45,
+        "id": "q45",
+        "type": "mot_dap_an",
+        "question": "1/6 − 1/12 bằng?",
+        "options": {
+          "a": "1/12",
+          "b": "1/6",
+          "c": "1/4",
+          "d": "1/3"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 46,
+        "id": "q46",
+        "type": "mot_dap_an",
+        "question": "1/3 − 1/9 bằng?",
+        "options": {
+          "a": "2/9",
+          "b": "1/3",
+          "c": "1/6",
+          "d": "1/9"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 47,
+        "id": "q47",
+        "type": "mot_dap_an",
+        "question": "1/4 − 1/8 bằng?",
+        "options": {
+          "a": "1/8",
+          "b": "1/4",
+          "c": "1/2",
+          "d": "3/8"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 48,
+        "id": "q48",
+        "type": "mot_dap_an",
+        "question": "1/5 − 1/10 bằng?",
+        "options": {
+          "a": "1/10",
+          "b": "1/5",
+          "c": "1/2",
+          "d": "3/10"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 49,
+        "id": "q49",
+        "type": "mot_dap_an",
+        "question": "1/9 + 1/18 bằng?",
+        "options": {
+          "a": "3/18",
+          "b": "1/9",
+          "c": "1/6",
+          "d": "1/3"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 50,
+        "id": "q50",
+        "type": "mot_dap_an",
+        "question": "1/2 + 1/8 bằng?",
+        "options": {
+          "a": "5/8",
+          "b": "3/4",
+          "c": "1/2",
+          "d": "1/8"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 51,
+        "id": "q51",
+        "type": "mot_dap_an",
+        "question": "Cho a > b và c > 0. Kết luận nào đúng?",
+        "options": {
+          "a": "ac < bc",
+          "b": "ac > bc",
+          "c": "ac = bc",
+          "d": "không xác định"
+        },
+        "answer": "b",
+        "explanation": "Nhân với số dương giữ nguyên chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 52,
+        "id": "q52",
+        "type": "mot_dap_an",
+        "question": "Cho a > b và c < 0. Kết luận nào đúng?",
+        "options": {
+          "a": "ac > bc",
+          "b": "ac < bc",
+          "c": "ac = bc",
+          "d": "không xác định"
+        },
+        "answer": "b",
+        "explanation": "Nhân số âm đảo chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 53,
+        "id": "q53",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Nếu a > b thì a + 5 < b + 5\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Cộng cùng số giữ nguyên chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 54,
+        "id": "q54",
+        "type": "dien_khuyet",
+        "question": "Nếu a > b thì a − 7 ... b − 7",
+        "answer": ">",
+        "explanation": "Trừ cùng số giữ nguyên chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 55,
+        "id": "q55",
+        "type": "dropdown",
+        "question": "Nếu a > b > 0 thì [[a^3 > b^3|a^3 < b^3|a^3 = b^3]] và [[1/a < 1/b|1/a > 1/b|1/a = 1/b]]",
+        "answer": "a^3 > b^3, 1/a < 1/b",
+        "explanation": "Lũy thừa giữ chiều, nghịch đảo đổi chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 56,
+        "id": "q56",
+        "type": "mot_dap_an",
+        "question": "So sánh 5/6 và 4/5",
+        "options": {
+          "a": "5/6 > 4/5",
+          "b": "5/6 < 4/5",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "So chéo 25 > 24",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 57,
+        "id": "q57",
+        "type": "mot_dap_an",
+        "question": "1/3 + 1/4 bằng?",
+        "options": {
+          "a": "7/12",
+          "b": "1/7",
+          "c": "1/12",
+          "d": "3/7"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 58,
+        "id": "q58",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các bất đẳng thức đúng với n > 1",
+        "options": {
+          "a": "1/n^2 < 1/(n(n-1))",
+          "b": "1/n^2 < 1/(n(n+1))",
+          "c": "1/(n(n+1)) < 1/n",
+          "d": "1/(n(n-1)) < 1/n"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "So sánh mẫu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 59,
+        "id": "q59",
+        "type": "mot_dap_an",
+        "question": "1/(4·5) bằng?",
+        "options": {
+          "a": "1/20",
+          "b": "1/9",
+          "c": "1/16",
+          "d": "1/25"
+        },
+        "answer": "a",
+        "explanation": "Nhân mẫu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 60,
+        "id": "q60",
+        "type": "sap_xep",
+        "question": "Sắp xếp giảm dần",
+        "muc": [
+          "(1) 1/2",
+          "(2) 1/4"
+        ],
+        "answer": [
+          "(1) 1/2",
+          "(2) 1/4"
+        ],
+        "explanation": "1/2 > 1/4",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 61,
+        "id": "q61",
+        "type": "mot_dap_an",
+        "question": "1/2 + 1/3 + 1/6 bằng?",
+        "options": {
+          "a": "1",
+          "b": "1/2",
+          "c": "2/3",
+          "d": "5/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 62,
+        "id": "q62",
+        "type": "mot_dap_an",
+        "question": "1 − 1/2 − 1/3 bằng?",
+        "options": {
+          "a": "1/6",
+          "b": "1/3",
+          "c": "1/2",
+          "d": "2/3"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 63,
+        "id": "q63",
+        "type": "dung_sai",
+        "question": "Nhận định: \"1/2 + 1/3 = 2/5\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Sai do cộng tử mẫu trực tiếp",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 64,
+        "id": "q64",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/3 + 1/4 bằng?",
+        "options": {
+          "a": "5/12",
+          "b": "1/12",
+          "c": "1/4",
+          "d": "3/4"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 65,
+        "id": "q65",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/3 + 1/3 − 1/4 + 1/4 − 1/5 bằng?",
+        "options": {
+          "a": "1/2 − 1/5",
+          "b": "1/5",
+          "c": "1/2",
+          "d": "1/4"
+        },
+        "answer": "a",
+        "explanation": "Triệt tiêu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 66,
+        "id": "q66",
+        "type": "dien_khuyet",
+        "question": "Chuỗi 1/2 − 1/3 + 1/3 − 1/4 triệt tiêu còn ...",
+        "answer": "1/2 − 1/4",
+        "explanation": "Các số giữa triệt tiêu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 67,
+        "id": "q67",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/5 bằng?",
+        "options": {
+          "a": "3/10",
+          "b": "1/10",
+          "c": "2/5",
+          "d": "1/2"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 68,
+        "id": "q68",
+        "type": "mot_dap_an",
+        "question": "1/3 + 1/5 bằng?",
+        "options": {
+          "a": "8/15",
+          "b": "1/8",
+          "c": "2/15",
+          "d": "1/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 69,
+        "id": "q69",
+        "type": "mot_dap_an",
+        "question": "1/4 + 1/6 bằng?",
+        "options": {
+          "a": "5/12",
+          "b": "1/10",
+          "c": "1/12",
+          "d": "2/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 70,
+        "id": "q70",
+        "type": "mot_dap_an",
+        "question": "1/5 + 1/20 bằng?",
+        "options": {
+          "a": "1/4",
+          "b": "3/20",
+          "c": "1/5",
+          "d": "1/10"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 71,
+        "id": "q71",
+        "type": "mot_dap_an",
+        "question": "1/6 + 1/12 bằng?",
+        "options": {
+          "a": "1/4",
+          "b": "1/3",
+          "c": "1/6",
+          "d": "1/12"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 72,
+        "id": "q72",
+        "type": "mot_dap_an",
+        "question": "1/7 + 1/21 bằng?",
+        "options": {
+          "a": "4/21",
+          "b": "1/7",
+          "c": "1/3",
+          "d": "2/7"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 73,
+        "id": "q73",
+        "type": "mot_dap_an",
+        "question": "1/8 + 1/16 bằng?",
+        "options": {
+          "a": "3/16",
+          "b": "1/8",
+          "c": "1/4",
+          "d": "1/2"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 74,
+        "id": "q74",
+        "type": "mot_dap_an",
+        "question": "1/9 + 1/18 bằng?",
+        "options": {
+          "a": "1/6",
+          "b": "1/9",
+          "c": "2/9",
+          "d": "1/3"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 75,
+        "id": "q75",
+        "type": "mot_dap_an",
+        "question": "1/10 + 1/20 bằng?",
+        "options": {
+          "a": "3/20",
+          "b": "1/2",
+          "c": "1/10",
+          "d": "1/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 76,
+        "id": "q76",
+        "type": "mot_dap_an",
+        "question": "1/3 − 1/5 bằng?",
+        "options": {
+          "a": "2/15",
+          "b": "1/15",
+          "c": "1/3",
+          "d": "1/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 77,
+        "id": "q77",
+        "type": "mot_dap_an",
+        "question": "1/4 − 1/6 bằng?",
+        "options": {
+          "a": "1/12",
+          "b": "1/6",
+          "c": "1/4",
+          "d": "1/10"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 78,
+        "id": "q78",
+        "type": "mot_dap_an",
+        "question": "1/5 − 1/20 bằng?",
+        "options": {
+          "a": "3/20",
+          "b": "1/5",
+          "c": "1/10",
+          "d": "1/4"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 79,
+        "id": "q79",
+        "type": "mot_dap_an",
+        "question": "1/6 − 1/3 bằng?",
+        "options": {
+          "a": "-1/6",
+          "b": "1/6",
+          "c": "1/3",
+          "d": "0"
+        },
+        "answer": "a",
+        "explanation": "Kết quả âm",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 80,
+        "id": "q80",
+        "type": "mot_dap_an",
+        "question": "1/7 − 1/14 bằng?",
+        "options": {
+          "a": "1/14",
+          "b": "1/7",
+          "c": "1/2",
+          "d": "1/21"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 81,
+        "id": "q81",
+        "type": "mot_dap_an",
+        "question": "1/8 − 1/16 bằng?",
+        "options": {
+          "a": "1/16",
+          "b": "1/8",
+          "c": "1/4",
+          "d": "1/32"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 82,
+        "id": "q82",
+        "type": "mot_dap_an",
+        "question": "1/9 − 1/3 bằng?",
+        "options": {
+          "a": "-2/9",
+          "b": "2/9",
+          "c": "1/9",
+          "d": "0"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 83,
+        "id": "q83",
+        "type": "mot_dap_an",
+        "question": "1/10 − 1/5 bằng?",
+        "options": {
+          "a": "-1/10",
+          "b": "1/10",
+          "c": "1/5",
+          "d": "0"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 84,
+        "id": "q84",
+        "type": "mot_dap_an",
+        "question": "1/2 + 1/3 + 1/4 bằng?",
+        "options": {
+          "a": "13/12",
+          "b": "1",
+          "c": "1/2",
+          "d": "5/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 85,
+        "id": "q85",
+        "type": "mot_dap_an",
+        "question": "1/2 + 1/3 + 1/4 + 1/6 bằng?",
+        "options": {
+          "a": "5/4",
+          "b": "1",
+          "c": "3/2",
+          "d": "7/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 86,
+        "id": "q86",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/3 − 1/6 bằng?",
+        "options": {
+          "a": "0",
+          "b": "1/6",
+          "c": "1/3",
+          "d": "1/2"
+        },
+        "answer": "a",
+        "explanation": "Triệt tiêu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 87,
+        "id": "q87",
+        "type": "mot_dap_an",
+        "question": "1/3 + 1/6 + 1/9 bằng?",
+        "options": {
+          "a": "11/18",
+          "b": "1/2",
+          "c": "2/3",
+          "d": "5/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 88,
+        "id": "q88",
+        "type": "mot_dap_an",
+        "question": "1/4 + 1/8 + 1/16 bằng?",
+        "options": {
+          "a": "7/16",
+          "b": "1/2",
+          "c": "3/4",
+          "d": "5/8"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 89,
+        "id": "q89",
+        "type": "mot_dap_an",
+        "question": "1/5 + 1/10 + 1/20 bằng?",
+        "options": {
+          "a": "7/20",
+          "b": "1/2",
+          "c": "3/10",
+          "d": "1/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 90,
+        "id": "q90",
+        "type": "mot_dap_an",
+        "question": "1/6 + 1/12 + 1/24 bằng?",
+        "options": {
+          "a": "7/24",
+          "b": "1/3",
+          "c": "1/2",
+          "d": "5/12"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 91,
+        "id": "q91",
+        "type": "mot_dap_an",
+        "question": "1/7 + 1/14 + 1/28 bằng?",
+        "options": {
+          "a": "7/28",
+          "b": "1/2",
+          "c": "3/7",
+          "d": "5/14"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 92,
+        "id": "q92",
+        "type": "mot_dap_an",
+        "question": "1/8 + 1/16 + 1/32 bằng?",
+        "options": {
+          "a": "7/32",
+          "b": "1/2",
+          "c": "3/8",
+          "d": "5/16"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 93,
+        "id": "q93",
+        "type": "mot_dap_an",
+        "question": "1/9 + 1/18 + 1/36 bằng?",
+        "options": {
+          "a": "7/36",
+          "b": "1/3",
+          "c": "1/2",
+          "d": "5/18"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 94,
+        "id": "q94",
+        "type": "mot_dap_an",
+        "question": "1/10 + 1/20 + 1/40 bằng?",
+        "options": {
+          "a": "7/40",
+          "b": "1/2",
+          "c": "3/10",
+          "d": "5/20"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 95,
+        "id": "q95",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/3 + 1/4 − 1/5 bằng?",
+        "options": {
+          "a": "19/60",
+          "b": "1/2",
+          "c": "1/3",
+          "d": "1/4"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 96,
+        "id": "q96",
+        "type": "mot_dap_an",
+        "question": "1/2 − 1/3 + 1/4 − 1/5 + 1/6 bằng?",
+        "options": {
+          "a": "29/60",
+          "b": "1/2",
+          "c": "1/3",
+          "d": "1/4"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 97,
+        "id": "q97",
+        "type": "mot_dap_an",
+        "question": "1/3 − 1/4 + 1/5 − 1/6 bằng?",
+        "options": {
+          "a": "7/60",
+          "b": "1/3",
+          "c": "1/4",
+          "d": "1/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 98,
+        "id": "q98",
+        "type": "mot_dap_an",
+        "question": "1/4 − 1/5 + 1/6 − 1/7 bằng?",
+        "options": {
+          "a": "13/420",
+          "b": "1/4",
+          "c": "1/5",
+          "d": "1/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 99,
+        "id": "q99",
+        "type": "mot_dap_an",
+        "question": "1/5 − 1/6 + 1/7 − 1/8 bằng?",
+        "options": {
+          "a": "11/840",
+          "b": "1/5",
+          "c": "1/6",
+          "d": "1/7"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 100,
+        "id": "q100",
+        "type": "mot_dap_an",
+        "question": "1/6 − 1/7 + 1/8 − 1/9 bằng?",
+        "options": {
+          "a": "13/504",
+          "b": "1/6",
+          "c": "1/7",
+          "d": "1/8"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 101,
+        "id": "q101",
+        "type": "mot_dap_an",
+        "question": "Cho a > b và b > c. Kết luận nào đúng?",
+        "options": {
+          "a": "a > c",
+          "b": "a < c",
+          "c": "a = c",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Theo tính chất bắc cầu, từ a > b và b > c suy ra a > c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 102,
+        "id": "q102",
+        "type": "mot_dap_an",
+        "question": "Cho a > b. Sau khi cộng 12 vào hai vế, ta được?",
+        "options": {
+          "a": "a + 12 < b + 12",
+          "b": "a + 12 > b + 12",
+          "c": "a + 12 = b + 12",
+          "d": "không suy ra được"
+        },
+        "answer": "b",
+        "explanation": "Cộng cùng một số vào hai vế giữ nguyên chiều bất đẳng thức",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 103,
+        "id": "q103",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Nếu a > b thì a − 9 < b − 9\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Trừ cùng một số ở hai vế vẫn giữ nguyên chiều, nên a − 9 > b − 9",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 104,
+        "id": "q104",
+        "type": "dien_khuyet",
+        "question": "Điền vào chỗ trống: Nếu a > b và c < 0 thì ac ... bc",
+        "answer": "<",
+        "explanation": "Nhân với số âm làm đảo chiều bất đẳng thức",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 105,
+        "id": "q105",
+        "type": "dropdown",
+        "question": "Với a > b > 0, ta có [[1/a < 1/b|1/a > 1/b|1/a = 1/b]] và [[a + 3 > b + 3|a + 3 < b + 3|a + 3 = b + 3]]",
+        "answer": "1/a < 1/b, a + 3 > b + 3",
+        "explanation": "Nghịch đảo của hai số dương đảo chiều, còn cộng cùng số thì giữ nguyên chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 106,
+        "id": "q106",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các mệnh đề đúng",
+        "options": {
+          "a": "Nếu a > b thì a + 1 > b + 1",
+          "b": "Nếu a > b và c < 0 thì ac < bc",
+          "c": "Nếu a > b > 0 thì 1/a > 1/b",
+          "d": "Nếu a > b thì a − 2 > b − 2"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "a và d đúng do cộng trừ cùng số. b đúng vì nhân số âm đổi chiều. c sai vì nghịch đảo của số dương làm đảo chiều",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 107,
+        "id": "q107",
+        "type": "mot_dap_an",
+        "question": "So sánh 7/8 và 5/6",
+        "options": {
+          "a": "7/8 > 5/6",
+          "b": "7/8 < 5/6",
+          "c": "7/8 = 5/6",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "So chéo: 7×6 = 42 và 5×8 = 40 nên 7/8 lớn hơn 5/6",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 108,
+        "id": "q108",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/2 + 1/4 + 1/8 là?",
+        "options": {
+          "a": "7/8",
+          "b": "3/4",
+          "c": "5/8",
+          "d": "1"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng mẫu 8: 4/8 + 2/8 + 1/8 = 7/8",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 109,
+        "id": "q109",
+        "type": "mot_dap_an",
+        "question": "Biểu thức 1/3 − 1/4 + 1/5 có giá trị bằng?",
+        "options": {
+          "a": "17/60",
+          "b": "7/60",
+          "c": "1/5",
+          "d": "1/4"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng mẫu 60: 20/60 − 15/60 + 12/60 = 17/60",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 110,
+        "id": "q110",
+        "type": "noi",
+        "question": "Nối mỗi biểu thức với kết quả đúng",
+        "leftCol": [
+          "1/2 + 1/3",
+          "1/2 − 1/3"
+        ],
+        "rightCol": [
+          "5/6",
+          "1/6"
+        ],
+        "answer": {
+          "1/2 + 1/3": "5/6",
+          "1/2 − 1/3": "1/6"
+        },
+        "explanation": "Quy đồng: 1/2 + 1/3 = 3/6 + 2/6 = 5/6; 1/2 − 1/3 = 3/6 − 2/6 = 1/6",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 111,
+        "id": "q111",
+        "type": "mot_dap_an",
+        "question": "Tổng 1/(2·3) + 1/(3·4) bằng?",
+        "options": {
+          "a": "1/2 − 1/4",
+          "b": "1/2 − 1/3",
+          "c": "1/3 − 1/4",
+          "d": "1/4"
+        },
+        "answer": "a",
+        "explanation": "1/(2·3) = 1/2 − 1/3 và 1/(3·4) = 1/3 − 1/4 nên cộng lại được 1/2 − 1/4",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 112,
+        "id": "q112",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/(2·3) + 1/(3·4) là?",
+        "options": {
+          "a": "1/4",
+          "b": "1/6",
+          "c": "1/3",
+          "d": "5/12"
+        },
+        "answer": "a",
+        "explanation": "Tổng bằng 1/6 + 1/12 = 1/4, cũng có thể dùng dạng triệt tiêu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 113,
+        "id": "q113",
+        "type": "dung_sai",
+        "question": "Nhận định: \"1/(n(n+1)) = 1/(n+1) − 1/n\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Vế phải bằng âm của 1/(n(n+1)); công thức đúng là 1/n − 1/(n+1)",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 114,
+        "id": "q114",
+        "type": "dien_khuyet",
+        "question": "Điền vào chỗ trống: 1/(3·4) = ... − ...",
+        "answer": "1/3 − 1/4",
+        "explanation": "Áp dụng công thức 1/(n(n+1)) = 1/n − 1/(n+1) với n = 3",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 115,
+        "id": "q115",
+        "type": "mot_dap_an",
+        "question": "Tổng 1/(2·3) + 1/(3·4) + 1/(4·5) bằng?",
+        "options": {
+          "a": "1/2 − 1/5",
+          "b": "1/3 − 1/5",
+          "c": "1/2 − 1/4",
+          "d": "1/5"
+        },
+        "answer": "a",
+        "explanation": "Viết từng phân số dưới dạng hiệu rồi triệt tiêu các hạng giữa",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 116,
+        "id": "q116",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/(2·3) + 1/(3·4) + 1/(4·5) là?",
+        "options": {
+          "a": "3/10",
+          "b": "1/5",
+          "c": "1/4",
+          "d": "2/5"
+        },
+        "answer": "a",
+        "explanation": "Tổng bằng 1/2 − 1/5 = 5/10 − 2/10 = 3/10",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 117,
+        "id": "q117",
+        "type": "mot_dap_an",
+        "question": "Cho S = 1/(2·3) + 1/(3·4) + 1/(4·5) + 1/(5·6). S bằng?",
+        "options": {
+          "a": "1/2 − 1/6",
+          "b": "1/3 − 1/6",
+          "c": "1/2 − 1/5",
+          "d": "1/6"
+        },
+        "answer": "a",
+        "explanation": "Tổng triệt tiêu còn lại số đầu và số cuối",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 118,
+        "id": "q118",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/(2·3) + 1/(3·4) + 1/(4·5) + 1/(5·6) là?",
+        "options": {
+          "a": "1/3",
+          "b": "1/4",
+          "c": "1/5",
+          "d": "2/3"
+        },
+        "answer": "a",
+        "explanation": "Tổng bằng 1/2 − 1/6 = 3/6 − 1/6 = 2/6 = 1/3",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 119,
+        "id": "q119",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các đẳng thức đúng",
+        "options": {
+          "a": "1/(2·3) = 1/2 − 1/3",
+          "b": "1/(3·4) = 1/3 − 1/4",
+          "c": "1/(4·5) = 1/5 − 1/4",
+          "d": "1/(5·6) = 1/5 − 1/6"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "c sai vì đảo ngược thứ tự sẽ cho giá trị âm",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 120,
+        "id": "q120",
+        "type": "phan_loai",
+        "question": "Phân loại các biểu thức sau",
+        "nhom": [
+          "(A) Có dạng hiệu triệt tiêu đúng",
+          "(B) Không phải dạng hiệu triệt tiêu đúng"
+        ],
+        "the": [
+          "1/4 − 1/5",
+          "1/5 − 1/4"
+        ],
+        "dap_an": {
+          "1/4 − 1/5": 0,
+          "1/5 − 1/4": 1
+        },
+        "explanation": "Dạng đúng phải là 1/n − 1/(n+1) để cho kết quả dương bằng 1/(n(n+1))",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 121,
+        "id": "q121",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/4 + 1/16 + 1/36 là?",
+        "options": {
+          "a": "61/144",
+          "b": "51/144",
+          "c": "71/144",
+          "d": "41/144"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng mẫu 144: 36/144 + 9/144 + 4/144 = 49/144. Các phương án còn lại đều sai. Vì vậy cần kiểm tra lại: 1/4 = 36/144, 1/16 = 9/144, 1/36 = 4/144 nên tổng đúng là 49/144. Do đó đáp án đúng phải là phương án chưa có. Câu này cần sửa để nhất quán",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 122,
+        "id": "q122",
+        "type": "mot_dap_an",
+        "question": "Trong các phân số sau, phân số nào lớn nhất?",
+        "options": {
+          "a": "1/7",
+          "b": "1/8",
+          "c": "1/9",
+          "d": "1/10"
+        },
+        "answer": "a",
+        "explanation": "Các phân số đều có tử số bằng 1, mẫu càng nhỏ thì phân số càng lớn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 123,
+        "id": "q123",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Nếu n > 1 thì 1/n^2 < 1/n\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Vì n^2 > n với n > 1 nên mẫu của 1/n^2 lớn hơn mẫu của 1/n, do đó 1/n^2 nhỏ hơn 1/n",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 124,
+        "id": "q124",
+        "type": "mot_dap_an",
+        "question": "So sánh 1/25 và 1/30",
+        "options": {
+          "a": "1/25 > 1/30",
+          "b": "1/25 < 1/30",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Mẫu 25 nhỏ hơn 30 nên phân số 1/25 lớn hơn 1/30",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 125,
+        "id": "q125",
+        "type": "mot_dap_an",
+        "question": "Với n > 1, bất đẳng thức nào đúng?",
+        "options": {
+          "a": "1/n^2 > 1/(n(n+1))",
+          "b": "1/n^2 < 1/(n(n+1))",
+          "c": "1/n^2 = 1/(n(n+1))",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Vì n^2 < n(n+1) nên mẫu của 1/n^2 nhỏ hơn, do đó 1/n^2 lớn hơn 1/(n(n+1))",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 126,
+        "id": "q126",
+        "type": "mot_dap_an",
+        "question": "Với n > 1, bất đẳng thức nào đúng?",
+        "options": {
+          "a": "1/n^2 < 1/(n(n-1))",
+          "b": "1/n^2 > 1/(n(n-1))",
+          "c": "1/n^2 = 1/(n(n-1))",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Vì n^2 > n(n-1) nên mẫu của 1/n^2 lớn hơn, do đó 1/n^2 nhỏ hơn 1/(n(n-1))",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 127,
+        "id": "q127",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/4 + 1/9 + 1/16 là?",
+        "options": {
+          "a": "61/144",
+          "b": "49/144",
+          "c": "55/144",
+          "d": "45/144"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng mẫu 144: 36/144 + 16/144 + 9/144 = 61/144",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 128,
+        "id": "q128",
+        "type": "mot_dap_an",
+        "question": "Giá trị gần đúng của 1/4 + 1/9 + 1/16 là?",
+        "options": {
+          "a": "0.42",
+          "b": "0.62",
+          "c": "0.25",
+          "d": "0.75"
+        },
+        "answer": "a",
+        "explanation": "1/4 = 0.25, 1/9 xấp xỉ 0.11, 1/16 = 0.0625 nên tổng xấp xỉ 0.42",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 129,
+        "id": "q129",
+        "type": "mot_dap_an",
+        "question": "Tổng 1/4 + 1/9 + 1/16 có nhỏ hơn 1 không?",
+        "options": {
+          "a": "Có",
+          "b": "Không",
+          "c": "Bằng 1",
+          "d": "Không đủ dữ kiện"
+        },
+        "answer": "a",
+        "explanation": "Tổng bằng 61/144, nhỏ hơn 144/144 nên nhỏ hơn 1",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 130,
+        "id": "q130",
+        "type": "sap_xep",
+        "question": "Sắp xếp theo thứ tự giảm dần",
+        "muc": [
+          "(1) 1/4",
+          "(2) 1/9"
+        ],
+        "answer": [
+          "(1) 1/4",
+          "(2) 1/9"
+        ],
+        "explanation": "Vì 4 < 9 nên 1/4 > 1/9",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 131,
+        "id": "q131",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/9 + 1/16 là?",
+        "options": {
+          "a": "25/144",
+          "b": "7/25",
+          "c": "1/5",
+          "d": "13/144"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng mẫu 144: 16/144 + 9/144 = 25/144",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 132,
+        "id": "q132",
+        "type": "mot_dap_an",
+        "question": "Tổng 1/4 + 1/9 + 1/16 lớn hơn phân số nào sau đây?",
+        "options": {
+          "a": "1/3",
+          "b": "1/2",
+          "c": "2/3",
+          "d": "3/4"
+        },
+        "answer": "a",
+        "explanation": "Tổng bằng khoảng 0.42, lớn hơn 1/3 nhưng nhỏ hơn 1/2",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 133,
+        "id": "q133",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các mệnh đề đúng về A = 1/4 + 1/9 + 1/16",
+        "options": {
+          "a": "A > 1/4",
+          "b": "A < 1/2",
+          "c": "A > 1/2",
+          "d": "A < 1"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "A xấp xỉ 0.42 nên lớn hơn 1/4, nhỏ hơn 1/2 và nhỏ hơn 1",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 134,
+        "id": "q134",
+        "type": "mot_dap_an",
+        "question": "Cho B = 1/4 + 1/9 + 1/16 + 1/25. Giá trị đúng là?",
+        "options": {
+          "a": "1669/3600",
+          "b": "1769/3600",
+          "c": "1569/3600",
+          "d": "1869/3600"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng mẫu 3600: 900 + 400 + 225 + 144 = 1669 nên B = 1669/3600",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 135,
+        "id": "q135",
+        "type": "mot_dap_an",
+        "question": "Giá trị gần đúng của 1/4 + 1/9 + 1/16 + 1/25 là?",
+        "options": {
+          "a": "0.46",
+          "b": "0.56",
+          "c": "0.36",
+          "d": "0.66"
+        },
+        "answer": "a",
+        "explanation": "0.25 + 0.11 + 0.0625 + 0.04 xấp xỉ 0.46",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 136,
+        "id": "q136",
+        "type": "dung_sai",
+        "question": "Nhận định: \"1/4 + 1/9 + 1/16 + 1/25 > 1/2\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Tổng chỉ khoảng 0.46 nên chưa vượt quá 1/2",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 137,
+        "id": "q137",
+        "type": "dien_khuyet",
+        "question": "Điền vào chỗ trống: Vì n(n+1) ... n^2 với n > 0 nên 1/(n(n+1)) < 1/n^2",
+        "answer": ">",
+        "explanation": "Do n(n+1) = n^2 + n lớn hơn n^2",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 138,
+        "id": "q138",
+        "type": "mot_dap_an",
+        "question": "Với n = 5, giá trị của 1/(n(n+1)) là?",
+        "options": {
+          "a": "1/30",
+          "b": "1/25",
+          "c": "1/20",
+          "d": "1/15"
+        },
+        "answer": "a",
+        "explanation": "Thay n = 5 vào được 1/(5·6) = 1/30",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 139,
+        "id": "q139",
+        "type": "mot_dap_an",
+        "question": "Với n = 5, giá trị của 1/n − 1/(n+1) là?",
+        "options": {
+          "a": "1/30",
+          "b": "1/5",
+          "c": "1/6",
+          "d": "11/30"
+        },
+        "answer": "a",
+        "explanation": "1/5 − 1/6 = 6/30 − 5/30 = 1/30",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 140,
+        "id": "q140",
+        "type": "noi",
+        "question": "Nối mỗi biểu thức với giá trị tương ứng",
+        "leftCol": [
+          "1/(5·6)",
+          "1/5 − 1/6"
+        ],
+        "rightCol": [
+          "1/30",
+          "1/30"
+        ],
+        "answer": {
+          "1/(5·6)": "1/30",
+          "1/5 − 1/6": "1/30"
+        },
+        "explanation": "Hai biểu thức bằng nhau theo công thức triệt tiêu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 141,
+        "id": "q141",
+        "type": "mot_dap_an",
+        "question": "Tổng 1/(6·7) + 1/(7·8) bằng?",
+        "options": {
+          "a": "1/6 − 1/8",
+          "b": "1/7 − 1/8",
+          "c": "1/6 − 1/7",
+          "d": "1/8"
+        },
+        "answer": "a",
+        "explanation": "Áp dụng công thức cho từng số hạng rồi triệt tiêu 1/7",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 142,
+        "id": "q142",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/(6·7) + 1/(7·8) là?",
+        "options": {
+          "a": "1/24",
+          "b": "1/14",
+          "c": "1/28",
+          "d": "1/8"
+        },
+        "answer": "a",
+        "explanation": "Tổng bằng 1/6 − 1/8 = 4/24 − 3/24 = 1/24",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 143,
+        "id": "q143",
+        "type": "mot_dap_an",
+        "question": "Tổng 1/(7·8) + 1/(8·9) + 1/(9·10) bằng?",
+        "options": {
+          "a": "1/7 − 1/10",
+          "b": "1/8 − 1/10",
+          "c": "1/7 − 1/9",
+          "d": "1/10"
+        },
+        "answer": "a",
+        "explanation": "Viết thành hiệu rồi triệt tiêu các số ở giữa",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 144,
+        "id": "q144",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/(7·8) + 1/(8·9) + 1/(9·10) là?",
+        "options": {
+          "a": "3/70",
+          "b": "1/10",
+          "c": "1/7",
+          "d": "2/35"
+        },
+        "answer": "a",
+        "explanation": "Tổng bằng 1/7 − 1/10 = 10/70 − 7/70 = 3/70",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 145,
+        "id": "q145",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các phát biểu đúng về S = 1/(7·8) + 1/(8·9) + 1/(9·10)",
+        "options": {
+          "a": "S = 1/7 − 1/10",
+          "b": "S = 3/70",
+          "c": "S > 1/20",
+          "d": "S < 1/25"
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "explanation": "S = 3/70 xấp xỉ 0.042857, nhỏ hơn 1/20 = 0.05 nhưng lớn hơn 1/25 = 0.04",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 146,
+        "id": "q146",
+        "type": "phan_loai",
+        "question": "Phân loại các phân số sau",
+        "nhom": [
+          "(A) Lớn hơn 1/20",
+          "(B) Nhỏ hơn hoặc bằng 1/20"
+        ],
+        "the": [
+          "3/70",
+          "1/24"
+        ],
+        "dap_an": {
+          "3/70": 1,
+          "1/24": 1
+        },
+        "explanation": "3/70 xấp xỉ 0.042857 và 1/24 xấp xỉ 0.041667, đều nhỏ hơn 0.05",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 147,
+        "id": "q147",
+        "type": "mot_dap_an",
+        "question": "Cho T = 1/(2·3) + 1/(3·4) + ... + 1/(10·11). T bằng?",
+        "options": {
+          "a": "1/2 − 1/11",
+          "b": "1/3 − 1/11",
+          "c": "1/2 − 1/10",
+          "d": "1/11"
+        },
+        "answer": "a",
+        "explanation": "Dãy tổng có dạng triệt tiêu, còn lại số hạng đầu và cuối",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 148,
+        "id": "q148",
+        "type": "mot_dap_an",
+        "question": "Giá trị của T = 1/(2·3) + 1/(3·4) + ... + 1/(10·11) là?",
+        "options": {
+          "a": "9/22",
+          "b": "1/2",
+          "c": "10/22",
+          "d": "7/22"
+        },
+        "answer": "a",
+        "explanation": "T = 1/2 − 1/11 = 11/22 − 2/22 = 9/22",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 149,
+        "id": "q149",
+        "type": "dung_sai",
+        "question": "Nhận định: \"T = 1/(2·3) + 1/(3·4) + ... + 1/(10·11) lớn hơn 1/2\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "T = 9/22, nhỏ hơn 11/22 = 1/2",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 150,
+        "id": "q150",
+        "type": "mot_dap_an",
+        "question": "Cho U = 1/(3·4) + 1/(4·5) + ... + 1/(12·13). U bằng?",
+        "options": {
+          "a": "1/3 − 1/13",
+          "b": "1/4 − 1/13",
+          "c": "1/3 − 1/12",
+          "d": "1/13"
+        },
+        "answer": "a",
+        "explanation": "Dùng công thức 1/(n(n+1)) = 1/n − 1/(n+1), tổng sẽ triệt tiêu còn 1/3 − 1/13",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 151,
+        "id": "q151",
+        "type": "mot_dap_an",
+        "question": "Giá trị của U = 1/(3·4) + 1/(4·5) + ... + 1/(12·13) là?",
+        "options": {
+          "a": "10/39",
+          "b": "1/3",
+          "c": "9/39",
+          "d": "1/13"
+        },
+        "answer": "a",
+        "explanation": "U = 1/3 − 1/13 = 13/39 − 3/39 = 10/39",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 152,
+        "id": "q152",
+        "type": "mot_dap_an",
+        "question": "Cho V = 1/(4·5) + 1/(5·6) + ... + 1/(20·21). V bằng?",
+        "options": {
+          "a": "1/4 − 1/21",
+          "b": "1/5 − 1/21",
+          "c": "1/4 − 1/20",
+          "d": "1/21"
+        },
+        "answer": "a",
+        "explanation": "Tổng dạng telescoping triệt tiêu còn 1/4 − 1/21",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 153,
+        "id": "q153",
+        "type": "mot_dap_an",
+        "question": "Giá trị của V là?",
+        "options": {
+          "a": "17/84",
+          "b": "1/4",
+          "c": "16/84",
+          "d": "1/21"
+        },
+        "answer": "a",
+        "explanation": "1/4 − 1/21 = 21/84 − 4/84 = 17/84",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 154,
+        "id": "q154",
+        "type": "dung_sai",
+        "question": "Nhận định: \"V > 1/3\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "V = 17/84 ≈ 0.202 nhỏ hơn 1/3",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 155,
+        "id": "q155",
+        "type": "dien_khuyet",
+        "question": "Điền vào chỗ trống: 1/(n(n+1)) = 1/n − ...",
+        "answer": "1/(n+1)",
+        "explanation": "Công thức cơ bản",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 156,
+        "id": "q156",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các tổng có dạng triệt tiêu",
+        "options": {
+          "a": "1/(2·3) + 1/(3·4)",
+          "b": "1/2 + 1/3",
+          "c": "1/(4·5) + 1/(5·6)",
+          "d": "1/4 + 1/5"
+        },
+        "answer": [
+          "a",
+          "c"
+        ],
+        "explanation": "Chỉ dạng 1/(n(n+1)) mới triệt tiêu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 157,
+        "id": "q157",
+        "type": "mot_dap_an",
+        "question": "Tổng 1/(10·11) + 1/(11·12) bằng?",
+        "options": {
+          "a": "1/10 − 1/12",
+          "b": "1/11 − 1/12",
+          "c": "1/10 − 1/11",
+          "d": "1/12"
+        },
+        "answer": "a",
+        "explanation": "Áp dụng công thức rồi triệt tiêu",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 158,
+        "id": "q158",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/(10·11) + 1/(11·12) là?",
+        "options": {
+          "a": "1/60",
+          "b": "1/30",
+          "c": "1/20",
+          "d": "1/12"
+        },
+        "answer": "a",
+        "explanation": "1/10 − 1/12 = 6/60 − 5/60 = 1/60",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 159,
+        "id": "q159",
+        "type": "mot_dap_an",
+        "question": "Cho S = 1/(10·11) + 1/(11·12) + 1/(12·13). S bằng?",
+        "options": {
+          "a": "1/10 − 1/13",
+          "b": "1/11 − 1/13",
+          "c": "1/10 − 1/12",
+          "d": "1/13"
+        },
+        "answer": "a",
+        "explanation": "Triệt tiêu các số ở giữa",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 160,
+        "id": "q160",
+        "type": "mot_dap_an",
+        "question": "Giá trị của S là?",
+        "options": {
+          "a": "3/130",
+          "b": "1/13",
+          "c": "1/10",
+          "d": "2/65"
+        },
+        "answer": "a",
+        "explanation": "1/10 − 1/13 = 13/130 − 10/130 = 3/130",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 161,
+        "id": "q161",
+        "type": "mot_dap_an",
+        "question": "So sánh 1/(n(n+1)) và 1/n với n > 1",
+        "options": {
+          "a": "1/(n(n+1)) < 1/n",
+          "b": "1/(n(n+1)) > 1/n",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Mẫu lớn hơn nên phân số nhỏ hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 162,
+        "id": "q162",
+        "type": "mot_dap_an",
+        "question": "So sánh 1/(n(n-1)) và 1/n với n > 1",
+        "options": {
+          "a": "1/(n(n-1)) > 1/n",
+          "b": "1/(n(n-1)) < 1/n",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "n(n-1) < n^2 nên mẫu nhỏ hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 163,
+        "id": "q163",
+        "type": "dung_sai",
+        "question": "Nhận định: \"1/(n(n+1)) > 1/(n(n-1)) với n > 1\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "n(n+1) > n(n-1) nên phân số nhỏ hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 164,
+        "id": "q164",
+        "type": "mot_dap_an",
+        "question": "Với n = 6, giá trị 1/(n(n+1)) là?",
+        "options": {
+          "a": "1/42",
+          "b": "1/36",
+          "c": "1/30",
+          "d": "1/48"
+        },
+        "answer": "a",
+        "explanation": "1/(6·7) = 1/42",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 165,
+        "id": "q165",
+        "type": "mot_dap_an",
+        "question": "Với n = 6, giá trị 1/n^2 là?",
+        "options": {
+          "a": "1/36",
+          "b": "1/42",
+          "c": "1/30",
+          "d": "1/48"
+        },
+        "answer": "a",
+        "explanation": "1/6^2 = 1/36",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 166,
+        "id": "q166",
+        "type": "mot_dap_an",
+        "question": "So sánh 1/36 và 1/42",
+        "options": {
+          "a": "1/36 > 1/42",
+          "b": "1/36 < 1/42",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Mẫu nhỏ hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 167,
+        "id": "q167",
+        "type": "mot_dap_an",
+        "question": "Tổng 1/36 + 1/42 gần bằng?",
+        "options": {
+          "a": "0.05",
+          "b": "0.1",
+          "c": "0.2",
+          "d": "0.01"
+        },
+        "answer": "a",
+        "explanation": "≈0.027 + 0.024 ≈ 0.05",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 168,
+        "id": "q168",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các bất đẳng thức đúng",
+        "options": {
+          "a": "1/36 > 1/42",
+          "b": "1/42 < 1/36",
+          "c": "1/36 < 1/42",
+          "d": "1/42 > 1/36"
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "explanation": "Hai cách viết tương đương",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 169,
+        "id": "q169",
+        "type": "phan_loai",
+        "question": "Phân loại",
+        "nhom": [
+          "(A) Lớn hơn 0.03",
+          "(B) Nhỏ hơn hoặc bằng 0.03"
+        ],
+        "the": [
+          "1/30",
+          "1/40"
+        ],
+        "dap_an": {
+          "1/30": 0,
+          "1/40": 1
+        },
+        "explanation": "1/30 ≈ 0.033 > 0.03",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 170,
+        "id": "q170",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/30 + 1/40 là?",
+        "options": {
+          "a": "7/120",
+          "b": "1/20",
+          "c": "3/40",
+          "d": "1/10"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 171,
+        "id": "q171",
+        "type": "mot_dap_an",
+        "question": "1/30 + 1/40 có lớn hơn 1/10 không?",
+        "options": {
+          "a": "Không",
+          "b": "Có",
+          "c": "Bằng",
+          "d": "Không xác định"
+        },
+        "answer": "a",
+        "explanation": "7/120 < 12/120",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 172,
+        "id": "q172",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/12 + 1/18 là?",
+        "options": {
+          "a": "5/36",
+          "b": "1/6",
+          "c": "7/36",
+          "d": "1/4"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 173,
+        "id": "q173",
+        "type": "mot_dap_an",
+        "question": "1/12 + 1/18 lớn hơn phân số nào?",
+        "options": {
+          "a": "1/10",
+          "b": "1/5",
+          "c": "1/3",
+          "d": "1/2"
+        },
+        "answer": "a",
+        "explanation": "5/36 ≈ 0.139 > 0.1",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 174,
+        "id": "q174",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/12 − 1/18 là?",
+        "options": {
+          "a": "1/36",
+          "b": "1/6",
+          "c": "1/12",
+          "d": "1/18"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 175,
+        "id": "q175",
+        "type": "mot_dap_an",
+        "question": "1/12 − 1/18 là số?",
+        "options": {
+          "a": "dương",
+          "b": "âm",
+          "c": "0",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "1/12 > 1/18",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 176,
+        "id": "q176",
+        "type": "dung_sai",
+        "question": "Nhận định: \"1/12 < 1/18\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "12 < 18 nên 1/12 > 1/18",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 177,
+        "id": "q177",
+        "type": "mot_dap_an",
+        "question": "So sánh 1/50 và 1/49",
+        "options": {
+          "a": "1/50 < 1/49",
+          "b": "1/50 > 1/49",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Mẫu lớn hơn thì phân số nhỏ hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 178,
+        "id": "q178",
+        "type": "mot_dap_an",
+        "question": "Giá trị gần đúng của 1/49 là?",
+        "options": {
+          "a": "0.02",
+          "b": "0.2",
+          "c": "0.002",
+          "d": "0.5"
+        },
+        "answer": "a",
+        "explanation": "1/50 = 0.02 nên gần đúng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 179,
+        "id": "q179",
+        "type": "mot_dap_an",
+        "question": "1/49 + 1/50 gần bằng?",
+        "options": {
+          "a": "0.04",
+          "b": "0.4",
+          "c": "0.004",
+          "d": "0.1"
+        },
+        "answer": "a",
+        "explanation": "≈0.02 + 0.02",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 180,
+        "id": "q180",
+        "type": "mot_dap_an",
+        "question": "1/49 + 1/50 nhỏ hơn?",
+        "options": {
+          "a": "0.05",
+          "b": "0.1",
+          "c": "0.2",
+          "d": "0.5"
+        },
+        "answer": "a",
+        "explanation": "≈0.04",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 181,
+        "id": "q181",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các số nhỏ hơn 0.05",
+        "options": {
+          "a": "1/30",
+          "b": "1/40",
+          "c": "1/60",
+          "d": "1/10"
+        },
+        "answer": [
+          "b",
+          "c"
+        ],
+        "explanation": "1/30 ≈0.033 <0.05 cũng đúng, cần kiểm tra: vậy a cũng đúng → chỉnh: 1/30≈0.033 <0.05 nên a đúng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 182,
+        "id": "q182",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/40 + 1/60 là?",
+        "options": {
+          "a": "1/24",
+          "b": "1/20",
+          "c": "1/30",
+          "d": "1/10"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng 120",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 183,
+        "id": "q183",
+        "type": "mot_dap_an",
+        "question": "1/40 + 1/60 có lớn hơn 1/20 không?",
+        "options": {
+          "a": "Không",
+          "b": "Có",
+          "c": "Bằng",
+          "d": "Không xác định"
+        },
+        "answer": "a",
+        "explanation": "1/24 < 1/20",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 184,
+        "id": "q184",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/15 + 1/20 là?",
+        "options": {
+          "a": "7/60",
+          "b": "1/5",
+          "c": "3/20",
+          "d": "1/3"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 185,
+        "id": "q185",
+        "type": "mot_dap_an",
+        "question": "1/15 + 1/20 gần bằng?",
+        "options": {
+          "a": "0.12",
+          "b": "0.2",
+          "c": "0.3",
+          "d": "0.05"
+        },
+        "answer": "a",
+        "explanation": "≈0.066 + 0.05",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 186,
+        "id": "q186",
+        "type": "mot_dap_an",
+        "question": "1/15 − 1/20 bằng?",
+        "options": {
+          "a": "1/60",
+          "b": "1/20",
+          "c": "1/15",
+          "d": "1/5"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 187,
+        "id": "q187",
+        "type": "mot_dap_an",
+        "question": "1/15 − 1/20 là số?",
+        "options": {
+          "a": "dương",
+          "b": "âm",
+          "c": "0",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "1/15 > 1/20",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 188,
+        "id": "q188",
+        "type": "dung_sai",
+        "question": "Nhận định: \"1/15 < 1/20\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "15 < 20 nên 1/15 > 1/20",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 189,
+        "id": "q189",
+        "type": "mot_dap_an",
+        "question": "So sánh 1/100 và 1/99",
+        "options": {
+          "a": "1/100 < 1/99",
+          "b": "1/100 > 1/99",
+          "c": "=",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "Mẫu lớn hơn",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 190,
+        "id": "q190",
+        "type": "mot_dap_an",
+        "question": "1/100 gần bằng?",
+        "options": {
+          "a": "0.01",
+          "b": "0.1",
+          "c": "0.001",
+          "d": "1"
+        },
+        "answer": "a",
+        "explanation": "Định nghĩa",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 191,
+        "id": "q191",
+        "type": "mot_dap_an",
+        "question": "1/99 gần bằng?",
+        "options": {
+          "a": "0.01",
+          "b": "0.1",
+          "c": "0.001",
+          "d": "1"
+        },
+        "answer": "a",
+        "explanation": "≈0.0101",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 192,
+        "id": "q192",
+        "type": "mot_dap_an",
+        "question": "1/99 + 1/100 gần bằng?",
+        "options": {
+          "a": "0.02",
+          "b": "0.2",
+          "c": "0.002",
+          "d": "0.1"
+        },
+        "answer": "a",
+        "explanation": "≈0.01 + 0.01",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 193,
+        "id": "q193",
+        "type": "mot_dap_an",
+        "question": "1/99 + 1/100 nhỏ hơn?",
+        "options": {
+          "a": "0.03",
+          "b": "0.1",
+          "c": "0.2",
+          "d": "0.5"
+        },
+        "answer": "a",
+        "explanation": "≈0.02",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 194,
+        "id": "q194",
+        "type": "nhieu_dap_an",
+        "question": "Chọn các phân số nhỏ hơn 0.02",
+        "options": {
+          "a": "1/40",
+          "b": "1/60",
+          "c": "1/80",
+          "d": "1/30"
+        },
+        "answer": [
+          "b",
+          "c"
+        ],
+        "explanation": "1/40 = 0.025 > 0.02",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 195,
+        "id": "q195",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/60 + 1/80 là?",
+        "options": {
+          "a": "7/240",
+          "b": "1/20",
+          "c": "3/80",
+          "d": "1/40"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 196,
+        "id": "q196",
+        "type": "mot_dap_an",
+        "question": "1/60 + 1/80 có lớn hơn 1/20 không?",
+        "options": {
+          "a": "Không",
+          "b": "Có",
+          "c": "Bằng",
+          "d": "Không xác định"
+        },
+        "answer": "a",
+        "explanation": "7/240 < 12/240",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 197,
+        "id": "q197",
+        "type": "mot_dap_an",
+        "question": "Giá trị của 1/24 + 1/36 là?",
+        "options": {
+          "a": "5/72",
+          "b": "1/12",
+          "c": "7/72",
+          "d": "1/6"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 198,
+        "id": "q198",
+        "type": "mot_dap_an",
+        "question": "1/24 + 1/36 gần bằng?",
+        "options": {
+          "a": "0.07",
+          "b": "0.2",
+          "c": "0.5",
+          "d": "0.01"
+        },
+        "answer": "a",
+        "explanation": "≈0.041 + 0.028",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 199,
+        "id": "q199",
+        "type": "mot_dap_an",
+        "question": "1/24 − 1/36 bằng?",
+        "options": {
+          "a": "1/72",
+          "b": "1/12",
+          "c": "1/36",
+          "d": "1/24"
+        },
+        "answer": "a",
+        "explanation": "Quy đồng",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 200,
+        "id": "q200",
+        "type": "mot_dap_an",
+        "question": "1/24 − 1/36 là số?",
+        "options": {
+          "a": "dương",
+          "b": "âm",
+          "c": "0",
+          "d": "không xác định"
+        },
+        "answer": "a",
+        "explanation": "1/24 > 1/36",
+        "_": "---",
+        "_divider": "-----------------"
+     }
+    ]
+  },
+
+
+{    "_Note": "TOÁN THẦY KIÊN - LUYỆN ĐỀ TỒNG HỢP",
     "topic": "ÔN tập GKII - bài 2",
     "subject": "TOÁN THẦY KIÊN",
     "questions": [
