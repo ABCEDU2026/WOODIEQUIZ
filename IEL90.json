@@ -1,5 +1,2346 @@
 [
-  {
+  
+{
+    "_Note": "ENGLISH IEL9.0 - Đảo ngữ và Rút gọn Mệnh đề",
+    "topic": "Học sinh giỏi lởp 9.0",
+    "subject": "ENGLISH IEL9.0",
+    "questions": [
+
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "The city of Johnstown, Pennsylvania ______ its early success entirely to the rise of the steel industry.",
+        "options": {
+          "a": "set",
+          "b": "contributed",
+          "c": "owed",
+          "d": "indebted"
+        },
+        "answer": "c",
+        "explanation": "The structure \"owe something to something\" means to have something because of something else. Option d (indebted) is an adjective and usually requires \"be indebted to.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "When we lived in Manila, we ______ at one of the city's many roadside food stalls.",
+        "options": {
+          "a": "would often eat",
+          "b": "were often to eat",
+          "c": "may often eat",
+          "d": "have often been eating"
+        },
+        "answer": "a",
+        "explanation": "\"Would\" is used here to describe a past habit or a repeated action in the past.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "It's unsafe to set hot water tanks below 140 degrees Fahrenheit because ______ the growth of pathogens.",
+        "options": {
+          "a": "does it encourage",
+          "b": "so does encourage",
+          "c": "doing so encourages",
+          "d": "doing so it encourages"
+        },
+        "answer": "c",
+        "explanation": "\"Doing so\" acts as a gerund phrase serving as the subject, referring back to the action of setting the temperature low.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Saying that every famous and successful movie star is talented would be a far ______ from the truth.",
+        "options": {
+          "a": "act",
+          "b": "cry",
+          "c": "call",
+          "d": "world"
+        },
+        "answer": "b",
+        "explanation": "The idiom \"a far cry from something\" means to be completely different from something.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "The ______ of spending a few weeks on a sunny beach greatly excited him.",
+        "options": {
+          "a": "perspective",
+          "b": "prospectus",
+          "c": "prospect",
+          "d": "practice"
+        },
+        "answer": "c",
+        "explanation": "\"Prospect\" refers to the possibility or likelihood of some future event occurring. \"Perspective\" refers to a point of view.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "I'm afraid by the time we get permission for the project, the investors ______ out.",
+        "options": {
+          "a": "will back",
+          "b": "will be backing",
+          "c": "will have backed",
+          "d": "are going to back"
+        },
+        "answer": "c",
+        "explanation": "The Future Perfect tense is used with \"by the time\" to show an action completed before a certain point in the future.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "The manager requested that no one ______ told of her decision to resign until the next meeting.",
+        "options": {
+          "a": "being",
+          "b": "be",
+          "c": "were",
+          "d": "to be"
+        },
+        "answer": "b",
+        "explanation": "The present subjunctive mood is required after verbs of requesting: S + request + that + S + (should) + V-bare.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "The early explorers are speculated ______ the island centuries before it was documented.",
+        "options": {
+          "a": "to reach",
+          "b": "having reached",
+          "c": "reaching",
+          "d": "to have reached"
+        },
+        "answer": "d",
+        "explanation": "In passive reporting structures, the Perfect Infinitive (to have V3) is used when the reported action occurred before the reporting verb.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "He ______ the keys on the table - I checked there twice!",
+        "options": {
+          "a": "might have put",
+          "b": "can't have put",
+          "c": "needn't have put",
+          "d": "should have put"
+        },
+        "answer": "b",
+        "explanation": "\"Can't have V3\" expresses a strong negative deduction about a past event based on evidence.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Are there enough cookies to go ______?",
+        "options": {
+          "a": "away",
+          "b": "over",
+          "c": "off",
+          "d": "round"
+        },
+        "answer": "d",
+        "explanation": "The phrasal verb \"go round\" means to be sufficient in number for everyone in a group.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Identify the error: The delegates (A), visibly exhausted, had barely entered (B) into the room (C) when the smoke alarm went off (D).",
+        "options": {
+          "a": "A",
+          "b": "B",
+          "c": "C",
+          "d": "D"
+        },
+        "answer": "c",
+        "explanation": "The verb \"enter\" is a transitive verb when referring to physical entry and does not take the preposition \"into.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Identify the error: We would be delighted to receive (A) feedbacks (B) from the attendees as regards (C) the relevance of the topics discussed (D).",
+        "options": {
+          "a": "A",
+          "b": "B",
+          "c": "C",
+          "d": "D"
+        },
+        "answer": "b",
+        "explanation": "\"Feedback\" is an uncountable noun and cannot be pluralized as \"feedbacks.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Identify the error: Vivian resented (A) to be excluded (B) from decisions in which (C) she should have had a say (D).",
+        "options": {
+          "a": "A",
+          "b": "B",
+          "c": "C",
+          "d": "D"
+        },
+        "answer": "b",
+        "explanation": "The verb \"resent\" must be followed by a gerund (V-ing). The correct form is \"being excluded.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Identify the error: The competition featured (A) five teams, each comprising (B) of students from various provinces across (C) the country (D).",
+        "options": {
+          "a": "A",
+          "b": "B",
+          "c": "C",
+          "d": "D"
+        },
+        "answer": "b",
+        "explanation": "\"Comprise\" does not take \"of.\" It should be \"comprising students\" or \"consisting of students.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Identify the error: She found it puzzled (A) in that (B) her colleagues opposed (C) the plan despite their having supported (D) a similar proposal before.",
+        "options": {
+          "a": "A",
+          "b": "B",
+          "c": "C",
+          "d": "D"
+        },
+        "answer": "a",
+        "explanation": "The objective complement should be \"puzzling\" (describing the situation), not \"puzzled\" (describing a person's feeling).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "dien_khuyet",
+        "question": "Towering mountains ______ the valley created a natural barrier against the harsh winds. (CIRCLE)",
+        "answer": "encircling",
+        "explanation": "A present participle is needed to function as an adjective modifying \"mountains,\" indicating an active state.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "dien_khuyet",
+        "question": "______, the museum had to cancel the exhibition due to unforeseen technical issues. (REGRET)",
+        "answer": "Regrettably",
+        "explanation": "An adverb is required at the beginning of the sentence to express the speaker's attitude toward the event.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "dien_khuyet",
+        "question": "The documentary sparked a(n) ______ interest in marine conservation among young viewers. (NEW)",
+        "answer": "renewed",
+        "explanation": "\"Renewed interest\" is a standard collocation meaning interest that has started again with more intensity.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "dien_khuyet",
+        "question": "The journalist was criticized for having ______ professional boundaries during the interview. (STEP)",
+        "answer": "overstepped",
+        "explanation": "The prefix \"over-\" combined with \"step\" means to exceed or go beyond limits.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "dien_khuyet",
+        "question": "The sudden ______ of the account raised concerns about the platform's security policies. (ACT)",
+        "answer": "deactivation",
+        "explanation": "The noun form is required here to describe the process of making the account inactive.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "dien_khuyet",
+        "question": "I didn't have the ______ idea what the lecturer was rambling about. (FOG)",
+        "answer": "foggiest",
+        "explanation": "The idiomatic expression \"not have the foggiest idea\" means to have no understanding at all.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "dien_khuyet",
+        "question": "War is one of the greatest ______ to human progress. (IMPEDE)",
+        "answer": "impediments",
+        "explanation": "The noun \"impediment\" means a hindrance or obstruction. Plural form is required after \"one of the.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "dien_khuyet",
+        "question": "The comedian's ______ jokes left the audience shifting uneasily in their seats. (CRINGE)",
+        "answer": "cringeworthy",
+        "explanation": "The adjective \"cringeworthy\" describes something that causes feelings of embarrassment or awkwardness.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "dien_khuyet",
+        "question": "His argument was ______, relying on vague assumptions rather than solid evidence. (PAPER)",
+        "answer": "paper-thin",
+        "explanation": "The compound adjective \"paper-thin\" metaphorically describes a very weak or easily refuted argument.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "dien_khuyet",
+        "question": "The team secured ______ victories on their way to winning the championship. (BACK)",
+        "answer": "back-to-back",
+        "explanation": "\"Back-to-back\" is an adjective used to describe events happening one after the other.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "dropdown",
+        "question": "How often have we heard how technology is making us [[smarter|smartly|smartness]]? But what about the other less [[favorable|favoring|favorably]] effects technology is having on us?",
+        "answer": "smarter, favorable",
+        "explanation": "The first blank requires an adjective after \"make us.\" The second blank requires an adjective to modify \"effects.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "dropdown",
+        "question": "Take, for instance, the [[censorship|censor|censoring]] of information on search engines, which often confirms users' [[pre-existing|pre-exist|pre-existence]] beliefs.",
+        "answer": "censorship, pre-existing",
+        "explanation": "\"Censorship\" is the noun for the act of suppressing information. \"Pre-existing\" describes beliefs that were already held.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "dropdown",
+        "question": "This [[representation|represent|representative]] of facts can be dangerous in polarising society. Then there are small but [[countably|countable|countless]] significant effects on our memory.",
+        "answer": "representation, countably",
+        "explanation": "\"Representation\" refers to how facts are shown. \"Countably\" modifies the adjective \"significant\" to imply effects that can be measured.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "dropdown",
+        "question": "Information is no longer being [[memorized|memory|memorial]] with answers only a click away. People commit phone numbers to memory, relying instead on their smartphones, in contrast to the pre-tech days when people had [[free|freely|freedom]] numbers in their heads.",
+        "answer": "memorized, free",
+        "explanation": "The passive voice \"being memorized\" is used. \"Free numbers\" refers to information held without external aid.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "dropdown",
+        "question": "Unsurprisingly, the result is our recollection of information has [[dramatically|drama|dramatic]] deteriorated.",
+        "answer": "dramatically",
+        "explanation": "The adverb \"dramatically\" is required to modify the verb \"deteriorated.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q31",
+        "type": "listening",
+        "question": "In ancient civilizations, icy treats were largely enjoyed by ______.",
+        "audio_text": "In ancient civilizations, icy treats were not for everyone; they were largely enjoyed by the wealthy and the elite who could afford the labor required to fetch ice.",
+        "options": {
+          "a": "the poor",
+          "b": "the wealthy",
+          "c": "farmers",
+          "d": "soldiers"
+        },
+        "answer": "b",
+        "explanation": "The script explicitly states that icy treats were enjoyed by \"the wealthy and the elite.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q32",
+        "type": "listening",
+        "question": "To freeze icy treats, well-off people in the Mediterranean used snow and ______ collected from the mountains.",
+        "audio_text": "In the Mediterranean, the wealthy used snow and saltpetre collected from the mountains to freeze their desserts.",
+        "options": {
+          "a": "salt",
+          "b": "saltpetre",
+          "c": "rocks",
+          "d": "sand"
+        },
+        "answer": "b",
+        "explanation": "The material mentioned in the recording is \"saltpetre.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q33",
+        "type": "listening",
+        "question": "What was the unique technique developed by Ancient Persians for ice storage?",
+        "audio_text": "Ancient Persians were innovators in cooling; they developed a technique and structure called Yakhchal to store ice even in summer.",
+        "options": {
+          "a": "Yakhchal",
+          "b": "Sherbet",
+          "c": "Latini",
+          "d": "Soda"
+        },
+        "answer": "a",
+        "explanation": "The script identifies the structure/technique as \"Yakhchal.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q34",
+        "type": "listening",
+        "question": "Where did ice cream become immensely popular after being inspired by Persian sherbet?",
+        "audio_text": "The evolution of ice cream was inspired by sherbet from Persia, which found its way to Europe and became immensely popular in the West.",
+        "options": {
+          "a": "In the East",
+          "b": "In the West",
+          "c": "In the North",
+          "d": "In the South"
+        },
+        "answer": "b",
+        "explanation": "The speaker notes that it became popular \"in the West.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q35",
+        "type": "listening",
+        "question": "What was Antonio Latini's profession when he wrote the first milk-based recipe?",
+        "audio_text": "In 1692, Antonio Latini, a Neapolitan steward, was the first to write down a recipe for a milk-based sorbet, which many consider the first ice cream.",
+        "options": {
+          "a": "A cook",
+          "b": "A steward",
+          "c": "A doctor",
+          "d": "A king"
+        },
+        "answer": "b",
+        "explanation": "Latini is described as a \"Neapolitan steward.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q36",
+        "type": "listening",
+        "question": "How much is George Washington believed to have spent on ice cream during the summer of 1790?",
+        "audio_text": "Records show that George Washington had a great passion for the treat, spending over 6,000 dollars on ice cream in the single summer of 1790.",
+        "options": {
+          "a": "60 dollars",
+          "b": "600 dollars",
+          "c": "6,000 dollars",
+          "d": "60,000 dollars"
+        },
+        "answer": "c",
+        "explanation": "The recording specifies the amount as \"over 6,000 dollars.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q37",
+        "type": "listening",
+        "question": "In 1843, Nancy Johnson revolutionized the process by patenting a ______.",
+        "audio_text": "The process of making ice cream was revolutionized in 1843 when Nancy Johnson patented a small hand-cranked ice cream freezer.",
+        "options": {
+          "a": "milk-based recipe",
+          "b": "refrigeration truck",
+          "c": "hand-cranked freezer",
+          "d": "soda fountain"
+        },
+        "answer": "c",
+        "explanation": "The script confirms she patented a \"hand-cranked ice cream freezer.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q38",
+        "type": "listening",
+        "question": "What were the Italian immigrants who sold inexpensive scoops of ice cream called?",
+        "audio_text": "In the late 19th century, many Italian immigrants in London and New York worked as hokey-pokey men, street vendors who sold inexpensive scoops of ice cream.",
+        "options": {
+          "a": "Pastry chefs",
+          "b": "Hokey-pokey men",
+          "c": "Ice truck drivers",
+          "d": "Factory workers"
+        },
+        "answer": "b",
+        "explanation": "The text identifies them as \"hokey-pokey men.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q39",
+        "type": "listening",
+        "question": "Why did pharmacists mix ice cream with carbonated water in the early days?",
+        "audio_text": "American pharmacists created the soda fountain, mixing ice cream with carbonated water, which was then believed to have medicinal properties.",
+        "options": {
+          "a": "To improve the flavor",
+          "b": "Because of its medicinal properties",
+          "c": "To reduce the cost",
+          "d": "To keep it frozen longer"
+        },
+        "answer": "b",
+        "explanation": "It was believed the mixture had \"medicinal properties.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 40,
+        "id": "q40",
+        "type": "listening",
+        "question": "What advancement allowed ice cream to be stored in household freezers?",
+        "audio_text": "With the rapid advancements in refrigeration technology in the 20th century, ice cream storage moved from shops into every household freezer.",
+        "options": {
+          "a": "Transportation technology",
+          "b": "Refrigeration technology",
+          "c": "Electrical engineering",
+          "d": "Communication systems"
+        },
+        "answer": "b",
+        "explanation": "\"Advancements in refrigeration technology\" made household storage possible.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 41,
+        "id": "q41",
+        "type": "mot_dap_an",
+        "question": "What is the primary focus of the passage regarding Victor Gruen?",
+        "options": {
+          "a": "The evolution of Austrian architecture",
+          "b": "The rise and fall of suburban retail",
+          "c": "An architect's vision and its subsequent distortion",
+          "d": "The history of faux marble in construction"
+        },
+        "answer": "c",
+        "explanation": "The text focuses on Gruen's revolutionary ideas and how they were twisted into something he opposed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 42,
+        "id": "q42",
+        "type": "mot_dap_an",
+        "question": "According to the text, Gruen's 1954 mall was considered \"introverted\" because:",
+        "options": {
+          "a": "It was designed for shy people",
+          "b": "Storefronts faced an internal courtyard rather than the street",
+          "c": "It had very few windows",
+          "d": "It was built in a secluded suburban area"
+        },
+        "answer": "b",
+        "explanation": "The text states storefronts faced \"inwards, surrounding a courtyard,\" distinguishing it from previous \"extroverted\" styles.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 43,
+        "id": "q43",
+        "type": "mot_dap_an",
+        "question": "What was the negative result of developers replicating Gruen's concept?",
+        "options": {
+          "a": "Malls became too expensive to build",
+          "b": "They prioritized pure consumption over urban culture",
+          "c": "They stopped using multi-story designs",
+          "d": "They moved malls back to city centers"
+        },
+        "answer": "b",
+        "explanation": "Developers focused on lowering costs and \"pure consumption,\" resulting in the \"gigantic shopping machine.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 44,
+        "id": "q44",
+        "type": "mot_dap_an",
+        "question": "How did Gruen feel when he saw the shopping centers in Austria late in his life?",
+        "options": {
+          "a": "Proud that his ideas had reached Europe",
+          "b": "Confused by the new architectural styles",
+          "c": "Appalled and disillusioned",
+          "d": "Inspired to start a new firm"
+        },
+        "answer": "c",
+        "explanation": "The text describes him as \"appalled\" and seeing his ideas \"twisted into something he opposed.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 45,
+        "id": "q45",
+        "type": "mot_dap_an",
+        "question": "Which statement about Old Faithful geyser is TRUE?",
+        "options": {
+          "a": "It is the only geyser in Yellowstone.",
+          "b": "It was named for its erratic and unpredictable eruptions.",
+          "c": "It is one of six geysers that park rangers can currently predict.",
+          "d": "Eruption intervals have decreased by 30 minutes recently."
+        },
+        "answer": "c",
+        "explanation": "The text states it is \"one of six that park rangers currently predict.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 46,
+        "id": "q46",
+        "type": "phan_loai",
+        "question": "Classify the architectural features according to their style:",
+        "nhom": [
+          "(A) Gruen's Original Vision",
+          "(B) Traditional Suburban Style (Pre-1954)"
+        ],
+        "the": [
+          "Storefronts facing outward to parking areas",
+          "Introverted design with internal courtyards",
+          "Inclusion of ponds and sculpted trees",
+          "Extroverted style focused on street visibility"
+        ],
+        "dap_an": {
+          "Storefronts facing outward to parking areas": "B",
+          "Introverted design with internal courtyards": "A",
+          "Inclusion of ponds and sculpted trees": "A",
+          "Extroverted style focused on street visibility": "B"
+        },
+        "explanation": "Gruen's style was introverted with natural elements, while previous styles were extroverted.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 47,
+        "id": "q47",
+        "type": "phan_loai",
+        "question": "Categorize the following terms by their lexical category:",
+        "nhom": [
+          "(A) Nouns",
+          "(B) Adverbs"
+        ],
+        "the": [
+          "Impediment",
+          "Regrettably",
+          "Deactivation",
+          "Visibly"
+        ],
+        "dap_an": {
+          "Impediment": "A",
+          "Regrettably": "B",
+          "Deactivation": "A",
+          "Visibly": "B"
+        },
+        "explanation": "Classification based on suffix indicators (-ment, -tion for nouns; -ly for adverbs).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 48,
+        "id": "q48",
+        "type": "dung_sai",
+        "question": "Statement: \"In the 1690s, ice cream was originally a milk-based version of sorbet.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "The listening script confirms Antonio Latini wrote a recipe for \"milk-based sorbet\" in 1692.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 49,
+        "id": "q49",
+        "type": "dung_sai",
+        "question": "Statement: \"Victor Gruen's mall philosophy was based on bringing suburban culture to urban America.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The text says his philosophy was based on \"bringing urban culture to a rapidly suburbanizing America.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 50,
+        "id": "q50",
+        "type": "dung_sai",
+        "question": "Statement: \"A 'far cry from the truth' means a statement is very close to being true.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The idiom means the statement is very different from or far from the truth.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 51,
+        "id": "q51",
+        "type": "noi",
+        "question": "Match the phrasal verbs with their definitions:",
+        "leftCol": [
+          "Back out",
+          "Go round",
+          "Stick to",
+          "Go off"
+        ],
+        "rightCol": [
+          "To withdraw from a commitment",
+          "To be enough for everyone",
+          "To continue doing something as planned",
+          "To start ringing or making noise"
+        ],
+        "answer": {
+          "Back out": "To withdraw from a commitment",
+          "Go round": "To be enough for everyone",
+          "Stick to": "To continue doing something as planned",
+          "Go off": "To start ringing or making noise"
+        },
+        "explanation": "Standard phrasal verb definitions based on the provided contexts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 52,
+        "id": "q52",
+        "type": "sap_xep",
+        "question": "Arrange the historical milestones of ice cream in chronological order:",
+        "muc": [
+          "(1) Persians develop Yakhchal for ice storage.",
+          "(2) Antonio Latini writes a recipe for milk-based sorbet.",
+          "(3) Nancy Johnson patents the hand-cranked freezer.",
+          "(4) Refrigeration technology moves storage into households."
+        ],
+        "answer": [
+          "(1) Persians develop Yakhchal for ice storage.",
+          "(2) Antonio Latini writes a recipe for milk-based sorbet.",
+          "(3) Nancy Johnson patents the hand-cranked freezer.",
+          "(4) Refrigeration technology moves storage into households."
+        ],
+        "explanation": "Order: Ancient Persia -> 1692 -> 1843 -> 20th Century.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 53,
+        "id": "q53",
+        "type": "mot_dap_an",
+        "question": "\"The meeting has been postponed.\" - What is the most natural response for someone who expected this?",
+        "options": {
+          "a": "Speak for yourself.",
+          "b": "That figures.",
+          "c": "I'm all set.",
+          "d": "Don't push your luck."
+        },
+        "answer": "b",
+        "explanation": "\"That figures\" is an informal way to say that something is not surprising, especially something negative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 54,
+        "id": "q54",
+        "type": "mot_dap_an",
+        "question": "What does the phrase \"paper-thin argument\" imply about the speaker's reasoning?",
+        "options": {
+          "a": "It is very sharp and precise.",
+          "b": "It is fragile and lacks strong evidence.",
+          "c": "It is documented on high-quality paper.",
+          "d": "It is too long and complex."
+        },
+        "answer": "b",
+        "explanation": "\"Paper-thin\" suggests that the argument is weak and easily destroyed upon closer inspection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 55,
+        "id": "q55",
+        "type": "mot_dap_an",
+        "question": "The use of the word \"visibly\" in \"visibly exhausted\" emphasizes that the exhaustion was:",
+        "options": {
+          "a": "Hidden from others",
+          "b": "Noticeable to anyone looking at them",
+          "c": "Imaginary",
+          "d": "Caused by looking at things"
+        },
+        "answer": "b",
+        "explanation": "\"Visibly\" means in a way that can be seen or noticed.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 56,
+        "id": "q56",
+        "type": "mot_dap_an",
+        "question": "\"Are there enough cookies to go round?\" In this sentence, \"go round\" is synonymous with:",
+        "options": {
+          "a": "Circulate",
+          "b": "Suffice",
+          "c": "Rotate",
+          "d": "Vanish"
+        },
+        "answer": "b",
+        "explanation": "\"Suffice\" means to be enough or adequate.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 57,
+        "id": "q57",
+        "type": "mot_dap_an",
+        "question": "Why is the term \"gigantic shopping machine\" used to describe modern malls?",
+        "options": {
+          "a": "Because they use high-tech robots for cleaning.",
+          "b": "To criticize their mechanical focus on profit and consumption.",
+          "c": "To praise their efficient architectural design.",
+          "d": "Because they are shaped like large industrial machines."
+        },
+        "answer": "b",
+        "explanation": "The term highlights the loss of human and urban culture in favor of a mechanized, commercialized environment.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 58,
+        "id": "q58",
+        "type": "mot_dap_an",
+        "question": "The word \"inherently\" in \"Creativity is not inherently limited to artists\" means:",
+        "options": {
+          "a": "Accidentally",
+          "b": "By nature or essentially",
+          "c": "Temporarily",
+          "d": "Secretly"
+        },
+        "answer": "b",
+        "explanation": "\"Inherently\" refers to a permanent, essential, or characteristic attribute.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 59,
+        "id": "q59",
+        "type": "mot_dap_an",
+        "question": "If someone \"overstepped professional boundaries,\" they:",
+        "options": {
+          "a": "Followed rules strictly",
+          "b": "Behaved in an inappropriate or excessive way",
+          "c": "Walked too far to work",
+          "d": "Won an award for professionalism"
+        },
+        "answer": "b",
+        "explanation": "\"Overstep\" means to go beyond what is allowed or acceptable.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 60,
+        "id": "q60",
+        "type": "mot_dap_an",
+        "question": "What is the effect of \"search engines\" on human memory according to the Cloze test?",
+        "options": {
+          "a": "They improve our long-term recall.",
+          "b": "They lead to a deterioration in how we recollect information.",
+          "c": "They have no impact on cognitive functions.",
+          "d": "They make us memorize more phone numbers."
+        },
+        "answer": "b",
+        "explanation": "The text states that because information is a \"click away,\" our recollection has deteriorated.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 61,
+        "id": "q61",
+        "type": "mot_dap_an",
+        "question": "\"Much as his wife had warned him, he went ahead anyway.\" The phrase \"Much as\" indicates:",
+        "options": {
+          "a": "Cause and effect",
+          "b": "A high degree of similarity",
+          "c": "Concession or contrast",
+          "d": "A time sequence"
+        },
+        "answer": "c",
+        "explanation": "\"Much as\" acts like \"Even though\" or \"Although\" to show contrast.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 62,
+        "id": "q62",
+        "type": "mot_dap_an",
+        "question": "\"The early explorers are speculated to have reached the island.\" The speculation concerns:",
+        "options": {
+          "a": "A future event",
+          "b": "A past event",
+          "c": "A current event",
+          "d": "A hypothetical event"
+        },
+        "answer": "b",
+        "explanation": "The perfect infinitive \"to have reached\" places the action in the past relative to the present speculation.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 63,
+        "id": "q63",
+        "type": "mot_dap_an",
+        "question": "What does \"refrigeration\" specifically refer to in the context of the 20th century?",
+        "options": {
+          "a": "The process of heating food",
+          "b": "The artificial cooling of a space or substance",
+          "c": "The invention of the wheel",
+          "d": "The use of fire for preservation"
+        },
+        "answer": "b",
+        "explanation": "Refrigeration is the technology used to keep things cold.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 64,
+        "id": "q64",
+        "type": "mot_dap_an",
+        "question": "Which word can best replace \"impediment\" in \"impediment to human progress\"?",
+        "options": {
+          "a": "Catalyst",
+          "b": "Obstacle",
+          "c": "Assistant",
+          "d": "Result"
+        },
+        "answer": "b",
+        "explanation": "An \"impediment\" is something that gets in the way or slows things down.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 65,
+        "id": "q65",
+        "type": "mot_dap_an",
+        "question": "A \"cringeworthy\" joke is one that makes the audience feel:",
+        "options": {
+          "a": "Extremely happy",
+          "b": "Second-hand embarrassment",
+          "c": "Deeply intellectually challenged",
+          "d": "Bored to sleep"
+        },
+        "answer": "b",
+        "explanation": "\"Cringe\" refers to recoiling in embarrassment or distaste.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 66,
+        "id": "q66",
+        "type": "mot_dap_an",
+        "question": "Which of these best describes \"Old Faithful\"?",
+        "options": {
+          "a": "A steady mountain peak",
+          "b": "A predictable hydrothermal feature",
+          "c": "A volcanic crater",
+          "d": "A man-made fountain"
+        },
+        "answer": "b",
+        "explanation": "It is a geyser (hydrothermal) known for its \"faithful\" (predictable) timing.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 67,
+        "id": "q67",
+        "type": "mot_dap_an",
+        "question": "\"The delegates... had barely entered the room when the smoke alarm went off.\" This implies:",
+        "options": {
+          "a": "The alarm went off long after they entered.",
+          "b": "The alarm went off immediately after they entered.",
+          "c": "The alarm went off before they arrived.",
+          "d": "They never entered the room."
+        },
+        "answer": "b",
+        "explanation": "The \"barely... when\" structure indicates two events occurring in very close succession.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 68,
+        "id": "q68",
+        "type": "mot_dap_an",
+        "question": "\"Vivian resented being excluded from decisions.\" What was the source of her anger?",
+        "options": {
+          "a": "She didn't like making decisions.",
+          "b": "She was not allowed to participate in the process.",
+          "c": "The decisions were bad.",
+          "d": "She was too busy to participate."
+        },
+        "answer": "b",
+        "explanation": "\"Resent being excluded\" means she felt bitter because she was left out.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 69,
+        "id": "q69",
+        "type": "mot_dap_an",
+        "question": "What does \"polarising society\" mean in the technology text?",
+        "options": {
+          "a": "Making society colder.",
+          "b": "Causing society to divide into two opposing groups.",
+          "c": "Encouraging everyone to move to the poles.",
+          "d": "Creating a unified global community."
+        },
+        "answer": "b",
+        "explanation": "Polarization in a social context refers to the divergence of political attitudes to ideological extremes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 70,
+        "id": "q70",
+        "type": "mot_dap_an",
+        "question": "\"Antonio Latini was a Neapolitan steward.\" \"Neapolitan\" means he was from:",
+        "options": {
+          "a": "Naples, Italy",
+          "b": "Paris, France",
+          "c": "Vienna, Austria",
+          "d": "London, UK"
+        },
+        "answer": "a",
+        "explanation": "\"Neapolitan\" is the adjective for the city of Naples.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 71,
+        "id": "q71",
+        "type": "mot_dap_an",
+        "question": "Identify the correct form: \"The comedian's jokes were ______.\"",
+        "options": {
+          "a": "cringe",
+          "b": "cringed",
+          "c": "cringeworthy",
+          "d": "cringingly"
+        },
+        "answer": "c",
+        "explanation": "The adjective \"cringeworthy\" correctly describes the quality of the jokes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 72,
+        "id": "q72",
+        "type": "mot_dap_an",
+        "question": "\"Back-to-back victories\" refers to wins that are:",
+        "options": {
+          "a": "Separated by many years",
+          "b": "Consecutive",
+          "c": "Accidental",
+          "d": "Hard-fought"
+        },
+        "answer": "b",
+        "explanation": "\"Back-to-back\" means following one after another without a break.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 73,
+        "id": "q73",
+        "type": "mot_dap_an",
+        "question": "\"I didn't have the foggiest idea.\" This is a way of saying:",
+        "options": {
+          "a": "I was confused by the weather.",
+          "b": "I had no clue at all.",
+          "c": "I had a very clear plan.",
+          "d": "I was thinking about the ocean."
+        },
+        "answer": "b",
+        "explanation": "An idiomatic way to emphasize a total lack of knowledge.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 74,
+        "id": "q74",
+        "type": "mot_dap_an",
+        "question": "What is the primary danger of technology confirming \"pre-existing beliefs\"?",
+        "options": {
+          "a": "It makes us learn faster.",
+          "b": "It prevents us from being exposed to different perspectives.",
+          "c": "It saves time in research.",
+          "d": "It improves our memory of the past."
+        },
+        "answer": "b",
+        "explanation": "When we only see what we already believe, we become stuck in an \"echo chamber.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 75,
+        "id": "q75",
+        "type": "mot_dap_an",
+        "question": "\"Old Faithful was named for its consistent performance.\" \"Consistent\" is closest to:",
+        "options": {
+          "a": "Random",
+          "b": "Reliable",
+          "c": "Occasional",
+          "d": "Loud"
+        },
+        "answer": "b",
+        "explanation": "Consistency implies regularity and reliability.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 76,
+        "id": "q76",
+        "type": "mot_dap_an",
+        "question": "In the sentence \"Towering mountains encircling the valley...\", \"encircling\" is:",
+        "options": {
+          "a": "A gerund",
+          "b": "A present participle",
+          "c": "A main verb",
+          "d": "A preposition"
+        },
+        "answer": "b",
+        "explanation": "It functions as a participle modifying the noun \"mountains.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 77,
+        "id": "q77",
+        "type": "mot_dap_an",
+        "question": "\"He can't have put the keys on the table.\" This means the speaker is:",
+        "options": {
+          "a": "Unsure if he put them there.",
+          "b": "Certain that he did not put them there.",
+          "c": "Hoping he put them there.",
+          "d": "Ordering him not to put them there."
+        },
+        "answer": "b",
+        "explanation": "\"Can't have V3\" indicates high certainty about a past negative event.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 78,
+        "id": "q78",
+        "type": "mot_dap_an",
+        "question": "\"The journalist was criticized for overstepping professional boundaries.\" This implies:",
+        "options": {
+          "a": "The journalist was too polite.",
+          "b": "The journalist was too intrusive or unethical.",
+          "c": "The journalist was a slow walker.",
+          "d": "The journalist was very professional."
+        },
+        "answer": "b",
+        "explanation": "Overstepping boundaries in journalism usually involves unethical behavior.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 79,
+        "id": "q79",
+        "type": "mot_dap_an",
+        "question": "\"Information is no longer being memorized.\" This is an example of:",
+        "options": {
+          "a": "Present Continuous Passive",
+          "b": "Past Simple Passive",
+          "c": "Future Simple Passive",
+          "d": "Present Perfect Passive"
+        },
+        "answer": "a",
+        "explanation": "Structure: am/is/are + being + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 80,
+        "id": "q80",
+        "type": "mot_dap_an",
+        "question": "\"A far cry from the truth\" - which word is the noun?",
+        "options": {
+          "a": "far",
+          "b": "cry",
+          "c": "truth",
+          "d": "from"
+        },
+        "answer": "b",
+        "explanation": "In this idiom, \"cry\" is the head noun of the phrase \"a far cry.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 81,
+        "id": "q81",
+        "type": "mot_dap_an",
+        "question": "\"Victor Gruen... founded his own firm.\" A \"firm\" is a:",
+        "options": {
+          "a": "Soft material",
+          "b": "Business or company",
+          "c": "Strict rule",
+          "d": "Large building"
+        },
+        "answer": "b",
+        "explanation": "In a professional context, a firm is a business organization.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 82,
+        "id": "q82",
+        "type": "mot_dap_an",
+        "question": "\"The geyser has lived up to its name.\" This means:",
+        "options": {
+          "a": "The geyser changed its name.",
+          "b": "The geyser performed as well as expected based on its name.",
+          "c": "The geyser's name is famous.",
+          "d": "The geyser is older than its name."
+        },
+        "answer": "b",
+        "explanation": "\"Live up to\" means to fulfill expectations.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 83,
+        "id": "q83",
+        "type": "mot_dap_an",
+        "question": "\"Commit phone numbers to memory\" is becoming rare because:",
+        "options": {
+          "a": "Phone numbers are getting longer.",
+          "b": "Smartphones store them for us.",
+          "c": "People don't use phones anymore.",
+          "d": "Memory is naturally improving."
+        },
+        "answer": "b",
+        "explanation": "Technology has offloaded the need for manual memorization.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 84,
+        "id": "q84",
+        "type": "mot_dap_an",
+        "question": "\"Gruen... seen as the father of the shopping mall.\" This is a:",
+        "options": {
+          "a": "Simile",
+          "b": "Metaphor",
+          "c": "Personification",
+          "d": "Hyperbole"
+        },
+        "answer": "b",
+        "explanation": "Calling him the \"father\" of a concept is a metaphorical way of saying he founded it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 85,
+        "id": "q85",
+        "type": "mot_dap_an",
+        "question": "\"Regrettably, the museum had to cancel.\" What was the reason?",
+        "options": {
+          "a": "Unforeseen technical issues.",
+          "b": "Lack of visitors.",
+          "c": "The museum was too old.",
+          "d": "They wanted to save money."
+        },
+        "answer": "a",
+        "explanation": "The Word Form context mentions \"unforeseen technical issues.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 86,
+        "id": "q86",
+        "type": "mot_dap_an",
+        "question": "\"Sparked a renewed interest.\" \"Sparked\" means:",
+        "options": {
+          "a": "Extinguished",
+          "b": "Ignited or triggered",
+          "c": "Calculated",
+          "d": "Denied"
+        },
+        "answer": "b",
+        "explanation": "To spark something is to start it suddenly.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 87,
+        "id": "q87",
+        "type": "mot_dap_an",
+        "question": "\"Shifting uneasily in their seats\" suggests the audience was:",
+        "options": {
+          "a": "Comfortable",
+          "b": "Uncomfortable or bored",
+          "c": "Asleep",
+          "d": "Dancing"
+        },
+        "answer": "b",
+        "explanation": "Uneasiness causes physical fidgeting or shifting.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 88,
+        "id": "q88",
+        "type": "mot_dap_an",
+        "question": "\"Relying on vague assumptions.\" \"Vague\" is the opposite of:",
+        "options": {
+          "a": "Unclear",
+          "b": "Precise or specific",
+          "c": "Lazy",
+          "d": "Heavy"
+        },
+        "answer": "b",
+        "explanation": "Vague means not clearly defined; precise means exact.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 89,
+        "id": "q89",
+        "type": "mot_dap_an",
+        "question": "\"The team secured victories.\" \"Secured\" is closest to:",
+        "options": {
+          "a": "Lost",
+          "b": "Guaranteed or achieved",
+          "c": "Watched",
+          "d": "Stole"
+        },
+        "answer": "b",
+        "explanation": "To secure a win is to make sure you get it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 90,
+        "id": "q90",
+        "type": "mot_dap_an",
+        "question": "\"Technological advancements.\" \"Advancements\" refers to:",
+        "options": {
+          "a": "Steps backward",
+          "b": "Progress or improvements",
+          "c": "Financial costs",
+          "d": "Physical movements"
+        },
+        "answer": "b",
+        "explanation": "Advancement in a field means progress.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 91,
+        "id": "q91",
+        "type": "mot_dap_an",
+        "question": "\"Old Faithful erupts... at Yellowstone.\" Is Yellowstone a:",
+        "options": {
+          "a": "City",
+          "b": "National Park",
+          "c": "State",
+          "d": "Country"
+        },
+        "answer": "b",
+        "explanation": "It is the world's first National Park.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 92,
+        "id": "q92",
+        "type": "mot_dap_an",
+        "question": "\"Only fifty meters short of the finish line.\" This implies:",
+        "options": {
+          "a": "They passed the finish line.",
+          "b": "They failed to reach the finish line by 50 meters.",
+          "c": "The finish line was 50 meters long.",
+          "d": "They ran 50 meters in total."
+        },
+        "answer": "b",
+        "explanation": "\"Short of\" means not reaching a certain point.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 93,
+        "id": "q93",
+        "type": "mot_dap_an",
+        "question": "\"A far cry from the truth.\" This phrase is:",
+        "options": {
+          "a": "Formal",
+          "b": "Idiomatic",
+          "c": "Literal",
+          "d": "Scientific"
+        },
+        "answer": "b",
+        "explanation": "It is a common idiom in English.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 94,
+        "id": "q94",
+        "type": "mot_dap_an",
+        "question": "\"The prospect of spending a few weeks...\" \"Prospect\" refers to:",
+        "options": {
+          "a": "The past",
+          "b": "A future possibility",
+          "c": "A current problem",
+          "d": "A book"
+        },
+        "answer": "b",
+        "explanation": "Prospect looks forward to what might happen.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 95,
+        "id": "q95",
+        "type": "mot_dap_an",
+        "question": "\"Requested that no one be told.\" Why is \"be\" used instead of \"is\"?",
+        "options": {
+          "a": "It's a typo.",
+          "b": "It's the subjunctive mood.",
+          "c": "It's the past tense.",
+          "d": "It's for emphasis."
+        },
+        "answer": "b",
+        "explanation": "Verbs of demand/request take the base form (subjunctive) in the \"that\" clause.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 96,
+        "id": "q96",
+        "type": "mot_dap_an",
+        "question": "\"Speculated to have reached.\" This is an:",
+        "options": {
+          "a": "Infinitive of purpose",
+          "b": "Perfect infinitive",
+          "c": "Bare infinitive",
+          "d": "Active infinitive"
+        },
+        "answer": "b",
+        "explanation": "\"To have + V3\" is the perfect infinitive.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 97,
+        "id": "q97",
+        "type": "mot_dap_an",
+        "question": "\"Can't have put\" - which word is the modal verb?",
+        "options": {
+          "a": "can't",
+          "b": "have",
+          "c": "put",
+          "d": "the"
+        },
+        "answer": "a",
+        "explanation": "\"Can't\" is the modal used for deduction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 98,
+        "id": "q98",
+        "type": "mot_dap_an",
+        "question": "\"Enough cookies to go round.\" \"Round\" is used as an:",
+        "options": {
+          "a": "Adjective",
+          "b": "Adverb",
+          "c": "Preposition",
+          "d": "Noun"
+        },
+        "answer": "b",
+        "explanation": "In the phrasal verb \"go round,\" it acts adverbially.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 99,
+        "id": "q99",
+        "type": "mot_dap_an",
+        "question": "\"That figures.\" This expression shows:",
+        "options": {
+          "a": "A lack of surprise",
+          "b": "Extreme shock",
+          "c": "Math skills",
+          "d": "Anger"
+        },
+        "answer": "a",
+        "explanation": "It means \"that is exactly what I expected.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 100,
+        "id": "q100",
+        "type": "mot_dap_an",
+        "question": "\"Inherently limited.\" \"Inherently\" is an:",
+        "options": {
+          "a": "Adjective",
+          "b": "Adverb",
+          "c": "Noun",
+          "d": "Verb"
+        },
+        "answer": "b",
+        "explanation": "It modifies the adjective \"limited.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 101,
+        "id": "q101",
+        "type": "mot_dap_an",
+        "question": "\"Fifty meters short of the finish line.\" \"Short\" is:",
+        "options": {
+          "a": "A distance",
+          "b": "An adjective",
+          "c": "A verb",
+          "d": "A pronoun"
+        },
+        "answer": "b",
+        "explanation": "It functions as an adjective in this prepositional structure.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 102,
+        "id": "q102",
+        "type": "mot_dap_an",
+        "question": "\"Stick to a study plan.\" \"Stick to\" is a:",
+        "options": {
+          "a": "Compound word",
+          "b": "Phrasal verb",
+          "c": "Noun phrase",
+          "d": "Idiom"
+        },
+        "answer": "b",
+        "explanation": "Verb + preposition that has a specific meaning together.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 103,
+        "id": "q103",
+        "type": "mot_dap_an",
+        "question": "\"Much as his wife warned him.\" \"Much as\" acts as a:",
+        "options": {
+          "a": "Conjunction",
+          "b": "Preposition",
+          "c": "Relative pronoun",
+          "d": "Interjection"
+        },
+        "answer": "a",
+        "explanation": "It connects the subordinate clause to the main clause.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 104,
+        "id": "q104",
+        "type": "mot_dap_an",
+        "question": "\"Barely entered... when.\" This structure requires the:",
+        "options": {
+          "a": "Past Simple",
+          "b": "Past Perfect",
+          "c": "Future Simple",
+          "d": "Present Perfect"
+        },
+        "answer": "b",
+        "explanation": "The first action (entered) is usually in the Past Perfect (had barely entered).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 105,
+        "id": "q105",
+        "type": "mot_dap_an",
+        "question": "\"Receive feedback.\" \"Feedback\" is:",
+        "options": {
+          "a": "Countable",
+          "b": "Uncountable",
+          "c": "Plural only",
+          "d": "A proper noun"
+        },
+        "answer": "b",
+        "explanation": "It is an abstract uncountable noun.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 106,
+        "id": "q106",
+        "type": "mot_dap_an",
+        "question": "\"Resented being excluded.\" \"Resented\" means:",
+        "options": {
+          "a": "Loved",
+          "b": "Felt bitterness about",
+          "c": "Ignored",
+          "d": "Laughed at"
+        },
+        "answer": "b",
+        "explanation": "To resent is to feel indignant or bitter.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 107,
+        "id": "q107",
+        "type": "mot_dap_an",
+        "question": "\"Comprising of students\" is wrong because \"comprise\" is:",
+        "options": {
+          "a": "Intransitive",
+          "b": "Transitive",
+          "c": "An auxiliary verb",
+          "d": "A linking verb"
+        },
+        "answer": "b",
+        "explanation": "It takes a direct object without a preposition.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 108,
+        "id": "q108",
+        "type": "mot_dap_an",
+        "question": "\"She found it puzzling.\" \"It\" refers to:",
+        "options": {
+          "a": "The colleagues",
+          "b": "The situation (in that her colleagues opposed...)",
+          "c": "The plan",
+          "d": "The proposal"
+        },
+        "answer": "b",
+        "explanation": "\"It\" is a dummy object referring to the subsequent \"in that\" clause.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 109,
+        "id": "q109",
+        "type": "mot_dap_an",
+        "question": "\"Renewed interest.\" \"Renewed\" is a:",
+        "options": {
+          "a": "Gerund",
+          "b": "Past Participle",
+          "c": "Present Participle",
+          "d": "Infinitive"
+        },
+        "answer": "b",
+        "explanation": "It is a V3 used as an adjective.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 110,
+        "id": "q110",
+        "type": "mot_dap_an",
+        "question": "\"Overstepped boundaries.\" \"Over-\" is a:",
+        "options": {
+          "a": "Suffix",
+          "b": "Prefix",
+          "c": "Root",
+          "d": "Infix"
+        },
+        "answer": "b",
+        "explanation": "A prefix added to the front of a word.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 111,
+        "id": "q111",
+        "type": "mot_dap_an",
+        "question": "\"Foggiest idea.\" \"Foggiest\" is the ______ form of \"foggy.\"",
+        "options": {
+          "a": "Comparative",
+          "b": "Superlative",
+          "c": "Positive",
+          "d": "Adverbial"
+        },
+        "answer": "b",
+        "explanation": "Suffix \"-est\" indicates the superlative degree.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 112,
+        "id": "q112",
+        "type": "mot_dap_an",
+        "question": "\"Impediment to progress.\" \"Progress\" is a:",
+        "options": {
+          "a": "Verb",
+          "b": "Noun",
+          "c": "Both A and B",
+          "d": "Neither"
+        },
+        "answer": "c",
+        "explanation": "It can be a verb (to progress) or a noun (human progress). Here it is a noun.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 113,
+        "id": "q113",
+        "type": "mot_dap_an",
+        "question": "\"Cringeworthy jokes.\" \"Cringeworthy\" is a:",
+        "options": {
+          "a": "Compound adjective",
+          "b": "Compound noun",
+          "c": "Simple adjective",
+          "d": "Phrasal verb"
+        },
+        "answer": "a",
+        "explanation": "Formed by combining \"cringe\" and \"worthy.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 114,
+        "id": "q114",
+        "type": "mot_dap_an",
+        "question": "\"Paper-thin argument.\" \"Paper-thin\" is a:",
+        "options": {
+          "a": "Simile",
+          "b": "Metaphor",
+          "c": "Hyperbole",
+          "d": "Paradox"
+        },
+        "answer": "b",
+        "explanation": "Comparing an argument to the thinness of paper metaphorically.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 115,
+        "id": "q115",
+        "type": "mot_dap_an",
+        "question": "\"Back-to-back victories.\" The hyphen indicates:",
+        "options": {
+          "a": "A pause",
+          "b": "A compound adjective modifying \"victories\"",
+          "c": "A missing word",
+          "d": "The end of a line"
+        },
+        "answer": "b",
+        "explanation": "Hyphens are used to link words that function as a single unit before a noun.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 116,
+        "id": "q116",
+        "type": "mot_dap_an",
+        "question": "\"Information search engines.\" \"Search\" acts as a:",
+        "options": {
+          "a": "Verb",
+          "b": "Noun adjunct",
+          "c": "Adverb",
+          "d": "Pronoun"
+        },
+        "answer": "b",
+        "explanation": "A noun used to modify another noun (engines).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 117,
+        "id": "q117",
+        "type": "mot_dap_an",
+        "question": "\"Confirm users' beliefs.\" \"Confirm\" means:",
+        "options": {
+          "a": "To challenge",
+          "b": "To support or strengthen",
+          "c": "To forget",
+          "d": "To lie"
+        },
+        "answer": "b",
+        "explanation": "To confirm is to verify or reinforce.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 118,
+        "id": "q118",
+        "type": "mot_dap_an",
+        "question": "\"Polarising society.\" \"Society\" is the ______ of the participle.",
+        "options": {
+          "a": "Subject",
+          "b": "Object",
+          "c": "Complement",
+          "d": "Modifier"
+        },
+        "answer": "b",
+        "explanation": "\"Society\" is what is being polarized.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 119,
+        "id": "q119",
+        "type": "mot_dap_an",
+        "question": "\"Dramatically deteriorated.\" \"Dramatically\" shows:",
+        "options": {
+          "a": "The time",
+          "b": "The location",
+          "c": "The degree or extent",
+          "d": "The reason"
+        },
+        "answer": "c",
+        "explanation": "It tells how much or to what extent something deteriorated.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 120,
+        "id": "q120",
+        "type": "mot_dap_an",
+        "question": "\"Victor Gruen... Wiener architect.\" \"Wiener\" refers to:",
+        "options": {
+          "a": "A type of food",
+          "b": "The city of Vienna",
+          "c": "A famous winner",
+          "d": "A brand of tools"
+        },
+        "answer": "b",
+        "explanation": "Wiener is the German/Adjectival form for someone from Vienna.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 121,
+        "id": "q121",
+        "type": "mot_dap_an",
+        "question": "\"Introverted mall.\" \"Introverted\" usually describes:",
+        "options": {
+          "a": "A personality trait",
+          "b": "A building design",
+          "c": "Both A and B",
+          "d": "Only food"
+        },
+        "answer": "c",
+        "explanation": "Usually a personality trait, but used metaphorically here for inward-facing design.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 122,
+        "id": "q122",
+        "type": "mot_dap_an",
+        "question": "\"Gigantic shopping machine.\" \"Gigantic\" is a synonym for:",
+        "options": {
+          "a": "Tiny",
+          "b": "Massive",
+          "c": "Beautiful",
+          "d": "Broken"
+        },
+        "answer": "b",
+        "explanation": "Something extremely large.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 123,
+        "id": "q123",
+        "type": "mot_dap_an",
+        "question": "\"Old Faithful... named for its performance.\" \"Named for\" means:",
+        "options": {
+          "a": "Given a name after",
+          "b": "Given a name because of",
+          "c": "Given a name instead of",
+          "d": "Lost a name"
+        },
+        "answer": "b",
+        "explanation": "Indicates the reason or inspiration for the name.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 124,
+        "id": "q124",
+        "type": "mot_dap_an",
+        "question": "\"Geologic processes.\" \"Geologic\" refers to:",
+        "options": {
+          "a": "The study of plants",
+          "b": "The study of the earth's physical structure",
+          "c": "The study of stars",
+          "d": "The study of computers"
+        },
+        "answer": "b",
+        "explanation": "Relating to geology.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 125,
+        "id": "q125",
+        "type": "mot_dap_an",
+        "question": "\"Visitors may continue to enjoy.\" \"May\" expresses:",
+        "options": {
+          "a": "Obligation",
+          "b": "Possibility or permission",
+          "c": "Past ability",
+          "d": "Necessity"
+        },
+        "answer": "b",
+        "explanation": "Used to show what is possible.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 126,
+        "id": "q126",
+        "type": "mot_dap_an",
+        "question": "\"Icy treats were largely enjoyed.\" \"Largely\" means:",
+        "options": {
+          "a": "In a big way",
+          "b": "Mostly or mainly",
+          "c": "At a distance",
+          "d": "Slowly"
+        },
+        "answer": "b",
+        "explanation": "Used to show that something is true in most cases.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 127,
+        "id": "q127",
+        "type": "mot_dap_an",
+        "question": "\"Wealthy and the elite.\" \"Elite\" refers to:",
+        "options": {
+          "a": "The poor",
+          "b": "A small group of powerful or superior people",
+          "c": "Farmers",
+          "d": "Children"
+        },
+        "answer": "b",
+        "explanation": "The top social or professional class.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 128,
+        "id": "q128",
+        "type": "mot_dap_an",
+        "question": "\"Fetch ice.\" \"Fetch\" means:",
+        "options": {
+          "a": "To throw away",
+          "b": "To go and get something",
+          "c": "To freeze",
+          "d": "To sell"
+        },
+        "answer": "b",
+        "explanation": "A two-way action: go, get, and bring back.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 129,
+        "id": "q129",
+        "type": "mot_dap_an",
+        "question": "\"Innovative cooling.\" \"Innovative\" means:",
+        "options": {
+          "a": "Old-fashioned",
+          "b": "Introducing new ideas or methods",
+          "c": "Expensive",
+          "d": "Broken"
+        },
+        "answer": "b",
+        "explanation": "Relating to innovation.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 130,
+        "id": "q130",
+        "type": "mot_dap_an",
+        "question": "\"Milk-based sorbet.\" \"Based\" acts as part of a:",
+        "options": {
+          "a": "Compound noun",
+          "b": "Compound adjective",
+          "c": "Phrasal verb",
+          "d": "Preposition"
+        },
+        "answer": "b",
+        "explanation": "Modifies \"sorbet\" to show its main ingredient.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 131,
+        "id": "q131",
+        "type": "mot_dap_an",
+        "question": "\"Revolutionized the process.\" \"Revolutionized\" means:",
+        "options": {
+          "a": "Slowed down",
+          "b": "Completely changed or improved",
+          "c": "Ended",
+          "d": "Copied"
+        },
+        "answer": "b",
+        "explanation": "To bring about a major change.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 132,
+        "id": "q132",
+        "type": "mot_dap_an",
+        "question": "\"Hand-cranked freezer.\" \"Crank\" refers to:",
+        "options": {
+          "a": "A handle used to turn a machine",
+          "b": "A type of engine",
+          "c": "A fuel source",
+          "d": "A scientific theory"
+        },
+        "answer": "a",
+        "explanation": "A mechanical part turned by hand.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 133,
+        "id": "q133",
+        "type": "mot_dap_an",
+        "question": "\"Medicinal properties.\" \"Medicinal\" means:",
+        "options": {
+          "a": "Having the effects of medicine",
+          "b": "Taste like sugar",
+          "c": "Being very cold",
+          "d": "Imported from Italy"
+        },
+        "answer": "a",
+        "explanation": "Relating to medicine or healing.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 134,
+        "id": "q134",
+        "type": "mot_dap_an",
+        "question": "\"Refrigeration technology.\" \"Technology\" is:",
+        "options": {
+          "a": "Abstract",
+          "b": "Concrete",
+          "c": "Both A and B",
+          "d": "Proper noun"
+        },
+        "answer": "a",
+        "explanation": "It refers to the application of scientific knowledge.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 135,
+        "id": "q135",
+        "type": "mot_dap_an",
+        "question": "\"Deteriorated recollection.\" \"Recollection\" is a synonym for:",
+        "options": {
+          "a": "Memory or recall",
+          "b": "Forgetfulness",
+          "c": "Speed",
+          "d": "Vision"
+        },
+        "answer": "a",
+        "explanation": "The act of remembering.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 136,
+        "id": "q136",
+        "type": "mot_dap_an",
+        "question": "\"Victor Gruen... customer trap.\" Why did he call it that?",
+        "options": {
+          "a": "Because people couldn't leave the mall.",
+          "b": "To attract customers from noisy streets to a nice environment.",
+          "c": "Because he hated his customers.",
+          "d": "Because the mall was dangerous."
+        },
+        "answer": "b",
+        "explanation": "The text says it was designed to \"lure customers off noisy streets.\"",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 137,
+        "id": "q137",
+        "type": "mot_dap_an",
+        "question": "\"Rapidly suburbanizing America.\" \"Suburbanizing\" is a:",
+        "options": {
+          "a": "Noun",
+          "b": "Participle used as an adjective",
+          "c": "Verb in the present tense",
+          "d": "Pronoun"
+        },
+        "answer": "b",
+        "explanation": "It describes the state of America at that time.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 138,
+        "id": "q138",
+        "type": "mot_dap_an",
+        "question": "\"Low-cost developers.\" \"Low-cost\" refers to:",
+        "options": {
+          "a": "The quality of the developers",
+          "b": "The budget or expense of the projects",
+          "c": "The height of the buildings",
+          "d": "The speed of construction"
+        },
+        "answer": "b",
+        "explanation": "Focusing on saving money.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 139,
+        "id": "q139",
+        "type": "mot_dap_an",
+        "question": "\"Twisted into something he opposed.\" \"Opposed\" means:",
+        "options": {
+          "a": "Supported",
+          "b": "Disagreed with or was against",
+          "c": "Ignored",
+          "d": "Loved"
+        },
+        "answer": "b",
+        "explanation": "To be in opposition to something.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 140,
+        "id": "q140",
+        "type": "mot_dap_an",
+        "question": "\"Old Faithful... named for its performance.\" Is \"Old Faithful\" a:",
+        "options": {
+          "a": "Proper noun",
+          "b": "Common noun",
+          "c": "Abstract noun",
+          "d": "Collective noun"
+        },
+        "answer": "a",
+        "explanation": "It is the specific name of a geyser.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 141,
+        "id": "q141",
+        "type": "mot_dap_an",
+        "question": "\"Geyser eruptions.\" \"Eruptions\" is the ______ form of \"erupt.\"",
+        "options": {
+          "a": "Verb",
+          "b": "Noun",
+          "c": "Adjective",
+          "d": "Adverb"
+        },
+        "answer": "b",
+        "explanation": "Suffix \"-ion\" indicates a noun.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 142,
+        "id": "q143",
+        "type": "mot_dap_an",
+        "question": "\"Thermal features.\" \"Thermal\" refers to:",
+        "options": {
+          "a": "Wind",
+          "b": "Heat",
+          "c": "Water",
+          "d": "Rocks"
+        },
+        "answer": "b",
+        "explanation": "Relating to heat or temperature.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 143,
+        "id": "q144",
+        "type": "mot_dap_an",
+        "question": "\"Old Faithful may stop erupting someday.\" \"Someday\" is an:",
+        "options": {
+          "a": "Adverb of time",
+          "b": "Adjective",
+          "c": "Noun",
+          "d": "Preposition"
+        },
+        "answer": "a",
+        "explanation": "It tells when the event might happen.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 144,
+        "id": "q145",
+        "type": "mot_dap_an",
+        "question": "\"Natural geologic processes.\" \"Natural\" is the opposite of:",
+        "options": {
+          "a": "Artificial",
+          "b": "Wild",
+          "c": "Beautiful",
+          "d": "Green"
+        },
+        "answer": "a",
+        "explanation": "Something not made or caused by humans.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 145,
+        "id": "q146",
+        "type": "mot_dap_an",
+        "question": "\"Historical milestones.\" \"Milestone\" means:",
+        "options": {
+          "a": "A heavy rock",
+          "b": "A significant event or stage",
+          "c": "A measurement of speed",
+          "d": "A type of weapon"
+        },
+        "answer": "b",
+        "explanation": "Metaphor for a major turning point.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 146,
+        "id": "q147",
+        "type": "mot_dap_an",
+        "question": "\"Patented a freezer.\" \"Patent\" means:",
+        "options": {
+          "a": "To buy",
+          "b": "To obtain legal rights to an invention",
+          "c": "To use for the first time",
+          "d": "To destroy"
+        },
+        "answer": "b",
+        "explanation": "Intellectual property protection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 147,
+        "id": "q148",
+        "type": "mot_dap_an",
+        "question": "\"Medicinal properties.\" \"Properties\" here means:",
+        "options": {
+          "a": "Houses or buildings",
+          "b": "Characteristics or qualities",
+          "c": "Money",
+          "d": "Tools"
+        },
+        "answer": "b",
+        "explanation": "The traits of a substance.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 148,
+        "id": "q149",
+        "type": "mot_dap_an",
+        "question": "\"Household freezer.\" \"Household\" means:",
+        "options": {
+          "a": "Relating to a family or house",
+          "b": "Extremely large",
+          "c": "Professional",
+          "d": "Outdoor"
+        },
+        "answer": "a",
+        "explanation": "Used within a home.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 149,
+        "id": "q150",
+        "type": "mot_dap_an",
+        "question": "\"Old Faithful... named in 1870.\" \"In 1870\" is a:",
+        "options": {
+          "a": "Noun phrase",
+          "b": "Prepositional phrase",
+          "c": "Verb phrase",
+          "d": "Adjective phrase"
+        },
+        "answer": "b",
+        "explanation": "Begins with the preposition \"in\" to show time.",
+        "_": "---",
+        "_divider": "-----------------"
+     }
+    ]
+  },
+{
     "_Note": "ENGLISH IEL9.0 - Đảo ngữ và Rút gọn Mệnh đề",
     "topic": "Đảo ngữ và Rút gọn Mệnh đề",
     "subject": "ENGLISH IEL9.0",
