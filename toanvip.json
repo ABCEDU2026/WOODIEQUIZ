@@ -158,15 +158,15 @@
         "number": 11,
         "id": "q11",
         "type": "mot_dap_an",
-        "question": "Xét biểu thức $A = \\\\frac{1}{2^{2}} + \\\\frac{1}{3^{2}} + \\\\frac{1}{4^{2}} + ... + \\\\frac{1}{2020^{2}}$. Để chứng minh A < 1, ta áp dụng đánh giá nào cho từng số hạng tổng quát?",
+        "question": "Xét biểu thức $A = \\frac{1}{2^{2}} + \\frac{1}{3^{2}} + \\frac{1}{4^{2}} + ... + \\frac{1}{2020^{2}}$. Để chứng minh A < 1, ta áp dụng đánh giá nào cho từng số hạng tổng quát?",
         "options": {
-          "a": "$\\\\frac{1}{n^{2}} < \\\\frac{1}{(n-1)n}$",
-          "b": "$\\\\frac{1}{n^{2}} > \\\\frac{1}{n(n+1)}$",
-          "c": "$\\\\frac{1}{n^{2}} = \\\\frac{1}{n} - \\\\frac{1}{n}$",
-          "d": "$\\\\frac{1}{n^{2}} < \\\\frac{1}{n}$"
+          "a": "$\\frac{1}{n^{2}} < \\frac{1}{(n-1)n}$",
+          "b": "$\\frac{1}{n^{2}} > \\frac{1}{n(n+1)}$",
+          "c": "$\\frac{1}{n^{2}} = \\frac{1}{n} - \\frac{1}{n}$",
+          "d": "$\\frac{1}{n^{2}} < \\frac{1}{n}$"
         },
         "answer": "a",
-        "explanation": "Sử dụng $n^{2} > (n-1)n$ dẫn đến $\\\\frac{1}{n^{2}} < \\\\frac{1}{(n-1)n}$, giúp tạo ra dãy phân số có thể triệt tiêu.",
+        "explanation": "Sử dụng $n^{2} > (n-1)n$ dẫn đến $\\frac{1}{n^{2}} < \\frac{1}{(n-1)n}$, giúp tạo ra dãy phân số có thể triệt tiêu.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -174,9 +174,9 @@
         "number": 12,
         "id": "q12",
         "type": "dien_khuyet",
-        "question": "Khi biến đổi tổng $A = \\\\frac{1}{2^{2}} + \\\\frac{1}{3^{2}} + ... + \\\\frac{1}{2020^{2}}$ thành dạng $A < \\\\frac{1}{1.2} + \\\\frac{1}{2.3} + ... + \\\\frac{1}{2019.2020}$, sau khi triệt tiêu ta thu được kết quả $A < 1 - ...$",
+        "question": "Khi biến đổi tổng $A = \\frac{1}{2^{2}} + \\frac{1}{3^{2}} + ... + \\frac{1}{2020^{2}}$ thành dạng $A < \\frac{1}{1.2} + \\frac{1}{2.3} + ... + \\frac{1}{2019.2020}$, sau khi triệt tiêu ta thu được kết quả $A < 1 - ...$",
         "answer": "1/2020",
-        "explanation": "Dãy triệt tiêu $(\\\\frac{1}{1} - \\\\frac{1}{2}) + (\\\\frac{1}{2} - \\\\frac{1}{3}) + ... + (\\\\frac{1}{2019} - \\\\frac{1}{2020})$ chỉ còn lại số hạng đầu và số hạng cuối.",
+        "explanation": "Dãy triệt tiêu $(\\frac{1}{1} - \\frac{1}{2}) + \\frac{1}{2} - \\frac{1}{3}) + ... + (\\frac{1}{2019} - \\frac{1}{2020})$ chỉ còn lại số hạng đầu và số hạng cuối.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -184,13 +184,13 @@
         "number": 13,
         "id": "q13",
         "type": "dung_sai",
-        "question": "Nhận định: \"Để chứng minh tổng $A = \\\\frac{1}{5^{2}} + \\\\frac{1}{6^{2}} + ... + \\\\frac{1}{100^{2}}$ nhỏ hơn 1/4, ta thay mỗi phân số $\\\\frac{1}{n.n}$ bằng phân số lớn hơn là $\\\\frac{1}{(n-1)n}$.\"",
+        "question": "Nhận định: \"Để chứng minh tổng $A = \\frac{1}{5^{2}} + \\frac{1}{6^{2}} + ... + \\frac{1}{100^{2}}$ nhỏ hơn 1/4, ta thay mỗi phân số $\\frac{1}{n.n}$ bằng phân số lớn hơn là $\\frac{1}{(n-1)n}$.\"",
         "options": {
           "dung": "ĐÚNG",
           "sai": "SAI"
         },
         "answer": "dung",
-        "explanation": "Đây là kỹ thuật làm trội mẫu số để tạo ra dãy phân số có dạng $\\\\frac{1}{n-1} - \\\\frac{1}{n}$.",
+        "explanation": "Đây là kỹ thuật làm trội mẫu số để tạo ra dãy phân số có dạng $\\frac{1}{n-1} - \\frac{1}{n}$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -198,12 +198,12 @@
         "number": 14,
         "id": "q14",
         "type": "mot_dap_an",
-        "question": "Trong bài toán chứng minh $A = \\\\frac{1}{5^{2}} + \\\\frac{1}{6^{2}} + ... + \\\\frac{1}{100^{2}} > \\\\frac{1}{6}$, bước biến đổi mẫu số nào sau đây là đúng để làm giảm giá trị tổng?",
+        "question": "Trong bài toán chứng minh $A = \\frac{1}{5^{2}} + \\frac{1}{6^{2}} + ... + \\frac{1}{100^{2}} > \\frac{1}{6}$, bước biến đổi mẫu số nào sau đây là đúng để làm giảm giá trị tổng?",
         "options": {
-          "a": "$\\\\frac{1}{n.n} > \\\\frac{1}{n(n+1)}$",
-          "b": "$\\\\frac{1}{n.n} < \\\\frac{1}{(n-1)n}$",
-          "c": "$\\\\frac{1}{n.n} > \\\\frac{1}{n-1}$",
-          "d": "$\\\\frac{1}{n.n} = \\\\frac{1}{n} - \\\\frac{1}{n+1}$"
+          "a": "$\\frac{1}{n.n} > \\frac{1}{n(n+1)}$",
+          "b": "$\\frac{1}{n.n} < \\frac{1}{(n-1)n}$",
+          "c": "$\\frac{1}{n.n} > \\frac{1}{n-1}$",
+          "d": "$\\frac{1}{n.n} = \\frac{1}{n} - \\frac{1}{n+1}$"
         },
         "answer": "a",
         "explanation": "Tăng mẫu số từ $n$ lên $n+1$ sẽ làm giảm giá trị của phân số, tạo ra một tổng mới nhỏ hơn tổng A.",
@@ -214,9 +214,9 @@
         "number": 15,
         "id": "q15",
         "type": "dien_khuyet",
-        "question": "Sau khi làm giảm tổng $A = \\\\frac{1}{5^{2}} + ... + \\\\frac{1}{100^{2}}$, ta thu được $A > \\\\frac{1}{5.6} + \\\\frac{1}{6.7} + ... + \\\\frac{1}{100.101}$. Kết quả thu gọn của vế phải là $\\\\frac{1}{5} - \\\\frac{1}{101}$, giá trị này bằng phân số ____.",
+        "question": "Sau khi làm giảm tổng $A = \\frac{1}{5^{2}} + ... + \\frac{1}{100^{2}}$, ta thu được $A > \\frac{1}{5.6} + \\frac{1}{6.7} + ... + \\frac{1}{100.101}$. Kết quả thu gọn của vế phải là $\\frac{1}{5} - \\frac{1}{101}$, giá trị này bằng phân số ____.",
         "answer": "96/505",
-        "explanation": "Quy đồng: $(101 - 5) / (5 \\\\times 101) = 96 / 505$.",
+        "explanation": "Quy đồng: $(101 - 5) / (5 \\times 101) = 96 / 505$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -224,9 +224,9 @@
         "number": 16,
         "id": "q16",
         "type": "mot_dap_an",
-        "question": "Tại sao từ kết quả $A > \\\\frac{96}{505}$ ta có thể khẳng định $A > \\\\frac{1}{6}$?",
+        "question": "Tại sao từ kết quả $A > \\frac{96}{505}$ ta có thể khẳng định $A > \\frac{1}{6}$?",
         "options": {
-          "a": "Vì $\\\\frac{96}{505} > \\\\frac{96}{576}$ và $\\\\frac{96}{576} = \\\\frac{1}{6}$",
+          "a": "Vì $\\frac{96}{505} > \\frac{96}{576}$ và $\\frac{96}{576} = \\frac{1}{6}$",
           "b": "Vì $505$ lớn hơn $96 \\times 6$",
           "c": "Vì tử số 96 là số chẵn còn mẫu số 505 là số lẻ",
           "d": "Vì $A$ là tổng của các bình phương luôn dương"
@@ -248,12 +248,12 @@
         ],
         "rightCol": [
           "Tạo ra các phân số mới để làm trội hoặc làm giảm tổng ban đầu",
-          "Biến đổi $\\\\frac{1}{n(n+1)}$ thành $\\\\frac{1}{n} - \\\\frac{1}{n+1}$ để triệt tiêu",
+          "Biến đổi $\\frac{1}{n(n+1)}$ thành $\\frac{1}{n} - \\frac{1}{n+1}$ để triệt tiêu",
           "Sử dụng tính chất bắc cầu để đưa ra kết luận cuối cùng cho bài toán"
         ],
         "answer": {
           "Thay đổi mẫu số của từng hạng tử": "Tạo ra các phân số mới để làm trội hoặc làm giảm tổng ban đầu",
-          "Áp dụng công thức hiệu hai phân số": "Biến đổi $\\\\frac{1}{n(n+1)}$ thành $\\\\frac{1}{n} - \\\\frac{1}{n+1}$ để triệt tiêu",
+          "Áp dụng công thức hiệu hai phân số": "Biến đổi $\\frac{1}{n(n+1)}$ thành $\\frac{1}{n} - \\frac{1}{n+1}$ để triệt tiêu",
           "So sánh giá trị cuối cùng với ngưỡng k": "Sử dụng tính chất bắc cầu để đưa ra kết luận cuối cùng cho bài toán"
         },
         "explanation": "Đây là trình tự logic 3 bước để giải quyết bài toán bất đẳng thức phân số có quy luật.",
@@ -280,7 +280,7 @@
         "number": 19,
         "id": "q19",
         "type": "mot_dap_an",
-        "question": "Xét tổng $A = \\\\frac{1}{4} + \\\\frac{1}{16} + \\\\frac{1}{36} + ... + \\\\frac{1}{196}$. Dãy mẫu số này có quy luật là bình phương của các số nào?",
+        "question": "Xét tổng $A = \\frac{1}{4} + \\frac{1}{16} + \\frac{1}{36} + ... + \\frac{1}{196}$. Dãy mẫu số này có quy luật là bình phương của các số nào?",
         "options": {
           "a": "Các số chẵn liên tiếp: $2^{2}, 4^{2}, 6^{2}, ..., 14^{2}$",
           "b": "Các số lẻ liên tiếp: $1^{2}, 3^{2}, 5^{2}, ..., 13^{2}$",
@@ -296,9 +296,9 @@
         "number": 20,
         "id": "q20",
         "type": "dien_khuyet",
-        "question": "Khi đặt nhân tử chung cho tổng $A = \\\\frac{1}{2^{2}} + \\\\frac{1}{4^{2}} + \\\\frac{1}{6^{2}} + ... + \\\\frac{1}{14^{2}}$, ta có $A = \\\\frac{1}{2^{2}} \\\\cdot (1 + \\\\frac{1}{2^{2}} + \\\\frac{1}{3^{2}} + ... + \\\\frac{1}{n^{2}})$. Giá trị của n ở số hạng cuối cùng là ____.",
+        "question": "Khi đặt nhân tử chung cho tổng $A = \\frac{1}{2^{2}} + \\frac{1}{4^{2}} + \\frac{1}{6^{2}} + ... + \\frac{1}{14^{2}}$, ta có $A = \\frac{1}{2^{2}} \\cdot (1 + \\frac{1}{2^{2}} + \\frac{1}{3^{2}} + ... + \\frac{1}{n^{2}})$. Giá trị của n ở số hạng cuối cùng là ____.",
         "answer": "7",
-        "explanation": "Vì số hạng cuối là $\\\\frac{1}{14^{2}} = \\\\frac{1}{(2.7)^{2}} = \\\\frac{1}{2^{2}} \\\\cdot \\\\frac{1}{7^{2}}$.",
+        "explanation": "Vì số hạng cuối là $\\frac{1}{14^{2}} = \\frac{1}{(2.7)^{2}} = \\frac{1}{2^{2}} \\cdot \\frac{1}{7^{2}}$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -306,13 +306,13 @@
         "number": 21,
         "id": "q21",
         "type": "dung_sai",
-        "question": "Nhận định: \"Trong chứng minh $A < \\\\frac{1}{4} \\\\cdot (2 - \\\\frac{1}{7})$, vì biểu thức trong ngoặc nhỏ hơn 2 nên kết quả cuối cùng chắc chắn nhỏ hơn 1/2.\"",
+        "question": "Nhận định: \"Trong chứng minh $A < \\frac{1}{4} \\cdot (2 - \\frac{1}{7})$, vì biểu thức trong ngoặc nhỏ hơn 2 nên kết quả cuối cùng chắc chắn nhỏ hơn 1/2.\"",
         "options": {
           "dung": "ĐÚNG",
           "sai": "SAI"
         },
         "answer": "dung",
-        "explanation": "$\\\\frac{1}{4} \\\\cdot 2 = \\\\frac{1}{2}$, do đó $\\\\frac{1}{4}$ nhân với một số nhỏ hơn 2 sẽ nhỏ hơn $1/2$.",
+        "explanation": "$\\frac{1}{4} \\cdot 2 = \\frac{1}{2}$, do đó $\\frac{1}{4}$ nhân với một số nhỏ hơn 2 sẽ nhỏ hơn $1/2$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -320,7 +320,7 @@
         "number": 22,
         "id": "q22",
         "type": "mot_dap_an",
-        "question": "Kết luận cuối cùng của bài toán chứng minh tổng $A = \\\\frac{1}{4} + \\\\frac{1}{16} + ... + \\\\frac{1}{196} < \\\\frac{1}{2}$ dựa trên giá trị cụ thể nào?",
+        "question": "Kết luận cuối cùng của bài toán chứng minh tổng $A = \\frac{1}{4} + \\frac{1}{16} + ... + \\frac{1}{196} < \\frac{1}{2}$ dựa trên giá trị cụ thể nào?",
         "options": {
           "a": "A < 1/2 - 1/28",
           "b": "A < 1/2 + 1/28",
@@ -381,7 +381,7 @@
         "number": 25,
         "id": "q25",
         "type": "mot_dap_an",
-        "question": "Cho dãy số $A = \\\\frac{1}{21} + \\\\frac{1}{22} + ... + \\\\frac{1}{60}$. Dãy này có bao nhiêu phân số?",
+        "question": "Cho dãy số $A = \\frac{1}{21} + \\frac{1}{22} + ... + \\frac{1}{60}$. Dãy này có bao nhiêu phân số?",
         "options": {
           "a": "40",
           "b": "39",
@@ -437,9 +437,9 @@
         "number": 29,
         "id": "q29",
         "type": "mot_dap_an",
-        "question": "Trong bài toán chứng minh $A = \\\\frac{1}{2^{2}} + \\\\frac{1}{3^{2}} + ... + \\\\frac{1}{2020^{2}} < 1$, tại sao không biến đổi $\\\\frac{1}{2^{2}}$ thành $\\\\frac{1}{1.2}$?",
+        "question": "Trong bài toán chứng minh $A = \\frac{1}{2^{2}} + \\frac{1}{3^{2}} + ... + \\frac{1}{2020^{2}} < 1$, tại sao không biến đổi $\\frac{1}{2^{2}}$ thành $\\frac{1}{1.2}$?",
         "options": {
-          "a": "Thực tế bài toán có thể biến đổi như vậy, và $\\\\frac{1}{2^{2}} < \\\\frac{1}{1.2}$ là một đánh giá làm trội hợp lý.",
+          "a": "Thực tế bài toán có thể biến đổi như vậy, và $\\frac{1}{2^{2}} < \\frac{1}{1.2}$ là một đánh giá làm trội hợp lý.",
           "b": "Vì $1.2$ không phải là mẫu số của phân số nào trong dãy.",
           "c": "Vì biến đổi như vậy sẽ làm tổng nhỏ đi.",
           "d": "Vì $2^2$ là số chẵn."
@@ -463,11 +463,11 @@
         "number": 31,
         "id": "q31",
         "type": "mot_dap_an",
-        "question": "Giá trị của phân số $\\\\frac{1}{100^{2}}$ so với $\\\\frac{1}{99.100}$ như thế nào?",
+        "question": "Giá trị của phân số $\\frac{1}{100^{2}}$ so với $\\frac{1}{99.100}$ như thế nào?",
         "options": {
-          "a": "$\\\\frac{1}{100^{2}} < \\\\frac{1}{99.100}$",
-          "b": "$\\\\frac{1}{100^{2}} > \\\\frac{1}{99.100}$",
-          "c": "$\\\\frac{1}{100^{2}} = \\\\frac{1}{99.100}$",
+          "a": "$\\frac{1}{100^{2}} < \\frac{1}{99.100}$",
+          "b": "$\\frac{1}{100^{2}} > \\frac{1}{99.100}$",
+          "c": "$\\frac{1}{100^{2}} = \\frac{1}{99.100}$",
           "d": "Không thể so sánh"
         },
         "answer": "a",
@@ -493,7 +493,7 @@
         "number": 33,
         "id": "q33",
         "type": "mot_dap_an",
-        "question": "Trong phép tính $\\\\frac{1}{5} - \\\\frac{1}{101}$, mẫu số chung nhỏ nhất là bao nhiêu?",
+        "question": "Trong phép tính $\\frac{1}{5} - \\frac{1}{101}$, mẫu số chung nhỏ nhất là bao nhiêu?",
         "options": {
           "a": "505",
           "b": "101",
@@ -535,7 +535,7 @@
         "number": 36,
         "id": "q36",
         "type": "nhieu_dap_an",
-        "question": "Trong dãy tổng $A = \\\\frac{1}{4} + \\\\frac{1}{16} + \\\\frac{1}{36} + \\\\frac{1}{64} + \\\\frac{1}{100} + \\\\frac{1}{144} + \\\\frac{1}{196}$, những số hạng nào có mẫu là bình phương của một số chẵn lớn hơn 10?",
+        "question": "Trong dãy tổng $A = \\frac{1}{4} + \\frac{1}{16} + \\frac{1}{36} + \\frac{1}{64} + \\frac{1}{100} + \\frac{1}{144} + \\frac{1}{196}$, những số hạng nào có mẫu là bình phương của một số chẵn lớn hơn 10?",
         "options": {
           "a": "1/144",
           "b": "1/196",
@@ -594,7 +594,7 @@
         "number": 40,
         "id": "q40",
         "type": "mot_dap_an",
-        "question": "Để chứng minh $A = \\\\frac{1}{5^{2}} + \\\\frac{1}{6^{2}} + ... + \\\\frac{1}{100^{2}} < \\\\frac{1}{4}$, ta sử dụng tổng chặn trên là $\\\\frac{1}{4} - \\\\frac{1}{100}$. So sánh giá trị này với 1/4:",
+        "question": "Để chứng minh $A = \\frac{1}{5^{2}} + \\frac{1}{6^{2}} + ... + \\frac{1}{100^{2}} < \\frac{1}{4}$, ta sử dụng tổng chặn trên là $\\frac{1}{4} - \\frac{1}{100}$. So sánh giá trị này với 1/4:",
         "options": {
           "a": "1/4 - 1/100 < 1/4",
           "b": "1/4 - 1/100 > 1/4",
@@ -626,7 +626,7 @@
         "number": 42,
         "id": "q42",
         "type": "dien_khuyet",
-        "question": "Biểu thức $A = \\\\frac{1}{21} + \\\\frac{1}{22} + ... + \\\\frac{1}{60}$ có số hạng lớn nhất là ____.",
+        "question": "Biểu thức $A = \\frac{1}{21} + \\frac{1}{22} + ... + \\frac{1}{60}$ có số hạng lớn nhất là ____.",
         "answer": "1/21",
         "explanation": "Trong dãy các phân số có cùng tử số, phân số có mẫu nhỏ nhất là phân số lớn nhất.",
         "_": "---",
@@ -682,7 +682,7 @@
         "number": 46,
         "id": "q46",
         "type": "dien_khuyet",
-        "question": "Cho $A = \\\\frac{1}{5.6} + \\\\frac{1}{6.7} + ... + \\\\frac{1}{100.101}$. Phân số đứng ngay trước $\\\\frac{1}{100.101}$ trong dãy này là ____.",
+        "question": "Cho $A = \\frac{1}{5.6} + \\frac{1}{6.7} + ... + \\frac{1}{100.101}$. Phân số đứng ngay trước $\\frac{1}{100.101}$ trong dãy này là ____.",
         "answer": "1/99.100",
         "explanation": "Quy luật mẫu số là tích của hai số tự nhiên liên tiếp tăng dần.",
         "_": "---",
@@ -692,7 +692,7 @@
         "number": 47,
         "id": "q47",
         "type": "mot_dap_an",
-        "question": "Trong bài 2 trang 2, tại sao ta lại chọn so sánh $\\\\frac{96}{505}$ với $\\\\frac{96}{576}$?",
+        "question": "Trong bài 2 trang 2, tại sao ta lại chọn so sánh $\\frac{96}{505}$ với $\\frac{96}{576}$?",
         "options": {
           "a": "Vì $576$ chia hết cho 96 và cho kết quả là 6, giúp chứng minh ngưỡng 1/6.",
           "b": "Vì 576 là số lớn nhất có 3 chữ số chia hết cho 96.",
@@ -708,7 +708,7 @@
         "number": 48,
         "id": "q48",
         "type": "nhieu_dap_an",
-        "question": "Những khẳng định nào sau đây là đúng về các số hạng của tổng $A = \\\\frac{1}{2^{2}} + \\\\frac{1}{3^{2}} + ... + \\\\frac{1}{2020^{2}}$?",
+        "question": "Những khẳng định nào sau đây là đúng về các số hạng của tổng $A = \\frac{1}{2^{2}} + \\frac{1}{3^{2}} + ... + \\frac{1}{2020^{2}}$?",
         "options": {
           "a": "Mọi số hạng đều nhỏ hơn 1/2.",
           "b": "Số hạng nhỏ nhất là 1/2020^2.",
@@ -728,12 +728,12 @@
         "number": 49,
         "id": "q49",
         "type": "mot_dap_an",
-        "question": "Phân số $\\\\frac{1}{36}$ trong dãy các số hạng chẵn bình phương tương ứng với:",
+        "question": "Phân số $\\frac{1}{36}$ trong dãy các số hạng chẵn bình phương tương ứng với:",
         "options": {
-          "a": "$\\\\frac{1}{(2.3)^{2}}$",
-          "b": "$\\\\frac{1}{(2.2)^{2}}$",
-          "c": "$\\\\frac{1}{(2.4)^{2}}$",
-          "d": "$\\\\frac{1}{(2.6)^{2}}$"
+          "a": "$\\frac{1}{(2.3)^{2}}$",
+          "b": "$\\frac{1}{(2.2)^{2}}$",
+          "c": "$\\frac{1}{(2.4)^{2}}$",
+          "d": "$\\frac{1}{(2.6)^{2}}$"
         },
         "answer": "a",
         "explanation": "$36 = 6^2 = (2 \\times 3)^2$.",
@@ -2767,7 +2767,7 @@
         "number": 189,
         "id": "q155",
         "type": "mot_dap_an",
-        "question": "Khi thực hiện chứng minh một tổng các nghịch đảo bình phương $A = \\\\frac{1}{2^{2}} + \\\\frac{1}{3^{2}} + \\\\dots + \\\\frac{1}{2020^{2}}$ nhỏ hơn 1, mục tiêu chính là tìm một ngưỡng chặn trên lớn hơn A nhưng vẫn nhỏ hơn hoặc bằng 1. Giá trị so sánh k thường là bao nhiêu?",
+        "question": "Khi thực hiện chứng minh một tổng các nghịch đảo bình phương $A = \\frac{1}{2^{2}} + \\frac{1}{3^{2}} + \\dots + \\frac{1}{2020^{2}}$ nhỏ hơn 1, mục tiêu chính là tìm một ngưỡng chặn trên lớn hơn A nhưng vẫn nhỏ hơn hoặc bằng 1. Giá trị so sánh k thường là bao nhiêu?",
         "options": {
           "a": "1",
           "b": "1/2",
@@ -2783,7 +2783,7 @@
         "number": 190,
         "id": "q156",
         "type": "mot_dap_an",
-        "question": "Trong dãy tổng các nghịch đảo bình phương $A = \\\\frac{1}{2^{2}} + \\\\frac{1}{3^{2}} + \\\\dots + \\\\frac{1}{n^{2}}$, nếu n = 2020 thì mẫu số của hạng tử cuối cùng tuân theo quy luật nào?",
+        "question": "Trong dãy tổng các nghịch đảo bình phương $A = \\frac{1}{2^{2}} + \\frac{1}{3^{2}} + \\dots + \\frac{1}{n^{2}}$, nếu n = 2020 thì mẫu số của hạng tử cuối cùng tuân theo quy luật nào?",
         "options": {
           "a": "n^2 (2020^2)",
           "b": "(n-1)^2 (2019^2)",
@@ -2799,7 +2799,7 @@
         "number": 191,
         "id": "q157",
         "type": "dung_sai",
-        "question": "Nhận định: \"Dãy số $A = \\\\frac{1}{5^{2}} + \\\\frac{1}{6^{2}} + \\\\dots + \\\\frac{1}{100^{2}}$ là một dãy các phân số có mẫu số là bình phương của các số tự nhiên liên tiếp tăng dần.\"",
+        "question": "Nhận định: \"Dãy số $A = \\frac{1}{5^{2}} + \\frac{1}{6^{2}} + \\dots + \\frac{1}{100^{2}}$ là một dãy các phân số có mẫu số là bình phương của các số tự nhiên liên tiếp tăng dần.\"",
         "options": {
           "dung": "ĐÚNG",
           "sai": "SAI"
@@ -2831,7 +2831,7 @@
         "type": "dien_khuyet",
         "question": "Sau khi thực hiện phương pháp triệt tiêu cho dãy làm trội của tổng nghịch đảo bình phương từ mẫu 5 đến mẫu 100, ta thu được biểu thức thu gọn là A < 1/4 - .... (nhập phân số cuối).",
         "answer": "1/100",
-        "explanation": "Dãy triệt tiêu $(\\\\frac{1}{4} - \\\\frac{1}{5}) + (\\\\frac{1}{5} - \\\\frac{1}{6}) + \\\\dots + (\\\\frac{1}{99} - \\\\frac{1}{100})$ sẽ còn lại hạng tử đầu và cuối.",
+        "explanation": "Dãy triệt tiêu $(\\frac{1}{4} - \\frac{1}{5}) + (\\frac{1}{5} - \\frac{1}{6}) + \\dots + (\\frac{1}{99} - \\frac{1}{100})$ sẽ còn lại hạng tử đầu và cuối.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -2839,7 +2839,7 @@
         "number": 194,
         "id": "q160",
         "type": "mot_dap_an",
-        "question": "Trong kỹ thuật chứng minh một tổng lớn hơn một giá trị k (làm giảm), hạng tử $\\\\frac{1}{n.n}$ thường được thay bằng hạng tử nào nhỏ hơn?",
+        "question": "Trong kỹ thuật chứng minh một tổng lớn hơn một giá trị k (làm giảm), hạng tử $\\frac{1}{n.n}$ thường được thay bằng hạng tử nào nhỏ hơn?",
         "options": {
           "a": "1/n(n+1)",
           "b": "1/(n-1)n",
@@ -2855,7 +2855,7 @@
         "number": 195,
         "id": "q161",
         "type": "nhieu_dap_an",
-        "question": "Những đặc điểm nào sau đây đúng với biểu thức tổng $A = \\\\frac{1}{4} + \\\\frac{1}{16} + \\\\frac{1}{36} + \\\\dots + \\\\frac{1}{196}$?",
+        "question": "Những đặc điểm nào sau đây đúng với biểu thức tổng $A = \\frac{1}{4} + \\frac{1}{16} + \\frac{1}{36} + \\dots + \\frac{1}{196}$?",
         "options": {
           "a": "Mẫu số là bình phương của các số chẵn liên tiếp 2, 4, 6, ..., 14.",
           "b": "Số lượng hạng tử trong dãy là 7.",
@@ -2876,7 +2876,7 @@
         "number": 196,
         "id": "q162",
         "type": "mot_dap_an",
-        "question": "Hạng tử $\\\\frac{1}{36}$ trong dãy bình phương chẵn khi được phân tích để đưa thừa số chung $\\\\frac{1}{4}$ ra ngoài sẽ trở thành:",
+        "question": "Hạng tử $\\frac{1}{36}$ trong dãy bình phương chẵn khi được phân tích để đưa thừa số chung $\\frac{1}{4}$ ra ngoài sẽ trở thành:",
         "options": {
           "a": "(1/4) . (1/9)",
           "b": "(1/4) . (1/6)",
@@ -2884,7 +2884,7 @@
           "d": "(1/4) . (1/25)"
         },
         "answer": "a",
-        "explanation": "Vì $36 = 4 \\\\times 9$. Số 9 tương ứng với $3^2$.",
+        "explanation": "Vì $36 = 4 \\times 9$. Số 9 tương ứng với $3^2$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -2902,7 +2902,7 @@
         "number": 198,
         "id": "q164",
         "type": "mot_dap_an",
-        "question": "Trong dãy các nghịch đảo bình phương chẵn $1/2^{2}, 1/4^{2}, \\\\dots, 1/14^{2}$, hạng tử cuối cùng tương ứng với giá trị phân số nào?",
+        "question": "Trong dãy các nghịch đảo bình phương chẵn $1/2^{2}, 1/4^{2}, \\dots, 1/14^{2}$, hạng tử cuối cùng tương ứng với giá trị phân số nào?",
         "options": {
           "a": "1/196",
           "b": "1/144",
@@ -2918,7 +2918,7 @@
         "number": 199,
         "id": "q165",
         "type": "dung_sai",
-        "question": "Nhận định: \"Trong chứng minh tổng các nghịch đảo bình phương chẵn từ 1/4 đến 1/196 nhỏ hơn 1/2, ta sử dụng biểu thức trung gian sau khi làm trội là $\\\\frac{1}{4} \\\\cdot (2 - \\\\frac{1}{7})$.\"",
+        "question": "Nhận định: \"Trong chứng minh tổng các nghịch đảo bình phương chẵn từ 1/4 đến 1/196 nhỏ hơn 1/2, ta sử dụng biểu thức trung gian sau khi làm trội là $\\frac{1}{4} \\cdot (2 - \\frac{1}{7})$.\"",
         "options": {
           "dung": "ĐÚNG",
           "sai": "SAI"
@@ -2932,7 +2932,7 @@
         "number": 200,
         "id": "q166",
         "type": "mot_dap_an",
-        "question": "Giá trị của biểu thức $2 - \\\\frac{1}{7}$ xuất hiện trong quá trình biến đổi làm trội dãy phân số là bao nhiêu?",
+        "question": "Giá trị của biểu thức $2 - \\frac{1}{7}$ xuất hiện trong quá trình biến đổi làm trội dãy phân số là bao nhiêu?",
         "options": {
           "a": "13/7",
           "b": "15/7",
@@ -2950,7 +2950,7 @@
         "type": "dien_khuyet",
         "question": "Kết quả cuối cùng của phép chứng minh tổng bình phương chẵn từ 1/4 đến 1/196 là $A < 1/2 - ....$ (nhập phân số cụ thể).",
         "answer": "1/28",
-        "explanation": "$\\\\frac{1}{4} \\\\times \\\\frac{13}{7} = \\\\frac{13}{28} = \\\\frac{14}{28} - \\\\frac{1}{28} = \\\\frac{1}{2} - \\\\frac{1}{28}$.",
+        "explanation": "$\\frac{1}{4} \\times \\frac{13}{7} = \\frac{13}{28} = \\frac{14}{28} - \\frac{1}{28} = \\frac{1}{2} - \\frac{1}{28}$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -2958,7 +2958,7 @@
         "number": 202,
         "id": "q168",
         "type": "mot_dap_an",
-        "question": "Xét dãy tổng $A = \\\\frac{1}{21} + \\\\frac{1}{22} + \\\\dots + \\\\frac{1}{60}$. Hạng tử lớn nhất trong dãy này là:",
+        "question": "Xét dãy tổng $A = \\frac{1}{21} + \\frac{1}{22} + \\dots + \\frac{1}{60}$. Hạng tử lớn nhất trong dãy này là:",
         "options": {
           "a": "1/21",
           "b": "1/60",
@@ -3020,9 +3020,9 @@
         "number": 206,
         "id": "q172",
         "type": "dien_khuyet",
-        "question": "Trong phép triệt tiêu dãy làm trội dạng $1/1.2 + 1/2.3 + \\\\dots$, sau khi tách thành hiệu các phân số, giá trị của hạng tử đầu tiên là ....",
+        "question": "Trong phép triệt tiêu dãy làm trội dạng $1/1.2 + 1/2.3 + \\dots$, sau khi tách thành hiệu các phân số, giá trị của hạng tử đầu tiên là ....",
         "answer": "1",
-        "explanation": "Phân số $\\\\frac{1}{1.2}$ được tách thành $1/1 - 1/2$. Giá trị đầu là 1.",
+        "explanation": "Phân số $\\frac{1}{1.2}$ được tách thành $1/1 - 1/2$. Giá trị đầu là 1.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -3084,7 +3084,7 @@
           "d": "1/6"
         },
         "answer": "a",
-        "explanation": "Mẫu số chung là 505 ($5 \\\\times 101$). Tử số là $101 - 5 = 96$.",
+        "explanation": "Mẫu số chung là 505 ($5 \\times 101$). Tử số là $101 - 5 = 96$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -3102,7 +3102,7 @@
         "number": 212,
         "id": "q178",
         "type": "mot_dap_an",
-        "question": "Dãy tổng phân số $\\\\frac{1}{5} + \\\\frac{1}{13} + \\\\frac{1}{25} + \\\\dots + \\\\frac{1}{113}$ có quy luật mẫu số tuân theo công thức nào?",
+        "question": "Dãy tổng phân số $\\frac{1}{5} + \\frac{1}{13} + \\frac{1}{25} + \\dots + \\frac{1}{113}$ có quy luật mẫu số tuân theo công thức nào?",
         "options": {
           "a": "Tổng của hai bình phương liên tiếp n^2 + (n+1)^2",
           "b": "Bình phương của các số tự nhiên liên tiếp",
@@ -3134,7 +3134,7 @@
         "number": 214,
         "id": "q180",
         "type": "dung_sai",
-        "question": "Nhận định: \"Nếu một tổng A nhỏ hơn biểu thức $1 - \\\\frac{1}{n}$ với n là số dương thì tổng A chắc chắn nhỏ hơn 1.\"",
+        "question": "Nhận định: \"Nếu một tổng A nhỏ hơn biểu thức $1 - \\frac{1}{n}$ với n là số dương thì tổng A chắc chắn nhỏ hơn 1.\"",
         "options": {
           "dung": "ĐÚNG",
           "sai": "SAI"
@@ -3156,7 +3156,7 @@
           "d": "4"
         },
         "answer": "a",
-        "explanation": "$\\\\frac{1}{2^2} = \\\\frac{1}{4} = 0,25$.",
+        "explanation": "$\\frac{1}{2^2} = \\frac{1}{4} = 0,25$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -3190,7 +3190,7 @@
         "number": 218,
         "id": "q184",
         "type": "mot_dap_an",
-        "question": "Trong dãy tổng các nghịch đảo bình phương của các số chẵn $2^{2}, 4^{2}, \\\\dots$, hạng tử nào dưới đây là sai quy luật?",
+        "question": "Trong dãy tổng các nghịch đảo bình phương của các số chẵn $2^{2}, 4^{2}, \\dots$, hạng tử nào dưới đây là sai quy luật?",
         "options": {
           "a": "1/25",
           "b": "1/4",
@@ -3220,7 +3220,7 @@
         "number": 220,
         "id": "q186",
         "type": "mot_dap_an",
-        "question": "Ký hiệu $a \\\\ge b$ trong toán học được phát biểu là:",
+        "question": "Ký hiệu $a \\ge b$ trong toán học được phát biểu là:",
         "options": {
           "a": "a lớn hơn hoặc bằng b",
           "b": "a nhỏ hơn hoặc bằng b",
@@ -3238,7 +3238,7 @@
         "type": "dien_khuyet",
         "question": "Trong dãy tổng làm trội đã rút gọn thừa số $1/4$, sau khi triệt tiêu các phân số trung gian đến mẫu 14, giá trị còn lại cuối cùng của ngoặc là .... (nhập phân số).",
         "answer": "1/7",
-        "explanation": "Mẫu số $14 = 2 \\\\times 7$. Sau khi lấy $1/4$ ra ngoài, mẫu còn lại là $7^2$, làm trội thành tích $6.7$ nên còn dư $1/7$.",
+        "explanation": "Mẫu số $14 = 2 \\times 7$. Sau khi lấy $1/4$ ra ngoài, mẫu còn lại là $7^2$, làm trội thành tích $6.7$ nên còn dư $1/7$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -3246,7 +3246,7 @@
         "number": 222,
         "id": "q188",
         "type": "mot_dap_an",
-        "question": "Biểu thức triệt tiêu $1 - \\\\frac{1}{n}$ thường là kết quả của dãy làm trội bắt đầu từ hạng tử nào?",
+        "question": "Biểu thức triệt tiêu $1 - \\frac{1}{n}$ thường là kết quả của dãy làm trội bắt đầu từ hạng tử nào?",
         "options": {
           "a": "1/1.2",
           "b": "1/2.3",
@@ -3254,7 +3254,7 @@
           "d": "1/n"
         },
         "answer": "a",
-        "explanation": "$\\\\frac{1}{1.2} = 1 - 1/2$. Các hạng tử sau triệt tiêu dần chỉ còn lại số 1 ở đầu.",
+        "explanation": "$\\frac{1}{1.2} = 1 - 1/2$. Các hạng tử sau triệt tiêu dần chỉ còn lại số 1 ở đầu.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -3278,7 +3278,7 @@
         "number": 224,
         "id": "q190",
         "type": "dung_sai",
-        "question": "Nhận định: \"Việc chứng minh tổng $A = \\\\frac{1}{21} + \\\\dots + \\\\frac{1}{60}$ nhỏ hơn 3/2 là hoàn toàn khả thi bằng phương pháp làm trội từng hạng tử với giá trị 1/20.\"",
+        "question": "Nhận định: \"Việc chứng minh tổng $A = \\frac{1}{21} + \\dots + \\frac{1}{60}$ nhỏ hơn 3/2 là hoàn toàn khả thi bằng phương pháp làm trội từng hạng tử với giá trị 1/20.\"",
         "options": {
           "dung": "ĐÚNG",
           "sai": "SAI"
@@ -3318,7 +3318,7 @@
         "number": 227,
         "id": "q193",
         "type": "mot_dap_an",
-        "question": "Giá trị của hạng tử đầu tiên trong dãy tổng các nghịch đảo bình phương $A = \\\\frac{1}{2^{2}} + \\\\frac{1}{3^{2}} + \\\\dots$ là bao nhiêu?",
+        "question": "Giá trị của hạng tử đầu tiên trong dãy tổng các nghịch đảo bình phương $A = \\frac{1}{2^{2}} + \\frac{1}{3^{2}} + \\dots$ là bao nhiêu?",
         "options": {
           "a": "0.25",
           "b": "0.5",
@@ -3326,7 +3326,7 @@
           "d": "0.1"
         },
         "answer": "a",
-        "explanation": "$\\\\frac{1}{2^2} = \\\\frac{1}{4} = 0,25$.",
+        "explanation": "$\\frac{1}{2^2} = \\frac{1}{4} = 0,25$.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -3380,9 +3380,9 @@
         "number": 231,
         "id": "q197",
         "type": "dien_khuyet",
-        "question": "Dãy triệt tiêu dùng để tìm chặn dưới kết thúc bằng việc trừ đi phân số $1/(n+1)$. Nếu mẫu số cuối cùng của tích là $100 \\\\times 101$ thì phân số bị trừ là ....",
+        "question": "Dãy triệt tiêu dùng để tìm chặn dưới kết thúc bằng việc trừ đi phân số $1/(n+1)$. Nếu mẫu số cuối cùng của tích là $100 \\times 101$ thì phân số bị trừ là ....",
         "answer": "1/101",
-        "explanation": "Hạng tử cuối $\\\\frac{1}{100.101}$ được tách thành $1/100 - 1/101$.",
+        "explanation": "Hạng tử cuối $\\frac{1}{100.101}$ được tách thành $1/100 - 1/101$.",
         "_": "---",
         "_divider": "-----------------"
       },
