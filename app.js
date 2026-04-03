@@ -18,17 +18,10 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const DATABASE_FILES = [
-        'lichsudiali.json',
-        'khoahoctunhien.json',
-        'GDCD.json',
+     
+       
         'toan6.json',
-        'toanvip.json',
-        'nguvan6.json',
-        'ENGLISHHK1.json',
-        'CIE6TW6.json',
-        'IEL90.json',
-        'questiontest.json',
-        '2000W.json',
+      
     ];
 
     const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyoztj_qCAVbFQhSlj4U0IHrZZwEWlkHQ4NR9VandMGvKw8G4fhhQCuazqPBCr013Ut/exec';
