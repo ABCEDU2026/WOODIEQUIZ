@@ -18,8 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const DATABASE_FILES = [
-     
-       
+        'CIE6TW6.json',
         'toan6.json',
       
     ];
