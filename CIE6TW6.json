@@ -86000,6 +86000,8 @@
     "topic": "T4W5 - QUETION TEST",
     "subject": "CIE6",
     "questions": [
+     
+
       {
         "number": 1,
         "id": "q1",
@@ -87538,6 +87540,4791 @@
       },
       {
         "number": 100,
+        "id": "q100",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A frequency diagram is a graph with rectangular bars.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Biểu đồ tần suất sử dụng các cột hình chữ nhật.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 101,
+        "id": "q251",
+        "type": "mot_dap_an",
+        "question": "In Science, what term describes the point where light rays meet after passing through a lens?",
+        "options": {
+          "a": "Normal",
+          "b": "Focal point",
+          "c": "Incident ray",
+          "d": "Reflected ray"
+        },
+        "answer": "b",
+        "explanation": "The focal point is defined as the point where rays of light converge (meet together).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 102,
+        "id": "q252",
+        "type": "dien_khuyet",
+        "question": "In a frequency diagram, the rectangular bars are ...",
+        "answer": "sticked together",
+        "explanation": "The specific characteristic of a frequency diagram is that the bars are sticked together.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 103,
+        "id": "q253",
+        "type": "noi",
+        "question": "Match the Science term with its correct definition:",
+        "leftCol": [
+          "Refraction",
+          "Converge",
+          "Normal"
+        ],
+        "rightCol": [
+          "The bending of light",
+          "To meet or to come together",
+          "A line drawn at 90 degrees to a surface"
+        ],
+        "answer": {
+          "Refraction": "The bending of light",
+          "Converge": "To meet or to come together",
+          "Normal": "A line drawn at 90 degrees to a surface"
+        },
+        "explanation": "These are core definitions from the Science optics unit.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 104,
+        "id": "q254",
+        "type": "dropdown",
+        "question": "Choose the correct article for the sound of the word: Ben waited for [[an|a]] hour to see [[a|an]] movie about [[a|an]] university.",
+        "answer": "an, a, a",
+        "explanation": "\"An\" is used for the vowel sound in \"hour\". \"A\" is used for the consonant sounds in \"movie\" and \"university\" (/j/).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 105,
+        "id": "q255",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The incident ray is the light that reflects off the mirror.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The incident ray is the light that arrives at the mirror; the reflected ray is the one that reflects off it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 106,
+        "id": "q256",
+        "type": "phan_loai",
+        "question": "Classify these verbs into their correct forms for the Present Perfect tense:",
+        "nhom": [
+          "(A) Regular Past Participle",
+          "(B) Irregular Past Participle"
+        ],
+        "the": [
+          "Visited",
+          "Exploded",
+          "Seen",
+          "Done"
+        ],
+        "dap_an": {
+          "Visited": 0,
+          "Exploded": 0,
+          "Seen": 1,
+          "Done": 1
+        },
+        "explanation": "Visited and exploded are regular; seen and done are irregular.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 107,
+        "id": "q257",
+        "type": "mot_dap_an",
+        "question": "Which robot is specifically mentioned for performing medical tasks?",
+        "options": {
+          "a": "Home robot",
+          "b": "Worker robot",
+          "c": "Doctor robot",
+          "d": "Teaching robot"
+        },
+        "answer": "c",
+        "explanation": "A doctor robot (người máy bác sĩ) is used for medical services.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 108,
+        "id": "q258",
+        "type": "nhieu_dap_an",
+        "question": "Through which of these media can light undergo refraction?",
+        "options": {
+          "a": "Air",
+          "b": "Water",
+          "c": "Glass",
+          "d": "Opaque wood"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Refraction occurs when light passes through transparent media like air, water, or glass.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 109,
+        "id": "q259",
+        "type": "sap_xep",
+        "question": "Arrange the words to form a correct Present Perfect question:",
+        "muc": [
+          "(1) Has",
+          "(2) dad",
+          "(3) seen",
+          "(4) the",
+          "(5) movie",
+          "(6) at",
+          "(7) the",
+          "(8) cinema?"
+        ],
+        "answer": [
+          "(1) Has",
+          "(2) dad",
+          "(3) seen",
+          "(4) the",
+          "(5) movie",
+          "(6) at",
+          "(7) the",
+          "(8) cinema?"
+        ],
+        "explanation": "The structure is: Has + subject + past participle + objects?",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 110,
+        "id": "q260",
+        "type": "mot_dap_an",
+        "question": "How is \"Data\" defined in the Mathematics section?",
+        "options": {
+          "a": "A type of graph",
+          "b": "A collection of information collected by observation",
+          "c": "The space between two lines",
+          "d": "A flat mirror reflection"
+        },
+        "answer": "b",
+        "explanation": "Data is a collection of information, which can include symbols, letters, or numbers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 111,
+        "id": "q261",
+        "type": "listening",
+        "question": "Listen to the description and choose the correct year: In Italy, a huge volcano exploded and produced an ash cloud over 20km high.",
+        "audio_text": "In the year 79, a massive volcanic eruption occurred in Italy, covering the city of Pompeii in ash.",
+        "options": {
+          "a": "In the year 19",
+          "b": "In the year 79",
+          "c": "In the year 97",
+          "d": "In the year 20"
+        },
+        "answer": "b",
+        "explanation": "The text specifically mentions the year 79.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 112,
+        "id": "q262",
+        "type": "speaking",
+        "question": "Hãy đọc to thuật ngữ khoa học sau và chú ý trọng âm: Periscope.",
+        "answer": "Periscope",
+        "explanation": "Phát âm /'periskəʊp/, trọng âm rơi vào âm tiết thứ nhất.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 113,
+        "id": "q263",
+        "type": "mot_dap_an",
+        "question": "What is a \"lens\" made of according to the Science unit?",
+        "options": {
+          "a": "Opaque metal",
+          "b": "Transparent material like glass",
+          "c": "Polished mirrors",
+          "d": "Data symbols"
+        },
+        "answer": "b",
+        "explanation": "A lens is a transparent material (glass) with at least one curved surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 114,
+        "id": "q264",
+        "type": "dien_khuyet",
+        "question": "Complete the pattern: Subject + Verb + object + ... (with to). Example: My mum taught me to cycle.",
+        "answer": "infinitive",
+        "explanation": "The pattern is Verb + object + infinitive (with to).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 115,
+        "id": "q265",
+        "type": "noi",
+        "question": "Match the household chore with its English name:",
+        "leftCol": [
+          "Giặt ủi",
+          "Làm vườn",
+          "Dọn giường"
+        ],
+        "rightCol": [
+          "Laundry",
+          "Gardening",
+          "Make the bed"
+        ],
+        "answer": {
+          "Giặt ủi": "Laundry",
+          "Làm vườn": "Gardening",
+          "Dọn giường": "Make the bed"
+        },
+        "explanation": "These are common chores listed in the Moet vocabulary.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 116,
+        "id": "q266",
+        "type": "dropdown",
+        "question": "Contrast the tenses: Last summer, Ben [[visited|has visited]] Italy. He [[has visited|visited]] his grandparents three times since then.",
+        "answer": "visited, has visited",
+        "explanation": "\"Last summer\" is a finished time (Past Simple). \"Since then\" refers to an experience up to now (Present Perfect).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 117,
+        "id": "q267",
+        "type": "dung_sai",
+        "question": "Nhận định: \"An angle is the space between two lines that meet at a surface.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "This is the formal definition of an angle in the vocabulary list.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 118,
+        "id": "q268",
+        "type": "phan_loai",
+        "question": "Classify these items as a \"Graph\" or a \"Device\":",
+        "nhom": [
+          "(A) Mathematical Graph",
+          "(B) Optical Device"
+        ],
+        "the": [
+          "Bar chart",
+          "Frequency diagram",
+          "Periscope",
+          "Plane mirror"
+        ],
+        "dap_an": {
+          "Bar chart": 0,
+          "Frequency diagram": 0,
+          "Periscope": 1,
+          "Plane mirror": 1
+        },
+        "explanation": "Charts and diagrams are for data; periscopes and mirrors are for light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 119,
+        "id": "q269",
+        "type": "mot_dap_an",
+        "question": "What is the superlative form of \"bad\"?",
+        "options": {
+          "a": "worse",
+          "b": "badder",
+          "c": "the worst",
+          "d": "the most bad"
+        },
+        "answer": "c",
+        "explanation": "The superlative of \"bad\" is \"the worst\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 120,
+        "id": "q270",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following robot types are mentioned in the Moet list?",
+        "options": {
+          "a": "Worker robot",
+          "b": "Teaching robot",
+          "c": "Cooking robot",
+          "d": "Doctor robot"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Worker, teaching, and doctor robots are listed. Cooking robot is not.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 121,
+        "id": "q271",
+        "type": "mot_dap_an",
+        "question": "The \"normal\" is a line drawn at what angle to the surface?",
+        "options": {
+          "a": "45^\\\\circ",
+          "b": "90^\\\\circ",
+          "c": "180^\\\\circ",
+          "d": "0^\\\\circ"
+        },
+        "answer": "b",
+        "explanation": "The normal is always drawn at right angles (90^\\\\circ) to the surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 122,
+        "id": "q272",
+        "type": "dien_khuyet",
+        "question": "We use the article ... for something specific or already mentioned.",
+        "answer": "the",
+        "explanation": "\"The\" is the definite article used for specific or known nouns.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 123,
+        "id": "q273",
+        "type": "noi",
+        "question": "Match the Science concept with its property:",
+        "leftCol": [
+          "Plane mirror",
+          "Lens",
+          "Medium"
+        ],
+        "rightCol": [
+          "Flat surface producing mirror image",
+          "Transparent with at least one curved surface",
+          "Material like air or water"
+        ],
+        "answer": {
+          "Plane mirror": "Flat surface producing mirror image",
+          "Lens": "Transparent with at least one curved surface",
+          "Medium": "Material like air or water"
+        },
+        "explanation": "These distinguish different optical components.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 124,
+        "id": "q274",
+        "type": "dropdown",
+        "question": "Choose the ray types: The [[incident ray|reflected ray]] arrives at the mirror, while the [[reflected ray|incident ray]] reflects off it.",
+        "answer": "incident ray, reflected ray",
+        "explanation": "Incident means incoming; reflected means bouncing off.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 125,
+        "id": "q275",
+        "type": "sap_xep",
+        "question": "Sắp xếp các từ để mô tả biểu đồ tần suất:",
+        "muc": [
+          "(1) In a frequency diagram,",
+          "(2) the rectangular bars",
+          "(3) are",
+          "(4) sticked together."
+        ],
+        "answer": [
+          "(1) In a frequency diagram,",
+          "(2) the rectangular bars",
+          "(3) are",
+          "(4) sticked together."
+        ],
+        "explanation": "This describes the key visual feature of a frequency diagram.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 126,
+        "id": "q276",
+        "type": "mot_dap_an",
+        "question": "Which tense is used for an action that happened at a specific time in the past?",
+        "options": {
+          "a": "Present Perfect",
+          "b": "Past Simple",
+          "c": "Infinitive",
+          "d": "Superlative"
+        },
+        "answer": "b",
+        "explanation": "Past Simple is used for completed actions at specific past times (e.g., In the year 79).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 127,
+        "id": "q277",
+        "type": "nhieu_dap_an",
+        "question": "Which actions can a robot do according to the Moet Unit 12?",
+        "options": {
+          "a": "Play football",
+          "b": "Sing a song",
+          "c": "Fly to the sun",
+          "d": "Recognize people"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Football, singing, and recognizing are listed; flying to the sun is not.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 128,
+        "id": "q278",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A convex shape is a bulging shape.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Convex is defined as bulging in Science Unit 6.2.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 129,
+        "id": "q279",
+        "type": "phan_loai",
+        "question": "Classify these terms into Reflection or Refraction:",
+        "nhom": [
+          "(A) Reflection",
+          "(B) Refraction"
+        ],
+        "the": [
+          "Mirror image",
+          "Plane mirror",
+          "Lens",
+          "Focal point"
+        ],
+        "dap_an": {
+          "Mirror image": 0,
+          "Plane mirror": 0,
+          "Lens": 1,
+          "Focal point": 1
+        },
+        "explanation": "Mirrors relate to reflection; lenses and focal points relate to refraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 130,
+        "id": "q280",
+        "type": "mot_dap_an",
+        "question": "What does the verb \"recognize\" mean in the Moet list?",
+        "options": {
+          "a": "To build a robot",
+          "b": "To identify or know someone/something",
+          "c": "To wash clothes",
+          "d": "To draw a bar chart"
+        },
+        "answer": "b",
+        "explanation": "Recognize translates to \"nhận ra\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 131,
+        "id": "q281",
+        "type": "listening",
+        "question": "Listen to the fact about light: When light travels from air into glass, it bends. What is this called?",
+        "audio_text": "Light bends as it moves from one medium to another. This phenomenon is known as refraction.",
+        "options": {
+          "a": "Reflection",
+          "b": "Refraction",
+          "c": "Converging",
+          "d": "Normal"
+        },
+        "answer": "b",
+        "explanation": "Refraction is the bending of light between media.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 132,
+        "id": "q282",
+        "type": "speaking",
+        "question": "Hãy phát âm đúng thuật ngữ toán học: Frequency diagram.",
+        "answer": "Frequency diagram",
+        "explanation": "Chú ý trọng âm của từ Frequency /'fri:kwənsi/.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 133,
+        "id": "q283",
+        "type": "mot_dap_an",
+        "question": "Which article is used before \"singular, countable nouns\" starting with a consonant sound?",
+        "options": {
+          "a": "an",
+          "b": "the",
+          "c": "a",
+          "d": "none"
+        },
+        "answer": "c",
+        "explanation": "\"a\" is the indefinite article for consonant sounds.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 134,
+        "id": "q284",
+        "type": "dien_khuyet",
+        "question": "To meet or to come together is to ...",
+        "answer": "converge",
+        "explanation": "Converge is defined as meeting or coming together.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 135,
+        "id": "q285",
+        "type": "noi",
+        "question": "Match the tense with its typical signal word/time:",
+        "leftCol": [
+          "Past Simple",
+          "Present Perfect",
+          "Articles"
+        ],
+        "rightCol": [
+          "Last summer",
+          "Haven't... yet",
+          "Specific or general"
+        ],
+        "answer": {
+          "Past Simple": "Last summer",
+          "Present Perfect": "Haven't... yet",
+          "Articles": "Specific or general"
+        },
+        "explanation": "These help identify which grammar rule to apply.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 136,
+        "id": "q286",
+        "type": "dropdown",
+        "question": "Choose the location: A [[worker robot|home robot]] works in a factory, but a [[home robot|worker robot]] works in a house.",
+        "answer": "worker robot, home robot",
+        "explanation": "Worker robots are for industry; home robots are for domestic use.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 137,
+        "id": "q287",
+        "type": "sap_xep",
+        "question": "Order the words for a superlative sentence:",
+        "muc": [
+          "(1) Ben",
+          "(2) is",
+          "(3) the",
+          "(4) most",
+          "(5) intelligent",
+          "(6) student."
+        ],
+        "answer": [
+          "(1) Ben",
+          "(2) is",
+          "(3) the",
+          "(4) most",
+          "(5) intelligent",
+          "(6) student."
+        ],
+        "explanation": "Correct structure: Subject + be + the most + long adjective + noun.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 138,
+        "id": "q288",
+        "type": "mot_dap_an",
+        "question": "In a bar chart, what shape are the bars?",
+        "options": {
+          "a": "Circular",
+          "b": "Triangular",
+          "c": "Rectangular",
+          "d": "Spherical"
+        },
+        "answer": "c",
+        "explanation": "A bar chart has rectangular bars on it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 139,
+        "id": "q289",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The pattern 'Verb + object + infinitive' uses 'to' before the verb.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Example: Taught me to cycle (to + verb).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 140,
+        "id": "q290",
+        "type": "phan_loai",
+        "question": "Classify the Science terms into Angles or Rays:",
+        "nhom": [
+          "(A) Angles & Surfaces",
+          "(B) Light Rays"
+        ],
+        "the": [
+          "90 degrees",
+          "Normal",
+          "Incident ray",
+          "Reflected ray"
+        ],
+        "dap_an": {
+          "90 degrees": 0,
+          "Normal": 0,
+          "Incident ray": 1,
+          "Reflected ray": 1
+        },
+        "explanation": "Normal and 90 degrees relate to the angle/surface; incident and reflected relate to the rays.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 141,
+        "id": "q291",
+        "type": "mot_dap_an",
+        "question": "Which tense structure is used for the question \"Has dad seen a movie?\"",
+        "options": {
+          "a": "Past Simple",
+          "b": "Present Perfect",
+          "c": "Future Simple",
+          "d": "Infinitive"
+        },
+        "answer": "b",
+        "explanation": "Has + subject + V3 is the Present Perfect question form.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 142,
+        "id": "q292",
+        "type": "dien_khuyet",
+        "question": "The word ... refers to clothes that need to be washed.",
+        "answer": "laundry",
+        "explanation": "Laundry is defined as \"quần áo cần phải giặt\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 143,
+        "id": "q293",
+        "type": "noi",
+        "question": "Match the device with its core function:",
+        "leftCol": [
+          "Periscope",
+          "Plane mirror",
+          "Lens"
+        ],
+        "rightCol": [
+          "Seeing things out of sight",
+          "Creating a reflection",
+          "Refracting light to a focal point"
+        ],
+        "answer": {
+          "Periscope": "Seeing things out of sight",
+          "Plane mirror": "Creating a reflection",
+          "Lens": "Refracting light to a focal point"
+        },
+        "explanation": "These are the primary uses of the optical devices mentioned.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 144,
+        "id": "q294",
+        "type": "dropdown",
+        "question": "Choose the correct article usage: Ben saw [[a|the]] dog. [[The|A]] dog was big.",
+        "answer": "a, The",
+        "explanation": "Use \"a\" for the first mention and \"the\" for the specific noun already mentioned.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 145,
+        "id": "q295",
+        "type": "nhieu_dap_an",
+        "question": "Which concepts are part of Science Unit 6.2: Refraction?",
+        "options": {
+          "a": "Converge",
+          "b": "Focal point",
+          "c": "Plane mirror",
+          "d": "Convex lens"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Converging, focal points, and convex lenses relate to refraction; plane mirrors relate to reflection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 146,
+        "id": "q296",
+        "type": "mot_dap_an",
+        "question": "What is the past participle (V3) of the regular verb \"visit\"?",
+        "options": {
+          "a": "visit",
+          "b": "visiting",
+          "c": "visited",
+          "d": "seen"
+        },
+        "answer": "c",
+        "explanation": "Regular verbs add -ed to form the past participle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 147,
+        "id": "q297",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Data can be collected by observation.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Data is a collection of information often collected by observation.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 148,
+        "id": "q298",
+        "type": "sap_xep",
+        "question": "Sắp xếp quy trình khúc xạ ánh sáng:",
+        "muc": [
+          "(1) Light travels through air.",
+          "(2) Light enters a new medium (water/glass).",
+          "(3) Light bends (refraction)."
+        ],
+        "answer": [
+          "(1) Light travels through air.",
+          "(2) Light enters a new medium (water/glass).",
+          "(3) Light bends (refraction)."
+        ],
+        "explanation": "The logical sequence of refraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 149,
+        "id": "q299",
+        "type": "speaking",
+        "question": "Hãy đọc to câu sau: A worker robot works in a factory.",
+        "answer": "A worker robot works in a factory.",
+        "explanation": "Lưu ý phát âm âm đuôi /s/ trong \"works\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 150,
+        "id": "q300",
+        "type": "mot_dap_an",
+        "question": "In the vocabulary list, which subject covers \"Bar charts\" and \"Frequency diagrams\"?",
+        "options": {
+          "a": "Global English",
+          "b": "Science",
+          "c": "Maths",
+          "d": "Moet"
+        },
+        "answer": "c",
+        "explanation": "These topics are listed under the Maths section.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 151,
+        "id": "q201",
+        "type": "mot_dap_an",
+        "question": "What is the main difference between a bar chart and a frequency diagram?",
+        "options": {
+          "a": "Bar charts are only used in Science.",
+          "b": "Frequency diagrams have rectangular bars that are sticked together.",
+          "c": "Bar charts do not use rectangular bars.",
+          "d": "Frequency diagrams only describe symbol data."
+        },
+        "answer": "b",
+        "explanation": "According to the Maths vocabulary, the bars in a frequency diagram are sticked together, unlike a bar chart which has gaps.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 152,
+        "id": "q202",
+        "type": "mot_dap_an",
+        "question": "Which device uses mirrors to see things that are out of sight?",
+        "options": {
+          "a": "Lens",
+          "b": "Periscope",
+          "c": "Microscope",
+          "d": "Frequency diagram"
+        },
+        "answer": "b",
+        "explanation": "A periscope is a device that uses mirrors to see things that are out of sight.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 153,
+        "id": "q203",
+        "type": "mot_dap_an",
+        "question": "In the year 79, what did the huge volcano in Italy produce?",
+        "options": {
+          "a": "A space station",
+          "b": "An ash cloud over 20km high",
+          "c": "A frequency diagram",
+          "d": "A teaching robot"
+        },
+        "answer": "b",
+        "explanation": "The text states the volcano produced an ash cloud over 20km high.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 154,
+        "id": "q204",
+        "type": "mot_dap_an",
+        "question": "Which article is used before \"vowel sounds\" like in the word \"hour\"?",
+        "options": {
+          "a": "a",
+          "b": "an",
+          "c": "the",
+          "d": "no article"
+        },
+        "answer": "b",
+        "explanation": "Use \"an\" before vowel sounds, even if the word starts with a consonant letter like 'h' in 'hour'.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 155,
+        "id": "q205",
+        "type": "mot_dap_an",
+        "question": "What does the word \"converge\" mean?",
+        "options": {
+          "a": "To move away from each other",
+          "b": "To meet or come together",
+          "c": "To bend light in a medium",
+          "d": "To wash clothes"
+        },
+        "answer": "b",
+        "explanation": "Converge is defined as to meet or to come together.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 156,
+        "id": "q206",
+        "type": "mot_dap_an",
+        "question": "Which robot type is associated with a hospital or clinic?",
+        "options": {
+          "a": "Home robot",
+          "b": "Worker robot",
+          "c": "Doctor robot",
+          "d": "Teaching robot"
+        },
+        "answer": "c",
+        "explanation": "A doctor robot (người máy bác sĩ) works in medical environments.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 157,
+        "id": "q207",
+        "type": "mot_dap_an",
+        "question": "What is \"refraction\"?",
+        "options": {
+          "a": "The reflection of light off a mirror",
+          "b": "The bending of light as it passes through a medium",
+          "c": "A collection of data by observation",
+          "d": "A bulging shape like a convex lens"
+        },
+        "answer": "b",
+        "explanation": "Refraction is defined as the bending of light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 158,
+        "id": "q208",
+        "type": "mot_dap_an",
+        "question": "In Mathematics, what can be considered as \"data\"?",
+        "options": {
+          "a": "Only numbers",
+          "b": "Only letters",
+          "c": "Any symbol, letter, or number",
+          "d": "Only bar charts"
+        },
+        "answer": "c",
+        "explanation": "Any symbol, letter, or number can be considered as data.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 159,
+        "id": "q209",
+        "type": "mot_dap_an",
+        "question": "Which chore involves cutting plants in a garden?",
+        "options": {
+          "a": "Do the dishes",
+          "b": "Make the bed",
+          "c": "Cut the hedge",
+          "d": "Laundry"
+        },
+        "answer": "c",
+        "explanation": "Cut the hedge (cắt tỉa hàng rào) is a garden chore.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 160,
+        "id": "q210",
+        "type": "mot_dap_an",
+        "question": "What is the focal point?",
+        "options": {
+          "a": "The center of a plane mirror",
+          "b": "The point where rays of light converge",
+          "c": "A line drawn at 90 degrees",
+          "d": "An optical illusion"
+        },
+        "answer": "b",
+        "explanation": "The focal point is the point where rays of light converge.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 161,
+        "id": "q211",
+        "type": "dien_khuyet",
+        "question": "The line drawn at right angles (90^\\\\circ) to the surface is called the ...",
+        "answer": "normal",
+        "explanation": "The normal is a line drawn at 90 degrees to the surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 162,
+        "id": "q212",
+        "type": "dien_khuyet",
+        "question": "Present Perfect Tense formula: Subject + have/has + ... (V3).",
+        "answer": "past participle",
+        "explanation": "The Present Perfect uses the past participle form of the verb.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 163,
+        "id": "q213",
+        "type": "dien_khuyet",
+        "question": "A ... is a transparent material (glass) with at least one curved surface.",
+        "answer": "lens",
+        "explanation": "This is the definition of a lens.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 164,
+        "id": "q214",
+        "type": "dien_khuyet",
+        "question": "Something our eyes see but is not real is called an ...",
+        "answer": "optical illusion",
+        "explanation": "Optical illusion is something perceived but not real.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 165,
+        "id": "q215",
+        "type": "dien_khuyet",
+        "question": "The ray of light that arrives at the mirror is called the ... ray.",
+        "answer": "incident",
+        "explanation": "The incident ray is the incoming light ray.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 166,
+        "id": "q216",
+        "type": "dien_khuyet",
+        "question": "A bulging shape is described as ...",
+        "answer": "convex",
+        "explanation": "Convex means bulging outwards.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 167,
+        "id": "q217",
+        "type": "dien_khuyet",
+        "question": "The business of washing clothes is called ...",
+        "answer": "laundry",
+        "explanation": "Laundry is the term for washing clothes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 168,
+        "id": "q218",
+        "type": "dien_khuyet",
+        "question": "An ... is the space between 2 lines that meet at a surface.",
+        "answer": "angle",
+        "explanation": "An angle is the space where two lines meet.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 169,
+        "id": "q219",
+        "type": "dien_khuyet",
+        "question": "In a ... diagram, the rectangular bars are sticked together.",
+        "answer": "frequency",
+        "explanation": "Frequency diagrams feature bars that are sticked together.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 170,
+        "id": "q220",
+        "type": "dien_khuyet",
+        "question": "A ... mirror is a flat mirror.",
+        "answer": "plane",
+        "explanation": "A plane mirror is a flat mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 171,
+        "id": "q221",
+        "type": "noi",
+        "question": "Match the robot with its Vietnamese name:",
+        "leftCol": [
+          "Teaching robot",
+          "Worker robot",
+          "Doctor robot",
+          "Home robot"
+        ],
+        "rightCol": [
+          "Người máy dạy học",
+          "Người máy công nhân",
+          "Người máy bác sĩ",
+          "Người máy gia đình"
+        ],
+        "answer": {
+          "Teaching robot": "Người máy dạy học",
+          "Worker robot": "Người máy công nhân",
+          "Doctor robot": "Người máy bác sĩ",
+          "Home robot": "Người máy gia đình"
+        },
+        "explanation": "These are the Vietnamese translations for various robot types.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 172,
+        "id": "q222",
+        "type": "noi",
+        "question": "Match the verb with its past participle (V3):",
+        "leftCol": [
+          "See",
+          "Visit",
+          "Explode",
+          "Do"
+        ],
+        "rightCol": [
+          "Seen",
+          "Visited",
+          "Exploded",
+          "Done"
+        ],
+        "answer": {
+          "See": "Seen",
+          "Visit": "Visited",
+          "Explode": "Exploded",
+          "Do": "Done"
+        },
+        "explanation": "These are correct past participle forms for the Present Perfect tense.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 173,
+        "id": "q223",
+        "type": "noi",
+        "question": "Match the Science term with its meaning:",
+        "leftCol": [
+          "Refraction",
+          "Reflection",
+          "Converge",
+          "Medium"
+        ],
+        "rightCol": [
+          "Sự khúc xạ",
+          "Sự phản xạ",
+          "Hội tụ",
+          "Môi trường truyền"
+        ],
+        "answer": {
+          "Refraction": "Sự khúc xạ",
+          "Reflection": "Sự phản xạ",
+          "Converge": "Hội tụ",
+          "Medium": "Môi trường truyền"
+        },
+        "explanation": "These are core Science terms from Unit 6.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 174,
+        "id": "q224",
+        "type": "noi",
+        "question": "Match the location word:",
+        "leftCol": [
+          "Space station",
+          "Planet",
+          "Town"
+        ],
+        "rightCol": [
+          "Trạm vũ trụ",
+          "Hành tinh",
+          "Thành phố/Thị trấn"
+        ],
+        "answer": {
+          "Space station": "Trạm vũ trụ",
+          "Planet": "Hành tinh",
+          "Town": "Thành phố/Thị trấn"
+        },
+        "explanation": "Vocabulary related to locations.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 175,
+        "id": "q225",
+        "type": "noi",
+        "question": "Match the chore with the action:",
+        "leftCol": [
+          "Hedge",
+          "Bed",
+          "Dishes",
+          "Plants"
+        ],
+        "rightCol": [
+          "Cut",
+          "Make",
+          "Do",
+          "Water"
+        ],
+        "answer": {
+          "Hedge": "Cut",
+          "Bed": "Make",
+          "Dishes": "Do",
+          "Plants": "Water"
+        },
+        "explanation": "These are common chore collocations.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 176,
+        "id": "q226",
+        "type": "dropdown",
+        "question": "Choose the correct articles: Ben saw [[a|an|the]] dog in the park. It was [[an|a|the]] interesting dog that waited for [[an|a|the]] hour.",
+        "answer": "a, an, an",
+        "explanation": "Use \"a\" for consonant sounds, \"an\" for vowel sounds (interesting, hour).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 177,
+        "id": "q227",
+        "type": "dropdown",
+        "question": "Complete the verb patterns: My mum [[taught|gave]] me [[to cycle|cycling]] after my dad [[gave|taught]] me a bicycle.",
+        "answer": "taught, to cycle, gave",
+        "explanation": "Teach + object + to-infinitive; Give + object + noun.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 178,
+        "id": "q228",
+        "type": "dropdown",
+        "question": "Grammar check: Ben [[hasn't|haven't]] [[visited|visit]] his grandparents [[yet|last year]].",
+        "answer": "hasn't, visited, yet",
+        "explanation": "Present Perfect negative uses hasn't + V3 and often includes \"yet\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 179,
+        "id": "q229",
+        "type": "dropdown",
+        "question": "Identify the ray: The [[incident ray|reflected ray]] arrives at the mirror, while the [[reflected ray|incident ray]] reflects off it.",
+        "answer": "incident ray, reflected ray",
+        "explanation": "Incident ray goes in; reflected ray comes out.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 180,
+        "id": "q230",
+        "type": "dropdown",
+        "question": "Superlatives: This is the [[best|most good]] robot at [[playing|play]] football.",
+        "answer": "best, playing",
+        "explanation": "\"Best\" is the superlative of good; \"playing\" is the gerund after the preposition \"at\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 181,
+        "id": "q231",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A lens must have at least one curved surface.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "By definition, a lens is a transparent material with at least one curved surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 182,
+        "id": "q232",
+        "type": "dung_sai",
+        "question": "Nhận định: \"In a frequency diagram, there are gaps between the rectangular bars.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "In a frequency diagram, the bars are sticked together with no gaps.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 183,
+        "id": "q233",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The normal is a line drawn at 45 degrees to the surface.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The normal is drawn at a right angle, which is 90 degrees.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 184,
+        "id": "q234",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The past participle of 'see' is 'saw'.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The past participle of 'see' is 'seen'; 'saw' is the past simple form.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 185,
+        "id": "q235",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A periscope allows you to see things that are out of sight.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "A periscope uses mirrors to see around or over obstacles.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 186,
+        "id": "q236",
+        "type": "nhieu_dap_an",
+        "question": "Which of these are materials light can travel through (Media)?",
+        "options": {
+          "a": "Air",
+          "b": "Water",
+          "c": "Glass",
+          "d": "Wood"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Air, water, and glass are media; light does not travel through wood.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 187,
+        "id": "q237",
+        "type": "nhieu_dap_an",
+        "question": "Identify the household chores from the list:",
+        "options": {
+          "a": "Do the dishes",
+          "b": "Cut the hedge",
+          "c": "Recognize a planet",
+          "d": "Make the bed"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Dishes, hedges, and beds are household chores; recognizing a planet is not.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 188,
+        "id": "q238",
+        "type": "nhieu_dap_an",
+        "question": "Which components can be considered \"data\"?",
+        "options": {
+          "a": "Numbers",
+          "b": "Symbols",
+          "c": "Letters",
+          "d": "Mirrors"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Data can be any symbol, letter, or number collected.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 189,
+        "id": "q239",
+        "type": "nhieu_dap_an",
+        "question": "Which items are optical devices?",
+        "options": {
+          "a": "Periscope",
+          "b": "Lens",
+          "c": "Bar chart",
+          "d": "Plane mirror"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Periscopes, lenses, and mirrors are optical devices; bar charts are mathematical tools.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 190,
+        "id": "q240",
+        "type": "nhieu_dap_an",
+        "question": "Which forms are used in the Present Perfect tense?",
+        "options": {
+          "a": "have",
+          "b": "has",
+          "c": "past participle (V3)",
+          "d": "verb 2"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Present Perfect uses have/has + past participle.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 191,
+        "id": "q241",
+        "type": "phan_loai",
+        "question": "Classify the Science terms:",
+        "nhom": [
+          "(A) Reflection (Unit 6.1)",
+          "(B) Refraction (Unit 6.2)"
+        ],
+        "the": [
+          "Incident ray",
+          "Plane mirror",
+          "Convex",
+          "Focal point"
+        ],
+        "dap_an": {
+          "Incident ray": 0,
+          "Plane mirror": 0,
+          "Convex": 1,
+          "Focal point": 1
+        },
+        "explanation": "Incident rays and plane mirrors are reflection concepts; convex shapes and focal points are refraction concepts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 192,
+        "id": "q242",
+        "type": "phan_loai",
+        "question": "Classify the robot workplaces:",
+        "nhom": [
+          "(A) Community & Industry",
+          "(B) Home & School"
+        ],
+        "the": [
+          "Worker robot",
+          "Doctor robot",
+          "Home robot",
+          "Teaching robot"
+        ],
+        "dap_an": {
+          "Worker robot": 0,
+          "Doctor robot": 0,
+          "Home robot": 1,
+          "Teaching robot": 1
+        },
+        "explanation": "Worker and Doctor robots work in industry/community; Home and Teaching robots work in home/school settings.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 193,
+        "id": "q243",
+        "type": "phan_loai",
+        "question": "Classify the grammar words:",
+        "nhom": [
+          "(A) Articles",
+          "(B) Auxiliary Verbs"
+        ],
+        "the": [
+          "a",
+          "an",
+          "the",
+          "have",
+          "has"
+        ],
+        "dap_an": {
+          "a": 0,
+          "an": 0,
+          "the": 0,
+          "have": 1,
+          "has": 1
+        },
+        "explanation": "A, an, and the are articles; have and has are auxiliary verbs for Present Perfect.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 194,
+        "id": "q244",
+        "type": "phan_loai",
+        "question": "Classify the locations:",
+        "nhom": [
+          "(A) Earth-based",
+          "(B) Space-based"
+        ],
+        "the": [
+          "Town",
+          "Space station",
+          "Planet"
+        ],
+        "dap_an": {
+          "Town": 0,
+          "Italy": 0,
+          "Space station": 1,
+          "Planet": 1
+        },
+        "explanation": "Town and Italy are on Earth; space stations and planets are in space.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 195,
+        "id": "q245",
+        "type": "phan_loai",
+        "question": "Classify the mathematical terms:",
+        "nhom": [
+          "(A) Data Types",
+          "(B) Graph Types"
+        ],
+        "the": [
+          "Numbers",
+          "Symbols",
+          "Bar chart",
+          "Frequency diagram"
+        ],
+        "dap_an": {
+          "Numbers": 0,
+          "Symbols": 0,
+          "Bar chart": 1,
+          "Frequency diagram": 1
+        },
+        "explanation": "Numbers and symbols are types of data; bar charts and frequency diagrams are graph types.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 196,
+        "id": "q246",
+        "type": "sap_xep",
+        "question": "Arrange the sentence describing the 79 AD eruption:",
+        "muc": [
+          "(1) In the year 79,",
+          "(2) a huge volcano",
+          "(3) exploded",
+          "(4) in Italy."
+        ],
+        "answer": [
+          "(1) In the year 79,",
+          "(2) a huge volcano",
+          "(3) exploded",
+          "(4) in Italy."
+        ],
+        "explanation": "Correct structure for Past Simple narrative.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 197,
+        "id": "q247",
+        "type": "sap_xep",
+        "question": "Order the structure of a Present Perfect question:",
+        "muc": [
+          "(1) Have/Has",
+          "(2) Subject",
+          "(3) Past participle (V3)",
+          "(4) ?"
+        ],
+        "answer": [
+          "(1) Have/Has",
+          "(2) Subject",
+          "(3) Past participle (V3)",
+          "(4) ?"
+        ],
+        "explanation": "Standard question form for Present Perfect.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 198,
+        "id": "q248",
+        "type": "sap_xep",
+        "question": "Order the steps of reflection:",
+        "muc": [
+          "(1) Incident ray arrives at the mirror.",
+          "(2) Ray meets the normal at the surface.",
+          "(3) Reflected ray reflects off the mirror."
+        ],
+        "answer": [
+          "(1) Incident ray arrives at the mirror.",
+          "(2) Ray meets the normal at the surface.",
+          "(3) Reflected ray reflects off the mirror."
+        ],
+        "explanation": "The logical progression of a light ray in reflection.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 199,
+        "id": "q249",
+        "type": "sap_xep",
+        "question": "Order the Superlative sentence:",
+        "muc": [
+          "(1) Ben",
+          "(2) is",
+          "(3) the",
+          "(4) best",
+          "(5) student."
+        ],
+        "answer": [
+          "(1) Ben",
+          "(2) is",
+          "(3) the",
+          "(4) best",
+          "(5) student."
+        ],
+        "explanation": "Correct word order for superlative adjectives.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 200,
+        "id": "q250",
+        "type": "mot_dap_an",
+        "question": "What does \"laundry\" mean in Vietnamese?",
+        "options": {
+          "a": "Rửa chén",
+          "b": "Dọn giường",
+          "c": "Sự giặt ủi",
+          "d": "Cắt tỉa hàng rào"
+        },
+        "answer": "c",
+        "explanation": "Laundry translates to \"sự giặt ủi\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 201,
+        "id": "q151",
+        "type": "mot_dap_an",
+        "question": "In the year 79, what did the huge volcano in Italy produce?",
+        "options": {
+          "a": "A flood of water",
+          "b": "An ash cloud over 20km high",
+          "c": "A field of mirrors",
+          "d": "A new type of robot"
+        },
+        "answer": "b",
+        "explanation": "The volcano produced an ash cloud that was over 20km high.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 202,
+        "id": "q152",
+        "type": "dien_khuyet",
+        "question": "The Present Perfect structure for questions is: ... + subject + past participle (V3)?",
+        "answer": "Have/Has",
+        "explanation": "Questions in Present Perfect start with the auxiliary verb Have or Has.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 203,
+        "id": "q153",
+        "type": "noi",
+        "question": "Match the Science term with its specific definition:",
+        "leftCol": [
+          "Angle",
+          "Plane mirror",
+          "Incident ray"
+        ],
+        "rightCol": [
+          "The space between 2 lines that meet at a surface",
+          "A flat mirror",
+          "The ray of light that arrives at the mirror"
+        ],
+        "answer": {
+          "Angle": "The space between 2 lines that meet at a surface",
+          "Plane mirror": "A flat mirror",
+          "Incident ray": "The ray of light that arrives at the mirror"
+        },
+        "explanation": "These definitions are essential for understanding reflection in Unit 6.1.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 204,
+        "id": "q154",
+        "type": "dropdown",
+        "question": "Choose the correct articles: Ben saw [[an|a|the]] interesting movie for [[an|a|the]] hour. It was [[the|a|an]] best movie he has ever seen.",
+        "answer": "an, an, the",
+        "explanation": "\"An\" is used before vowel sounds (interesting, hour). \"The\" is used for superlatives (the best).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 205,
+        "id": "q155",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A frequency diagram is a graph where the rectangular bars have gaps between them.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "In a frequency diagram, the bars are sticked together, meaning there are no gaps.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 206,
+        "id": "q156",
+        "type": "phan_loai",
+        "question": "Classify these chores based on the tool or location mentioned in the list:",
+        "nhom": [
+          "(A) Kitchen & Clothing tasks",
+          "(B) Garden & Yard tasks"
+        ],
+        "the": [
+          "Do the dishes",
+          "Laundry",
+          "Cut the hedge",
+          "Gardening"
+        ],
+        "dap_an": {
+          "Do the dishes": 0,
+          "Laundry": 0,
+          "Cut the hedge": 1,
+          "Gardening": 1
+        },
+        "explanation": "Dishes and laundry are indoor/utility tasks; hedging and gardening are outdoor tasks.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 207,
+        "id": "q157",
+        "type": "mot_dap_an",
+        "question": "What is \"refraction\"?",
+        "options": {
+          "a": "Light bouncing off a mirror",
+          "b": "The bending of light as it passes through a medium",
+          "c": "Light meeting at a focal point",
+          "d": "A rectangular bar on a graph"
+        },
+        "answer": "b",
+        "explanation": "Refraction is the scientific term for the bending of light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 208,
+        "id": "q158",
+        "type": "dien_khuyet",
+        "question": "A ... is a transparent material with at least one curved surface.",
+        "answer": "lens",
+        "explanation": "This is the standard definition of a lens (thấu kính).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 209,
+        "id": "q159",
+        "type": "sap_xep",
+        "question": "Sắp xếp các từ để tạo thành câu hoàn chỉnh về thói quen:",
+        "muc": [
+          "(1) Ben",
+          "(2) has",
+          "(3) developed",
+          "(4) some",
+          "(5) good",
+          "(6) habits",
+          "(7) recently."
+        ],
+        "answer": [
+          "(1) Ben",
+          "(2) has",
+          "(3) developed",
+          "(4) some",
+          "(5) good",
+          "(6) habits",
+          "(7) recently."
+        ],
+        "explanation": "Câu khẳng định thì Hiện tại hoàn thành: S + has + V3 + objects.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 210,
+        "id": "q160",
+        "type": "mot_dap_an",
+        "question": "Which robot is used to help sick people?",
+        "options": {
+          "a": "Home robot",
+          "b": "Worker robot",
+          "c": "Doctor robot",
+          "d": "Teaching robot"
+        },
+        "answer": "c",
+        "explanation": "A doctor robot (người máy bác sĩ) is used in medical contexts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 211,
+        "id": "q161",
+        "type": "nhieu_dap_an",
+        "question": "Which of these are examples of a \"Medium\" light can pass through?",
+        "options": {
+          "a": "Air",
+          "b": "Water",
+          "c": "Glass",
+          "d": "A solid wall"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Light can pass through air, water, and glass, making them media.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 212,
+        "id": "q162",
+        "type": "dropdown",
+        "question": "Complete the sentence: My mum [[taught|gave]] me [[to cycle|cycling]]. She is the [[best|better]] teacher in the world.",
+        "answer": "taught, to cycle, best",
+        "explanation": "\"Taught\" uses the pattern Verb+object+to-infinitive. \"Best\" is the superlative form.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 213,
+        "id": "q163",
+        "type": "mot_dap_an",
+        "question": "What does the word \"converge\" mean?",
+        "options": {
+          "a": "To separate or move away",
+          "b": "To meet or to come together",
+          "c": "To reflect at 90 degrees",
+          "d": "To wash clothes"
+        },
+        "answer": "b",
+        "explanation": "Converge means to meet or come together, such as rays of light at a focal point.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 214,
+        "id": "q164",
+        "type": "dien_khuyet",
+        "question": "The line drawn at right angles (90^\\\\circ) to a surface is called the ...",
+        "answer": "normal",
+        "explanation": "The normal is the perpendicular line (90^\\\\circ) to the reflecting surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 215,
+        "id": "q165",
+        "type": "mot_dap_an",
+        "question": "What is \"data\" in Mathematics?",
+        "options": {
+          "a": "A type of graph",
+          "b": "A collection of information often collected by observation",
+          "c": "The space between two lines",
+          "d": "A bulging shape"
+        },
+        "answer": "b",
+        "explanation": "Data is the collection of information (symbols, letters, numbers).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 216,
+        "id": "q166",
+        "type": "noi",
+        "question": "Match the Science concept with its description:",
+        "leftCol": [
+          "Convex",
+          "Optical illusion",
+          "Focal point"
+        ],
+        "rightCol": [
+          "A bulging shape",
+          "Something eyes see but is not real",
+          "Point where rays of light converge"
+        ],
+        "answer": {
+          "Convex": "A bulging shape",
+          "Optical illusion": "Something eyes see but is not real",
+          "Focal point": "Point where rays of light converge"
+        },
+        "explanation": "These terms are core concepts in Unit 6.2 (Refraction).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 217,
+        "id": "q167",
+        "type": "mot_dap_an",
+        "question": "Which article is used before \"consonant sounds\"?",
+        "options": {
+          "a": "an",
+          "b": "a",
+          "c": "the",
+          "d": "no article"
+        },
+        "answer": "b",
+        "explanation": "Use \"a\" before consonant sounds, like \"a dog\" or \"a car\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 218,
+        "id": "q168",
+        "type": "dien_khuyet",
+        "question": "In a ... diagram, the rectangular bars are sticked together.",
+        "answer": "frequency",
+        "explanation": "The characteristic of a frequency diagram is that the bars have no gaps between them.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 219,
+        "id": "q169",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The past participle (V3) of 'visit' is 'visited'.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Visit is a regular verb, so its past simple and past participle are both 'visited'.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 220,
+        "id": "q170",
+        "type": "mot_dap_an",
+        "question": "What is a \"periscope\"?",
+        "options": {
+          "a": "A tool to wash dishes",
+          "b": "A device that uses mirrors to see things out of sight",
+          "c": "A type of frequency diagram",
+          "d": "A bulging lens"
+        },
+        "answer": "b",
+        "explanation": "A periscope uses mirrors to see over or around obstacles.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 221,
+        "id": "q171",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following can be considered \"data\"?",
+        "options": {
+          "a": "Symbols",
+          "b": "Letters",
+          "c": "Numbers",
+          "d": "Mirrors"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Any symbol, letter, or number can be considered as data.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 222,
+        "id": "q172",
+        "type": "dropdown",
+        "question": "Select the article: Ben saw [[a|an|the]] dog in the park. [[The|A|An]] dog was near [[a|an|the]] hour-glass.",
+        "answer": "a, The, a",
+        "explanation": "First mention (a), second mention (the), vowel sound (an hour).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 223,
+        "id": "q173",
+        "type": "mot_dap_an",
+        "question": "What is the bulging shape of a lens called?",
+        "options": {
+          "a": "Concave",
+          "b": "Convex",
+          "c": "Normal",
+          "d": "Plane"
+        },
+        "answer": "b",
+        "explanation": "Convex (lồi) is the scientific term for a bulging shape.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 224,
+        "id": "q174",
+        "type": "dien_khuyet",
+        "question": "Light ... when it enters a new material like water or glass.",
+        "answer": "bends",
+        "explanation": "The bending of light is the definition of refraction.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 225,
+        "id": "q175",
+        "type": "noi",
+        "question": "Match the robot with its specific task:",
+        "leftCol": [
+          "Teaching robot",
+          "Worker robot",
+          "Home robot"
+        ],
+        "rightCol": [
+          "Người máy dạy học",
+          "Người máy công nhân",
+          "Người máy gia đình"
+        ],
+        "answer": {
+          "Teaching robot": "Người máy dạy học",
+          "Worker robot": "Người máy công nhân",
+          "Home robot": "Người máy gia đình"
+        },
+        "explanation": "These are the Vietnamese translations for the different types of robots.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 226,
+        "id": "q176",
+        "type": "mot_dap_an",
+        "question": "In the year 79, a volcano exploded in which country?",
+        "options": {
+          "a": "Vietnam",
+          "b": "Italy",
+          "c": "Pompeii",
+          "d": "England"
+        },
+        "answer": "b",
+        "explanation": "The volcano exploded in Italy; Pompeii is the city.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 227,
+        "id": "q177",
+        "type": "dropdown",
+        "question": "Grammar check: Ben [[hasn't|haven't]] [[visited|visit]] his grandparents [[last week|yet]].",
+        "answer": "hasn't, visited, last week",
+        "explanation": "Third-person singular negative Present Perfect uses hasn't + V3 and \"yet\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 228,
+        "id": "q178",
+        "type": "mot_dap_an",
+        "question": "What does \"minor\" mean in the vocabulary list?",
+        "options": {
+          "a": "Large and important",
+          "b": "Small and not important",
+          "c": "Fast and efficient",
+          "d": "Old and broken"
+        },
+        "answer": "b",
+        "explanation": "Minor is defined as small or not important.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 229,
+        "id": "q179",
+        "type": "dien_khuyet",
+        "question": "The ray of light that arrives at the mirror is called the ... ray.",
+        "answer": "incident",
+        "explanation": "The incoming ray is the incident ray (tia tới).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 230,
+        "id": "q180",
+        "type": "noi",
+        "question": "Match the word with its Vietnamese meaning:",
+        "leftCol": [
+          "Habits",
+          "Laundry",
+          "Recognize"
+        ],
+        "rightCol": [
+          "Thói quen",
+          "Sự giặt ủi",
+          "Nhận ra"
+        ],
+        "answer": {
+          "Habits": "Thói quen",
+          "Laundry": "Sự giặt ủi",
+          "Recognize": "Nhận ra"
+        },
+        "explanation": "Vocabulary from the Moet and general lists.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 231,
+        "id": "q181",
+        "type": "mot_dap_an",
+        "question": "What is the space station?",
+        "options": {
+          "a": "A place where robots play football",
+          "b": "A facility in outer space where people work",
+          "c": "A graph with rectangular bars",
+          "d": "A type of convex lens"
+        },
+        "answer": "b",
+        "explanation": "A space station (trạm vũ trụ) is a facility in space.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 232,
+        "id": "q182",
+        "type": "nhieu_dap_an",
+        "question": "Which are considered household chores?",
+        "options": {
+          "a": "Cut the hedge",
+          "b": "Do the dishes",
+          "c": "Make the bed",
+          "d": "Recognize a planet"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Cutting the hedge, doing dishes, and making the bed are chores.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 233,
+        "id": "q183",
+        "type": "dien_khuyet",
+        "question": "The point where rays of light converge is called the ...",
+        "answer": "focal point",
+        "explanation": "Focal point (tiêu điểm) is the convergence point for light rays.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 234,
+        "id": "q184",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A plane mirror is a curved mirror used in space stations.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "A plane mirror is a flat mirror (gương phẳng).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 235,
+        "id": "q185",
+        "type": "mot_dap_an",
+        "question": "Which article is used for specific or known nouns?",
+        "options": {
+          "a": "a",
+          "b": "an",
+          "c": "the",
+          "d": "some"
+        },
+        "answer": "c",
+        "explanation": "\"The\" is the definite article for specific or already mentioned nouns.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 236,
+        "id": "q186",
+        "type": "noi",
+        "question": "Match the chore with its English verb:",
+        "leftCol": [
+          "Giặt quần áo",
+          "Dọn giường",
+          "Rửa bát"
+        ],
+        "rightCol": [
+          "Do the laundry",
+          "Make the bed",
+          "Do the dishes"
+        ],
+        "answer": {
+          "Giặt quần áo": "Do the laundry",
+          "Dọn giường": "Make the bed",
+          "Rửa bát": "Do the dishes"
+        },
+        "explanation": "These are common household chore collocations.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 237,
+        "id": "q187",
+        "type": "mot_dap_an",
+        "question": "What is the \"mirror image\"?",
+        "options": {
+          "a": "A real object behind the glass",
+          "b": "A reflection in a mirror",
+          "c": "A bulging shape",
+          "d": "A bar chart of frequencies"
+        },
+        "answer": "b",
+        "explanation": "Mirror image (ảnh phản chiếu) is the reflection produced by a mirror.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 238,
+        "id": "q188",
+        "type": "dien_khuyet",
+        "question": "A line drawn at ... degrees to a surface is called the normal.",
+        "answer": "90",
+        "explanation": "The normal is always at a right angle (90 degrees).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 239,
+        "id": "q189",
+        "type": "dropdown",
+        "question": "Select the chore: Ben has to [[cut the hedge|do the laundry]] in the garden and [[make the bed|cut the hedge]] in his bedroom.",
+        "answer": "cut the hedge, make the bed",
+        "explanation": "Cutting the hedge is an outdoor task; making the bed is an indoor task.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 240,
+        "id": "q190",
+        "type": "mot_dap_an",
+        "question": "In Present Perfect, \"Ben hasn't visited\" uses which auxiliary?",
+        "options": {
+          "a": "haven't",
+          "b": "hasn't",
+          "c": "didn't",
+          "d": "isn't"
+        },
+        "answer": "b",
+        "explanation": "Third-person singular (Ben) uses \"has\" or \"hasn't\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 241,
+        "id": "q191",
+        "type": "nhieu_dap_an",
+        "question": "What materials are mentioned as \"Media\" in the text?",
+        "options": {
+          "a": "Air",
+          "b": "Water",
+          "c": "Glass",
+          "d": "Wood"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Air, water, and glass are specifically listed as media.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 242,
+        "id": "q192",
+        "type": "dien_khuyet",
+        "question": "The ... of light is called refraction.",
+        "answer": "bending",
+        "explanation": "Refraction is defined as the bending of light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 243,
+        "id": "q193",
+        "type": "mot_dap_an",
+        "question": "What type of graph has rectangular bars describing data?",
+        "options": {
+          "a": "Periscope",
+          "b": "Bar chart",
+          "c": "Normal",
+          "d": "Convex"
+        },
+        "answer": "b",
+        "explanation": "A bar chart is defined as a graph with rectangular bars on it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 244,
+        "id": "q194",
+        "type": "noi",
+        "question": "Match the location with the English word:",
+        "leftCol": [
+          "Hành tinh",
+          "Trạm vũ trụ",
+          "Thành phố/Thị trấn"
+        ],
+        "rightCol": [
+          "Planet",
+          "Space station",
+          "Town"
+        ],
+        "answer": {
+          "Hành tinh": "Planet",
+          "Trạm vũ trụ": "Space station",
+          "Thành phố/Thị trấn": "Town"
+        },
+        "explanation": "Translations of location-based nouns.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 245,
+        "id": "q195",
+        "type": "mot_dap_an",
+        "question": "What is an \"optical illusion\"?",
+        "options": {
+          "a": "A real image in a convex lens",
+          "b": "Something our eyes see but is not real",
+          "c": "A collection of letters and symbols",
+          "d": "A robot that can play football"
+        },
+        "answer": "b",
+        "explanation": "Optical illusion is something perceived by the eyes that isn't actually there.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 246,
+        "id": "q196",
+        "type": "dien_khuyet",
+        "question": "A ... is a flat mirror.",
+        "answer": "plane mirror",
+        "explanation": "Plane mirror (gương phẳng) is a mirror with a flat surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 247,
+        "id": "q197",
+        "type": "dropdown",
+        "question": "Tense check: Ben [[visited|has visited]] Pompeii last summer. He [[has seen|saw]] many interesting things since he arrived.",
+        "answer": "visited, has seen",
+        "explanation": "\"Last summer\" uses Past Simple; \"Since then\" uses Present Perfect.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 248,
+        "id": "q198",
+        "type": "mot_dap_an",
+        "question": "What is the superlative form of \"bad\"?",
+        "options": {
+          "a": "worse",
+          "b": "the worst",
+          "c": "badder",
+          "d": "more bad"
+        },
+        "answer": "b",
+        "explanation": "\"The worst\" is the superlative of \"bad\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 249,
+        "id": "q199",
+        "type": "dien_khuyet",
+        "question": "The ... point is where light rays converge.",
+        "answer": "focal",
+        "explanation": "Rays of light converge at the focal point (tiêu điểm).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 250,
+        "id": "q200",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Any symbol, letter, or number can be considered as data.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Data is a collection of information including symbols, letters, or numbers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 251,
+        "id": "q101",
+        "type": "mot_dap_an",
+        "question": "What is a \"periscope\" primarily used for?",
+        "options": {
+          "a": "Measuring the temperature of a volcano",
+          "b": "Seeing things that are out of sight using mirrors",
+          "c": "Calculating the frequency of data",
+          "d": "Washing clothes automatically"
+        },
+        "answer": "b",
+        "explanation": "A periscope is a device that uses mirrors to see things that are out of sight.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 252,
+        "id": "q102",
+        "type": "dien_khuyet",
+        "question": "In the Present Perfect tense, the negative form is: Subject + ... + past participle (V3).",
+        "answer": "haven't/hasn't",
+        "explanation": "The negative structure for Present Perfect is Subject + haven't/hasn't + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 253,
+        "id": "q103",
+        "type": "noi",
+        "question": "Match the mathematical term with its characteristic:",
+        "leftCol": [
+          "Bar chart",
+          "Frequency diagram",
+          "Data"
+        ],
+        "rightCol": [
+          "Has gaps between rectangular bars",
+          "Rectangular bars are sticked together",
+          "A collection of information"
+        ],
+        "answer": {
+          "Bar chart": "Has gaps between rectangular bars",
+          "Frequency diagram": "Rectangular bars are sticked together",
+          "Data": "A collection of information"
+        },
+        "explanation": "Frequency diagrams are distinguished by bars being sticked together, unlike bar charts.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 254,
+        "id": "q104",
+        "type": "dropdown",
+        "question": "Choose the correct articles: Ben saw [[a|an|the]] interesting movie about [[an|a|the]] explorer who lived for [[an|a|the]] hour in [[a|an|the]] cave.",
+        "answer": "a, an, an, a",
+        "explanation": "\"An\" is used before vowel sounds (interesting, explorer, hour). \"A\" is used before consonant sounds (cave).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 255,
+        "id": "q105",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The incident ray is the ray of light that reflects off the mirror.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The incident ray arrives at the mirror; the reflected ray is the one that reflects off it.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 256,
+        "id": "q106",
+        "type": "phan_loai",
+        "question": "Classify these robots into their respective categories:",
+        "nhom": [
+          "(A) Domestic & Everyday",
+          "(B) Professional & Specialized"
+        ],
+        "the": [
+          "Home robot",
+          "Worker robot",
+          "Doctor robot",
+          "Teaching robot"
+        ],
+        "dap_an": {
+          "Home robot": 0,
+          "Worker robot": 1,
+          "Doctor robot": 1,
+          "Teaching robot": 1
+        },
+        "explanation": "Home robots are for domestic use; others are for specialized professional fields.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 257,
+        "id": "q107",
+        "type": "mot_dap_an",
+        "question": "What does the word \"refraction\" refer to in Science?",
+        "options": {
+          "a": "Light bouncing off a flat surface",
+          "b": "The bending of light as it enters a new medium",
+          "c": "Light rays meeting at a single point",
+          "d": "An image produced by a plane mirror"
+        },
+        "answer": "b",
+        "explanation": "Refraction is defined as the bending of light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 258,
+        "id": "q108",
+        "type": "dien_khuyet",
+        "question": "The household chore that involves tidying up your sleeping area is called ...",
+        "answer": "make the bed",
+        "explanation": "\"Make the bed\" is the phrase used for dọn dẹp giường ngủ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 259,
+        "id": "q109",
+        "type": "sap_xep",
+        "question": "Sắp xếp các từ để tạo thành câu hỏi thì Hiện tại hoàn thành đúng:",
+        "muc": [
+          "(1) Has",
+          "(2) dad",
+          "(3) seen",
+          "(4) the",
+          "(5) movie",
+          "(6) at",
+          "(7) the",
+          "(8) cinema?"
+        ],
+        "answer": [
+          "(1) Has",
+          "(2) dad",
+          "(3) seen",
+          "(4) the",
+          "(5) movie",
+          "(6) at",
+          "(7) the",
+          "(8) cinema?"
+        ],
+        "explanation": "Cấu trúc câu hỏi: Has + subject + V3 + objects?",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 260,
+        "id": "q110",
+        "type": "mot_dap_an",
+        "question": "In Mathematics, any symbol, letter, or number can be considered as:",
+        "options": {
+          "a": "A bar chart",
+          "b": "Data",
+          "c": "An angle",
+          "d": "A medium"
+        },
+        "answer": "b",
+        "explanation": "Data is a collection of information; any symbol, letter, or number can be considered as data.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 261,
+        "id": "q111",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following are considered \"media\" through which light can travel?",
+        "options": {
+          "a": "Air",
+          "b": "Water",
+          "c": "Glass",
+          "d": "Mirror"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "A medium is a material such as air, water, or glass. A mirror is a reflective surface, not a medium light passes through.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 262,
+        "id": "q112",
+        "type": "dropdown",
+        "question": "Complete the sentence: My mum [[taught|gave]] me [[to cycle|cycling]]. She [[gave|taught]] me a bicycle for my birthday.",
+        "answer": "taught, to cycle, gave",
+        "explanation": "The verb \"taught\" follows the pattern Verb + object + infinitive (with to). \"Gave\" is used for the object (bicycle).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 263,
+        "id": "q113",
+        "type": "mot_dap_an",
+        "question": "What is the \"focal point\" in optics?",
+        "options": {
+          "a": "The surface of a plane mirror",
+          "b": "The point where rays of light converge",
+          "c": "The line drawn at a 90-degree angle",
+          "d": "The space between two meeting lines"
+        },
+        "answer": "b",
+        "explanation": "The focal point is the point where rays of light converge.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 264,
+        "id": "q114",
+        "type": "dien_khuyet",
+        "question": "A ... is a transparent material with at least one curved surface.",
+        "answer": "lens",
+        "explanation": "This is the formal definition of a lens.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 265,
+        "id": "q115",
+        "type": "mot_dap_an",
+        "question": "What is the meaning of \"converge\"?",
+        "options": {
+          "a": "To move away from each other",
+          "b": "To meet or to come together",
+          "c": "To bend in different directions",
+          "d": "To disappear into a medium"
+        },
+        "answer": "b",
+        "explanation": "Converge means to meet or come together.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 266,
+        "id": "q116",
+        "type": "noi",
+        "question": "Match the Science term with its Vietnamese translation:",
+        "leftCol": [
+          "Plane mirror",
+          "Mirror image",
+          "Normal"
+        ],
+        "rightCol": [
+          "Gương phẳng",
+          "Ảnh phản chiếu",
+          "Đường pháp tuyến"
+        ],
+        "answer": {
+          "Plane mirror": "Gương phẳng",
+          "Mirror image": "Ảnh phản chiếu",
+          "Normal": "Đường pháp tuyến"
+        },
+        "explanation": "Đây là các thuật ngữ cơ bản trong bài học về gương và phản xạ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 267,
+        "id": "q117",
+        "type": "mot_dap_an",
+        "question": "A shape that is \"bulging\" is known as:",
+        "options": {
+          "a": "Concave",
+          "b": "Convex",
+          "c": "Plane",
+          "d": "Normal"
+        },
+        "answer": "b",
+        "explanation": "Convex is defined as a bulging shape.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 268,
+        "id": "q118",
+        "type": "dien_khuyet",
+        "question": "Something our eyes see but is not real is called an ...",
+        "answer": "optical illusion",
+        "explanation": "Optical illusion (ảo ảnh quang học) là hiện tượng mắt thấy nhưng không có thật.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 269,
+        "id": "q119",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The past participle (V3) of the verb 'see' is 'saw'.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "The past participle (V3) of 'see' is 'seen'. 'Saw' is the past simple (V2) form.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 270,
+        "id": "q120",
+        "type": "mot_dap_an",
+        "question": "Which of these is a task often done by a \"worker robot\"?",
+        "options": {
+          "a": "Teaching students",
+          "b": "Performing surgery",
+          "c": "Working in a factory",
+          "d": "Playing football"
+        },
+        "answer": "c",
+        "explanation": "Worker robots are typically used for industrial or labor-intensive tasks in factories.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 271,
+        "id": "q121",
+        "type": "nhieu_dap_an",
+        "question": "What information was provided about the volcano that exploded in Italy?",
+        "options": {
+          "a": "It exploded in the year 79.",
+          "b": "It produced an ash cloud over 20km high.",
+          "c": "It was located in Pompeii.",
+          "d": "It was made of glass."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "The text mentions the year 79, the 20km high ash cloud, and the location in Italy/Pompeii.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 272,
+        "id": "q122",
+        "type": "dropdown",
+        "question": "Choose the correct Superlative: Out of all the robots, the [[teaching|worker]] robot is [[the most intelligent|the more intelligent|the intelligentest]].",
+        "answer": "teaching, the most intelligent",
+        "explanation": "Teaching robots imply intelligence; long adjectives use \"the most\" for superlatives.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 273,
+        "id": "q123",
+        "type": "mot_dap_an",
+        "question": "The space between 2 lines that meet at a surface is:",
+        "options": {
+          "a": "A normal",
+          "b": "An angle",
+          "c": "A ray",
+          "d": "A medium"
+        },
+        "answer": "b",
+        "explanation": "An angle is the space between 2 lines that meet at a surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 274,
+        "id": "q124",
+        "type": "dien_khuyet",
+        "question": "A line drawn at right angles (90^\\\\circ) to a surface is called the ...",
+        "answer": "normal",
+        "explanation": "The normal is always drawn at a 90-degree angle to the surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 275,
+        "id": "q125",
+        "type": "noi",
+        "question": "Match the chore with the correct verb:",
+        "leftCol": [
+          "... the dishes",
+          "... the hedge",
+          "... the bed"
+        ],
+        "rightCol": [
+          "do",
+          "cut",
+          "make"
+        ],
+        "answer": {
+          "... the dishes": "do",
+          "... the hedge": "cut",
+          "... the bed": "make"
+        },
+        "explanation": "Đây là các cụm động từ cố định (collocations) về việc nhà.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 276,
+        "id": "q126",
+        "type": "mot_dap_an",
+        "question": "How high was the ash cloud produced by the volcano in Italy?",
+        "options": {
+          "a": "Exactly 10km",
+          "b": "Over 20km",
+          "c": "Under 5km",
+          "d": "79km"
+        },
+        "answer": "b",
+        "explanation": "The text states the ash cloud was over 20km high.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 277,
+        "id": "q127",
+        "type": "dropdown",
+        "question": "Fill in the articles: Ben visited [[the|a|an]] grandparents. He saw [[an|a|the]] interesting movie about [[a|the|an]] robot.",
+        "answer": "the, an, a",
+        "explanation": "\"The\" for specific people; \"an\" before vowel sounds; \"a\" for general nouns.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 278,
+        "id": "q128",
+        "type": "mot_dap_an",
+        "question": "In the year 79, where did a huge volcano explode?",
+        "options": {
+          "a": "Vietnam",
+          "b": "Italy",
+          "c": "England",
+          "d": "America"
+        },
+        "answer": "b",
+        "explanation": "The explosion happened in Italy.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 279,
+        "id": "q129",
+        "type": "dien_khuyet",
+        "question": "The ray of light that arrives at the mirror is called the ... ray.",
+        "answer": "incident",
+        "explanation": "The incident ray is the incoming ray.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 280,
+        "id": "q130",
+        "type": "phan_loai",
+        "question": "Classify these as \"Science Tools\" or \"Maths Data Tools\":",
+        "nhom": [
+          "(A) Science Tools",
+          "(B) Maths Data Tools"
+        ],
+        "the": [
+          "Periscope",
+          "Plane mirror",
+          "Bar chart",
+          "Frequency diagram"
+        ],
+        "dap_an": {
+          "Periscope": 0,
+          "Plane mirror": 0,
+          "Bar chart": 1,
+          "Frequency diagram": 1
+        },
+        "explanation": "Periscopes and mirrors are for optics (Science); charts and diagrams are for data (Maths).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 281,
+        "id": "q131",
+        "type": "mot_dap_an",
+        "question": "What is the definition of \"minor\"?",
+        "options": {
+          "a": "Very large and important",
+          "b": "Small and not important",
+          "c": "A person who works underground",
+          "d": "A type of mirror"
+        },
+        "answer": "b",
+        "explanation": "Minor is defined as small or not important.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 282,
+        "id": "q132",
+        "type": "dung_sai",
+        "question": "Nhận định: \"In a frequency diagram, the rectangular bars have gaps between them.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "In a frequency diagram, the bars are sticked together.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 283,
+        "id": "q133",
+        "type": "mot_dap_an",
+        "question": "Which robot is specifically mentioned as being able to play football?",
+        "options": {
+          "a": "Doctor robot",
+          "b": "Teaching robot",
+          "c": "Robot (General Unit 12)",
+          "d": "Worker robot"
+        },
+        "answer": "c",
+        "explanation": "\"Play football\" is listed as a verb/action under Unit 12: Robots.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 284,
+        "id": "q134",
+        "type": "dien_khuyet",
+        "question": "A ... shape is bulging outwards.",
+        "answer": "convex",
+        "explanation": "Convex is the term for a bulging/outward curved shape.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 285,
+        "id": "q135",
+        "type": "noi",
+        "question": "Match the location with the word:",
+        "leftCol": [
+          "Space station",
+          "Planet",
+          "Town"
+        ],
+        "rightCol": [
+          "Trạm vũ trụ",
+          "Hành tinh",
+          "Thành phố/Thị trấn"
+        ],
+        "answer": {
+          "Space station": "Trạm vũ trụ",
+          "Planet": "Hành tinh",
+          "Town": "Thành phố/Thị trấn"
+        },
+        "explanation": "Từ vựng về không gian và địa điểm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 286,
+        "id": "q136",
+        "type": "mot_dap_an",
+        "question": "What is the negative form of \"Ben has visited\"?",
+        "options": {
+          "a": "Ben don't visit.",
+          "b": "Ben hasn't visited.",
+          "c": "Ben haven't visited.",
+          "d": "Ben didn't visited."
+        },
+        "answer": "b",
+        "explanation": "The negative for third-person singular (Ben/He) in Present Perfect is \"hasn't\" + V3.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 287,
+        "id": "q137",
+        "type": "dropdown",
+        "question": "Identify the correct category: [[Water|A periscope]] is a medium, whereas [[a lens|air]] is an optical device.",
+        "answer": "Water, a lens",
+        "explanation": "Water and air are media; periscopes and lenses are devices.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 288,
+        "id": "q138",
+        "type": "mot_dap_an",
+        "question": "What does \"recognize\" mean?",
+        "options": {
+          "a": "To forget something completely",
+          "b": "To identify or know someone/something again",
+          "c": "To wash clothes in a machine",
+          "d": "To draw a 90-degree angle"
+        },
+        "answer": "b",
+        "explanation": "Recognize (nhận ra) means to identify someone or something you have seen before.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 289,
+        "id": "q139",
+        "type": "dien_khuyet",
+        "question": "The point where light rays meet after passing through a lens is the ...",
+        "answer": "focal point",
+        "explanation": "This is the definition of the focal point in optics.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 290,
+        "id": "q140",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following are listed as \"robot types\" in the document?",
+        "options": {
+          "a": "Home robot",
+          "b": "Doctor robot",
+          "c": "Worker robot",
+          "d": "Lava robot"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Home, doctor, worker, and teaching robots are mentioned.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 291,
+        "id": "q141",
+        "type": "mot_dap_an",
+        "question": "What is \"optical illusion\"?",
+        "options": {
+          "a": "A real object in a mirror",
+          "b": "Something our eyes see that isn't real",
+          "c": "A line at a 90-degree angle",
+          "d": "A specific type of bar chart"
+        },
+        "answer": "b",
+        "explanation": "Ảo ảnh quang học là thứ mắt thấy nhưng không có thật.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 292,
+        "id": "q142",
+        "type": "dien_khuyet",
+        "question": "The business of washing clothes is called ...",
+        "answer": "laundry",
+        "explanation": "Laundry is the specific term for washing clothes.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 293,
+        "id": "q143",
+        "type": "noi",
+        "question": "Match the grammar structure with its name:",
+        "leftCol": [
+          "Subject + verb 2",
+          "Subject + have/has + V3",
+          "Subject + a/an + noun"
+        ],
+        "rightCol": [
+          "Past Simple",
+          "Present Perfect",
+          "Indefinite article usage"
+        ],
+        "answer": {
+          "Subject + verb 2": "Past Simple",
+          "Subject + have/has + V3": "Present Perfect",
+          "Subject + a/an + noun": "Indefinite article usage"
+        },
+        "explanation": "Đây là các cấu trúc ngữ pháp chính trong tài liệu.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 294,
+        "id": "q144",
+        "type": "mot_dap_an",
+        "question": "What type of graph uses rectangular bars describing data?",
+        "options": {
+          "a": "Periscope",
+          "b": "Bar chart",
+          "c": "Normal",
+          "d": "Convex"
+        },
+        "answer": "b",
+        "explanation": "A bar chart is a graph having rectangular bars to describe data.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 295,
+        "id": "q145",
+        "type": "dropdown",
+        "question": "Select the correct tense: Last summer, I [[visited|have visited]] Italy. Since then, I [[have studied|studied]] about volcanoes.",
+        "answer": "visited, have studied",
+        "explanation": "\"Last summer\" is a specific past point (Past Simple); \"Since then\" connects to the present (Present Perfect).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 296,
+        "id": "q146",
+        "type": "mot_dap_an",
+        "question": "The \"bending of light\" is known as:",
+        "options": {
+          "a": "Reflection",
+          "b": "Refraction",
+          "c": "Converging",
+          "d": "Normalizing"
+        },
+        "answer": "b",
+        "explanation": "Refraction is the scientific term for the bending of light.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 297,
+        "id": "q147",
+        "type": "dien_khuyet",
+        "question": "The opposite of a bulging shape (convex) is a cave-like shape, though not explicitly defined, it is the ... shape.",
+        "answer": "concave",
+        "explanation": "Mặc dù tài liệu chỉ nêu \"convex\" (lồi), kiến thức đối lập phổ biến là \"concave\" (lõm).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 298,
+        "id": "q148",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Incident ray is the light arriving at the mirror.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Incident ray (tia tới) là tia sáng đi đến mặt gương.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 299,
+        "id": "q149",
+        "type": "mot_dap_an",
+        "question": "Where do people work on a \"space station\"?",
+        "options": {
+          "a": "In a factory",
+          "b": "In outer space",
+          "c": "In a hospital",
+          "d": "In a school"
+        },
+        "answer": "b",
+        "explanation": "A space station is located in outer space.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 300,
+        "id": "q150",
+        "type": "noi",
+        "question": "Match the word with its Vietnamese translation:",
+        "leftCol": [
+          "Angle",
+          "Medium",
+          "Focal point"
+        ],
+        "rightCol": [
+          "Góc",
+          "Môi trường truyền",
+          "Tiêu điểm"
+        ],
+        "answer": {
+          "Angle": "Góc",
+          "Medium": "Môi trường truyền",
+          "Focal point": "Tiêu điểm"
+        },
+        "explanation": "Đây là các từ vựng khoa học Unit 6.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 301,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "In Science, a line drawn at a right angle (90^\\\\circ) to the surface of a mirror is called:",
+        "options": {
+          "a": "Reflected ray",
+          "b": "Incident ray",
+          "c": "Normal",
+          "d": "Angle"
+        },
+        "answer": "c",
+        "explanation": "The \"normal\" is defined as a line drawn at right angles (90^\\\\circ) to the surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 302,
+        "id": "q2",
+        "type": "dien_khuyet",
+        "question": "The correct structure for a positive statement in the Present Perfect tense is: Subject + have/has + ... (V3).",
+        "answer": "past participle",
+        "explanation": "The Present Perfect tense uses the past participle (V3) form of the verb.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 303,
+        "id": "q3",
+        "type": "noi",
+        "question": "Match the mathematical graph with its correct description:",
+        "leftCol": [
+          "Bar chart",
+          "Frequency diagram"
+        ],
+        "rightCol": [
+          "A graph having rectangular bars on it",
+          "A diagram where the rectangular bars are sticked together"
+        ],
+        "answer": {
+          "Bar chart": "A graph having rectangular bars on it",
+          "Frequency diagram": "A diagram where the rectangular bars are sticked together"
+        },
+        "explanation": "In a frequency diagram, the bars are sticked together, unlike a standard bar chart.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 304,
+        "id": "q4",
+        "type": "dropdown",
+        "question": "Choose the correct articles: Ben saw [[a|an|the]] dog in the park. It was [[an|a|the]] interesting movie that lasted for [[an|a|the]] hour.",
+        "answer": "a, an, an",
+        "explanation": "Use \"a\" for consonant sounds and \"an\" for vowel sounds (interesting, hour).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 305,
+        "id": "q5",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A periscope is a device that uses mirrors to see things that are out of sight.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "By definition, a periscope uses mirrors to help see objects that are not in the direct line of sight.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 306,
+        "id": "q6",
+        "type": "phan_loai",
+        "question": "Classify the following robots based on their roles:",
+        "nhom": [
+          "(A) Medical & Educational",
+          "(B) Domestic & Industrial"
+        ],
+        "the": [
+          "Doctor robot",
+          "Teaching robot",
+          "Home robot",
+          "Worker robot"
+        ],
+        "dap_an": {
+          "Doctor robot": 0,
+          "Teaching robot": 0,
+          "Home robot": 1,
+          "Worker robot": 1
+        },
+        "explanation": "Doctor and Teaching robots are professional/educational; Home and Worker are domestic/industrial.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 307,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "The phenomenon where light bends when it passes from one material (like air) to another (like water) is called:",
+        "options": {
+          "a": "Reflection",
+          "b": "Refraction",
+          "c": "Convergence",
+          "d": "Focal point"
+        },
+        "answer": "b",
+        "explanation": "Refraction is the bending of light as it passes through different media.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 308,
+        "id": "q8",
+        "type": "dien_khuyet",
+        "question": "The business of washing and ironing clothes, or the clothes themselves, is called ...",
+        "answer": "laundry",
+        "explanation": "Laundry is defined as \"sự giặt ủi\" or \"quần áo cần phải giặt\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 309,
+        "id": "q9",
+        "type": "sap_xep",
+        "question": "Sắp xếp các từ để hoàn thành câu về núi lửa Pompeii:",
+        "muc": [
+          "(1) In the year 79,",
+          "(2) a huge volcano",
+          "(3) exploded",
+          "(4) in Italy."
+        ],
+        "answer": [
+          "(1) In the year 79,",
+          "(2) a huge volcano",
+          "(3) exploded",
+          "(4) in Italy."
+        ],
+        "explanation": "Câu tuân theo cấu trúc Thì Quá khứ đơn: Trạng ngữ + Chủ ngữ + Động từ (V2).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 310,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "What is the definition of \"Data\" in Mathematics?",
+        "options": {
+          "a": "The space between two meeting lines",
+          "b": "A collection of information often collected by observation",
+          "c": "A flat mirror image",
+          "d": "A bulging shape"
+        },
+        "answer": "b",
+        "explanation": "Data is information collected through observation, symbols, letters, or numbers.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 311,
+        "id": "q11",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following are examples of a \"Medium\" in Science?",
+        "options": {
+          "a": "Air",
+          "b": "Water",
+          "c": "Glass",
+          "d": "Periscope"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "A medium is a material light travels through, such as air, water, or glass.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 312,
+        "id": "q12",
+        "type": "dropdown",
+        "question": "Complete the verb patterns: My mum [[taught|gave]] me [[to cycle|cycle]] after my dad [[gave|taught]] me a bicycle.",
+        "answer": "taught, to cycle, gave",
+        "explanation": "Teach + object + to-infinitive; Give + object + noun.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 313,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "What does \"converge\" mean?",
+        "options": {
+          "a": "To move in opposite directions",
+          "b": "To meet or to come together",
+          "c": "To reflect light off a mirror",
+          "d": "To measure an angle"
+        },
+        "answer": "b",
+        "explanation": "Converge means to meet or come together, often used for light rays in a lens.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 314,
+        "id": "q14",
+        "type": "dien_khuyet",
+        "question": "A ... is a transparent material (glass) with at least one curved surface.",
+        "answer": "lens",
+        "explanation": "A lens is defined as a transparent material with at least one curved surface.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 315,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Which article is used for specific or known nouns where both speaker and listener know what is being discussed?",
+        "options": {
+          "a": "a",
+          "b": "an",
+          "c": "the",
+          "d": "no article"
+        },
+        "answer": "c",
+        "explanation": "\"The\" is the definite article used for specific or previously mentioned nouns.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 316,
+        "id": "q16",
+        "type": "noi",
+        "question": "Match the Science term with its definition:",
+        "leftCol": [
+          "Incident ray",
+          "Reflected ray",
+          "Angle"
+        ],
+        "rightCol": [
+          "The ray of light that arrives at the mirror",
+          "The ray of light that reflects off the mirror",
+          "The space between two lines that meet at a surface"
+        ],
+        "answer": {
+          "Incident ray": "The ray of light that arrives at the mirror",
+          "Reflected ray": "The ray of light that reflects off the mirror",
+          "Angle": "The space between two lines that meet at a surface"
+        },
+        "explanation": "Định nghĩa cơ bản về tia sáng và góc trong quang học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 317,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "A shape that is \"bulging\" outwards is described as:",
+        "options": {
+          "a": "Concave",
+          "b": "Convex",
+          "c": "Plane",
+          "d": "Normal"
+        },
+        "answer": "b",
+        "explanation": "Convex is defined as a bulging shape (lồi).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 318,
+        "id": "q18",
+        "type": "dien_khuyet",
+        "question": "In Science, something our eyes see but is not real is called an ...",
+        "answer": "optical illusion",
+        "explanation": "Optical illusion (ảo ảnh quang học) là thứ mắt thấy nhưng không có thực.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 319,
+        "id": "q19",
+        "type": "dung_sai",
+        "question": "Nhận định: \"In the Present Perfect tense, the negative form uses 'didn't' + V1.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Present Perfect negative uses haven't/hasn't + V3; \"didn't\" is for Past Simple.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 320,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "Which chore involves tidying the place where you sleep?",
+        "options": {
+          "a": "Cut the hedge",
+          "b": "Make the bed",
+          "c": "Laundry",
+          "d": "Do the dishes"
+        },
+        "answer": "b",
+        "explanation": "Make the bed (dọn giường) là việc dọn dẹp nơi ngủ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 321,
+        "id": "q21",
+        "type": "nhieu_dap_an",
+        "question": "Select the components that can be considered as \"Data\":",
+        "options": {
+          "a": "Numbers",
+          "b": "Symbols",
+          "c": "Letters",
+          "d": "Mirrors"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Data can be any symbol, letter, or number collected as information.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 322,
+        "id": "q22",
+        "type": "dropdown",
+        "question": "Choose the correct Superlative: This is [[the best|the better|the goodest]] robot I have ever [[seen|saw|see]].",
+        "answer": "the best, seen",
+        "explanation": "Superlative of \"good\" is \"the best\". Present Perfect uses V3 (seen).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 323,
+        "id": "q23",
+        "type": "mot_dap_an",
+        "question": "The point where rays of light converge after passing through a lens is called the:",
+        "options": {
+          "a": "Angle",
+          "b": "Focal point",
+          "c": "Incident point",
+          "d": "Normal"
+        },
+        "answer": "b",
+        "explanation": "Focal point (tiêu điểm) là nơi các tia sáng hội tụ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 324,
+        "id": "q24",
+        "type": "dien_khuyet",
+        "question": "A ... mirror is a flat mirror.",
+        "answer": "plane",
+        "explanation": "Plane mirror (gương phẳng) là loại gương có bề mặt phẳng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 325,
+        "id": "q25",
+        "type": "noi",
+        "question": "Match the chore with its English name:",
+        "leftCol": [
+          "Rửa chén",
+          "Cắt tỉa hàng rào",
+          "Tưới nước"
+        ],
+        "rightCol": [
+          "Do the dishes",
+          "Cut the hedge",
+          "Water"
+        ],
+        "answer": {
+          "Rửa chén": "Do the dishes",
+          "Cắt tỉa hàng rào": "Cut the hedge",
+          "Tưới nước": "Water"
+        },
+        "explanation": "Từ vựng về các công việc nhà (household chores).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 326,
+        "id": "q26",
+        "type": "mot_dap_an",
+        "question": "What height did the ash cloud from the volcano in Italy reach?",
+        "options": {
+          "a": "Under 10km",
+          "b": "Over 20km",
+          "c": "Exactly 79km",
+          "d": "50km"
+        },
+        "answer": "b",
+        "explanation": "The ash cloud was over 20km high.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 327,
+        "id": "q27",
+        "type": "dropdown",
+        "question": "Fill in the articles: Ben visited [[the|a|an]] grandparents after seeing [[a|an|the]] dog in [[the|a|an]] park.",
+        "answer": "the, a, the",
+        "explanation": "Sử dụng \"the\" cho người thân/địa điểm cụ thể và \"a\" cho đối tượng nhắc đến lần đầu.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 328,
+        "id": "q28",
+        "type": "mot_dap_an",
+        "question": "What is the space between 2 lines that meet at a surface?",
+        "options": {
+          "a": "Plane mirror",
+          "b": "Incident ray",
+          "c": "Angle",
+          "d": "Normal"
+        },
+        "answer": "c",
+        "explanation": "Angle (góc) là khoảng cách giữa 2 đường thẳng gặp nhau tại một bề mặt.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 329,
+        "id": "q29",
+        "type": "dien_khuyet",
+        "question": "The ray of light that arrives at the mirror is the ... ray.",
+        "answer": "incident",
+        "explanation": "Incident ray (tia tới) là tia sáng đi đến bề mặt gương.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 330,
+        "id": "q30",
+        "type": "phan_loai",
+        "question": "Classify the following as \"Tenses\" or \"Graphs\":",
+        "nhom": [
+          "(A) Tenses",
+          "(B) Graphs"
+        ],
+        "the": [
+          "Past Simple",
+          "Present Perfect",
+          "Bar chart",
+          "Frequency diagram"
+        ],
+        "dap_an": {
+          "Past Simple": 0,
+          "Present Perfect": 0,
+          "Bar chart": 1,
+          "Frequency diagram": 1
+        },
+        "explanation": "Phân loại giữa các thì tiếng Anh và các loại biểu đồ toán học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 331,
+        "id": "q31",
+        "type": "mot_dap_an",
+        "question": "What is the Vietnamese meaning of \"minor\"?",
+        "options": {
+          "a": "To lớn",
+          "b": "Quan trọng",
+          "c": "Nhỏ, không quan trọng",
+          "d": "Nhanh chóng"
+        },
+        "answer": "c",
+        "explanation": "Minor có nghĩa là nhỏ, không quan trọng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 332,
+        "id": "q32",
+        "type": "dung_sai",
+        "question": "Nhận định: \"In a frequency diagram, the bars are separated by gaps.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "In a frequency diagram, the bars are sticked together (dính liền).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 333,
+        "id": "q33",
+        "type": "mot_dap_an",
+        "question": "Which robot is used for playing football?",
+        "options": {
+          "a": "Worker robot",
+          "b": "Doctor robot",
+          "c": "Robot (general)",
+          "d": "Teaching robot"
+        },
+        "answer": "c",
+        "explanation": "\"Play football\" là hành động được liệt kê chung trong Unit 12: Robots.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 334,
+        "id": "q34",
+        "type": "dien_khuyet",
+        "question": "A ... is a line drawn at $90^\\\\circ$ to the surface.",
+        "answer": "normal",
+        "explanation": "Normal (pháp tuyến) là đường vuông góc ($90^\\\\circ$) với bề mặt.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 335,
+        "id": "q35",
+        "type": "noi",
+        "question": "Match the English term with Vietnamese meaning:",
+        "leftCol": [
+          "Periscope",
+          "Mirror image",
+          "Plane mirror"
+        ],
+        "rightCol": [
+          "Kính tiềm vọng",
+          "Ảnh phản chiếu",
+          "Gương phẳng"
+        ],
+        "answer": {
+          "Periscope": "Kính tiềm vọng",
+          "Mirror image": "Ảnh phản chiếu",
+          "Plane mirror": "Gương phẳng"
+        },
+        "explanation": "Từ vựng về các thiết bị và hiện tượng quang học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 336,
+        "id": "q36",
+        "type": "mot_dap_an",
+        "question": "In the sentence \"Ben hasn't visited his grandparents\", what is \"hasn't\"?",
+        "options": {
+          "a": "Verb 2",
+          "b": "Negative auxiliary verb",
+          "c": "Past participle",
+          "d": "Adjective"
+        },
+        "answer": "b",
+        "explanation": "\"Hasn't\" là trợ động từ phủ định trong thì Hiện tại hoàn thành.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 337,
+        "id": "q37",
+        "type": "dropdown",
+        "question": "Identify the medium: Light travels through [[air|a periscope]] and then enters [[water|a bar chart]].",
+        "answer": "air, water",
+        "explanation": "Môi trường truyền (Medium) phải là vật liệu như không khí, nước, thủy tinh.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 338,
+        "id": "q38",
+        "type": "mot_dap_an",
+        "question": "What does \"recognize\" mean?",
+        "options": {
+          "a": "Làm việc nhà",
+          "b": "Nhận ra",
+          "c": "Hội tụ",
+          "d": "Khúc xạ"
+        },
+        "answer": "b",
+        "explanation": "Recognize có nghĩa là nhận ra hoặc nhận diện.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 339,
+        "id": "q39",
+        "type": "dien_khuyet",
+        "question": "The ... point is where rays of light converge.",
+        "answer": "focal",
+        "explanation": "Focal point (tiêu điểm) là điểm hội tụ của các tia sáng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 340,
+        "id": "q40",
+        "type": "nhieu_dap_an",
+        "question": "Which of these are household chores?",
+        "options": {
+          "a": "Laundry",
+          "b": "Gardening",
+          "c": "Refraction",
+          "d": "Make the bed"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Giặt ủi, làm vườn và dọn giường là các công việc nhà.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 341,
+        "id": "q41",
+        "type": "mot_dap_an",
+        "question": "What is \"optical illusion\"?",
+        "options": {
+          "a": "Something real",
+          "b": "Something our eyes see but is not real",
+          "c": "A type of robot",
+          "d": "A mathematical chart"
+        },
+        "answer": "b",
+        "explanation": "Ảo ảnh quang học là thứ mắt thấy nhưng không có thật.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 342,
+        "id": "q42",
+        "type": "dien_khuyet",
+        "question": "Subject + have/has + ... (V3) is the formula for Present Perfect.",
+        "answer": "past participle",
+        "explanation": "Thì Hiện tại hoàn thành sử dụng quá khứ phân từ (V3).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 343,
+        "id": "q43",
+        "type": "noi",
+        "question": "Match the article rule:",
+        "leftCol": [
+          "a",
+          "an",
+          "the"
+        ],
+        "rightCol": [
+          "Before consonant sounds",
+          "Before vowel sounds",
+          "For specific or known nouns"
+        ],
+        "answer": {
+          "a": "Before consonant sounds",
+          "an": "Before vowel sounds",
+          "the": "For specific or known nouns"
+        },
+        "explanation": "Quy tắc sử dụng mạo từ trong tiếng Anh.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 344,
+        "id": "q44",
+        "type": "mot_dap_an",
+        "question": "What type of bars does a bar chart have?",
+        "options": {
+          "a": "Square",
+          "b": "Rectangular",
+          "c": "Circular",
+          "d": "None"
+        },
+        "answer": "b",
+        "explanation": "Bar chart có các cột hình chữ nhật (rectangular bars).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 345,
+        "id": "q45",
+        "type": "dropdown",
+        "question": "Choose the verb form: Last summer, my dad and I [[visited|have visited]] Italy. We [[have seen|saw]] many movies since then.",
+        "answer": "visited, have seen",
+        "explanation": "\"Last summer\" dùng Quá khứ đơn; \"Since then\" dùng Hiện tại hoàn thành.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 346,
+        "id": "q46",
+        "type": "mot_dap_an",
+        "question": "What is \"refraction\"?",
+        "options": {
+          "a": "Light bouncing off a mirror",
+          "b": "The bending of light",
+          "c": "Light meeting at a point",
+          "d": "A flat reflection"
+        },
+        "answer": "b",
+        "explanation": "Khúc xạ là sự bẻ cong của ánh sáng khi qua môi trường khác.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 347,
+        "id": "q47",
+        "type": "dien_khuyet",
+        "question": "A bulging shape is called ...",
+        "answer": "convex",
+        "explanation": "Convex có nghĩa là hình dáng lồi/phồng ra.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 348,
+        "id": "q48",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Incident ray is the ray that reflects off the mirror.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Tia tới (incident ray) là tia đi đến gương; tia phản xạ (reflected ray) mới là tia đi ra.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 349,
+        "id": "q49",
+        "type": "mot_dap_an",
+        "question": "Where is the \"Space station\"?",
+        "options": {
+          "a": "In the town",
+          "b": "In outer space",
+          "c": "At the school",
+          "d": "In a volcano"
+        },
+        "answer": "b",
+        "explanation": "Trạm vũ trụ (Space station) nằm ngoài không gian.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 350,
+        "id": "q50",
+        "type": "noi",
+        "question": "Match the word with its category:",
+        "leftCol": [
+          "Apple",
+          "Exploded",
+          "Sticked together"
+        ],
+        "rightCol": [
+          "Nouns (Vowel sound)",
+          "Verb (Past Simple)",
+          "Frequency diagram characteristic"
+        ],
+        "answer": {
+          "Apple": "Nouns (Vowel sound)",
+          "Exploded": "Verb (Past Simple)",
+          "Sticked together": "Frequency diagram characteristic"
+        },
+        "explanation": "Phân loại từ vựng theo đặc điểm ngữ pháp và toán học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 351,
+        "id": "q51",
+        "type": "mot_dap_an",
+        "question": "What happens to light when it enters a lens?",
+        "options": {
+          "a": "It disappears.",
+          "b": "It always reflects back.",
+          "c": "It can converge at a focal point.",
+          "d": "It turns into data."
+        },
+        "answer": "c",
+        "explanation": "Khi đi qua thấu kính, các tia sáng có thể hội tụ (converge) tại tiêu điểm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 352,
+        "id": "q52",
+        "type": "dien_khuyet",
+        "question": "The ray of light that reflects off the mirror is the ... ray.",
+        "answer": "reflected",
+        "explanation": "Reflected ray (tia phản xạ) là tia sáng bật ngược lại từ gương.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 353,
+        "id": "q53",
+        "type": "dropdown",
+        "question": "Select the article: It takes [[an|a|the]] hour to drive to [[the|a|an]] town center.",
+        "answer": "an, the",
+        "explanation": "\"Hour\" bắt đầu bằng âm nguyên âm; \"town center\" là địa điểm cụ thể.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 354,
+        "id": "q54",
+        "type": "mot_dap_an",
+        "question": "What is \"data\" often collected by?",
+        "options": {
+          "a": "Mirrors",
+          "b": "Observation",
+          "c": "Refraction",
+          "d": "Lenses"
+        },
+        "answer": "b",
+        "explanation": "Dữ liệu thường được thu thập thông qua quan sát (observation).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 355,
+        "id": "q55",
+        "type": "nhieu_dap_an",
+        "question": "Which of these are \"optical devices\" mentioned?",
+        "options": {
+          "a": "Periscope",
+          "b": "Lens",
+          "c": "Plane mirror",
+          "d": "Laundry"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Kính tiềm vọng, thấu kính và gương phẳng là các thiết bị quang học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 356,
+        "id": "q56",
+        "type": "dien_khuyet",
+        "question": "In the year 79, a huge volcano exploded in ...",
+        "answer": "Italy",
+        "explanation": "Núi lửa phun trào tại Ý vào năm 79.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 357,
+        "id": "q57",
+        "type": "noi",
+        "question": "Match the verb with its past participle (V3):",
+        "leftCol": [
+          "See",
+          "Go",
+          "Visit"
+        ],
+        "rightCol": [
+          "Seen",
+          "Gone",
+          "Visited"
+        ],
+        "answer": {
+          "See": "Seen",
+          "Go": "Gone",
+          "Visit": "Visited"
+        },
+        "explanation": "Bảng động từ cột 3 dùng cho thì Hiện tại hoàn thành.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 358,
+        "id": "q58",
+        "type": "mot_dap_an",
+        "question": "What does \"minor\" mean?",
+        "options": {
+          "a": "Important",
+          "b": "Not important",
+          "c": "Fast",
+          "d": "Specific"
+        },
+        "answer": "b",
+        "explanation": "Minor có nghĩa là nhỏ, không quan trọng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 359,
+        "id": "q59",
+        "type": "dropdown",
+        "question": "Grammar check: Ben [[hasn't|haven't]] [[visited|visit]] Pompeii [[yet|last year]].",
+        "answer": "hasn't, visited, yet",
+        "explanation": "Cấu trúc phủ định Hiện tại hoàn thành đi với \"yet\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 360,
+        "id": "q60",
+        "type": "mot_dap_an",
+        "question": "What is a \"frequency diagram\"?",
+        "options": {
+          "a": "A type of robot",
+          "b": "A graph with bars sticked together",
+          "c": "A mirror reflection",
+          "d": "A space station"
+        },
+        "answer": "b",
+        "explanation": "Biểu đồ tần suất có các cột dính liền nhau.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 361,
+        "id": "q61",
+        "type": "phan_loai",
+        "question": "Classify these chores:",
+        "nhom": [
+          "(A) Garden tasks",
+          "(B) House tasks"
+        ],
+        "the": [
+          "Cut the hedge",
+          "Gardening",
+          "Do the dishes",
+          "Make the bed"
+        ],
+        "dap_an": {
+          "Cut the hedge": 0,
+          "Gardening": 0,
+          "Do the dishes": 1,
+          "Make the bed": 1
+        },
+        "explanation": "Phân loại công việc ngoài vườn và công việc trong nhà.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 362,
+        "id": "q62",
+        "type": "mot_dap_an",
+        "question": "What is the space between two meeting lines?",
+        "options": {
+          "a": "Normal",
+          "b": "Incident ray",
+          "c": "Angle",
+          "d": "Lens"
+        },
+        "answer": "c",
+        "explanation": "Góc là khoảng không gian giữa hai đường thẳng gặp nhau.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 363,
+        "id": "q63",
+        "type": "dien_khuyet",
+        "question": "Light ... (bends) when it passes through water.",
+        "answer": "refracts",
+        "explanation": "Sự bẻ cong của ánh sáng được gọi là khúc xạ (refracts).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 364,
+        "id": "q64",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A convex lens is bulging in shape.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Thấu kính lồi (convex) có hình dáng phồng ra.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 365,
+        "id": "q65",
+        "type": "mot_dap_an",
+        "question": "Which article is for \"general, not specific\" nouns?",
+        "options": {
+          "a": "the",
+          "b": "a/an",
+          "c": "some",
+          "d": "none"
+        },
+        "answer": "b",
+        "explanation": "Mạo từ bất định a/an dùng cho danh từ chung, không cụ thể.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 366,
+        "id": "q66",
+        "type": "noi",
+        "question": "Match the robot with workplace:",
+        "leftCol": [
+          "Doctor robot",
+          "Worker robot",
+          "Teaching robot"
+        ],
+        "rightCol": [
+          "Hospital",
+          "Factory",
+          "School"
+        ],
+        "answer": {
+          "Doctor robot": "Hospital",
+          "Worker robot": "Factory",
+          "Teaching robot": "School"
+        },
+        "explanation": "Phân loại robot theo môi trường làm việc.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 367,
+        "id": "q67",
+        "type": "mot_dap_an",
+        "question": "What is \"laundry\"?",
+        "options": {
+          "a": "Cleaning windows",
+          "b": "Washing clothes",
+          "c": "Cooking",
+          "d": "Gardening"
+        },
+        "answer": "b",
+        "explanation": "Laundry liên quan đến việc giặt giũ quần áo.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 368,
+        "id": "q68",
+        "type": "dien_khuyet",
+        "question": "A ... is a line at $90^\\\\circ$ to the surface.",
+        "answer": "normal",
+        "explanation": "Đường pháp tuyến (normal) vuông góc với bề mặt.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 369,
+        "id": "q69",
+        "type": "dropdown",
+        "question": "Select the term: A [[periscope|lens]] uses mirrors to see, while a [[lens|periscope]] is a transparent material.",
+        "answer": "periscope, lens",
+        "explanation": "Kính tiềm vọng dùng gương; thấu kính là vật liệu trong suốt.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 370,
+        "id": "q70",
+        "type": "mot_dap_an",
+        "question": "What is the superlative of \"bad\"?",
+        "options": {
+          "a": "badder",
+          "b": "worst",
+          "c": "the worst",
+          "d": "more bad"
+        },
+        "answer": "c",
+        "explanation": "\"The worst\" là dạng so sánh nhất của \"bad\".",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 371,
+        "id": "q71",
+        "type": "nhieu_dap_an",
+        "question": "Which are media light can pass through?",
+        "options": {
+          "a": "Air",
+          "b": "Water",
+          "c": "Mirror",
+          "d": "Glass"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Không khí, nước và thủy tinh là môi trường truyền; gương là bề mặt phản xạ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 372,
+        "id": "q72",
+        "type": "dien_khuyet",
+        "question": "The ... point is where light rays meet.",
+        "answer": "focal",
+        "explanation": "Tiêu điểm là nơi các tia sáng gặp nhau/hội tụ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 373,
+        "id": "q73",
+        "type": "mot_dap_an",
+        "question": "What is \"data\"?",
+        "options": {
+          "a": "A bulging shape",
+          "b": "A collection of information",
+          "c": "A type of mirror",
+          "d": "An ash cloud"
+        },
+        "answer": "b",
+        "explanation": "Dữ liệu là tập hợp các thông tin.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 374,
+        "id": "q74",
+        "type": "noi",
+        "question": "Match the tense with example:",
+        "leftCol": [
+          "Past Simple",
+          "Present Perfect",
+          "Verb pattern"
+        ],
+        "rightCol": [
+          "Exploded",
+          "Has visited",
+          "Taught me to cycle"
+        ],
+        "answer": {
+          "Past Simple": "Exploded",
+          "Present Perfect": "Has visited",
+          "Verb pattern": "Taught me to cycle"
+        },
+        "explanation": "Ví dụ minh họa cho các cấu trúc ngữ pháp trong bài.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 375,
+        "id": "q75",
+        "type": "mot_dap_an",
+        "question": "What does \"converge\" mean?",
+        "options": {
+          "a": "Bending",
+          "b": "Meeting together",
+          "c": "Reflecting",
+          "d": "Collecting"
+        },
+        "answer": "b",
+        "explanation": "Hội tụ có nghĩa là gặp nhau tại một điểm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 376,
+        "id": "q76",
+        "type": "dien_khuyet",
+        "question": "In a frequency diagram, bars are ...",
+        "answer": "sticked together",
+        "explanation": "Đặc điểm của biểu đồ tần suất là các cột dính nhau.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 377,
+        "id": "q77",
+        "type": "dropdown",
+        "question": "Choose: Ben saw [[an|a]] apple and [[a|an]] dog in [[the|a]] park.",
+        "answer": "an, a, the",
+        "explanation": "Quy tắc mạo từ dựa trên âm tiết đầu và tính cụ thể của danh từ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 378,
+        "id": "q78",
+        "type": "mot_dap_an",
+        "question": "What is \"optical illusion\"?",
+        "options": {
+          "a": "A real image",
+          "b": "A fake visual",
+          "c": "A mirror",
+          "d": "A robot"
+        },
+        "answer": "b",
+        "explanation": "Ảo ảnh quang học là hình ảnh không có thật.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 379,
+        "id": "q79",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Normal is drawn at 45 degrees.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Pháp tuyến phải được vẽ ở góc $90^\\\\circ$.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 380,
+        "id": "q80",
+        "type": "mot_dap_an",
+        "question": "Which robot plays football?",
+        "options": {
+          "a": "Doctor",
+          "b": "Worker",
+          "c": "Robot (general)",
+          "d": "Teaching"
+        },
+        "answer": "c",
+        "explanation": "Chơi bóng đá là khả năng của robot trong Unit 12.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 381,
+        "id": "q81",
+        "type": "phan_loai",
+        "question": "Classify articles:",
+        "nhom": [
+          "(A) Indefinite",
+          "(B) Definite"
+        ],
+        "the": [
+          "a",
+          "an",
+          "the"
+        ],
+        "dap_an": {
+          "a": 0,
+          "an": 0,
+          "the": 1
+        },
+        "explanation": "A/an là mạo từ bất định; The là mạo từ xác định.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 382,
+        "id": "q82",
+        "type": "mot_dap_an",
+        "question": "What is \"refraction\"?",
+        "options": {
+          "a": "Mirror bounce",
+          "b": "Bending of light",
+          "c": "Focal point",
+          "d": "Bar chart"
+        },
+        "answer": "b",
+        "explanation": "Khúc xạ là sự bẻ cong ánh sáng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 383,
+        "id": "q83",
+        "type": "dien_khuyet",
+        "question": "A ... is a flat mirror.",
+        "answer": "plane mirror",
+        "explanation": "Gương phẳng có bề mặt phẳng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 384,
+        "id": "q84",
+        "type": "noi",
+        "question": "Match the word with Vietnamese:",
+        "leftCol": [
+          "Angle",
+          "Normal",
+          "Lens"
+        ],
+        "rightCol": [
+          "Góc",
+          "Pháp tuyến",
+          "Thấu kính"
+        ],
+        "answer": {
+          "Angle": "Góc",
+          "Normal": "Pháp tuyến",
+          "Lens": "Thấu kính"
+        },
+        "explanation": "Từ vựng khoa học cơ bản.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 385,
+        "id": "q85",
+        "type": "mot_dap_an",
+        "question": "What was the volcano's ash cloud height?",
+        "options": {
+          "a": "10km",
+          "b": "20km",
+          "c": "Over 20km",
+          "d": "100km"
+        },
+        "answer": "c",
+        "explanation": "Đám mây tro bụi cao trên 20km.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 386,
+        "id": "q86",
+        "type": "dropdown",
+        "question": "Tense check: Last year, I [[went|have gone]] to Italy. I [[have seen|saw]] many ruins.",
+        "answer": "went, have seen",
+        "explanation": "Cả hai hành động đều xảy ra trong mốc thời gian cụ thể ở quá khứ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 387,
+        "id": "q87",
+        "type": "mot_dap_an",
+        "question": "What is \"laundry\"?",
+        "options": {
+          "a": "Washing",
+          "b": "Gardening",
+          "c": "Dishes",
+          "d": "Beds"
+        },
+        "answer": "a",
+        "explanation": "Giặt ủi liên quan đến việc giặt quần áo.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 388,
+        "id": "q88",
+        "type": "dien_khuyet",
+        "question": "Rays of light ... at the focal point.",
+        "answer": "converge",
+        "explanation": "Các tia sáng hội tụ tại tiêu điểm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 389,
+        "id": "q89",
+        "type": "noi",
+        "question": "Match robot roles:",
+        "leftCol": [
+          "Teaching",
+          "Worker",
+          "Doctor"
+        ],
+        "rightCol": [
+          "Teach students",
+          "Work in factory",
+          "Check patients"
+        ],
+        "answer": {
+          "Teaching": "Teach students",
+          "Worker": "Work in factory",
+          "Doctor": "Check patients"
+        },
+        "explanation": "Vai trò cụ thể của từng loại robot.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 390,
+        "id": "q90",
+        "type": "mot_dap_an",
+        "question": "What does \"minor\" mean?",
+        "options": {
+          "a": "Small",
+          "b": "Big",
+          "c": "Fast",
+          "d": "Slow"
+        },
+        "answer": "a",
+        "explanation": "Minor có nghĩa là nhỏ/phụ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 391,
+        "id": "q91",
+        "type": "nhieu_dap_an",
+        "question": "What are types of data?",
+        "options": {
+          "a": "Symbols",
+          "b": "Numbers",
+          "c": "Mirrors",
+          "d": "Letters"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "explanation": "Dữ liệu bao gồm ký hiệu, con số và chữ cái.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 392,
+        "id": "q92",
+        "type": "dien_khuyet",
+        "question": "A ... diagram has bars sticked together.",
+        "answer": "frequency",
+        "explanation": "Biểu đồ tần suất có các cột dính liền.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 393,
+        "id": "q93",
+        "type": "mot_dap_an",
+        "question": "What is \"optical illusion\"?",
+        "options": {
+          "a": "Eyes see but not real",
+          "b": "Real photo",
+          "c": "Mirror",
+          "d": "Lens"
+        },
+        "answer": "a",
+        "explanation": "Ảo ảnh là thứ mắt thấy nhưng không thật.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 394,
+        "id": "q94",
+        "type": "dropdown",
+        "question": "Choose article: Ben has [[an|a]] apple for [[an|a]] hour.",
+        "answer": "an, an",
+        "explanation": "Cả apple và hour đều đi với \"an\" do âm nguyên âm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 395,
+        "id": "q95",
+        "type": "mot_dap_an",
+        "question": "What is \"refraction\"?",
+        "options": {
+          "a": "Bending",
+          "b": "Bouncing",
+          "c": "Stopping",
+          "d": "Heating"
+        },
+        "answer": "a",
+        "explanation": "Khúc xạ là sự bẻ cong.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 396,
+        "id": "q96",
+        "type": "noi",
+        "question": "Match concepts:",
+        "leftCol": [
+          "Incident",
+          "Reflected",
+          "Normal"
+        ],
+        "rightCol": [
+          "Arrives",
+          "Off mirror",
+          "90 degrees"
+        ],
+        "answer": {
+          "Incident": "Arrives",
+          "Reflected": "Off mirror",
+          "Normal": "90 degrees"
+        },
+        "explanation": "Các khái niệm tia sáng trong phản xạ.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 397,
+        "id": "q97",
+        "type": "mot_dap_an",
+        "question": "What is \"convex\"?",
+        "options": {
+          "a": "Bulging",
+          "b": "Cave-like",
+          "c": "Flat",
+          "d": "None"
+        },
+        "answer": "a",
+        "explanation": "Convex là hình lồi.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 398,
+        "id": "q98",
+        "type": "dien_khuyet",
+        "question": "Light travels through a ... like water.",
+        "answer": "medium",
+        "explanation": "Nước là một môi trường truyền (medium).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 399,
+        "id": "q99",
+        "type": "mot_dap_an",
+        "question": "What is \"data\" collected by?",
+        "options": {
+          "a": "Observation",
+          "b": "Reflection",
+          "c": "Refraction",
+          "d": "Laundry"
+        },
+        "answer": "a",
+        "explanation": "Dữ liệu được thu thập qua quan sát.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 400,
         "id": "q100",
         "type": "dung_sai",
         "question": "Nhận định: \"A frequency diagram is a graph with rectangular bars.\"",
