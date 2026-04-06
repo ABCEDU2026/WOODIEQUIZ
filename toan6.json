@@ -14435,5 +14435,453 @@
       }
 
     ]
+  },
+  {
+    "_Note": "ÔN TẬP HỌC KỲ II LỚP 6",
+    "subject": "MÔN ĐỊA LÍ ÔN TẬP HỌC KỲ II",
+    "topic": "BÀI 1:ĐỀ CƯƠNG ÔN TẬP",
+    "questions": [
+
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Trên Trái Đất, nước mặn chiếm khoảng 97%, nước ngọt chiếm khoảng 3% tổng lượng nước. Hãy cho biết nước ngọt chiếm bao nhiêu % tổng lượng nước trên Trái Đất? (làm tròn đến một chữ số thập phân)",
+        "options": {
+          "a": "97.0%",
+          "b": "3.0%",
+          "c": "3.1%",
+          "d": "0.3%"
+        },
+        "answer": "b",
+        "explanation": "Lấy tổng lượng nước (100%) trừ đi tỉ lệ nước mặn (97%) ta được 3.0%. Đây là con số phản ánh thực trạng khan hiếm nước ngọt trên quy mô toàn cầu.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Lượng nước ngọt trên Trái Đất gồm: Băng hà (25 triệu km3), Nước ngầm (9 triệu km3), Nước mặt (1 triệu km3). Hãy tính tổng lượng nước ngọt là bao nhiêu? (làm tròn đến hàng đơn vị của triệu km3)",
+        "options": {
+          "a": "34 triệu km3",
+          "b": "36 triệu km3",
+          "c": "35 triệu km3",
+          "d": "25 triệu km3"
+        },
+        "answer": "c",
+        "explanation": "Tổng lượng nước ngọt = 25 + 9 + 1 = 35 triệu km3. Đáp án a và b bẫy lỗi cộng nhầm, đáp án d bẫy việc chỉ nhìn vào thành phần lớn nhất là băng hà.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Một khu vực có diện tích mặt nước bao gồm: Hồ (12 km2), Đầm lầy (6 km2) và Sông (7 km2). Hãy tính tổng diện tích mặt nước là bao nhiêu? (làm tròn đến hàng đơn vị của km2)",
+        "options": {
+          "a": "18 km2",
+          "b": "19 km2",
+          "c": "25 km2",
+          "d": "30 km2"
+        },
+        "answer": "c",
+        "explanation": "Tổng diện tích = 12 + 6 + 7 = 25 km2. Bẫy logic thường gặp là học sinh bỏ sót thành phần đầm lầy hoặc tính toán sai số hàng đơn vị.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Một khu rừng có diện tích 20.000 ha, trong đó 15.500 ha nằm trong khu bảo tồn. Hãy tính diện tích rừng nằm ngoài khu bảo tồn là bao nhiêu? (làm tròn đến hàng đơn vị)",
+        "options": {
+          "a": "4.500 ha",
+          "b": "5.500 ha",
+          "c": "15.500 ha",
+          "d": "35.500 ha"
+        },
+        "answer": "a",
+        "explanation": "Diện tích ngoài khu bảo tồn = Tổng diện tích - Diện tích trong bảo tồn = 20.000 - 15.500 = 4.500 ha. Đáp án b bẫy lỗi trừ không nhớ, đáp án c bẫy việc lấy số liệu có sẵn trong đề.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Diện tích một hồ là 1.200 km2, trong đó 850 km2 thuộc tỉnh A. Hãy tính diện tích hồ nằm ở tỉnh khác là bao nhiêu? (làm tròn đến hàng đơn vị)",
+        "options": {
+          "a": "2.050 km2",
+          "b": "450 km2",
+          "c": "250 km2",
+          "d": "350 km2"
+        },
+        "answer": "d",
+        "explanation": "Diện tích ở tỉnh khác = 1.200 - 850 = 350 km2. Đáp án a bẫy phép cộng thay vì phép trừ, các phương án b và c bẫy lỗi kỹ thuật tính toán trừ số tròn chục.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Một khu rừng có diện tích 50.000 km2, trong đó rừng nguyên sinh chiếm 5.000 km2. Hãy tính rừng nguyên sinh chiếm bao nhiêu %? (làm tròn đến hàng đơn vị)",
+        "options": {
+          "a": "5%",
+          "b": "10%",
+          "c": "15%",
+          "d": "20%"
+        },
+        "answer": "b",
+        "explanation": "Tỉ lệ % = (5.000 / 50.000) * 100 = 10%. Các phương án nhiễu bẫy lỗi chia sai số 0 hoặc nhầm lẫn giữa tỉ số thực tế và tỉ số phần trăm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Diện tích một quốc gia là 20 triệu km2, trong đó đất nông nghiệp 4 triệu km2. Hãy tính đất nông nghiệp chiếm bao nhiêu %? (làm tròn đến hàng đơn vị)",
+        "options": {
+          "a": "40%",
+          "b": "25%",
+          "c": "20%",
+          "d": "15%"
+        },
+        "answer": "c",
+        "explanation": "Tỉ lệ % = (4 / 20) * 100 = 20%. Đáp án b bẫy lỗi lấy 100 chia 4, đáp án a bẫy lỗi nhân đôi số liệu do không nắm vững công thức tính tỉ trọng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Trong tổng lượng nước ngọt trên Trái Đất là 35 triệu km3, lượng băng hà chiếm khoảng 25 triệu km3. Hãy tính xem lượng băng hà chiếm bao nhiêu % trong tổng lượng nước ngọt? (làm tròn đến một chữ số thập phân)",
+        "options": {
+          "a": "71.4%",
+          "b": "69.5%",
+          "c": "75.0%",
+          "d": "25.7%"
+        },
+        "answer": "a",
+        "explanation": "Tỉ lệ % = (25 / 35) * 100 ≈ 71.428... làm tròn thành 71.4%. Bẫy nhiễu c (75%) dựa trên lỗi tính nhẩm sai tỉ số.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Lượng băng hà trên Trái Đất ước tính là 25 triệu km3. Nếu do biến đổi khí hậu, lượng băng này tan chảy mất 10% và đổ vào đại dương, hãy tính lượng nước ngọt còn lại trong các khối băng?",
+        "options": {
+          "a": "22.5 triệu km3",
+          "b": "2.5 triệu km3",
+          "c": "24.0 triệu km3",
+          "d": "15.0 triệu km3"
+        },
+        "answer": "a",
+        "explanation": "Lượng băng tan = 25 * 10% = 2.5 triệu km3. Lượng còn lại = 25 - 2.5 = 22.5 triệu km3. Phương án b là bẫy cho những ai chỉ tính phần mất đi.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Trong tổng số 35 triệu km3 nước ngọt trên toàn cầu, lượng nước mặt (sông, hồ...) chỉ chiếm khoảng 1 triệu km3. Hãy tính tỉ lệ % của nước mặt trong tổng lượng nước ngọt? (làm tròn đến một chữ số thập phân)",
+        "options": {
+          "a": "1.0%",
+          "b": "2.9%",
+          "c": "3.5%",
+          "d": "4.2%"
+        },
+        "answer": "b",
+        "explanation": "Tỉ lệ % = (1 / 35) * 100 ≈ 2.857%, làm tròn đến chữ số thập phân thứ nhất là 2.9%. Đáp án a bẫy học sinh nhầm lẫn giữa giá trị tuyệt đối (1 triệu) và tỉ lệ %.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Một lưu vực sông có tổng diện tích mặt nước là 25 km2, bao gồm: hồ (12 km2), sông (7 km2) và đầm lầy (6 km2). Nếu 50% diện tích đầm lầy bị san lấp, diện tích mặt nước tổng cộng còn lại là bao nhiêu?",
+        "options": {
+          "a": "19 km2",
+          "b": "22 km2",
+          "c": "21 km2",
+          "d": "12.5 km2"
+        },
+        "answer": "b",
+        "explanation": "Phần đầm lầy bị mất = 6 * 50% = 3 km2. Tổng diện tích còn lại = 25 - 3 = 22 km2. Đòi hỏi học sinh phải trừ đúng phần diện tích bị tác động.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Một khu rừng có tổng diện tích là 20.000 ha, trong đó có 15.500 ha đã được đưa vào phân khu bảo tồn nghiêm ngặt. Hãy tính tỉ lệ % diện tích rừng đã được bảo tồn của khu vực này? (làm tròn đến một chữ số thập phân)",
+        "options": {
+          "a": "15.5%",
+          "b": "77.5%",
+          "c": "82.5%",
+          "d": "45.0%"
+        },
+        "answer": "b",
+        "explanation": "Tỉ lệ bảo tồn = (15.500 / 20.000) * 100 = 77.5%. Đây là chỉ số quan trọng để đánh giá mức độ bao phủ của mạng lưới rừng đặc dụng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Diện tích phần hồ thuộc tỉnh A là 850 km2. Nếu tỉnh A thực hiện dự án mở rộng lòng hồ thêm 10% diện tích hiện có, thì diện tích hồ sau khi mở rộng thuộc tỉnh A quản lý là bao nhiêu?",
+        "options": {
+          "a": "935 km2",
+          "b": "860 km2",
+          "c": "950 km2",
+          "d": "1.000 km2"
+        },
+        "answer": "a",
+        "explanation": "Diện tích tăng thêm = 850 * 10% = 85 km2. Tổng diện tích mới = 850 + 85 = 935 km2. Bẫy b (860) là do chỉ cộng thêm 10 đơn vị thay vì 10%.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Một khu rừng rộng 50.000 km2 có diện tích rừng nguyên sinh là 5.000 km2. Nếu do khai thác trái phép, diện tích rừng nguyên sinh bị mất đi một nửa, thì lúc này rừng nguyên sinh chiếm bao nhiêu % diện tích rừng ban đầu?",
+        "options": {
+          "a": "10%",
+          "b": "2.5%",
+          "c": "5%",
+          "d": "1%"
+        },
+        "answer": "c",
+        "explanation": "Diện tích rừng nguyên sinh còn lại = 5.000 / 2 = 2.500 km2. Tỉ lệ mới = (2.500 / 50.000) * 100 = 5%. Đáp án a bẫy số liệu cũ chưa bị mất đi.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Tại một quốc gia có diện tích 20 triệu km2, diện tích đất nông nghiệp hiện tại là 4 triệu km2. Nếu quốc gia này khai hoang thêm 1 triệu km2 đất nông nghiệp mới, hãy tính tỉ lệ % đất nông nghiệp trên tổng diện tích (giả sử tổng diện tích quốc gia không đổi)?",
+        "options": {
+          "a": "25%",
+          "b": "20%",
+          "c": "30%",
+          "d": "5%"
+        },
+        "answer": "a",
+        "explanation": "Tổng đất nông nghiệp mới = 4 + 1 = 5 triệu km2. Tỉ lệ = (5 / 20) * 100 = 25%. Bẫy b (20%) là do học sinh quên cộng phần diện tích mới khai hoang.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "mot_dap_an",
+        "question": "Trong thành phần nước ngọt trên Trái Đất, lượng nước ngầm ước tính là 9 triệu km3 và lượng nước mặt là 1 triệu km3. Lượng nước ngầm gấp bao nhiêu lần lượng nước mặt?",
+        "options": {
+          "a": "25 lần",
+          "b": "1 lần",
+          "c": "9 lần",
+          "d": "15 lần"
+        },
+        "answer": "c",
+        "explanation": "Số lần gấp = 9 / 1 = 9 lần. Câu hỏi giúp nhận diện sự khác biệt rất lớn về trữ lượng giữa các túi nước ngầm và hệ thống sông hồ trên mặt đất.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "Một khu rừng có diện tích 20.000 ha. Theo báo cáo môi trường, trung bình mỗi năm khu rừng này bị mất đi 2% diện tích do cháy rừng và xâm lấn. Tính diện tích rừng còn lại sau 1 năm?",
+        "options": {
+          "a": "19.600 ha",
+          "b": "18.000 ha",
+          "c": "16.000 ha",
+          "d": "400 ha"
+        },
+        "answer": "a",
+        "explanation": "Diện tích mất đi = 20.000 * 2% = 400 ha. Diện tích còn lại = 20.000 - 400 = 19.600 ha. Đáp án d bẫy phần diện tích bị mất.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "mot_dap_an",
+        "question": "Một hệ thống mặt nước gồm hồ (12 km2), sông (7 km2) và đầm lầy (6 km2). Hãy tính tỉ trọng (%) của diện tích hồ trong tổng số diện tích mặt nước của hệ thống này?",
+        "options": {
+          "a": "12%",
+          "b": "48%",
+          "c": "50%",
+          "d": "25%"
+        },
+        "answer": "b",
+        "explanation": "Tổng diện tích = 12 + 7 + 6 = 25 km2. Tỉ trọng hồ = (12 / 25) * 100 = 48%. Bẫy a (12%) là do nhầm lẫn giữa giá trị tuyệt đối và giá trị phần trăm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "Một quốc gia có tổng diện tích là 20 triệu km2. Chính phủ đặt mục tiêu quy hoạch diện tích đất nông nghiệp phải đạt ngưỡng 40% diện tích lãnh thổ. Tính diện tích đất nông nghiệp cần có theo mục tiêu trên?",
+        "options": {
+          "a": "4 triệu km2",
+          "b": "8 triệu km2",
+          "c": "10 triệu km2",
+          "d": "12 triệu km2"
+        },
+        "answer": "b",
+        "explanation": "Diện tích đất nông nghiệp mục tiêu = 20 * 40% = 8 triệu km2. Đây là bài toán xuôi tính giá trị thực dựa trên chỉ tiêu phần trăm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "Trong tổng số 35 triệu km3 nước ngọt trên Trái Đất, các nhà khoa học ước tính con người chỉ có thể tiếp cận thuận tiện để sử dụng khoảng 1%. Tính lượng nước ngọt có thể sử dụng được theo ước tính này?",
+        "options": {
+          "a": "0.35 triệu km3",
+          "b": "3.5 triệu km3",
+          "c": "0.035 triệu km3",
+          "d": "350.000 km3"
+        },
+        "answer": "a",
+        "explanation": "Lượng nước sử dụng = 35 * 1% = 0.35 triệu km3. Bẫy b (3.5) là do học sinh nhầm lẫn 1% với 10%.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q1",
+        "type": "nhieu_dap_an",
+        "question": "Tại sao nước biển có độ muối khác nhau giữa các vùng?",
+        "options": {
+          "a": "Do lượng nước sông chảy vào biển khác nhau.",
+          "b": "Do mức độ bốc hơi nước ở các vùng biển khác nhau.",
+          "c": "Do sự thay đổi của các pha Mặt Trăng làm biến đổi nồng độ muối.",
+          "d": "Do hoạt động khai thác hải sản làm xáo trộn các tầng nước mặn."
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "explanation": "Theo tài liệu gốc, độ muối thay đổi tùy thuộc vào lượng nước ngọt bổ sung từ sông ngòi và cường độ bốc hơi tại chỗ. Phương án c và d là bẫy logic về thiên văn và nhân tác không liên quan.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q2",
+        "type": "nhieu_dap_an",
+        "question": "Tại sao hồ có vai trò quan trọng đối với đời sống con người?",
+        "options": {
+          "a": "Cung cấp nguồn nước cho sinh hoạt và sản xuất.",
+          "b": "Nuôi trồng và khai thác thủy sản.",
+          "c": "Điều hòa khí hậu và điều tiết nguồn nước.",
+          "d": "Phát triển du lịch và giao thông đường thủy. e::Làm tăng cường hiện tượng hạn hán và sa mạc hóa khu vực. f::Là nguồn cung cấp toàn bộ năng lượng hóa thạch cho con người."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "explanation": "Tài liệu xác nhận hồ có 4 vai trò chính từ cung cấp nước, kinh tế thủy sản, điều hòa sinh thái đến giao thông du lịch. Phương án e và f là bẫy về tác động tiêu cực và tài nguyên không phù hợp.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q3",
+        "type": "nhieu_dap_an",
+        "question": "Vì sao cần bảo vệ đất và sử dụng đất hợp lí?",
+        "options": {
+          "a": "Đất là môi trường sống của nhiều sinh vật.",
+          "b": "Đất cung cấp chất dinh dưỡng cho cây trồng.",
+          "c": "Đất có vai trò quan trọng trong sản xuất nông nghiệp.",
+          "d": "Bảo vệ đất giúp hạn chế xói mòn và thoái hóa đất. e::Đất là tài nguyên vô hạn và không bao giờ bị biến chất. f::Sử dụng đất không hợp lý giúp đẩy nhanh quá trình hình thành khoáng sản."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "explanation": "Bảo vệ đất là cần thiết vì đất là giá đỡ của sự sống và tư liệu sản xuất nông nghiệp. Phương án e và f sai về mặt bản chất địa lý vì đất là tài nguyên hữu hạn và dễ bị thoái hóa.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q4",
+        "type": "nhieu_dap_an",
+        "question": "Vì sao cần trồng cây gây rừng để bảo vệ đất?",
+        "options": {
+          "a": "Cây rừng giữ đất, hạn chế xói mòn và sạt lở.",
+          "b": "Cây rừng giữ nước và tăng độ màu mỡ của đất.",
+          "c": "Cây rừng giúp giải phóng các khoáng sản quý hiếm từ sâu trong lòng đất.",
+          "d": "Cây rừng ngăn chặn hoàn toàn sự chuyển động của các mảng kiến tạo."
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "explanation": "Vai trò của rừng đối với đất là giữ kết cấu bề mặt và cải thiện độ phì nhiêu. Phương án c và d là các bẫy kiến thức về địa chất nội lực, không liên quan đến vai trò của sinh vật.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q5",
+        "type": "nhieu_dap_an",
+        "question": "Vì sao sinh vật trên Trái Đất phân bố không đồng đều?",
+        "options": {
+          "a": "Điều kiện khí hậu khác nhau giữa các vùng.",
+          "b": "Đất, nguồn nước và địa hình khác nhau.",
+          "c": "Do sự thay đổi tốc độ tự quay quanh trục của Trái Đất theo giờ.",
+          "d": "Do sự biến động của khoảng cách giữa các hành tinh trong Hệ Mặt Trời."
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "explanation": "Sự phân bố sinh vật phụ thuộc vào các nhân tố môi trường tại chỗ như khí hậu, đất, nước. Phương án c và d bẫy học sinh bằng các khái niệm thiên văn không tác động trực tiếp đến vùng phân bố sinh học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q6",
+        "type": "nhieu_dap_an",
+        "question": "Vì sao biển và đại dương có vai trò quan trọng đối với đời sống con người?",
+        "options": {
+          "a": "Cung cấp nguồn hải sản phong phú cho con người.",
+          "b": "Là tuyến giao thông vận tải quan trọng giữa các quốc gia.",
+          "c": "Có tiềm năng phát triển du lịch và khai thác năng lượng biển.",
+          "d": "Ảnh hưởng đến khí hậu và môi trường trên Trái Đất. e::Cung cấp nước ngọt trực tiếp cho toàn bộ hoạt động tưới tiêu nông nghiệp. f::Giúp ngăn chặn hoàn toàn các hiện tượng động đất trên các lục địa."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "explanation": "Biển và đại dương cung cấp tài nguyên, đường giao thông và điều hòa khí hậu toàn cầu. Phương án e sai vì nước biển là nước mặn, phương án f sai vì động đất liên quan đến kiến tạo bên dưới lòng đất.",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
   }
 ]
