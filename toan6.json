@@ -13493,10 +13493,9 @@
   },
   {
     "_Note": "ÔN TẬP HỌC KỲ II LỚP 6",
-    "subject": "MÔN VẬT LÝ",
-    "topic": "BÀI 1: LỰC VÀ TÁC DỤNG CỦA LỰC",
+    "subject": "MÔN VẬT LÝ ÔN TẬP HỌC KỲ II",
+    "topic": "BÀI 1: ĐỀ CƯƠNG ÔN TẬP",
     "questions": [
-     
       {
         "number": 1,
         "id": "q1",
@@ -13765,20 +13764,18 @@
         "number": 18,
         "id": "q18",
         "type": "sap_xep",
-        "question": "Hãy sắp xếp các sự kiện sau theo đúng trình tự logic để giải thích tại sao Trái Đất có hiện tượng Ngày và Đêm luân phiên:",
+        "question": "Hãy sắp xếp các dữ kiện sau để hoàn thành logic giải thích vì sao Mặt Trời chỉ chiếu sáng được một nửa Trái Đất:",
         "muc": [
-          "(1) Trái Đất có dạng hình cầu nên Mặt Trời chỉ chiếu sáng được một nửa bề mặt.",
-          "(2) Phần được chiếu sáng là ban ngày, phần nằm trong bóng tối là ban đêm.",
-          "(3) Trái Đất tự quay quanh trục của nó liên tục.",
-          "(4) Các địa điểm trên bề mặt Trái Đất lần lượt đi vào vùng sáng và vùng tối, tạo nên sự luân phiên ngày và đêm."
+          "(1) Trái Đất có hình dạng khối cầu.",
+          "(2) Ánh sáng Mặt Trời truyền đi theo đường thẳng.",
+          "(3) Tại một thời điểm, nguồn sáng chỉ có thể bao phủ được một nửa bề mặt khối cầu."
         ],
         "answer": [
-          "(1) Trái Đất có dạng hình cầu nên Mặt Trời chỉ chiếu sáng được một nửa bề mặt.",
-          "(2) Phần được chiếu sáng là ban ngày, phần nằm trong bóng tối là ban đêm.",
-          "(3) Trái Đất tự quay quanh trục của nó liên tục.",
-          "(4) Các địa điểm trên bề mặt Trái Đất lần lượt đi vào vùng sáng và vùng tối, tạo nên sự luân phiên ngày và đêm."
+          "(1) Trái Đất có hình dạng khối cầu.",
+          "(2) Ánh sáng Mặt Trời truyền đi theo đường thẳng.",
+          "(3) Tại một thời điểm, nguồn sáng chỉ có thể bao phủ được một nửa bề mặt khối cầu."
         ],
-        "explanation": "Logic: Hình cầu tạo ra sáng/tối -> Chuyển động quay làm thay đổi vị trí của các điểm đối với nguồn sáng -> Tạo sự luân phiên.",
+        "explanation": "Sự kết hợp giữa hình dạng khối cầu và đặc tính truyền thẳng của ánh sáng là nguyên nhân khiến chỉ 50% diện tích Trái Đất nhận được ánh sáng tại một thời điểm.",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -13786,23 +13783,526 @@
         "number": 19,
         "id": "q19",
         "type": "sap_xep",
-        "question": "Dựa trên sự tự quay từ Tây sang Đông của Trái Đất, hãy sắp xếp thứ tự thời gian nhìn thấy của một điểm trên mặt đất trong một vòng quay:",
+        "question": "Hãy sắp xếp các đặc điểm sau theo đúng logic phân biệt hiện tượng Ban ngày và Ban đêm:",
         "muc": [
-          "(1) Điểm đó bắt đầu quay từ vùng tối sang vùng được chiếu sáng (Bình minh).",
-          "(2) Điểm đó nằm ở vị trí đối diện trực tiếp nhất với Mặt Trời (Giữa trưa).",
-          "(3) Điểm đó bắt đầu rời khỏi vùng sáng để đi vào vùng tối (Hoàng hôn).",
-          "(4) Điểm đó nằm ở vị trí chính giữa vùng bóng tối (Nửa đêm)."
+          "(1) Nửa bề mặt Trái Đất hướng về phía Mặt Trời và nhận được ánh sáng trực tiếp.",
+          "(2) Hiện tượng này được gọi là Ban ngày.",
+          "(3) Nửa bề mặt Trái Đất nằm trong vùng bóng tối (khuất ánh sáng Mặt Trời).",
+          "(4) Hiện tượng không nhận được ánh sáng trực tiếp này được gọi là Ban đêm."
         ],
         "answer": [
-          "(1) Điểm đó bắt đầu quay từ vùng tối sang vùng được chiếu sáng (Bình minh).",
-          "(2) Điểm đó nằm ở vị trí đối diện trực tiếp nhất với Mặt Trời (Giữa trưa).",
-          "(3) Điểm đó bắt đầu rời khỏi vùng sáng để đi vào vùng tối (Hoàng hôn).",
-          "(4) Điểm đó nằm ở vị trí chính giữa vùng bóng tối (Nửa đêm)."
+          "(1) Nửa bề mặt Trái Đất hướng về phía Mặt Trời và nhận được ánh sáng trực tiếp.",
+          "(2) Hiện tượng này được gọi là Ban ngày.",
+          "(3) Nửa bề mặt Trái Đất nằm trong vùng bóng tối (khuất ánh sáng Mặt Trời).",
+          "(4) Hiện tượng không nhận được ánh sáng trực tiếp này được gọi là Ban đêm."
         ],
-        "explanation": "Thứ tự này phản ánh đúng hành trình của một vị trí trên Trái Đất khi thực hiện chuyển động tự quay theo thời gian.",
+        "explanation": "Ban ngày và ban đêm là hai trạng thái đối lập về ánh sáng trên bề mặt Trái Đất dựa vào vị trí của vùng đó so với nguồn sáng Mặt Trời.i thích::Đây là cách phân chia dựa trên sự hiện diện của nguồn sáng trực tiếp từ Mặt Trời lên bề mặt khối cầu của Trái Đất",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+ 
+    ]
+  },
+
+  {
+    "_Note": "ÔN TẬP HỌC KỲ II LỚP 6",
+    "subject": "MÔN HÓA HỌC ÔN TẬP HỌC KỲ II",
+    "topic": "BÀI 1:ĐỀ CƯƠNG ÔN TẬP",
+    "questions": [
+
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Muốn chuyển đổi một dung dịch NaCl từ chưa bão hòa sang bão hòa ở nhiệt độ không đổi, ta dùng biện pháp nào sau đây?",
+        "options": {
+          "a": "Tăng thêm lượng dung môi là nước.",
+          "b": "Đun nóng dung dịch để bay hơi bớt chất tan.",
+          "c": "Cho thêm chất tan NaCl vào dung dịch và khuấy đều.",
+          "d": "Lọc bỏ bớt lượng chất tan hiện có trong dung dịch."
+        },
+        "answer": "c",
+        "explanation": "Dung dịch bão hòa là dung dịch không thể hòa tan thêm chất tan ở một nhiệt độ xác định. Do đó, việc thêm chất tan cho đến khi không tan được nữa sẽ chuyển dung dịch từ chưa bão hòa sang bão hòa.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Trong hóa học, dung dịch được định nghĩa là hỗn hợp đồng nhất của các thành phần nào?",
+        "options": {
+          "a": "Hỗn hợp của hai hay nhiều chất lỏng hòa tan vào nhau.",
+          "b": "Hỗn hợp của chất rắn và chất lỏng không tan.",
+          "c": "Hỗn hợp của chất khí và chất lỏng tạo thành bọt khí.",
+          "d": "Hỗn hợp đồng nhất của chất tan và dung môi."
+        },
+        "answer": "d",
+        "explanation": "Dung dịch là hỗn hợp đồng nhất giữa dung môi và chất tan, trong đó các hạt chất tan phân bố đều trong dung môi.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Khái niệm chất tinh khiết trong khoa học được hiểu là:",
+        "options": {
+          "a": "Chất chỉ bao gồm một loại chất duy nhất, không lẫn chất khác.",
+          "b": "Hỗn hợp chứa một chất chính chiếm tỉ lệ lớn và nhiều chất phụ.",
+          "c": "Hỗn hợp được tạo thành từ hai hay nhiều chất trở lên.",
+          "d": "Chất lỏng chỉ bao gồm hai loại nguyên tố hóa học duy nhất."
+        },
+        "answer": "a",
+        "explanation": "Chất tinh khiết (hay chất nguyên chất) là chất không có lẫn chất khác và có các tính chất vật lý, hóa học xác định.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Thành phần chính của sốt mayonnaise bao gồm lòng đỏ trứng gà, dầu ăn, chanh hoặc dấm, mù tạt và gia vị. Trong hóa học, sốt mayonnaise được phân loại là:",
+        "options": {
+          "a": "Huyền phù.",
+          "b": "Nhũ tương.",
+          "c": "Dung dịch.",
+          "d": "Chất lỏng tinh khiết."
+        },
+        "answer": "b",
+        "explanation": "Mayonnaise là hỗn hợp của hai chất lỏng không tan vào nhau (dầu và nước/dấm) nhưng được phân tán vào nhau nhờ chất nhũ hóa từ lòng đỏ trứng, tạo thành nhũ tương.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Khi hòa tan bột đá vôi vào nước, chỉ một lượng nhỏ chất này tan, phần lớn còn lại lơ lửng làm nước bị đục. Hỗn hợp này được gọi là:",
+        "options": {
+          "a": "Dung dịch bão hòa.",
+          "b": "Chất tan dư.",
+          "c": "Nhũ tương lỏng.",
+          "d": "Huyền phù."
+        },
+        "answer": "d",
+        "explanation": "Huyền phù là hỗn hợp không đồng nhất gồm các hạt chất rắn lơ lửng trong môi trường chất lỏng. Đá vôi không tan hết tạo ra các hạt rắn lơ lửng làm đục nước.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Dựa trên sự khác biệt về nhiệt độ sôi (-196 °C đối với nitrogen và -183 °C đối với oxygen), người ta tách chúng ra khỏi không khí lỏng bằng cách nâng dần nhiệt độ. Phương pháp này gọi là:",
+        "options": {
+          "a": "Phương pháp lọc cơ học.",
+          "b": "Phương pháp chiết lỏng - lỏng.",
+          "c": "Phương pháp cô cạn nhiệt độ cao.",
+          "d": "Phương pháp chưng cất phân đoạn."
+        },
+        "answer": "d",
+        "explanation": "Chưng cất phân đoạn dựa trên sự khác biệt về nhiệt độ sôi của các chất lỏng trong hỗn hợp đồng nhất để tách riêng chúng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Để thu được muối ăn từ nước biển trên các ruộng muối, người dân thường sử dụng cách nào là hợp lí nhất?",
+        "options": {
+          "a": "Lọc nước biển qua nhiều lớp cát mịn.",
+          "b": "Chưng cất nước biển trong nồi kín để thu hơi nước.",
+          "c": "Để nước biển bay hơi tự nhiên dưới ánh nắng mặt trời.",
+          "d": "Để nước biển đứng yên cho muối tự lắng xuống đáy."
+        },
+        "answer": "c",
+        "explanation": "Muối ăn là chất rắn không bay hơi, khi nước biển bay hơi (cô cạn), nồng độ muối tăng dần đến mức bão hòa và kết tinh thành tinh thể muối.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Phương pháp đơn giản và hiệu quả nhất để tách cát (không tan) ra khỏi hỗn hợp với nước là:",
+        "options": {
+          "a": "Lọc qua giấy lọc hoặc phễu lọc.",
+          "b": "Sử dụng máy li tâm tốc độ cao.",
+          "c": "Dùng phễu chiết để tách hai lớp.",
+          "d": "Cô cạn dung dịch bằng cách đun nóng."
+        },
+        "answer": "a",
+        "explanation": "Vì cát là chất rắn không tan trong nước, phương pháp lọc sẽ giữ lại chất rắn trên màng lọc và cho chất lỏng đi qua.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Nếu không may dầu ăn bị đổ vào nước, bạn nên sử dụng phương pháp nào sau đây để tách riêng lớp dầu ăn ra?",
+        "options": {
+          "a": "Lọc bằng bông thủy tinh.",
+          "b": "Dùng máy li tâm để phân lớp.",
+          "c": "Sử dụng phương pháp chiết.",
+          "d": "Đun nóng để cô cạn nước."
+        },
+        "answer": "c",
+        "explanation": "Dầu ăn và nước là hai chất lỏng không hòa tan vào nhau và có khối lượng riêng khác nhau (dầu nổi trên nước), do đó dùng phễu chiết là cách tối ưu để tách riêng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Tác dụng vật lý chủ yếu của việc đeo khẩu trang khi đi trên đường hoặc trong môi trường ô nhiễm là gì?",
+        "options": {
+          "a": "Tách hơi nước có trong không khí để giữ ẩm.",
+          "b": "Tách khí oxygen giúp hít vào lượng khí nguyên chất hơn.",
+          "c": "Tách khí carbon dioxide độc hại ra khỏi mũi.",
+          "d": "Tách các hạt khói bụi, vi khuẩn ra khỏi không khí hít vào."
+        },
+        "answer": "d",
+        "explanation": "Khẩu trang đóng vai trò như một màng lọc, ngăn chặn các hạt chất rắn (bụi, khói) và giọt bắn (chứa vi khuẩn) có kích thước lớn hơn lỗ màng lọc.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Cho hình ảnh về dụng cụ thí nghiệm bên dưới (một bình thủy tinh có khóa ở đáy). Dụng cụ này được sử dụng hiệu quả nhất để tách hỗn hợp nào?<svg width=\"100\" height=\"100\"><path d=\"M30 10 L70 10 L70 20 Q70 60 55 80 L55 95 M45 95 L45 80 Q30 60 30 20 Z\" stroke=\"black\" fill=\"none\"/><line x1=\"40\" y1=\"85\" x2=\"60\" y2=\"85\" stroke=\"red\" stroke-width=\"3\"/></svg>",
+        "options": {
+          "a": "Hỗn hợp nước và rượu (cồn).",
+          "b": "Hỗn hợp cát mịn lẫn trong nước.",
+          "c": "Hỗn hợp bột mì lơ lửng trong nước.",
+          "d": "Hỗn hợp dầu ăn và nước."
+        },
+        "answer": "d",
+        "explanation": "Dụng cụ trong hình là phễu chiết, dùng để tách các chất lỏng không hòa tan vào nhau (chất lỏng không đồng nhất) dựa trên sự phân lớp do khối lượng riêng khác nhau.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Nước giếng khoan được làm sạch bằng cách cho chảy qua bể lọc chứa cát, sỏi và than củi. Trong các nhận định sau về quá trình này, nhận định nào là KHÔNG ĐÚNG?",
+        "options": {
+          "a": "Lớp cát mịn đóng vai trò màng lọc để giữ các hạt đất, cát lơ lửng.",
+          "b": "Lớp sỏi có tác dụng hóa học làm cho nước có vị ngọt tự nhiên.",
+          "c": "Lớp than củi (than hoạt tính) giúp hấp phụ các chất hữu cơ và mùi.",
+          "d": "Sau khi qua bể lọc này, nước thu được vẫn là một hỗn hợp (dung dịch) chứ không phải chất tinh khiết."
+        },
+        "answer": "b",
+        "explanation": "Lớp sỏi chủ yếu có tác dụng lọc thô và tạo độ thoáng cho dòng chảy, không có tác dụng hóa học làm nước có vị ngọt. Nước sau lọc vẫn chứa các muối khoáng hòa tan nên không phải chất tinh khiết.",
+        "_": "---",
+        "_divider": "-----------------"
+       }
+ 
+    ]
+  },
+
+  {
+    "_Note": "ÔN TẬP HỌC KỲ II LỚP 6",
+    "subject": "MÔN SINH HỌC ÔN TẬP HỌC KỲ II",
+    "topic": "BÀI 1:ĐỀ CƯƠNG ÔN TẬP",
+    "questions": [
+
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "sap_xep",
+        "question": "Nhận biết được vai trò của sinh vật trong tự nhiên?",
+        "muc": [
+          "Thực vật có nhiều vai trò quan trọng trong tự nhiên.",
+          "Cây xanh tạo bóng mát và giúp điều hòa khí hậu.",
+          "Ngoài ra, thực vật còn làm sạch không khí và là nơi sống của nhiều loài động vật."
+        ],
+        "answer": [
+          "Thực vật có nhiều vai trò quan trọng trong tự nhiên.",
+          "Cây xanh tạo bóng mát và giúp điều hòa khí hậu.",
+          "Ngoài ra, thực vật còn làm sạch không khí và là nơi sống của nhiều loài động vật."
+        ],
+        "explanation": "Nội dung liệt kê các vai trò cốt lõi của thực vật đối với môi trường sinh thái và đa dạng loài.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "sap_xep",
+        "question": "Vì sao nói sinh vật giúp bảo vệ môi trường?<svg width=\"100\" height=\"100\"><circle cx=\"50\" cy=\"50\" r=\"30\" stroke=\"green\" fill=\"none\"/><path d=\"M50 20 L50 80 M20 50 L80 50\" stroke=\"blue\"/></svg>",
+        "muc": [
+          "Làm sạch không khí: Hấp thụ CO2, cung cấp O2 và cản bụi bẩn.",
+          "Điều hòa khí hậu: Tán cây che mát, thoát hơi nước giúp giảm nhiệt độ, tăng độ ẩm.",
+          "Bảo vệ tài nguyên: Rễ cây giữ đất, ngăn xói mòn và bảo vệ nguồn nước ngầm."
+        ],
+        "answer": [
+          "Làm sạch không khí: Hấp thụ CO2, cung cấp O2 và cản bụi bẩn.",
+          "Điều hòa khí hậu: Tán cây che mát, thoát hơi nước giúp giảm nhiệt độ, tăng độ ẩm.",
+          "Bảo vệ tài nguyên: Rễ cây giữ đất, ngăn xói mòn và bảo vệ nguồn nước ngầm."
+        ],
+        "explanation": "Sinh vật (đặc biệt là thực vật) tác động trực tiếp đến chất lượng không khí, nhiệt độ và độ bền vững của đất đai.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "sap_xep",
+        "question": "Hãy giải thích vai trò của sinh vật trong chuỗi thức ăn trong tự nhiên?<svg width=\"100\" height=\"100\"><rect x=\"10\" y=\"10\" width=\"20\" height=\"20\" fill=\"green\"/><path d=\"M30 20 L50 20\" stroke=\"black\" marker-end=\"arrow\"/><rect x=\"50\" y=\"10\" width=\"20\" height=\"20\" fill=\"red\"/><path d=\"M70 20 L90 20\" stroke=\"black\"/></svg>",
+        "muc": [
+          "Sinh vật sản xuất (Thực vật): Tạo ra nguồn thức ăn và năng lượng đầu tiên.",
+          "Sinh vật tiêu thụ (Động vật): Chuyển hóa năng lượng giữa các loài.",
+          "Sinh vật phân giải (Vi khuẩn, nấm): Phân hủy chất thải thành chất khoáng, làm sạch môi trường và khép kín vòng tuần hoàn vật chất."
+        ],
+        "answer": [
+          "Sinh vật sản xuất (Thực vật): Tạo ra nguồn thức ăn và năng lượng đầu tiên.",
+          "Sinh vật tiêu thụ (Động vật): Chuyển hóa năng lượng giữa các loài.",
+          "Sinh vật phân giải (Vi khuẩn, nấm): Phân hủy chất thải thành chất khoáng, làm sạch môi trường và khép kín vòng tuần hoàn vật chất."
+        ],
+        "explanation": "Chuỗi thức ăn đảm bảo sự luân chuyển năng lượng và vật chất ổn định trong hệ sinh thái.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "sap_xep",
+        "question": "Đa dạng sinh học đóng vai trò quan trọng như thế nào đối với đời sống và tự nhiên?",
+        "muc": [
+          "Cung cấp nguồn thực phẩm dồi dào cho con người.",
+          "Duy trì sự cân bằng và ổn định của các hệ sinh thái tự nhiên.",
+          "Cung cấp nguồn dược liệu (cây thuốc, con thuốc) quý giá để chữa bệnh."
+        ],
+        "answer": [
+          "Cung cấp nguồn thực phẩm dồi dào cho con người.",
+          "Duy trì sự cân bằng và ổn định của các hệ sinh thái tự nhiên.",
+          "Cung cấp nguồn dược liệu (cây thuốc, con thuốc) quý giá để chữa bệnh."
+        ],
+        "explanation": "Giá trị của đa dạng sinh học bao quát từ an ninh lương thực đến y tế và ổn định sinh thái.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Có bao nhiêu hành động sau đây góp phần bảo vệ đa dạng sinh học? (1) Trồng cây gây rừng. (2) Săn bắt động vật quý hiếm. (3) Bảo vệ nơi sống của sinh vật. (4) Không chặt phá rừng bừa bãi.",
+        "options": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "answer": "c",
+        "explanation": "Các ý đúng là (1), (3), (4). Ý (2) là hành động phá hoại đa dạng sinh học.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Trong các hậu quả sau, có bao nhiêu hậu quả có thể xảy ra nếu đa dạng sinh học bị suy giảm? (1) Mất nguồn thực phẩm. (2) Mất nơi sống của nhiều loài sinh vật. (3) Môi trường dễ mất cân bằng. (4) Con người có thêm nhiều nguồn lợi từ thiên nhiên.",
+        "options": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "answer": "c",
+        "explanation": "Các hậu quả (1), (2), (3) là chính xác. Ý (4) sai vì suy giảm đa dạng sinh học làm nghèo nàn nguồn lợi thiên nhiên.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "sap_xep",
+        "question": "Vai trò của thực vật trong đời sống con người được thể hiện qua các mặt nào?",
+        "muc": [
+          "Cung cấp lương thực, thực phẩm cho bữa ăn hàng ngày.",
+          "Cung cấp nguyên liệu làm đồ dùng, vật dụng gia đình và xây dựng.",
+          "Cung cấp dược liệu để chế biến các loại thuốc chữa bệnh."
+        ],
+        "answer": [
+          "Cung cấp lương thực, thực phẩm cho bữa ăn hàng ngày.",
+          "Cung cấp nguyên liệu làm đồ dùng, vật dụng gia đình và xây dựng.",
+          "Cung cấp dược liệu để chế biến các loại thuốc chữa bệnh."
+        ],
+        "explanation": "Thực vật là nguồn tài nguyên thiết yếu phục vụ nhu cầu sống cơ bản và kinh tế của con người.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Có bao nhiêu việc làm sau đây góp phần bảo vệ môi trường nhờ thực vật? (1) Trồng cây xanh ở trường học. (2) Chặt phá rừng bừa bãi. (3) Trồng cây trong thành phố. (4) Trồng cây gây rừng.",
+        "options": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "answer": "c",
+        "explanation": "Việc làm (1), (3), (4) giúp tăng diện tích che phủ thực vật, bảo vệ môi trường. Ý (2) gây hại nghiêm trọng.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Trong các ý sau, có bao nhiêu ý thể hiện đúng vai trò của thực vật trong tự nhiên? (1) Giúp giữ đất. (2) Giúp làm sạch không khí. (3) Là nơi sống của nhiều loài động vật. (4) Làm tăng khói bụi trong không khí.",
+        "options": {
+          "a": "1",
+          "b": "2",
+          "c": "3",
+          "d": "4"
+        },
+        "answer": "c",
+        "explanation": "Thực vật giữ đất, lọc khí và tạo môi trường sống (1, 2, 3). Ý (4) sai vì thực vật giúp giảm khói bụi.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "sap_xep",
+        "question": "Tóm tắt các lý do chính vì sao cần bảo vệ đa dạng sinh học:",
+        "muc": [
+          "Đa dạng sinh học cung cấp cho con người thức ăn, thuốc và nhiều sản phẩm cần thiết.",
+          "Bảo vệ đa dạng sinh học là góp phần giữ cân bằng tự nhiên và duy trì hệ sinh thái.",
+          "Khi nhiều loài sinh vật mất đi, môi trường có thể bị mất cân bằng ảnh hưởng xấu đến cuộc sống."
+        ],
+        "answer": [
+          "Đa dạng sinh học cung cấp cho con người thức ăn, thuốc và nhiều sản phẩm cần thiết.",
+          "Bảo vệ đa dạng sinh học là góp phần giữ cân bằng tự nhiên và duy trì hệ sinh thái.",
+          "Khi nhiều loài sinh vật mất đi, môi trường có thể bị mất cân bằng ảnh hưởng xấu đến cuộc sống."
+        ],
+        "explanation": "Lý do bảo vệ bao gồm cả lợi ích trực tiếp (kinh tế) và lợi ích gián tiếp (sinh thái).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Nếu nhiều loài sinh vật bị mất đi, con người có thể mất đi nguồn thức ăn và thuốc quý.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Mất loài đồng nghĩa với mất đi nguồn gen và tài nguyên sinh học không thể phục hồi.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Bảo vệ đa dạng sinh học chỉ là trách nhiệm riêng của lực lượng kiểm lâm và các nhà khoa học.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Đây là trách nhiệm chung của toàn cộng đồng để bảo vệ môi trường sống bền vững.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Các hoạt động chặt phá rừng và săn bắt động vật bừa bãi làm suy giảm nghiêm trọng đa dạng sinh học.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Phá hủy môi trường sống và khai thác quá mức là những tác nhân chính gây tuyệt chủng loài.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Bảo vệ đa dạng sinh học cũng chính là hành động bảo vệ tương lai và cuộc sống của con người.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Con người là một phần của hệ sinh thái, sự ổn định của tự nhiên đảm bảo sự tồn tại của con người.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Việc bảo vệ đa dạng sinh học giúp giữ cho môi trường sống của chúng ta trong lành hơn.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Hệ sinh thái đa dạng có khả năng tự lọc sạch và điều hòa môi trường tốt hơn.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Đa dạng sinh học chỉ mang lại lợi ích cho thế giới động vật, không có giá trị đối với xã hội loài người.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "explanation": "Xã hội loài người phụ thuộc vào đa dạng sinh học về mọi mặt: thực phẩm, y tế, kinh tế và môi trường.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Bảo tồn các loài sinh vật là góp phần gìn giữ nguồn tài nguyên thiên nhiên quý giá của quốc gia.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Sinh vật là thành phần hữu cơ không thể thiếu của tài nguyên thiên nhiên quốc gia.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Sự suy giảm đa dạng sinh học dẫn đến mất cân bằng hệ sinh thái, làm gia tăng thiên tai và biến đổi khí hậu.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Mất cân bằng sinh thái phá vỡ các chu trình tự nhiên, khiến môi trường trở nên cực đoan và kém ổn định.",
         "_": "---",
         "_divider": "-----------------"
       }
     ]
   }
 ]
+
