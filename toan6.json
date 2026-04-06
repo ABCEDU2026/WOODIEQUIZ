@@ -14002,7 +14002,6 @@
         "_": "---",
         "_divider": "-----------------"
        }
- 
     ]
   },
 
@@ -14301,8 +14300,142 @@
         "explanation": "Mất cân bằng sinh thái phá vỡ các chu trình tự nhiên, khiến môi trường trở nên cực đoan và kém ổn định.",
         "_": "---",
         "_divider": "-----------------"
+        }
+    ]
+  },
+  {
+    "_Note": "ÔN TẬP HỌC KỲ II LỚP 6",
+    "subject": "MÔN SINH HỌC ÔN TẬP HỌC KỲ II",
+    "topic": "BÀI 1:ĐỀ CƯƠNG ÔN TẬP",
+    "questions": [
+[
+  {
+    "_Note": "Topic 1",
+    "topic": "Topic 1",
+    "subject": "General",
+    "questions": [
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Trên một máy sấy tóc có ghi các thông số kỹ thuật như sau: 220 V – 50 Hz – 1200 W. Dựa vào nhãn dán trên, hãy xác định tần số dòng điện định mức của thiết bị này là bao nhiêu?",
+        "options": {
+          "a": "220 V",
+          "b": "50 Hz",
+          "c": "1200 W",
+          "d": "220 Hz"
+        },
+        "answer": "b",
+        "explanation": "Đơn vị Hz (Héc) dùng để chỉ tần số của dòng điện. Theo nhãn máy sấy tóc, giá trị đi kèm với đơn vị này là 50 Hz.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Trên một thiết bị điện có ghi các thông số: 220 V – 50 Hz – 1800 W. Hỏi trên nhãn của thiết bị này có bao nhiêu loại đơn vị đo khác nhau?",
+        "options": {
+          "a": "1 loại đơn vị đo",
+          "b": "2 loại đơn vị đo",
+          "c": "3 loại đơn vị đo",
+          "d": "4 loại đơn vị đo"
+        },
+        "answer": "c",
+        "explanation": "Có 3 đơn vị đo khác nhau bao gồm: V (Vôn - đơn vị điện áp), Hz (Héc - đơn vị tần số) và W (Oát - đơn vị công suất).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Chức năng chính thường gặp của máy điều hoà trong gia đình là giúp không khí trong phòng trở nên mát hơn và phù hợp hơn với nhu cầu sử dụng của con người.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "explanation": "Đây là chức năng cơ bản của máy điều hòa nhiệt độ trong việc điều chỉnh môi trường sống trong nhà.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Cho danh sách các đồ dùng điện sau: nồi cơm điện, bếp điện, đèn điện, quạt điện. Có bao nhiêu đồ dùng trong danh sách này hoạt động chủ yếu bằng cách tạo ra nhiệt (chuyển hóa điện năng thành nhiệt năng)?",
+        "options": {
+          "a": "1 đồ dùng",
+          "b": "2 đồ dùng",
+          "c": "3 đồ dùng",
+          "d": "4 đồ dùng"
+        },
+        "answer": "b",
+        "explanation": "Nồi cơm điện và bếp điện là các đồ dùng điện - nhiệt (tạo nhiệt). Đèn điện tạo ra ánh sáng và quạt điện tạo ra cơ năng (sức gió).",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "nhieu_dap_an",
+        "question": "Dựa trên các tiêu chí lựa chọn đồ dùng điện cho gia đình, hãy xác định các nhận định ĐÚNG trong các phương án dưới đây:",
+        "options": {
+          "a": "Gia đình ít người nên chọn đồ dùng điện có kích thước và công suất phù hợp.",
+          "b": "Mua thiết bị điện có công suất quá lớn so với nhu cầu thực tế luôn là một lựa chọn tốt.",
+          "c": "Lựa chọn đúng đồ dùng điện giúp quá trình sử dụng thuận tiện và tiết kiệm năng lượng.",
+          "d": "Khi mua đồ dùng điện, người tiêu dùng nên cân nhắc cả nhu cầu sử dụng và khả năng tiết kiệm điện."
+        },
+        "answer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "explanation": "Việc chọn thiết bị có công suất quá lớn (ý b) sẽ gây lãng phí điện và chi phí không cần thiết. Các ý a, c, d đều là các nguyên tắc chọn đồ dùng điện hợp lý và tiết kiệm.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "nhieu_dap_an",
+        "question": "Trong việc sử dụng và lựa chọn đồ dùng điện, những hành động nào sau đây được coi là sử dụng năng lượng hiệu quả và đúng cách?",
+        "options": {
+          "a": "Nếu hai thiết bị có cùng công dụng, nên ưu tiên chọn loại có khả năng tiết kiệm điện hơn.",
+          "b": "Học sinh có thể tự ý lựa chọn đồ dùng điện mà không cần hỏi ý kiến người lớn.",
+          "c": "Lựa chọn đồ dùng điện tiết kiệm năng lượng là hành động góp phần bảo vệ môi trường.",
+          "d": "Lựa chọn đồ dùng điện phù hợp với nhu cầu là một cách sử dụng năng lượng hiệu quả."
+        },
+        "answer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "explanation": "Việc mua sắm thiết bị điện cần sự tư vấn của người lớn để đảm bảo an toàn và tính tương thích kỹ thuật (ý b sai). Các ý a, c, d thể hiện tư duy sử dụng năng lượng bền vững.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "nhieu_dap_an",
+        "question": "Em hãy xác định các hành vi sử dụng quạt điện ĐÚNG CÁCH, TIẾT KIỆM và AN TOÀN theo các chỉ dẫn dưới đây:",
+        "options": {
+          "a": "Bật quạt ở mức gió phù hợp với nhu cầu và thực hiện tắt quạt khi không cần thiết.",
+          "b": "Không chạm tay vào quạt khi tay đang ướt và tuyệt đối không đưa tay vào cánh quạt.",
+          "c": "Vệ sinh quạt sạch sẽ định kỳ để quạt hoạt động tốt, bền bỉ và an toàn hơn.",
+          "d": "Thường xuyên bật quạt ở mức gió cao nhất và để quạt chạy liên tục cả ngày dù không có người."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "explanation": "Việc để quạt chạy khi không có người hoặc luôn bật mức cao nhất (ý d) gây lãng phí điện năng nghiêm trọng. Các ý a, b, c đảm bảo các tiêu chuẩn an toàn điện và tiết kiệm năng lượng.",
+        "_": "---",
+        "_divider": "-----------------"
       }
     ]
   }
 ]
-
