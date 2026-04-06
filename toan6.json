@@ -14300,19 +14300,17 @@
         "explanation": "Mất cân bằng sinh thái phá vỡ các chu trình tự nhiên, khiến môi trường trở nên cực đoan và kém ổn định.",
         "_": "---",
         "_divider": "-----------------"
-        }
+           }
     ]
   },
+
   {
     "_Note": "ÔN TẬP HỌC KỲ II LỚP 6",
-    "subject": "MÔN SINH HỌC ÔN TẬP HỌC KỲ II",
+    "subject": "MÔN CÔNG NGHỆ ÔN TẬP HỌC KỲ II",
     "topic": "BÀI 1:ĐỀ CƯƠNG ÔN TẬP",
     "questions": [
-  {
-    "_Note": "Topic 1",
-    "topic": "Topic 1",
-    "subject": "General",
-    "questions": [
+
+
       {
         "number": 1,
         "id": "q1",
@@ -14435,6 +14433,7 @@
         "_": "---",
         "_divider": "-----------------"
       }
+
     ]
   }
 ]
