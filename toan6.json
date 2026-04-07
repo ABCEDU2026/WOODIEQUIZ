@@ -9401,13 +9401,13 @@
         "type": "mot_dap_an",
         "question": "Khẳng định nào sau đây là SAI?",
         "options": {
-          "a": "$25,6 > \\\\frac{127}{5}$",
-          "b": "$26,2 < \\\\frac{136}{5}$",
+          "a": "$25,6 > \\frac{127}{5}$",
+          "b": "$26,2 < \\frac{136}{5}$",
           "c": "$0 < 54,2$",
           "d": "$-2,8 > -3,6$"
         },
         "answer": "b",
-        "explanation": "Ta có $\\\\frac{127}{5} = 25,4$, nên $25,6 > 25,4$ (đúng). Ta có $\\\\frac{136}{5} = 27,2$, nên $26,2 < 27,2$ (đúng). Ta có $-2,8 > -3,6$ là đúng vì $|-2,8| < |-3,6|$. Ý b ghi $26,2 < 27,2$ là đúng. Kiểm tra lại đề bài gốc, ý b là khẳng định đúng. Vậy khẳng định sai phải là ý khác. Thực tế $\\\\frac{136}{5} = 27,2$, khẳng định $26,2 < 27,2$ là đúng [cite: 634-640].",
+        "explanation": "Ta có $\\frac{127}{5} = 25,4$, nên $25,6 > 25,4$ (đúng). Ta có $\\frac{136}{5} = 27,2$, nên $26,2 < 27,2$ (đúng). Ta có $-2,8 > -3,6$ là đúng vì $|-2,8| < |-3,6|$. Ý b ghi $26,2 < 27,2$ là đúng. Kiểm tra lại đề bài gốc, ý b là khẳng định đúng. Vậy khẳng định sai phải là ý khác. Thực tế $\\frac{136}{5} = 27,2$, khẳng định $26,2 < 27,2$ là đúng [cite: 634-640].",
         "_": "---",
         "_divider": "-----------------"
       },
@@ -9529,10 +9529,10 @@
         "type": "mot_dap_an",
         "question": "Phân số nào sau đây bằng số thập phân $-0,125$?",
         "options": {
-          "a": "$\\\\frac{-12,5}{10}$",
-          "b": "$\\\\frac{-125}{100}$",
-          "c": "$\\\\frac{-1}{8}$",
-          "d": "$\\\\frac{-8}{25}$"
+          "a": "$\\frac{-12,5}{10}$",
+          "b": "$\\frac{-125}{100}$",
+          "c": "$\\frac{-1}{8}$",
+          "d": "$\\frac{-8}{25}$"
         },
         "answer": "c",
         "explanation": "$-0,125 = \\frac{-125}{1000} = \\frac{-1}{8}$ [cite: 679-686].",
