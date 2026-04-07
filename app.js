@@ -20,9 +20,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const DATABASE_FILES = [
         'CIE6TW6.json',
         'toan6.json',
-        'lichsudiali.json',
-
-        
     ];
 
     const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyoztj_qCAVbFQhSlj4U0IHrZZwEWlkHQ4NR9VandMGvKw8G4fhhQCuazqPBCr013Ut/exec';
