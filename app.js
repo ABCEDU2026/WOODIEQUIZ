@@ -21,6 +21,10 @@ document.addEventListener('DOMContentLoaded', () => {
         'CIE6TW6.json',
         'toan6.json',
         'IEL90.json',
+        'periodictable.json',
+
+
+
     ];
 
     const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyoztj_qCAVbFQhSlj4U0IHrZZwEWlkHQ4NR9VandMGvKw8G4fhhQCuazqPBCr013Ut/exec';
@@ -633,53 +637,93 @@ function playSlow(text) {
         });
     }
 
-    function prepareQuestionData(question) {
-        if (!question) return {};
-        const q = deepClone(question);
-        q.options = q.options && typeof q.options === 'object' ? q.options : {};
-        q._isCorrect = null;
+function prepareQuestionData(question) {
+    if (!question) return {};
+    
+    // 1. Tạo bản sao sâu để xử lý riêng biệt cho lượt chơi, bảo vệ dữ liệu gốc
+    const q = deepClone(question);
+    q.options = q.options && typeof q.options === 'object' ? q.options : {};
+    q._isCorrect = null;
 
-        if (q.type === 'mot_dap_an' || q.type === 'listening') {
-            const keys = Object.keys(q.options);
-            const shuffledKeys = shuffleArray(keys);
-            const originalCorrectContent = q.options[q.answer];
-            const shuffledContentMap = {};
-            ['a', 'b', 'c', 'd'].forEach((newKey, index) => {
-                if (shuffledKeys[index]) shuffledContentMap[newKey] = q.options[shuffledKeys[index]];
-            });
-            q.options = shuffledContentMap;
-            for (const [key, val] of Object.entries(q.options)) {
-                if (val === originalCorrectContent) {
-                    q.answer = key;
-                    break;
-                }
+    // 2. BỘ LỌC XỬ LÝ CHUỖI TOÁN HỌC AN TOÀN TUYỆT ĐỐI (SỬA LỖI ĐƠ MATHJAX)
+    const cleanText = (text) => {
+        if (!text || typeof text !== 'string') return text;
+        return text.replace(/\\\\/g, '\\');
+    };
+
+    q.question = cleanText(q.question);
+    q.explanation = cleanText(q.explanation);
+    
+    if (q.options) {
+        for (let key in q.options) {
+            if (q.options.hasOwnProperty(key)) {
+                q.options[key] = cleanText(q.options[key]);
             }
         }
+    }
 
-        if (q.type === 'nhieu_dap_an') {
-            const keys = Object.keys(q.options);
-            const shuffledKeys = shuffleArray(keys);
-            const newOptions = {};
-            const fixedKeys = ['a', 'b', 'c', 'd'].slice(0, keys.length);
-            const correctContents = Array.isArray(q.answer) ? q.answer.map(k => q.options[k]) : [];
-            const newAnswerKeys = [];
-            fixedKeys.forEach((fixedKey, idx) => {
-                const originalKey = shuffledKeys[idx];
+    // 3. ÉP CHẾ ĐỘ ĐẢO ĐÁP ÁN TUYỆT ĐỐI Ở TẤT CẢ CÁC CHẾ ĐỘ CHƠI CHỐNG HỌC VẸT
+    const shouldShuffleOptions = true;
+
+    // 4. Phân luồng xáo trộn cho trắc nghiệm một đáp án / bài nghe
+    if (q.type === 'mot_dap_an' || q.type === 'listening') {
+        const keys = Object.keys(q.options);
+        const sortedOrShuffledKeys = shouldShuffleOptions ? shuffleArray(keys) : keys.sort();
+        const originalCorrectContent = q.options[q.answer];
+        const shuffledContentMap = {};
+        
+        // Tự động cấu hình danh sách key linh hoạt thay vì khóa cứng 4 câu để tránh mất đáp án
+        const fixedKeys = ['a', 'b', 'c', 'd', 'e', 'f'].slice(0, keys.length);
+        
+        fixedKeys.forEach((newKey, index) => {
+            if (sortedOrShuffledKeys[index]) {
+                shuffledContentMap[newKey] = q.options[sortedOrShuffledKeys[index]];
+            }
+        });
+        q.options = shuffledContentMap;
+        
+        for (const [key, val] of Object.entries(q.options)) {
+            if (val === originalCorrectContent) {
+                q.answer = key;
+                break;
+            }
+        }
+    }
+
+    // 5. Phân luồng xáo trộn cho trắc nghiệm nhiều đáp án
+    if (q.type === 'nhieu_dap_an') {
+        const keys = Object.keys(q.options);
+        const sortedOrShuffledKeys = shouldShuffleOptions ? shuffleArray(keys) : keys.sort();
+        const newOptions = {};
+        const fixedKeys = ['a', 'b', 'c', 'd', 'e', 'f'].slice(0, keys.length);
+        const correctContents = Array.isArray(q.answer) ? q.answer.map(k => q.options[k]) : [];
+        const newAnswerKeys = [];
+        
+        fixedKeys.forEach((fixedKey, idx) => {
+            const originalKey = sortedOrShuffledKeys[idx];
+            if (originalKey) {
                 const content = q.options[originalKey];
                 newOptions[fixedKey] = content;
-                if (correctContents.includes(content)) newAnswerKeys.push(fixedKey);
-            });
-            q.options = newOptions;
-            q.answer = newAnswerKeys;
-        }
-
-        if (q.type === 'noi') {
-            const rightObjects = (q.rightCol || []).map((txt, idx) => ({ text: txt, originalIndex: idx }));
-            q.shuffledRightCol = shuffleArray(rightObjects);
-        }
-
-        return q;
+                if (correctContents.includes(content)) {
+                    newAnswerKeys.push(fixedKey);
+                }
+            }
+        });
+        q.options = newOptions;
+        q.answer = newAnswerKeys;
     }
+
+    // 6. Phân luồng làm sạch nội dung dạng câu hỏi nối cột
+    if (q.type === 'noi') {
+        const rightObjects = (q.rightCol || []).map((txt, idx) => ({ text: cleanText(txt), originalIndex: idx }));
+        q.shuffledRightCol = shouldShuffleOptions ? shuffleArray(rightObjects) : rightObjects;
+        if (q.leftCol) {
+            q.leftCol = q.leftCol.map(txt => cleanText(txt));
+        }
+    }
+
+    return q;
+}
 
     // -------------------------------------------------------------------------
     // 7. LEARNING ENGINE A90
@@ -808,80 +852,78 @@ function playSlow(text) {
         return shuffleArray(unseenQuestions).slice(0, 20);
     }
 
-    function startQuiz(mode) {
-        if (state.currentUserName === '') {
-            showAlert('Vui lòng nhập tên của bạn trước khi bắt đầu!');
-            dom.nameInput?.focus();
-            return;
-        }
+function startQuiz(mode) {
+    const subjectValue = dom.subjectSelector.value;
+    const topicValue = dom.topicSelector.value;
 
-        localStorage.setItem(STORAGE_KEYS.LAST_TOPIC_KEY, dom.topicSelector.value);
-        state.currentMode = mode;
-        state.isReviewMode = false;
-        state.hasQuizEnded = false;
-        state.learning.currentPoolType = mode;
-
-        if (dom.dashboardHeader) dom.dashboardHeader.textContent = state.currentUserName;
-        dom.appHeader.classList.remove('hidden');
-        document.body.classList.add('quiz-active');
-
-        const subjectValue = dom.subjectSelector.value;
-        const topicValue = dom.topicSelector.value;
-        if (!subjectValue) {
-            showAlert('Vui lòng chọn một môn học!');
-            return;
-        }
-
-        const { title, bank } = getSelectedQuestionBank(subjectValue, topicValue);
-        if (!title || bank.length === 0) {
-            showAlert('Vui lòng chọn một chủ đề / bài học!');
-            return;
-        }
-
-        state.currentQuizTitle = title;
-        dom.appHeader.textContent = `<<BÀI TRẮC NGHIỆM>> ${state.currentQuizTitle}`;
-
-        let questionPool = [];
-        if (mode === 'random') {
-            questionPool = getRandomQuestionPool(bank, subjectValue, topicValue);
-        } else if (mode === 'smart') {
-            questionPool = buildSmartQuestionPool(bank, subjectValue, topicValue);
-        } else if (mode === 'retryWrong') {
-            questionPool = buildRetryWrongPool(bank, subjectValue, topicValue);
-        } else {
-           questionPool = shuffleArray(bank);
-        }
-
-        if (mode === 'retryWrong' && questionPool.length === 0) {
-            showAlert('🎉 Không có câu sai nào để luyện lại!');
-            return;
-        }
-
-        state.activeQuestions = questionPool.map(prepareQuestionData);
-        if (state.activeQuestions.length === 0) {
-            showAlert('Không có câu hỏi nào để hiển thị.');
-            return;
-        }
-
-        resetQuizCounters();
-        dom.startScreen.classList.add('hidden');
-        dom.quizScreen.classList.remove('hidden');
-        updateUserCupDisplay();
-        createQuestionNav();
-        startTimer();
-        playSound(sounds.start, 0.5);
-        displayQuestion();
-        updateDashboard();
-
-        if (submitQuizBtn) {
-            submitQuizBtn.style.display = 'inline-block';
-            submitQuizBtn.onclick = () => {
-                if (showConfirm('Bạn có chắc muốn NỘP BÀI và kết thúc ngay không?')) {
-                    endQuiz();
-                }
-            };
-        }
+    // 1. Kiểm tra điều kiện đầu vào của bộ chọn UI
+    if (!subjectValue) {
+        showAlert('Vui lòng chọn môn học trước!');
+        return;
     }
+    if (!subjectValue.startsWith('comprehensive_') && !topicValue) {
+        showAlert('Vui lòng chọn bài học hoặc chủ đề!');
+        return;
+    }
+
+    // 2. Trích xuất ngân hàng câu hỏi gốc từ thư viện dữ liệu
+    const { title, bank } = getSelectedQuestionBank(subjectValue, topicValue);
+    if (!bank || bank.length === 0) {
+        showAlert('Ngân hàng câu hỏi của chủ đề này đang trống!');
+        return;
+    }
+
+    // Ghi nhận chế độ chạy vào bộ nhớ trạng thái để điều khiển tính năng đảo đáp án
+    state.currentMode = mode; 
+    state.currentQuizTitle = title;
+
+    let questionPool = [];
+
+    // 3. Phân luồng xử lý các chế độ học tập theo thiết kế sư phạm
+    if (mode === 'random') {
+        // CHẾ ĐỘ NGẪU NHIÊN: Lấy câu hỏi xáo trộn chống học vẹt
+        questionPool = getRandomQuestionPool(bank, subjectValue, topicValue);
+    } else if (mode === 'smart') {
+        // CHẾ ĐỘ THÔNG MINH A90
+        questionPool = buildSmartQuestionPool(bank, subjectValue, topicValue);
+    } else if (mode === 'retryWrong') {
+        // CHẾ ĐỘ LÀM LẠI CÂU SAI
+        questionPool = buildRetryWrongPool(bank, subjectValue, topicValue);
+        if (questionPool.length === 0) {
+            showAlert('Tuyệt vời! Bạn không có câu hỏi sai nào cần ôn tập trong chủ đề này. 🎉');
+            return;
+        }
+    } else if (mode === 'full') {
+        // CHẾ ĐỘ TOÀN BỘ (TUYẾN TÍNH): Sắp xếp tăng dần nghiêm ngặt theo chỉ số 'number'
+        // Dẫn dắt học sinh mới: Học lý thuyết trước, thực hành sau, từ dễ đến khó.
+        questionPool = [...bank].sort((a, b) => {
+            return (a.number || 0) - (b.number || 0);
+        });
+        console.log("🎯 [A90 Engine] Đã kích hoạt lộ trình học tuyến tính (Dễ -> Khó).");
+    } else {
+        questionPool = shuffleArray(bank);
+    }
+
+    // 🔥 KÍCH HOẠT BƯỚC 3: Đi qua bộ lọc xử lý đáp án và cấu trúc đồ họa trước khi nạp vào bài làm
+    state.activeQuestions = questionPool.map(q => prepareQuestionData(q));
+
+    // 4. Khởi động lại các thông số cấu trúc màn chơi và thời gian
+    resetQuizCounters();
+    state.isReviewMode = false;
+    createQuestionNav();
+
+    // Điều khiển ẩn/hiện màn hình giao diện
+    dom.startScreen.classList.add('hidden');
+    dom.quizScreen.classList.remove('hidden');
+
+    // Tiến hành render câu hỏi đầu tiên lên màn hình
+    displayQuestion();
+    startTimer();
+    updateDashboard();
+    
+    // Phát hiệu ứng âm thanh khởi động bài test
+    playSound(sounds.start);
+}
 
     function endQuiz() {
         if (state.hasQuizEnded) return;
