@@ -1,0 +1,4691 @@
+[
+  {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "Địa ly 7",
+    "questions": [
+     
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Về mặt vị trí địa lí, châu Âu là một bộ phận phía tây của lục địa nào sau đây?",
+        "options": {
+          "a": "Phi.",
+          "b": "Á - Âu.",
+          "c": "Bắc Mỹ.",
+          "d": "Nam Mỹ."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Lãnh thổ châu Âu có diện tích tự nhiên khoảng bao nhiêu?",
+        "options": {
+          "a": "Trên 10 triệu km2.",
+          "b": "Trên 15 triệu km2.",
+          "c": "Trên 20 triệu km2.",
+          "d": "Trên 30 triệu km2."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Khu vực địa hình nào chiếm phần lớn diện tích châu Âu?",
+        "options": {
+          "a": "Cao nguyên.",
+          "b": "Núi trẻ.",
+          "c": "Núi già.",
+          "d": "Đồng bằng."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Châu Âu tiếp giáp với các biển và đại dương nào?",
+        "options": {
+          "a": "Bắc Băng Dương, Đại Tây Dương, Thái Bình Dương",
+          "b": "Bắc Băng Dương, Đại Tây Dương, Ấn Độ Dương.",
+          "c": "Bắc Băng Dương, Đại Tây Dương, Địa Trung Hải",
+          "d": "Đại Tây Dương, Ấn Độ Dương, Thái Bình Dương"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Ở phía đông, ranh giới tự nhiên ngăn cách giữa châu Âu và châu Á là dãy núi nào sau đây?",
+        "options": {
+          "a": "Dãy An-pơ.",
+          "b": "Dãy Các-pat.",
+          "c": "Dãy U-ran.",
+          "d": "Dãy Xcan-đi-na-vi."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Ý nào không phải là đặc điểm cơ cấu dân cư châu Âu?",
+        "options": {
+          "a": "Cơ cấu dân số già",
+          "b": "Cơ cấu dân số trẻ",
+          "c": "Tỉ lệ nữ nhiều hơn nam",
+          "d": "Trình độ học vấn cao"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Đặc điểm nào sau đây phản ánh đúng quá trình đô thị hóa ở châu Âu?",
+        "options": {
+          "a": "Tỉ lệ dân thành thị thấp và có xu hướng giảm.",
+          "b": "Tỉ lệ dân thành thị cao, quá trình đô thị hóa diễn ra từ sớm.",
+          "c": "Dân cư chủ yếu sống ở nông thôn.",
+          "d": "Quá trình đô thị hóa mới chỉ bắt đầu trong thế kỉ XXI."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Đặc điểm nào sau đây phản ánh đúng tình hình gia tăng dân số tự nhiên của châu Âu?",
+        "options": {
+          "a": "Tỉ lệ gia tăng dân số tự nhiên cao.",
+          "b": "Tỉ lệ gia tăng dân số tự nhiên thấp.",
+          "c": "Dân số tăng nhanh chủ yếu do tỉ lệ sinh cao.",
+          "d": "Dân số tăng nhanh do tỉ lệ tử luôn cao hơn tỉ lệ sinh"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Trong việc ứng phó với biến đổi khí hậu, thảm thực vật rừng ở châu Âu đóng vai trò vô cùng quan trọng nhờ khả năng hấp thu loại khí nào sau đây?",
+        "options": {
+          "a": "Khí ô-xy (O2).",
+          "b": "Khí ni-tơ (N2).",
+          "c": "Khí cac-bô-nic (CO2).",
+          "d": "Khí heli (He)."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Để giảm thiểu lượng khí thải ô nhiễm từ các phương tiện giao thông tại đô thị, các quốc gia châu Âu đã ưu tiên giải pháp nào sau đây?",
+        "options": {
+          "a": "Sử dụng xe ô tô cá nhân cỡ lớn.",
+          "b": "Phát triển hệ thống giao thông công cộng.",
+          "c": "Cấm tất cả các phương tiện giao thông lưu thông.",
+          "d": "Xây dựng thêm nhiều bãi đỗ xe quy mô lớn."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Hoạt động nào sau đây là một trong những nguyên nhân chính gây ra tình trạng ô nhiễm môi trường không khí ở châu Âu?",
+        "options": {
+          "a": "Hoạt động sản xuất công nghiệp.",
+          "b": "Các hiện tượng bão lũ thiên tai.",
+          "c": "Sự phân hủy tự nhiên của sinh vật.",
+          "d": "Quá trình phong hóa đất đá tự nhiên."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Vì sao các quốc gia châu Âu cần chú trọng bảo vệ và phục hồi rừng trong quá trình khai thác tài nguyên thiên nhiên?",
+        "options": {
+          "a": "Vì rừng chỉ có vai trò cung cấp gỗ cho sản xuất.",
+          "b": "Vì rừng giúp bảo tồn đa dạng sinh học, hấp thụ khí CO2 và góp phần ứng phó với biến đổi khí hậu.",
+          "c": "Vì rừng làm tăng lượng khí thải gây hiệu ứng nhà kính.",
+          "d": "Vì bảo vệ rừng giúp các quốc gia khai thác tài nguyên thiên nhiên không giới hạn."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Biện pháp nào sau đây đã được các quốc gia châu Âu áp dụng rộng rãi để kiểm soát nguồn nước thải sinh hoạt và công nghiệp trước khi đưa ra ngoài tự nhiên?",
+        "options": {
+          "a": "Xả trực tiếp ra các vùng biển sâu.",
+          "b": "Tiến hành xử lý nước thải đạt tiêu chuẩn.",
+          "c": "Chôn lấp sâu vào các tầng địa chất.",
+          "d": "Tích trữ toàn bộ trong các hồ tự nhiên."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Con sông nào dài nhất châu Âu hiện nay?",
+        "options": {
+          "a": "Sông Đa-nuýp (Danube)",
+          "b": "Sông Rai-nơ (Rhine)",
+          "c": "Sông Lu-a (Loire)",
+          "d": "Sông Von-ga (Volga)"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Năm 2020, nếu tính cả Liên bang Nga, dân số châu Âu đứng thứ mấy trong các châu lục trên thế giới?",
+        "options": {
+          "a": "Thứ nhất.",
+          "b": "Thứ hai.",
+          "c": "Thứ ba.",
+          "d": "Thứ tư."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "nhieu_dap_an",
+        "question": "Đọc đoạn tư liệu sau: \"Dân số thành thị và nông thôn của châu Âu năm 2020 (Nguồn: Ngân hàng thế giới). Dân thành thị: 557 triệu người. Dân nông thôn: 190 triệu người.\" Chọn các ý đúng trong các nhận định sau:",
+        "options": {
+          "a": "Tổng dân số châu Âu năm 2020 là 747 triệu người.",
+          "b": "Tỉ lệ dân số thành thị của châu Âu năm 2020 đạt khoảng 75%.",
+          "c": "Dân số nông thôn chiếm trên 30% tổng dân số châu Âu năm 2020.",
+          "d": "Châu Âu có mức độ đô thị hóa cao."
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "nhieu_dap_an",
+        "question": "Đọc đoạn tư liệu: \"Các quốc gia châu Âu rất chú trọng bảo vệ đa dạng sinh học thông qua việc ban hành các chính sách bảo vệ và phát triển rừng bền vững. Theo Chiến lược đa dạng sinh học của Liên minh châu Âu đến năm 2030, ít nhất 30% diện tích đất liền và biển của châu Âu sẽ được đưa vào diện bảo vệ nghiêm ngặt.\" Chọn các ý đúng trong các nhận định sau:",
+        "options": {
+          "a": "Mục tiêu đến năm 2030 là bảo vệ ít nhất 30% diện tích đất liền và biển.",
+          "b": "Bảo vệ đa dạng sinh học chủ yếu bằng khai thác động, thực vật quý hiếm.",
+          "c": "Bảo vệ và phát triển rừng giúp bảo tồn đa dạng sinh học và giảm biến đổi khí hậu.",
+          "d": "Khu bảo tồn nghiêm ngặt không được phép có bất kỳ hoạt động nghiên cứu hay du lịch sinh thái nào."
+        },
+        "answer": [
+          "a",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "nhieu_dap_an",
+        "question": "Đọc đoạn tư liệu: \"Để giảm lượng phát thải khí nhà kính, các quốc gia châu Âu đã áp dụng biện pháp đánh thuế các-bon và thuế tiêu thụ đặc biệt đối với các nhiên liệu có hàm lượng các-bon cao như dầu mỏ và khí tự nhiên. Giải pháp này giúp thúc đẩy các ngành kinh tế chuyển sang sử dụng công nghệ xanh và năng lượng tái tạo.\" Chọn các ý đúng trong các nhận định sau:",
+        "options": {
+          "a": "Thuế các-bon áp dụng với nhiên liệu có hàm lượng các-bon cao.",
+          "b": "Đánh thuế nhiên liệu hóa thạch nhằm khuyến khích sử dụng nhiều dầu mỏ hơn.",
+          "c": "Công nghệ xanh và năng lượng tái tạo giúp giảm ô nhiễm không khí.",
+          "d": "Thuế các-bon chỉ mang lại lợi ích kinh tế, không giúp hạn chế hiệu ứng nhà kính."
+        },
+        "answer": [
+          "a",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "nhieu_dap_an",
+        "question": "Đọc đoạn tư liệu: \"Từ cuối thế kỉ XX đến đầu thế kỉ XXI, số lượng người từ các châu lục, khu vực khác (châu Phi, Trung Đông,...) nhập cư vào châu Âu ngày càng nhiều. Theo Liên hợp quốc, riêng năm 2019, châu Âu đã tiếp nhận khoảng 82 triệu người di cư quốc tế.\" Chọn các ý đúng trong các nhận định sau:",
+        "options": {
+          "a": "Từ cuối thế kỉ XX, số người nhập cư vào châu Âu ngày càng tăng.",
+          "b": "Năm 2019, châu Âu tiếp nhận khoảng 100 triệu người di cư quốc tế.",
+          "c": "Nhập cư góp phần bổ sung nguồn lao động do già hóa dân số ở châu Âu.",
+          "d": "Người nhập cư tăng chủ yếu vì châu Âu có tỉ lệ gia tăng dân số tự nhiên cao và dân số trẻ."
+        },
+        "answer": [
+          "a",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Công thức nào sau đây đúng để tính diện tích một bộ phận khi biết diện tích tổng thể và tỉ lệ diện tích (dạng phân số)?",
+        "options": {
+          "a": "Diện tích bộ phận = Diện tích tổng thể + Tỉ lệ diện tích",
+          "b": "Diện tích bộ phận = Diện tích tổng thể - Tỉ lệ diện tích",
+          "c": "Diện tích bộ phận = Diện tích tổng thể \\times Tỉ lệ diện tích",
+          "d": "Diện tích bộ phận = Diện tích tổng thể \\div Tỉ lệ diện tích"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Công thức toán học chuẩn xác để tính mật độ dân số là gì?",
+        "options": {
+          "a": "Mật độ dân số = $\\frac{\\text{Diện tích}}{\\text{Dân số}}$",
+          "b": "Mật độ dân số = $\\frac{\\text{Dân số}}{\\text{Diện tích}}$",
+          "c": "Mật độ dân số = Dân số \\times Diện tích",
+          "d": "Mật độ dân số = Dân số + Diện tích"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Công thức nào sau đây dùng để tính diện tích bộ phận khi biết tỉ lệ phần trăm (%)?",
+        "options": {
+          "a": "Diện tích bộ phận = $\\frac{\\text{Diện tích tổng thể} \\times 100}{\\text{Tỉ lệ \\%}}$",
+          "b": "Diện tích bộ phận = $\\frac{\\text{Diện tích tổng thể} \\times \\text{Tỉ lệ \\%}}{100}$",
+          "c": "Diện tích bộ phận = $\\frac{\\text{Tỉ lệ \\%} \\times 100}{\\text{Diện tích tổng thể}}$",
+          "d": "Diện tích bộ phận = Diện tích tổng thể \\times Tỉ lệ \\% \\times 100"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Công thức nào giúp tìm ra diện tích tổng thể khi chỉ biết diện tích bộ phận và tỉ lệ phần trăm của bộ phận đó?",
+        "options": {
+          "a": "Diện tích tổng thể = $\\frac{\\text{Diện tích bộ phận} \\times \\text{Tỉ lệ \\%}}{100}$",
+          "b": "Diện tích tổng thể = Diện tích bộ phận \\times Tỉ lệ \\% \\times 100",
+          "c": "Diện tích tổng thể = $\\frac{\\text{Diện tích bộ phận} \\times 100}{\\text{Tỉ lệ \\%}}$",
+          "d": "Diện tích tổng thể = $\\frac{100 \\times \\text{Tỉ lệ \\%}}{\\text{Diện tích bộ phận}}$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Trong phép tính mật độ dân số, đơn vị chuẩn thường được sử dụng và ghi nhận kết quả là gì?",
+        "options": {
+          "a": "người/triệu km2",
+          "b": "triệu người/km2",
+          "c": "người/km2",
+          "d": "nghìn người/km2"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Một châu lục có diện tích 9,8 triệu km2, trong đó diện tích núi chiếm khoảng 1/4 diện tích châu lục. Diện tích núi của châu lục đó là bao nhiêu (làm tròn đến một chữ số thập phân)?",
+        "options": {
+          "a": "2,4 triệu km2",
+          "b": "2,5 triệu km2",
+          "c": "2,6 triệu km2",
+          "d": "3,0 triệu km2"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Năm 2023, một khu vực có diện tích 8,4 triệu km2 và dân số 420 triệu người. Trước khi tính mật độ dân số, cần đổi đơn vị 8,4 triệu km2 ra km2. Con số đúng là?",
+        "options": {
+          "a": "84.000 km2",
+          "b": "840.000 km2",
+          "c": "8.400.000 km2",
+          "d": "84.000.000 km2"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Năm 2023, một khu vực có diện tích 8,4 triệu km2 và dân số 420 triệu người. Mật độ dân số của khu vực này là bao nhiêu?",
+        "options": {
+          "a": "5 người/km2",
+          "b": "50 người/km2",
+          "c": "500 người/km2",
+          "d": "20 người/km2"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Một quốc gia có diện tích đất là 500.000 km2, trong đó đất rừng chiếm 64%. Diện tích đất rừng của quốc gia đó là bao nhiêu?",
+        "options": {
+          "a": "320.000 km2",
+          "b": "312.000 km2",
+          "c": "325.000 km2",
+          "d": "340.000 km2"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Rừng chiếm 60% diện tích lãnh thổ của một quốc gia. Biết diện tích rừng là 24 triệu ha. Diện tích lãnh thổ của quốc gia đó là bao nhiêu?",
+        "options": {
+          "a": "14,4 triệu ha",
+          "b": "30 triệu ha",
+          "c": "35 triệu ha",
+          "d": "40 triệu ha"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Châu Âu có diện tích khoảng 10,5 triệu km2, trong đó địa hình đồng bằng chiếm 2/3 diện tích. Diện tích đồng bằng của châu Âu là bao nhiêu?",
+        "options": {
+          "a": "6,5 triệu km2",
+          "b": "7,0 triệu km2",
+          "c": "7,5 triệu km2",
+          "d": "8,0 triệu km2"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Giả sử dân số châu Âu năm 2020 là 747 triệu người và diện tích là 10,5 triệu km2. Mật độ dân số trung bình của châu Âu năm 2020 xấp xỉ bao nhiêu (làm tròn đến hàng đơn vị)?",
+        "options": {
+          "a": "71 người/km2",
+          "b": "74 người/km2",
+          "c": "78 người/km2",
+          "d": "82 người/km2"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Khu vực nông thôn châu Âu có khoảng 190 triệu người, chiếm khoảng 25,4% tổng dân số. Nếu chỉ dùng hai dữ kiện này để tính ngược lại tổng dân số châu Âu, công thức nào sau đây được áp dụng đúng?",
+        "options": {
+          "a": "Tổng dân số = $\\frac{190 \\times 25,4}{100}$",
+          "b": "Tổng dân số = $\\frac{190 \\times 100}{25,4}$",
+          "c": "Tổng dân số = $\\frac{100 \\times 25,4}{190}$",
+          "d": "Tổng dân số = 190 \\times 25,4 \\times 100"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Lỗi tư duy (bẫy) phổ biến nhất của học sinh khi tính toán mật độ dân số là gì?",
+        "options": {
+          "a": "Nhân dân số với diện tích thay vì chia",
+          "b": "Lấy diện tích chia cho dân số thay vì lấy dân số chia cho diện tích",
+          "c": "Cộng dân số và diện tích",
+          "d": "Chia dân số cho 100"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Đổi đơn vị 420 triệu người thành số liệu để bấm máy tính hợp lệ nhất.",
+        "options": {
+          "a": "420.000.000",
+          "b": "4.200.000",
+          "c": "42.000.000",
+          "d": "420.000"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q16",
+        "type": "mot_dap_an",
+        "question": "Nếu mục tiêu đến năm 2030 của Liên minh châu Âu là bảo vệ ít nhất 30% diện tích đất liền và biển. Giả sử tổng diện tích đất liền cần áp dụng quy định là 4 triệu km2. Diện tích đưa vào bảo vệ nghiêm ngặt tối thiểu là bao nhiêu?",
+        "options": {
+          "a": "0,8 triệu km2",
+          "b": "1,2 triệu km2",
+          "c": "1,5 triệu km2",
+          "d": "2,0 triệu km2"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "Một châu lục X có dân số 500 triệu người sống trên diện tích 20 triệu km2. Mật độ dân số là bao nhiêu?",
+        "options": {
+          "a": "25 người/km2",
+          "b": "250 người/km2",
+          "c": "40 người/km2",
+          "d": "400 người/km2"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q18",
+        "type": "mot_dap_an",
+        "question": "Từ công thức Dạng 4: $\\text{Diện tích tổng thể} = \\frac{\\text{Diện tích bộ phận} \\times 100}{\\text{Tỉ lệ \\%}}$, nếu muốn tính ngược lại Tỉ lệ % khi biết Diện tích bộ phận và Diện tích tổng thể, công thức đúng là?",
+        "options": {
+          "a": "Tỉ lệ % = $\\frac{\\text{Diện tích tổng thể} \\times 100}{\\text{Diện tích bộ phận}}$",
+          "b": "Tỉ lệ % = $\\frac{\\text{Diện tích bộ phận} \\times 100}{\\text{Diện tích tổng thể}}$",
+          "c": "Tỉ lệ % = $\\frac{\\text{Diện tích bộ phận} \\times \\text{Diện tích tổng thể}}{100}$",
+          "d": "Tỉ lệ % = Diện tích bộ phận \\times Diện tích tổng thể \\times 100"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "Một bài toán tính mật độ dân số cho ra kết quả trên máy tính là 85,462 người/km2. Nếu đề bài yêu cầu \"làm tròn kết quả đến một chữ số thập phân\", đáp án nào sau đây được ghi vào bài thi?",
+        "options": {
+          "a": "85,4 người/km2",
+          "b": "85,5 người/km2",
+          "c": "85,46 người/km2",
+          "d": "86,0 người/km2"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "Tại một quốc gia, diện tích núi non là 3 triệu km2, chiếm 1/5 tổng diện tích lãnh thổ. Tổng diện tích lãnh thổ của quốc gia đó là bao nhiêu?",
+        "options": {
+          "a": "10 triệu km2",
+          "b": "12 triệu km2",
+          "c": "15 triệu km2",
+          "d": "18 triệu km2"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "Lịch sử 7",
+    "questions": [
+     
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Lãnh chúa phong kiến chủ yếu được hình thành từ những tầng lớp nào?",
+        "options": {
+          "a": "Thợ thủ công có nhiều tài sản.",
+          "b": "Nông dân tự do có nhiều ruộng đất.",
+          "c": "Tướng lĩnh, quý tộc người Giec-man.",
+          "d": "Người Rôma đầu hàng người Giec-man."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Hai giai cấp cơ bản trong xã hội phong kiến châu Âu là",
+        "options": {
+          "a": "chủ nô và nô lệ.",
+          "b": "địa chủ và nông dân.",
+          "c": "tư sản và nông dân.",
+          "d": "lãnh chúa và nông nô."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Trên lĩnh vực kinh tế, thành thị trung đại Tây Âu đã",
+        "options": {
+          "a": "hình thành kinh tế tự cung tự cấp.",
+          "b": "thúc đẩy kinh tế hàng hóa phát triển.",
+          "c": "kìm hãm kinh tế hàng hóa phát triển.",
+          "d": "thúc đẩy kinh tế tự cung tự cấp phát triển."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Mục đích của các cuộc phát kiến địa lý chủ yếu hướng đến",
+        "options": {
+          "a": "châu Mĩ La-tinh.",
+          "b": "các nước châu Phi.",
+          "c": "Vùng đất hoang sơ.",
+          "d": "Ấn Độ và phương Đông."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Các cuộc phát kiến địa lý thế kỉ XV nhằm mục đích",
+        "options": {
+          "a": "khám phá hình dạng quả địa cầu.",
+          "b": "tìm đường giao thương mới đến phương Đông.",
+          "c": "thực hiện di dân đến những vùng đất định cư mới.",
+          "d": "thử nghiệm khả năng chịu sóng gió của các con tàu."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Sự nảy sinh chủ nghĩa tư bản ở Tây Âu thời trung đại được biểu hiện thông qua việc ra đời của giai cấp",
+        "options": {
+          "a": "tư sản và công nhân.",
+          "b": "địa chủ và nông dân.",
+          "c": "quý tộc và nông dân.",
+          "d": "lãnh chúa và nông nô."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Một trong những nội dung của phong trào Văn hóa Phục Hưng là",
+        "options": {
+          "a": "đòi xóa bỏ các thành thị trung đại.",
+          "b": "đòi bỏ nhà máy của giai cấp tư sản.",
+          "c": "phê phán phong kiến và Giáo hội.",
+          "d": "đòi xóa bỏ các lãnh địa phong kiến."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Trong phong trào Văn hóa Phục Hưng, các nhà văn (Đan-tê, Xéc-van-tét, Sếch-pia...) đã",
+        "options": {
+          "a": "thay đổi cách nhìn về trái đất, vũ trụ.",
+          "b": "mở đường cho cuộc cách mạng bùng nổ.",
+          "c": "cổ vũ đấu tranh cho nền độc lập của các dân tộc.",
+          "d": "lên án sự tàn bạo, tham lam của tầng lớp phong kiến."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Trong phong trào Văn hóa Phục Hưng, nhiều nhà khoa học (Cô-péc-ních, Bru-nô, Ga-li-lê) đã",
+        "options": {
+          "a": "thay đổi cách nhìn về trái đất, vũ trụ.",
+          "b": "mở đầu cho cuộc cách mạng khoa học kĩ thuật.",
+          "c": "cổ vũ đấu tranh cho nền độc lập của các dân tộc.",
+          "d": "lên án sự tàn bạo, tham lam của tầng lớp phong kiến."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Triều đại phong kiến đầu tiên của Trung Quốc là",
+        "options": {
+          "a": "nhà Tùy.",
+          "b": "nhà Tần.",
+          "c": "nhà Hán.",
+          "d": "nhà Đường."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Để mở rộng lãnh thổ và phát triển, chế độ phong kiến Trung Quốc thời Đường thực hiện chính sách đối ngoại",
+        "options": {
+          "a": "hòa hoãn.",
+          "b": "đi xâm lược.",
+          "c": "bế quan tỏa cảng.",
+          "d": "không giao thương."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Để khuyến khích phát triển nông nghiệp, chế độ phong kiến Trung Quốc thời Đường thực hiện chính sách",
+        "options": {
+          "a": "hạn điền.",
+          "b": "quân điền.",
+          "c": "thu thuế lương thực.",
+          "d": "trưng thu lương thực thừa."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Ấn Độ thời Đê-li (thế kỉ XIII) thực quyền thuộc về",
+        "options": {
+          "a": "người theo Hồi giáo.",
+          "b": "người theo Phật giáo.",
+          "c": "người theo Hin-đu giáo.",
+          "d": "người theo Thiên Chúa giáo."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Đầu thế kỉ IV, vương triều thống nhất được Ấn Độ sau hơn 500 năm bị chia rẽ là",
+        "options": {
+          "a": "vương triều Đê-li.",
+          "b": "vương triều Hac-sa.",
+          "c": "vương triều Gup-ta.",
+          "d": "vương triều Mô-gôn."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Chế độ phong kiến Ấn Độ thời Gup-ta được xem là thời hoàng kim vì",
+        "options": {
+          "a": "đây là vương triều đã cai trị đất nước trong thời gian lâu nhất.",
+          "b": "thời này có kinh tế phát triển, xã hội ổn định, đời sống nhân dân sung túc.",
+          "c": "thời kì này nhiều tôn giáo cùng tồn tại, hòa hợp với nhau và cùng phát triển.",
+          "d": "thời này lãnh thổ được mở rộng chưa từng có trong lịch sử phát triển của đất nước."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "nhieu_dap_an",
+        "question": "Đọc đoạn tư liệu: \"Khi đế quốc Rô-ma sụp đổ, các thủ lĩnh người Giéc-man đã tự xưng vua, lập ra các vương quốc mới. Họ chia chác chiến lợi phẩm là những vùng đất rộng lớn của đế quốc cũ cho các chiến binh xuất sắc nhất\". Chọn các nhận định đúng.",
+        "options": {
+          "a": "Lãnh thổ của đế quốc Rô-ma sau khi sụp đổ bị chia thành nhiều vương quốc khác nhau.",
+          "b": "Giai cấp nông nô ở Tây Âu có nguồn gốc từ những chiến binh người Giéc-man xuất sắc."
+        },
+        "answer": [
+          "a"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "nhieu_dap_an",
+        "question": "Đọc đoạn tư liệu: \"Trong các thành thị, các phường hội dần bị thay thế bởi các công trường thủ công quy mô lớn. Tại đây, chủ xưởng cung cấp nguyên liệu, công cụ và trả lương cho hàng trăm công nhân. Ở nông thôn, phong trào 'rào đất cướp ruộng' của quý tộc đã đẩy hàng vạn nông dân vào cảnh bần cùng. Không còn đất đai, họ đổ xô về thành thị, trở thành nguồn cung lao động rẻ mạt cho các cơ sở sản xuất mới\". Chọn các nhận định đúng.",
+        "options": {
+          "a": "Giai cấp tư sản và vô sản là hai giai cấp mới được hình thành trong lòng xã hội phong kiến Tây Âu.",
+          "b": "Quan hệ giữa chủ xưởng và công nhân trong các công trường thủ công là quan hệ thuê mướn lao động.",
+          "c": "Phong trào \"rào đất cướp ruộng\" ở nông thôn là nguyên nhân chính dẫn đến sự ra đời của các công ty thương mại.",
+          "d": "Sự xuất hiện của các công trường thủ công chứng tỏ phương thức sản xuất phong kiến là phương thức sản xuất duy nhất lúc bấy giờ."
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "nhieu_dap_an",
+        "question": "Đọc đoạn tư liệu: \"Việc Giáo hoàng cho phép bán 'thẻ miễn tội' khắp châu Âu để lấy tiền xây dựng thánh đường đã vấp phải làn sóng phản đối dữ dội. Nhiều tu sĩ tiến bộ cho rằng con người được cứu rỗi bằng chính đức tin của mình chứ không phải qua các nghi lễ rườm rà hay việc mua bán sự tha thứ. Phong trào phản đối này nhanh chóng nhận được sự hậu thuẫn mạnh mẽ từ các thương nhân, những người đang cần một tôn giáo thực tế hơn, ít tốn kém hơn để tích lũy vốn\". Chọn các nhận định đúng.",
+        "options": {
+          "a": "Một trong những nội dung của phong trào Cải cách tôn giáo là đòi bãi bỏ các hủ tục, lễ nghi phiền toái.",
+          "b": "Nguyên nhân sâu xa làm bùng nổ phong trào Cải cách tôn giáo là do giáo lí cũ của Giáo hội ủng hộ mạnh mẽ các hoạt động làm giàu của giai cấp tư sản.",
+          "c": "Việc bán \"thẻ miễn tội\" là minh chứng rõ nét cho sự suy thoái về đạo đức của Giáo hội đương thời.",
+          "d": "Tác động của phong trào cải cách tôn giáo là giúp Thiên Chúa giáo thống nhất thành một khối và củng cố quyền lực tuyệt đối của Giáo hoàng."
+        },
+        "answer": [
+          "a",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "nhieu_dap_an",
+        "question": "Đọc đoạn tư liệu: \"Ở triều đại nhà Đường, trên các tuyến phố, người ta có thể tìm thấy hàng hóa từ khắp châu Á. Những đoàn lạc đà tấp nập qua lại trên các sa mạc phía Tây đã đưa lụa là, gốm sứ của Trung Hoa đến tận Trung Á và châu Âu, mang về hương liệu và châu báu\". Chọn các nhận định đúng.",
+        "options": {
+          "a": "Nội dung đoạn tư liệu cho thấy nông nghiệp ở Trung Quốc phát triển nhất châu Á lúc bấy giờ.",
+          "b": "Từ nội dung đoạn trích đề cập đến hoạt động giao thương trên \"con đường tơ lụa\".",
+          "c": "Chế độ phong kiến Trung Quốc thời Đường có hoạt động thương nghiệp phát triển.",
+          "d": "Nhà Đường là một trong những triều đại kém phát triển trong lịch sử phong kiến Trung Quốc."
+        },
+        "answer": [
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "nhieu_dap_an",
+        "question": "Đọc đoạn tư liệu: \"Sau khi thành lập, vương triều Đê-li đã áp đặt thuế tôn giáo lên những người không theo đạo Hồi, cấm đoán nhiều nghi lễ bản địa, gây ra sự bất mãn và kháng cự liên tục. Tuy nhiên, vào thế kỉ XVI khi một vị hoàng đế kiệt xuất lên trị vì. Ông đã bãi bỏ hoàn toàn thuế tôn giáo, cho phép xây dựng lại các đền đài Hin-đu, đồng thời mạnh dạn bổ nhiệm các quan chức người bản địa vào bộ máy cai trị. Nhờ chính sách dung hòa này, đế chế của ông đã đạt đến đỉnh cao của sự thịnh vượng và ổn định\". Chọn các nhận định đúng.",
+        "options": {
+          "a": "Vương triều Đê-li được thành lập sau khi người Hồi giáo đã lật đổ vương triều Mô-gôn.",
+          "b": "\"Vị hoàng đế kiệt xuất\" lên trị vì vào thế kỉ XVI được đoạn trích nhắc đến chính là vua A-cơ-ba, người đã có công xây dựng khối hòa hợp dân tộc.",
+          "c": "Việc bãi bỏ thuế tôn giáo và bổ nhiệm quan chức người Hin-đu cho thấy vị hoàng đế thế kỉ XVI đã quyết định xóa bỏ hoàn toàn Hồi giáo ra khỏi lãnh thổ Ấn Độ.",
+          "d": "Từ chính sách của vua Đê-li thế kỉ XVI cho thấy: sự khoan dung, tôn trọng tín ngưỡng là cơ sở để ổn định và phát triển quốc gia."
+        },
+        "answer": [
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      }
+ 
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "Công nghệ 7",
+    "questions": [
+ 
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Đâu không phải là vai trò của trồng trọt đối với đời sống con người và nền kinh tế?",
+        "options": {
+          "a": "Cung cấp lương thực, thực phẩm cho con người.",
+          "b": "Cung cấp thức ăn cho ngành chăn nuôi.",
+          "c": "Cung cấp nguyên liệu cho ngành công nghiệp chế biến và xuất khẩu.",
+          "d": "Cung cấp năng lượng điện phục vụ cho sinh hoạt gia đình."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Ở nước ta hiện nay, có bao nhiêu phương thức trồng trọt phổ biến?",
+        "options": {
+          "a": "1 phương thức.",
+          "b": "2 phương thức.",
+          "c": "3 phương thức.",
+          "d": "4 phương thức."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Người làm nhiệm vụ nghiên cứu, ứng dụng các kỹ thuật trồng trọt hiện đại để tăng năng suất và chất lượng cây trồng được gọi là:",
+        "options": {
+          "a": "Kĩ sư trồng trọt.",
+          "b": "Kĩ sư bảo vệ thực vật.",
+          "c": "Kĩ sư chọn giống cây trồng.",
+          "d": "Công nhân lâm nghiệp."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Nghề kĩ sư bảo vệ thực vật có nhiệm vụ chính là gì?",
+        "options": {
+          "a": "Nghiên cứu để lai tạo ra các loại hạt giống mới chống chịu hạn tốt.",
+          "b": "Nghiên cứu, dự báo và phòng trừ các tác hại của sâu, bệnh đối với cây trồng.",
+          "c": "Nghiên cứu cấu trúc cơ học của đất trồng và các loại phân hóa học.",
+          "d": "Thu hoạch và bảo quản nông sản sau khi đem từ đồng ruộng về."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Loại cây trồng nào dưới đây thuộc nhóm cây lương thực?",
+        "options": {
+          "a": "Cây cải ngọt.",
+          "b": "Cây xoài.",
+          "c": "Cây ngô (bắp).",
+          "d": "Cây hoa hồng."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Nhóm cây trồng nào sau đây được phân loại theo mục đích sử dụng là \"Cây công nghiệp\"?",
+        "options": {
+          "a": "Cà phê, hồ tiêu, cao su, chè.",
+          "b": "Rau muống, su hào, súp lơ.",
+          "c": "Lúa nước, khoai lang, khoai tây.",
+          "d": "Hoa lan, hoa mai, cây vạn tuế."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Phát biểu nào sau đây thể hiện đúng đặc điểm của phương thức trồng trọt ngoài tự nhiên?",
+        "options": {
+          "a": "Chi phí đầu tư ban đầu rất cao do cần xây dựng nhà kính hiện đại.",
+          "b": "Mọi quá trình sinh trưởng của cây đều phụ thuộc hoàn toàn vào điều kiện thời tiết.",
+          "c": "Giúp con người hoàn toàn chủ động điều chỉnh nhiệt độ, độ ẩm và ánh sáng.",
+          "d": "Chỉ áp dụng được cho các loại hoa cao cấp như lan Hồ Điệp hay hoa ly."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Vì sao phương thức trồng trọt trong nhà có mái che ngày càng được đầu tư phát triển mạnh mẽ?",
+        "options": {
+          "a": "Vì phương thức này không tốn kém chi phí lắp đặt hệ thống tưới và khung nhà.",
+          "b": "Vì phương thức này giúp nông dân thu hoạch nông sản mà không cần tốn công chăm sóc.",
+          "c": "Vì giúp bảo vệ cây trồng trước thời tiết khắc nghiệt, sâu bệnh và tạo ra nông sản sạch, chất lượng cao.",
+          "d": "Vì phương thức này phù hợp với tất cả các loại cây trồng diện tích lớn như lúa nước hay rừng cao su."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Trồng trọt theo phương thức kết hợp (giữa tự nhiên và nhà có mái che) mang lại lợi ích gì?",
+        "options": {
+          "a": "Giúp luân chuyển cây trồng hợp lý, tối ưu hóa chi phí đầu tư và nâng cao năng suất.",
+          "b": "Giúp cây trồng lớn nhanh gấp 10 lần so với các phương thức thông thường khác.",
+          "c": "Loại bỏ hoàn toàn sự xuất hiện của tất cả các loài vi khuẩn trong đất.",
+          "d": "Tiết kiệm 100% lượng phân bón cần thiết trong suốt cả vụ mùa."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Xu hướng phát triển của trồng trọt ở Việt Nam và thế giới hiện nay hướng tới mục tiêu nào sau đây?",
+        "options": {
+          "a": "Tăng cường sử dụng tối đa thuốc hóa học để diệt sạch sâu bọ càng nhanh càng tốt.",
+          "b": "Thu hẹp diện tích đất trồng trọt để chuyển toàn bộ sang làm nhà máy công nghiệp.",
+          "c": "Phát triển trồng trọt công nghệ cao, ứng dụng cơ giới hóa, đảm bảo an toàn sinh học và thân thiện với môi trường.",
+          "d": "Ngừng hoàn toàn việc xuất khẩu nông sản ra nước ngoài để chỉ tiêu thụ trong nước."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Một người có đam mê nghiên cứu cấu trúc di truyền, thực hiện thụ phấn chéo để tạo ra các giống lúa chịu mặn, chịu hạn tốt cho vùng Đồng bằng sông Cửu Long. Người này phù hợp nhất với ngành nghề nào?",
+        "options": {
+          "a": "Kĩ sư bảo vệ thực vật.",
+          "b": "Kĩ sư chọn giống cây trồng.",
+          "c": "Kĩ sư chăn nuôi thú y.",
+          "d": "Kĩ sư chế biến lâm sản."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Gia đình bạn An trồng một vườn rau cải ngoài bãi đất trống sau nhà. Vào mùa đông, thời tiết xuất hiện các đợt sương muối khiến rau bị héo úa và chết hàng loạt. Để khắc phục triệt để tình trạng này cho các vụ sau, gia đình An nên chuyển sang áp dụng phương thức trồng trọt nào?",
+        "options": {
+          "a": "Giữ nguyên trồng ngoài tự nhiên và tưới thêm thật nhiều nước vào buổi trưa.",
+          "b": "Thiết kế khung làm nhà lưới hoặc nhà màng có mái che cho vườn rau.",
+          "c": "Bón thật nhiều phân đạm hóa học để rau có sức tự chống lại sương muối.",
+          "d": "Chuyển sang trồng rau ở trong phòng kín không có ánh sáng mặt trời."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Đất trồng bao gồm những thành phần chính nào?",
+        "options": {
+          "a": "Phần rắn và phần lỏng.",
+          "b": "Phần rắn và phần khí.",
+          "c": "Phần lỏng và phần khí.",
+          "d": "Phần rắn, phần lỏng và phần khí."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Thành phần nào của đất trồng có vai trò cung cấp nước cho cây, giúp hòa tan các chất dinh dưỡng để rễ cây dễ dàng hấp thụ?",
+        "options": {
+          "a": "Phần rắn.",
+          "b": "Phần lỏng.",
+          "c": "Phần khí.",
+          "d": "Phần chất hữu cơ."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Quy trình làm đất trồng cây theo đúng thứ tự các bước thông thường là:",
+        "options": {
+          "a": "Cày đất - Bừa và đập nhỏ đất - Lên luống.",
+          "b": "Bừa đất - Cày đất - Lên luống.",
+          "c": "Lên luống - Cày đất - Bừa và đập nhỏ đất.",
+          "d": "Đập nhỏ đất - Lên luống - Cày đất."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "mot_dap_an",
+        "question": "Công việc nào sau đây không phải là một bước trong quy trình làm đất trồng cây?",
+        "options": {
+          "a": "Cày lật đất.",
+          "b": "Bừa đất và đập nhỏ đất.",
+          "c": "Lên luống đất.",
+          "d": "Gieo hạt giống."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "Việc bón phân vào đất trước khi gieo trồng được gọi là gì?",
+        "options": {
+          "a": "Bón lót.",
+          "b": "Bón thúc.",
+          "c": "Bón phun qua lá.",
+          "d": "Bón trực tiếp vào quả."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "mot_dap_an",
+        "question": "Tại sao trong quy trình làm đất, người ta phải tiến hành bước cày đất thật kỹ?",
+        "options": {
+          "a": "Để làm cho đất trở nên cứng và chặt hơn, giúp giữ chặt gốc cây.",
+          "b": "Để rửa trôi hoàn toàn mọi chất dinh dưỡng có sẵn trong đất.",
+          "c": "Để lật úp lớp đất mặt bên trên xuống, làm tăng độ dày của lớp đất trồng, giúp đất thông thoáng và chôn vùi cỏ dại.",
+          "d": "Để làm cho đất mịn như cát giúp hạt giống dễ bay trong gió."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "Mục đích chính của việc bừa và đập nhỏ đất sau khi cày là gì?",
+        "options": {
+          "a": "Làm cho đất tơi xốp, nhỏ, vụn, giúp rễ cây dễ phát triển và dễ tiếp xúc với chất dinh dưỡng.",
+          "b": "Làm cho các cục đất to hơn để cản bớt gió bão thổi bay cây con.",
+          "c": "Ép hết toàn bộ không khí ra khỏi đất để đất giữ nước được lâu hơn.",
+          "d": "Tiêu diệt các loại giun đất có lợi sinh sống dưới lòng đất."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "Việc lên luống cho đất trồng thường bắt buộc áp dụng đối với nhóm cây trồng nào sau đây?",
+        "options": {
+          "a": "Các loại cây thân gỗ lớn sống lâu năm như cây xà cừ, cây cao su.",
+          "b": "Các loại cây ngắn ngày, cây hoa, cây rau, cây lấy củ dễ bị ngập úng.",
+          "c": "Các loại rong, tảo nuôi trồng trực tiếp dưới mặt nước hồ.",
+          "d": "Cây lúa nước trồng trong điều kiện ngập tràn nước quanh năm."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "mot_dap_an",
+        "question": "Thành phần phần khí (không khí) trong đất trồng có vai trò quan trọng như thế nào đối với cây?",
+        "options": {
+          "a": "Cung cấp nước cho thân và lá cây quang hợp.",
+          "b": "Giúp giữ cho cây đứng vững không bị đổ khi có gió lớn.",
+          "c": "Cung cấp khí oxy cho rễ cây hô hấp.",
+          "d": "Cung cấp chất đạm trực tiếp cho rễ cây hấp thụ mà không cần phân bón."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "mot_dap_an",
+        "question": "Nhà bạn Minh chuẩn bị trồng một luống rau xà lách ở ban công. Minh thấy bố lấy đất cũ trong chậu ra, dùng xẻng nhỏ xới đều lên, nhặt sạch rác, rải một lớp phân vi sinh rồi trộn đều, sau đó phơi nắng 2 ngày trước khi gieo hạt. Hành động phơi nắng đất của bố bạn Minh nhằm mục đích gì?",
+        "options": {
+          "a": "Để làm cho đất bay bớt mùi hôi của phân bón.",
+          "b": "Để đất hút thêm ánh sáng giúp ban đêm tự phát sáng.",
+          "c": "Để tận dụng nhiệt độ và tia cực tím của ánh nắng mặt trời tiêu diệt các loại nấm, mầm bệnh và trứng côn trùng ẩn nấp trong đất cũ.",
+          "d": "Để làm cho đất biến thành đất sét phục vụ việc nặn đồ chơi."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "mot_dap_an",
+        "question": "Sau một trận mưa rào rất lớn kéo dài nhiều giờ, bạn Hoa quan sát thấy mặt đất trong vườn bị nén chặt lại, nước đọng thành vũng và các cây ớt bắt đầu có hiện tượng rũ lá xuống. Để cứu hàng cây ớt không bị chết úng, Hoa nên thực hiện ngay hành động nào sau đây sau khi nước rút?",
+        "options": {
+          "a": "Tiếp tục tưới thêm thật nhiều nước sạch vào gốc cây ớt.",
+          "b": "Bón thật nhiều phân đạm hóa học để cây có sức khỏe.",
+          "c": "Khơi thông rãnh thoát nước và nhẹ nhàng xới xáo mặt đất xung quanh gốc cây để phá váng, tạo độ thông thoáng cho đất.",
+          "d": "Nhổ cây ớt lên và cắt bỏ toàn bộ hệ thống rễ của cây."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "mot_dap_an",
+        "question": "Tiêu chí nào sau đây là quan trọng nhất khi lựa chọn hạt giống để gieo trồng?",
+        "options": {
+          "a": "Hạt giống phải có màu sắc càng sặc sỡ càng tốt.",
+          "b": "Hạt giống phải có kích thước lớn gấp đôi hạt bình thường.",
+          "c": "Hạt giống phải có tỉ lệ nảy mầm cao, kích thước đồng đều, không mang mầm bệnh.",
+          "d": "Hạt giống phải được ngâm trong nước muối suốt một tháng."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "mot_dap_an",
+        "question": "Công việc nào sau đây thuộc quy trình chăm sóc cây trồng?",
+        "options": {
+          "a": "Cày lật đất và phơi ải.",
+          "b": "Lên luống và bón lót phân chuồng.",
+          "c": "Tỉa cây, dặm cây, làm cỏ và vun gốc.",
+          "d": "Thu hoạch nông sản bằng máy cắt."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "mot_dap_an",
+        "question": "Việc loại bỏ các cây yếu, cây bị sâu bệnh và giữ lại những cây khỏe mạnh, phân bố đều trên ruộng được gọi là gì?",
+        "options": {
+          "a": "Dặm cây.",
+          "b": "Tỉa cây.",
+          "c": "Vun gốc.",
+          "d": "Làm cỏ."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "mot_dap_an",
+        "question": "Nguyên tắc cốt lõi, quan trọng nhất trong việc phòng trừ sâu, bệnh hại cho cây trồng là gì?",
+        "options": {
+          "a": "Trừ là chính.",
+          "b": "Phòng là chính.",
+          "c": "Phun thuốc hóa học định kỳ mỗi ngày.",
+          "d": "Chờ sâu bệnh phá hoại nặng mới xử lý."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "mot_dap_an",
+        "question": "Thời điểm nào trong ngày là thích hợp nhất để tiến hành tưới nước cho hầu hết các loại cây trồng?",
+        "options": {
+          "a": "Buổi trưa khi nắng gắt nhất.",
+          "b": "Sáng sớm hoặc chiều muộn.",
+          "c": "Nửa đêm lúc nhiệt độ xuống thấp nhất.",
+          "d": "Bất kỳ lúc nào rảnh rỗi mà không cần cố định thời gian."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "mot_dap_an",
+        "question": "Mục đích chính của việc tiến hành làm cỏ, vun gốc thường xuyên cho cây trồng là gì?",
+        "options": {
+          "a": "Để làm cho đất xung quanh gốc cây bị nén chặt lại, không cho nước thấm vào.",
+          "b": "Loại bỏ sự cạnh tranh dinh dưỡng của cỏ dại, giúp đất thông thoáng và giữ cho cây đứng vững.",
+          "c": "Thích lệ các loài sâu đục thân tìm đến làm tổ dưới gốc cây.",
+          "d": "Thay đổi màu sắc của phần đất bề mặt từ màu nâu sang màu đen."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "mot_dap_an",
+        "question": "Tại sao khi gieo trồng cây, người ta phải chú ý tuân thủ nghiêm ngặt về thời vụ gieo trồng?",
+        "options": {
+          "a": "Để giúp người nông dân có thể nghỉ ngơi nhiều hơn trong năm.",
+          "b": "Để hạn chế tối đa việc phải sử dụng các dụng cụ lao động bằng sắt.",
+          "c": "Giúp cây trồng sinh trưởng trong điều kiện khí hậu phù hợp nhất, từ đó đạt năng suất cao và giảm thiểu sâu bệnh.",
+          "d": "Vì tất cả các loại cây trồng trên thế giới đều chỉ có thể gieo vào mùa xuân."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q31",
+        "type": "mot_dap_an",
+        "question": "Nhược điểm lớn nhất của phương pháp phòng trừ sâu, bệnh bằng biện pháp hóa học (sử dụng thuốc trừ sâu hóa học) là gì?",
+        "options": {
+          "a": "Tốn rất nhiều công sức để bắt từng con sâu bằng tay.",
+          "b": "Không mang lại hiệu quả tiêu diệt sâu hại nhanh chóng.",
+          "c": "Dễ gây ô nhiễm môi trường, tích tụ độc tố trong nông sản, làm chết các sinh vật có ích và gây hại cho sức khỏe con người.",
+          "d": "Làm cho đất trồng bị biến thành đất cát lún rất nhanh."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q32",
+        "type": "mot_dap_an",
+        "question": "Bác Tâm gieo hạt giống ngô (bắp) ngoài đồng. Sau một tuần, ngô nảy mầm rất đều nhưng có một vài vị trí hạt giống bị kiến hoặc chuột tha mất nên xuất hiện các khoảng đất trống không có cây. Để đảm bảo mật độ cây ngô đầy đủ trên ruộng, bác Tâm cần thực hiện ngay công việc chăm sóc nào?",
+        "options": {
+          "a": "Tiến hành tỉa bớt những cây ngô khỏe mạnh ở chỗ khác đi.",
+          "b": "Tiến hành dặm cây bằng cách trồng bổ sung hạt giống hoặc cây con vào các chỗ trống.",
+          "c": "Phun một lượng lớn phân bón lá hóa học vào khoảng đất trống.",
+          "d": "Cày lật toàn bộ thửa ruộng lên để gieo lại từ đầu."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q33",
+        "type": "mot_dap_an",
+        "question": "Đâu không phải là một trong những yêu cầu cốt lõi của việc thu hoạch sản phẩm trồng trọt?",
+        "options": {
+          "a": "Thu hoạch đúng độ chín của từng loại nông sản.",
+          "b": "Tiến hành nhanh gọn và cẩn thận.",
+          "c": "Sử dụng phương pháp và dụng cụ thu hoạch phù hợp.",
+          "d": "Thu hoạch vào lúc trời mưa to để nông sản được rửa sạch tự nhiên."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q34",
+        "type": "mot_dap_an",
+        "question": "Loại nông sản nào sau đây thường được thu hoạch chủ yếu bằng phương pháp nhổ?",
+        "options": {
+          "a": "Củ cải, cà rốt, lạc (đậu phộng), sắn (khoai mì).",
+          "b": "Quả nhãn, quả xoài, quả cam.",
+          "c": "Hạt lúa, rau muống, rau cải.",
+          "d": "Hoa hồng, hoa cúc, hoa ly."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q35",
+        "type": "mot_dap_an",
+        "question": "Phương pháp thu hoạch nào thường được áp dụng cho các loại quả thân gỗ như nhãn, vải, chôm chôm, bưởi?",
+        "options": {
+          "a": "Đào.",
+          "b": "Hái (hoặc cắt).",
+          "c": "Nhổ.",
+          "d": "Tuốt."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q36",
+        "type": "mot_dap_an",
+        "question": "Cây khoai tây và khoai lang khi thu hoạch trên diện tích đất lớn thường sử dụng phương pháp nào là chủ yếu?",
+        "options": {
+          "a": "Hái.",
+          "b": "Nhổ bằng tay.",
+          "c": "Đào (bằng cuốc hoặc máy đào củ).",
+          "d": "Cắt bằng liềm."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q37",
+        "type": "mot_dap_an",
+        "question": "Nông sản nào dưới đây áp dụng phương pháp thu hoạch bằng cách cắt?",
+        "options": {
+          "a": "Hoa tươi, rau muống, lúa nước.",
+          "b": "Củ cải trắng, củ sắn.",
+          "c": "Quả sầu riêng, quả dừa.",
+          "d": "Củ lạc, củ khoai tây."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q38",
+        "type": "mot_dap_an",
+        "question": "Việc thu hoạch nông sản quá muộn (quá độ chín tối ưu) sẽ dẫn đến hậu quả gì trực tiếp?",
+        "options": {
+          "a": "Làm cho nông sản có kích thước nhỏ lại.",
+          "b": "Nông sản bị quá chín, giảm chất lượng dinh dưỡng, dễ bị thối rữa hoặc rơi rụng ngoài đồng.",
+          "c": "Hạt giống bên trong quả biến mất hoàn toàn.",
+          "d": "Cây trồng sẽ tự động sinh trưởng thêm một vòng đời mới."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q39",
+        "type": "mot_dap_an",
+        "question": "Tại sao nói việc thu hoạch sản phẩm trồng trọt phải đảm bảo yêu cầu \"đúng độ chín\"?",
+        "options": {
+          "a": "Để người nông dân bán được giá cao gấp 10 lần thị trường.",
+          "b": "Vì lúc này nông sản đạt khối lượng tối đa và chất lượng (dinh dưỡng, hương vị, thẩm mỹ) tốt nhất.",
+          "c": "Để tất cả các loại cây trồng đều có thể thu hoạch cùng một ngày trong năm.",
+          "d": "Giúp cho nông sản có thể tự bảo quản vô thời hạn mà không bao giờ bị hỏng."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 40,
+        "id": "q40",
+        "type": "mot_dap_an",
+        "question": "Nhà bạn Nam có một vườn xoài cát Hòa Lộc sắp đến ngày thu hoạch. Bố Nam quan sát thấy một số quả xoài phần vấu quả đã chín vàng, da căng mọng. Bố bảo Nam chuẩn bị sào hái có gắn giỏ lưới ở đầu để hái xoài. Tại sao bố Nam không đợi xoài chín rụng xuống đất rồi nhặt mà phải dùng sào có giỏ để hái từng quả?",
+        "options": {
+          "a": "Vì đợi xoài rụng sẽ làm cho kiến bò vào trong ruột quả ăn hết thịt xoài.",
+          "b": "Vì xoài rụng xuống đất sẽ bị biến đổi thành quả quả bưởi.",
+          "c": "Vì xoài rụng từ trên cao xuống sẽ bị dập nát, xây xát vỏ làm quả nhanh thối và mất giá trị thẩm mỹ khi bán.",
+          "d": "Vì dùng sào hái giúp Nam tập thể dục tăng chiều cao tốt hơn."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 41,
+        "id": "q41",
+        "type": "mot_dap_an",
+        "question": "Bác An trồng một ruộng cà chua để bán cho nhà máy chế biến tương cà xuất khẩu. Nhà máy yêu cầu cà chua phải đạt độ chín đồng đều (màu đỏ đều), không được có quả xanh và quả thối. Để đáp ứng tiêu chuẩn khắt khe này của đối tác, bác An nên lựa chọn hình thức thu hoạch nào tối ưu nhất?",
+        "options": {
+          "a": "Dùng máy gặt cắt cụt toàn bộ cây cà chua một lần duy nhất rồi cho vào bao.",
+          "b": "Thu hoạch thủ công bằng tay, tiến hành nhiều đợt (hái chọn lọc những quả đã chín đỏ, để lại quả xanh cho đợt sau).",
+          "c": "Phun thuốc hóa học làm cho tất cả quả xanh rụng hết, chỉ lấy quả chín trên cây.",
+          "d": "Thu hoạch tất cả các quả cùng một lúc bất kể xanh hay chín rồi dùng sơn đỏ tô lên."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 42,
+        "id": "q42",
+        "type": "mot_dap_an",
+        "question": "Một chủ trang trại trồng hoa hồng ngoại xuất khẩu sang Nhật Bản. Để đảm bảo hoa khi đến tay người tiêu dùng ở nước bạn vẫn còn tươi nguyên, cánh hoa không bị bung nở sớm trong quá trình vận chuyển đường dài bằng đường hàng không, chủ trang trại nên thu hoạch hoa vào thời điểm nào là đúng kỹ thuật nhất?",
+        "options": {
+          "a": "Thu hoạch khi bông hoa đã nở bung hết cỡ, nhìn rõ nhụy hoa bên trong.",
+          "b": "Thu hoạch từ khi hoa còn là nụ bé tí, chưa có màu sắc rõ ràng.",
+          "c": "Thu hoạch khi hoa ở giai đoạn \"độ chín nụ\" (nụ hoa đã hé nở nhẹ, cánh hoa ngoài cùng bắt đầu tách ra và lộ rõ màu sắc).",
+          "d": "Thu hoạch vào lúc nửa đêm và ngâm toàn bộ bông hoa ngập trong nước sôi."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 43,
+        "id": "q43",
+        "type": "mot_dap_an",
+        "question": "Bản chất của phương pháp nhân giống vô tính cây trồng là gì?",
+        "options": {
+          "a": "Sử dụng hạt giống để tạo ra cây con hoàn toàn mới.",
+          "b": "Tạo ra cây con trực tiếp từ các bộ phận sinh dưỡng của cây mẹ.",
+          "c": "Kết hợp tế bào sinh dục đực và tế bào sinh dục cái của hoa.",
+          "d": "Nuôi dưỡng cây con trong môi trường nước hoàn toàn không có đất."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 44,
+        "id": "q44",
+        "type": "mot_dap_an",
+        "question": "Các phương pháp nhân giống vô tính phổ biến nhất đang được áp dụng trong trồng trọt hiện nay bao gồm:",
+        "options": {
+          "a": "Gieo hạt, cấy mô, trồng bằng củ.",
+          "b": "Trồng bằng rễ, thụ phấn chéo, giâm cành.",
+          "c": "Giâm cành, chiết cành, ghép cành.",
+          "d": "Thủy canh, khí canh, gieo hạt trong nhà kính."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 45,
+        "id": "q45",
+        "type": "mot_dap_an",
+        "question": "Phương pháp cắt một đoạn cành khỏe mạnh từ cây mẹ, sau đó cắm vào đất ẩm hoặc giá thể để đoạn cành đó tự ra rễ và phát triển thành cây mới gọi là gì?",
+        "options": {
+          "a": "Giâm cành.",
+          "b": "Chiết cành.",
+          "c": "Ghép cành.",
+          "d": "Nuôi cấy mô."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 46,
+        "id": "q46",
+        "type": "mot_dap_an",
+        "question": "Quy trình công nghệ giâm cành gồm có bao nhiêu bước chính?",
+        "options": {
+          "a": "3 bước.",
+          "b": "4 bước.",
+          "c": "5 bước.",
+          "d": "6 bước."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 47,
+        "id": "q47",
+        "type": "mot_dap_an",
+        "question": "Phương pháp bóc một khoanh vỏ của cành cây trên cây mẹ, bó đất xung quanh chỗ bóc vỏ, đợi khi vị trí đó mọc rễ mới cắt cành đem đi trồng gọi là:",
+        "options": {
+          "a": "Ghép mắt.",
+          "b": "Giâm cành.",
+          "c": "Chiết cành.",
+          "d": "Gieo hạt."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 48,
+        "id": "q48",
+        "type": "mot_dap_an",
+        "question": "Cây con được tạo ra bằng các phương pháp nhân giống vô tính có đặc điểm di truyền như thế nào so với cây mẹ?",
+        "options": {
+          "a": "Mang những đặc điểm hoàn toàn khác biệt và mới lạ so với cây mẹ.",
+          "b": "Chỉ giữ lại được những đặc điểm xấu của cây mẹ.",
+          "c": "Giữ nguyên được các đặc tính di truyền ban đầu của cây mẹ.",
+          "d": "Luôn luôn có kích thước lớn gấp đôi cây mẹ."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 49,
+        "id": "q49",
+        "type": "mot_dap_an",
+        "question": "Ưu điểm lớn nhất của phương pháp nhân giống vô tính so với phương pháp nhân giống hữu tính (gieo bằng hạt) là gì?",
+        "options": {
+          "a": "Giúp cây con có bộ rễ cọc cắm sâu vào lòng đất chắc chắn hơn.",
+          "b": "Rút ngắn thời gian sinh trưởng, giúp cây nhanh ra hoa, kết quả và giữ được đặc tính tốt của cây mẹ.",
+          "c": "Tiết kiệm 100% lượng nước tưới cần thiết cho cây trong cả vòng đời.",
+          "d": "Làm cho cây có khả năng tự động tiêu diệt toàn bộ các loại sâu bệnh."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 50,
+        "id": "q50",
+        "type": "mot_dap_an",
+        "question": "Tại sao phương pháp chiết cành thường ít khi được áp dụng để nhân giống với số lượng lớn hàng vạn cây giống trong các trang trại công nghiệp?",
+        "options": {
+          "a": "Vì chiết cành làm cho cây mẹ bị chết ngay lập tức sau khi bó đất.",
+          "b": "Vì cây chiết cành không bao giờ có khả năng cho ra quả ngọt.",
+          "c": "Vì phương pháp này tốn nhiều công sức, hệ số nhân giống thấp và dễ làm hư hại, suy yếu cây mẹ nếu chiết quá nhiều cành.",
+          "d": "Vì chiết cành đòi hỏi phải sử dụng các loại máy móc robot cực kỳ đắt tiền."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 51,
+        "id": "q51",
+        "type": "mot_dap_an",
+        "question": "Trong quy trình giâm cành, mục đích của bước Xử lý cành giâm bằng cách nhúng phần gốc cành vào dung dịch chất kích thích ra rễ là gì?",
+        "options": {
+          "a": "Để tiêu diệt toàn bộ các loại giun đất sống xung quanh.",
+          "b": "Thúc đẩy quá trình hình thành rễ mới nhanh hơn, mạnh hơn và tăng tỷ lệ sống của cành giâm.",
+          "c": "Giúp cành giâm có thể đổi màu sắc lá theo ý muốn của người trồng.",
+          "d": "Làm cho cành giâm cứng như đá để cắm vào đất không bị gãy."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 52,
+        "id": "q52",
+        "type": "mot_dap_an",
+        "question": "Nhà bạn Nam có một cây bưởi diễn quả rất ngọt và sai. Nam muốn tự tay nhân giống cây bưởi này thành 3 cây con để đem tặng cho các bác trong họ trồng ở vườn nhà. Theo em, Nam nên ưu tiên lựa chọn phương pháp nhân giống vô tính nào để vừa đơn giản, dễ làm tại nhà mà lại đảm bảo cây con nhanh cho quả ngọt giống hệt cây mẹ?",
+        "options": {
+          "a": "Phương pháp giâm cành bưởi.",
+          "b": "Phương pháp chiết cành bưởi.",
+          "c": "Phương pháp nuôi cấy mô tế bào bưởi.",
+          "d": "Lấy hạt quả bưởi chín đem gieo xuống đất."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 53,
+        "id": "q53",
+        "type": "mot_dap_an",
+        "question": "Một chủ vườn hoa muốn nhân giống hàng loạt hàng nghìn cây hoa hồng cổ Hải Phòng trong thời gian ngắn để kịp bán vào dịp Tết. Phương pháp gieo hạt không giữ được đặc tính của hoa gốc, còn chiết cành thì quá tốn công và không đủ cành. Chủ vườn nên áp dụng giải pháp nào?",
+        "options": {
+          "a": "Chuyển sang trồng hoa nhựa để bán thay cho hoa thật.",
+          "b": "Cắt các đoạn cành bánh tẻ khỏe mạnh để thực hiện giâm cành hàng loạt trên các khay giá thể ẩm.",
+          "c": "Nhổ cả cây hoa hồng lên, dùng dao chặt rễ thành từng khúc nhỏ rồi đem trồng.",
+          "d": "Tưới nước nóng vào gốc cây mẹ để kích thích cây tự đẻ thêm hàng nghìn cây con dưới đất."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "Hóa Học 7",
+    "questions": [
+     
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Theo cấu tạo nguyên tử, hạt nào mang điện tích dương và nằm trong hạt nhân?",
+        "options": {
+          "a": "Hạt electron",
+          "b": "Hạt neutron",
+          "c": "Hạt proton",
+          "d": "Hạt positron"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Khối lượng của một nguyên tử tập trung chủ yếu ở bộ phận nào?",
+        "options": {
+          "a": "Lớp vỏ electron",
+          "b": "Hạt nhân nguyên tử",
+          "c": "Lớp electron ngoài cùng",
+          "d": "Khoảng không gian giữa hạt nhân và lớp vỏ"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Kí hiệu hóa học của nguyên tố oxygen và nguyên tố carbon lần lượt là gì?",
+        "options": {
+          "a": "O và Ca",
+          "b": "Ox và C",
+          "c": "O và C",
+          "d": "O và Cu"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Theo mô hình Rutherford - Bohr, một nguyên tử có 12 electron sẽ được phân bố vào ba lớp vỏ theo thứ tự từ trong ra ngoài lần lượt là:",
+        "options": {
+          "a": "2, 8, 2",
+          "b": "2, 2, 8",
+          "c": "8, 2, 2",
+          "d": "2, 4, 6"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Nguyên tử A trung hòa về điện có 11 proton và 12 neutron. Tính tổng số hạt mang điện trong nguyên tử A.",
+        "options": {
+          "a": "11",
+          "b": "22",
+          "c": "23",
+          "d": "34"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Một nguyên tử B có tổng số hạt proton, neutron và electron là 40. Biết nguyên tử B trung hòa về điện và có 14 neutron. Tính số proton của nguyên tử B.",
+        "options": {
+          "a": "12",
+          "b": "13",
+          "c": "14",
+          "d": "26"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Nguyên tố aluminium (Al) có 13 proton. Dựa vào số lượng electron, hãy xác định chu kì và nhóm của aluminium trong bảng tuần hoàn.",
+        "options": {
+          "a": "Chu kì 2, nhóm IIIA",
+          "b": "Chu kì 3, nhóm IIA",
+          "c": "Chu kì 3, nhóm IIIA",
+          "d": "Chu kì 4, nhóm IA"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Trong bảng tuần hoàn, các nguyên tố thuộc cùng một chu kì có đặc điểm chung nào sau đây?",
+        "options": {
+          "a": "Có cùng số proton trong hạt nhân.",
+          "b": "Có cùng số electron ở lớp ngoài cùng.",
+          "c": "Có cùng số lớp vỏ electron.",
+          "d": "Có cùng tính chất hóa học (đều là kim loại)."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Nguyên tử Y có 19 proton trong hạt nhân. Dựa vào sự phân bố electron, nguyên tố Y là kim loại, phi kim hay khí hiếm?",
+        "options": {
+          "a": "Kim loại",
+          "b": "Phi kim",
+          "c": "Khí hiếm",
+          "d": "Kim loại chuyển tiếp"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Kí hiệu hóa học của nguyên tố Potassium và nguyên tố Sulfur lần lượt là gì?",
+        "options": {
+          "a": "P và S",
+          "b": "K và Su",
+          "c": "Po và S",
+          "d": "K và S"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Hạt cơ bản nào cấu tạo nên nguyên tử nhưng không mang điện tích?",
+        "options": {
+          "a": "Proton",
+          "b": "Neutron",
+          "c": "Electron",
+          "d": "Positron"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Thành phần nào mang điện tích âm và chuyển động xung quanh hạt nhân theo mô hình Rutherford - Bohr?",
+        "options": {
+          "a": "Hạt nơtron",
+          "b": "Đám mây proton",
+          "c": "Các hạt electron",
+          "d": "Các hạt photon"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Đơn vị chuẩn nào sau đây được dùng để biểu thị khối lượng nguyên tử?",
+        "options": {
+          "a": "Gram (g)",
+          "b": "Kilogram (kg)",
+          "c": "Miligram (mg)",
+          "d": "amu (atomic mass unit)"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Vì sao một nguyên tử luôn có trạng thái trung hòa về điện?",
+        "options": {
+          "a": "Vì số hạt mang điện dương lớn hơn số hạt mang điện âm để bù trừ.",
+          "b": "Vì tổng số hạt proton luôn luôn bằng tổng số hạt neutron.",
+          "c": "Vì số lượng hạt proton (mang điện dương) bằng số lượng hạt electron (mang điện âm).",
+          "d": "Vì hạt nhân không mang điện tích nào cả."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Hạt nhân của bất kỳ nguyên tử nào (trừ hydrogen-1) cũng được cấu tạo từ hai loại hạt cơ bản là gì?",
+        "options": {
+          "a": "Proton và Electron",
+          "b": "Neutron và Electron",
+          "c": "Proton và Neutron",
+          "d": "Chỉ có Proton"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "mot_dap_an",
+        "question": "Theo mô hình nguyên tử Rutherford - Bohr, các electron được sắp xếp như thế nào xung quanh hạt nhân?",
+        "options": {
+          "a": "Chuyển động hỗn độn không theo quy luật.",
+          "b": "Sắp xếp thành từng lớp vỏ theo thứ tự từ trong ra ngoài.",
+          "c": "Nằm dính chặt ngay sát bề mặt hạt nhân nguyên tử.",
+          "d": "Bay tự do ra khỏi nguyên tử bất cứ lúc nào."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "Tập hợp những nguyên tử có cùng số proton trong hạt nhân được gọi là gì?",
+        "options": {
+          "a": "Nguyên tử khối",
+          "b": "Phân tử",
+          "c": "Nguyên tố hóa học",
+          "d": "Hợp chất hóa học"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "mot_dap_an",
+        "question": "Số thứ tự của một ô nguyên tố trong bảng tuần hoàn các nguyên tố hóa học được xác định bằng đại lượng nào?",
+        "options": {
+          "a": "Số neutron của nguyên tử",
+          "b": "Khối lượng nguyên tử",
+          "c": "Số proton trong hạt nhân (số hiệu nguyên tử)",
+          "d": "Số lớp vỏ electron"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "Các nguyên tố thuộc cùng một nhóm A trong bảng tuần hoàn có đặc điểm cấu tạo nguyên tử nào giống nhau?",
+        "options": {
+          "a": "Cùng số electron ở lớp vỏ ngoài cùng.",
+          "b": "Cùng số hạt neutron trong hạt nhân.",
+          "c": "Cùng số lớp vỏ electron.",
+          "d": "Cùng số tổng các hạt p, n, e."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "Các nguyên tố kim loại thường nằm tập trung ở khu vực nào của bảng tuần hoàn?",
+        "options": {
+          "a": "Góc trên cùng bên phải.",
+          "b": "Phía dưới cùng bên phải.",
+          "c": "Phía bên trái và khu vực chính giữa.",
+          "d": "Nằm rải rác đan xen đều đặn không có quy luật."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "mot_dap_an",
+        "question": "Nguyên tử X có 16 electron và trung hòa về điện. Phân bố electron vào các lớp vỏ của X lần lượt là:",
+        "options": {
+          "a": "2, 8, 6",
+          "b": "2, 6, 8",
+          "c": "8, 6, 2",
+          "d": "2, 10, 4"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "mot_dap_an",
+        "question": "Nguyên tử trung hòa có 15 proton và 15 neutron. Tính tổng số hạt cơ bản (proton, neutron, electron) có trong nguyên tử này.",
+        "options": {
+          "a": "30",
+          "b": "45",
+          "c": "15",
+          "d": "60"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "mot_dap_an",
+        "question": "Kí hiệu hóa học Mg và Cl lần lượt đại diện cho hai nguyên tố nào?",
+        "options": {
+          "a": "Manganese và Carbon",
+          "b": "Magnesium và Chlorine",
+          "c": "Molybdenum và Cobalt",
+          "d": "Magnesium và Calcium"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "mot_dap_an",
+        "question": "Nguyên tử Sulfur (S) có 16 proton. Hãy cho biết Sulfur thuộc chu kì nào trong bảng tuần hoàn?",
+        "options": {
+          "a": "Chu kì 2",
+          "b": "Chu kì 3",
+          "c": "Chu kì 4",
+          "d": "Chu kì 6"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "mot_dap_an",
+        "question": "Nguyên tử Sulfur (S) có cấu hình phân bố là 2, 8, 6. Từ dữ kiện này, có thể khẳng định Sulfur là kim loại, phi kim hay khí hiếm?",
+        "options": {
+          "a": "Kim loại vì có ít electron.",
+          "b": "Phi kim vì có 6 electron ở lớp ngoài cùng.",
+          "c": "Khí hiếm vì lớp thứ hai đã đạt 8 electron bền vững.",
+          "d": "Không thể xác định được."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "mot_dap_an",
+        "question": "Nguyên tử Argon (Ar) có cấu hình phân bố là 2, 8, 8. Tại sao Argon được xếp vào nhóm khí hiếm?",
+        "options": {
+          "a": "Vì nó tồn tại ở trạng thái khí trong tự nhiên.",
+          "b": "Vì nó không màu, không mùi.",
+          "c": "Vì lớp vỏ ngoài cùng của nó có 8 electron, đạt trạng thái bão hòa rất bền vững.",
+          "d": "Vì nó có tổng cộng 18 electron."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "mot_dap_an",
+        "question": "Một nguyên tử X trung hòa có 9 proton. Lớp ngoài cùng của nguyên tử X có bao nhiêu electron?",
+        "options": {
+          "a": "2",
+          "b": "7",
+          "c": "8",
+          "d": "9"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "mot_dap_an",
+        "question": "Nguyên tử có 9 proton (cấu hình 2, 7) nằm ở nhóm nào trong bảng tuần hoàn?",
+        "options": {
+          "a": "Nhóm IIA",
+          "b": "Nhóm VIIA",
+          "c": "Nhóm VIIIA",
+          "d": "Nhóm IXA"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "mot_dap_an",
+        "question": "Một nguyên tử có tổng số hạt cơ bản (p, n, e) là 34, trong đó số hạt mang điện nhiều hơn số hạt không mang điện là 10. Số proton của nguyên tử này là bao nhiêu?",
+        "options": {
+          "a": "10",
+          "b": "11",
+          "c": "12",
+          "d": "14"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "mot_dap_an",
+        "question": "Lớp electron trong cùng (lớp sát hạt nhân nhất) của mọi nguyên tử có khả năng chứa tối đa bao nhiêu hạt electron?",
+        "options": {
+          "a": "2",
+          "b": "8",
+          "c": "18",
+          "d": "32"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+    
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "Vật lý 7 ",
+    "questions": [
+
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Đại lượng nào sau đây cho biết mức độ nhanh hay chậm của chuyển động?",
+        "options": {
+          "a": "Quãng đường",
+          "b": "Thời gian chuyển động",
+          "c": "Tốc độ",
+          "d": "Tần số dao động"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "Gọi s là quãng đường đi được, t là thời gian đi hết quãng đường đó, v là tốc độ chuyển động. Công thức tính tốc độ là:",
+        "options": {
+          "a": "v = s \\times t",
+          "b": "v = s / t",
+          "c": "v = t / s",
+          "d": "v = s + t"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Tốc độ của một ô tô là 54 km/h. Đổi tốc độ này sang đơn vị m/s ta được giá trị là:",
+        "options": {
+          "a": "15 m/s",
+          "b": "20 m/s",
+          "c": "10 m/s",
+          "d": "30 m/s"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Trong đồ thị quãng đường - thời gian, hệ trục tọa độ thông thường biểu diễn các đại lượng nào?",
+        "options": {
+          "a": "Trục thẳng đứng biểu diễn thời gian, trục nằm ngang biểu diễn quãng đường.",
+          "b": "Trục thẳng đứng biểu diễn quãng đường, trục nằm ngang biểu diễn thời gian.",
+          "c": "Trục thẳng đứng biểu diễn tốc độ, trục nằm ngang biểu diễn thời gian.",
+          "d": "Trục thẳng đứng biểu diễn quãng đường, trục nằm ngang biểu diễn tốc độ."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Trên đồ thị quãng đường - thời gian, một đoạn đồ thị là một đường thẳng nằm ngang song song với trục thời gian cho biết điều gì?",
+        "options": {
+          "a": "Vật đang chuyển động nhanh dần.",
+          "b": "Vật đang chuyển động đều với tốc độ không đổi.",
+          "c": "Vật đang đứng yên.",
+          "d": "Vật đang chuyển động chậm dần."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Để đo tốc độ của một chiếc xe đồ chơi chuyển động trong phòng thí nghiệm với độ chính xác cao, người ta thường sử dụng thiết bị nào?",
+        "options": {
+          "a": "Thước dây và đồng hồ treo tường.",
+          "b": "Thước kẹp và đồng hồ bấm giây.",
+          "c": "Đồng hồ đo thời gian hiện số kết nối với cổng quang điện.",
+          "d": "Thiết bị bắn tốc độ cầm tay."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Cảnh sát giao thông sử dụng thiết bị nào sau đây để kiểm tra tốc độ của các phương tiện lưu thông trên đường bộ?",
+        "options": {
+          "a": "Đồng hồ bấm giây.",
+          "b": "Đồng hồ đo thời gian hiện số.",
+          "c": "Thiết bị bắn tốc độ (máy LIDAR).",
+          "d": "Thước cuộn định vị."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "Theo quy tắc 3 giây khi lưu thông trên đường cao tốc, khoảng cách an toàn tối thiểu (tính theo mét) giữa hai xe được tính bằng công thức nào?",
+        "options": {
+          "a": "Khoảng cách (m) = Tốc độ (km/h) \\times 3",
+          "b": "Khoảng cách (m) = Tốc độ (m/s) \\times 3",
+          "c": "Khoảng cách (m) = Tốc độ (m/s) / 3",
+          "d": "Khoảng cách (m) = Tốc độ (km/h) + 3"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "Một người đi xe máy chuyển động đều trên quãng đường 18 km mất thời gian 30 phút. Tốc độ của người đi xe máy là:",
+        "options": {
+          "a": "36 km/h",
+          "b": "9 km/h",
+          "c": "18 km/h",
+          "d": "0,6 km/h"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Ý nghĩa của con số ghi trên biển báo giao thông hình tròn viền đỏ, nền trắng có số 60 màu đen là gì?",
+        "options": {
+          "a": "Tốc độ tối thiểu cho phép là 60 km/h.",
+          "b": "Tốc độ tối đa cho phép các phương tiện lưu thông là 60 km/h.",
+          "c": "Khoảng cách an toàn giữa hai xe là 60 m.",
+          "d": "Chiều dài đoạn đường là 60 km."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Trong hệ thống đo lường hợp pháp của nước ta (hệ SI), đơn vị cơ bản của tốc độ là gì?",
+        "options": {
+          "a": "km/h",
+          "b": "m/s",
+          "c": "cm/s",
+          "d": "km/s"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Khi xét hai vật cùng chuyển động trên một quãng đường có độ dài như nhau, nhận định nào sau đây là đúng?",
+        "options": {
+          "a": "Vật nào đi mất nhiều thời gian hơn thì vật đó có tốc độ lớn hơn.",
+          "b": "Vật nào đi mất ít thời gian hơn thì vật đó có tốc độ nhỏ hơn.",
+          "c": "Vật nào đi mất nhiều thời gian hơn thì vật đó có tốc độ nhỏ hơn.",
+          "d": "Thời gian chuyển động không ảnh hưởng đến tốc độ."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Cho một đồ thị quãng đường - thời gian, vật đi từ gốc tọa độ O đến điểm A có quãng đường 12 km trong thời gian 0,5 h. Tốc độ của vật trên đoạn OA là bao nhiêu?",
+        "options": {
+          "a": "6 km/h",
+          "b": "12 km/h",
+          "c": "24 km/h",
+          "d": "30 km/h"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "Một ô tô đang di chuyển trên đường cao tốc với tốc độ v = 90 km/h. Nếu đổi sang đơn vị m/s thì tốc độ của xe là bao nhiêu?",
+        "options": {
+          "a": "20 m/s",
+          "b": "25 m/s",
+          "c": "30 m/s",
+          "d": "35 m/s"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Một xe ô tô chạy với tốc độ 90 km/h. Khoảng cách an toàn tối thiểu giữa ô tô này và xe phía trước theo quy tắc 3 giây là bao nhiêu?",
+        "options": {
+          "a": "25 m",
+          "b": "75 m",
+          "c": "90 m",
+          "d": "270 m"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "mot_dap_an",
+        "question": "Thiết bị bắn tốc độ LIDAR do cảnh sát giao thông sử dụng hoạt động dựa trên nguyên lý phát và thu nhận loại sóng nào?",
+        "options": {
+          "a": "Sóng radio",
+          "b": "Sóng âm thanh",
+          "c": "Sóng ánh sáng (laser)",
+          "d": "Sóng vi ba"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "Một vận động viên bơi cự ly 100 m hết thời gian 50 giây. Tốc độ trung bình của vận động viên này tính theo đơn vị km/h là bao nhiêu?",
+        "options": {
+          "a": "2 km/h",
+          "b": "7,2 km/h",
+          "c": "3,6 km/h",
+          "d": "5 km/h"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "mot_dap_an",
+        "question": "Một xe máy đi từ nhà đến nơi làm việc hết 60 phút. Trong 40 phút đầu xe đi được 30 km, 20 phút sau xe bị tắc đường nên phải dừng lại. Tốc độ trung bình của xe máy trên toàn bộ hành trình 60 phút là bao nhiêu?",
+        "options": {
+          "a": "30 km/h",
+          "b": "40 km/h",
+          "c": "45 km/h",
+          "d": "60 km/h"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "Một xe ô tô chạy trên đường quốc lộ với tốc độ 72 km/h. Áp dụng quy tắc 3 giây, khoảng cách an toàn tối thiểu đối với xe ô tô này là bao nhiêu mét?",
+        "options": {
+          "a": "20 m",
+          "b": "60 m",
+          "c": "72 m",
+          "d": "216 m"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "Một học sinh đi xe đạp trong 10 phút đầu được 3 km. Tốc độ của học sinh trong đoạn đường này là bao nhiêu km/h?",
+        "options": {
+          "a": "12 km/h",
+          "b": "15 km/h",
+          "c": "18 km/h",
+          "d": "20 km/h"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "mot_dap_an",
+        "question": "Camera của thiết bị bắn tốc độ ghi nhận thời gian một chiếc ô tô chạy qua giữa hai vạch mốc cách nhau 10 m là 0,45 giây. Tốc độ của ô tô này tính theo m/s xấp xỉ bằng bao nhiêu?",
+        "options": {
+          "a": "20,5 m/s",
+          "b": "22,2 m/s",
+          "c": "25,0 m/s",
+          "d": "28,5 m/s"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "mot_dap_an",
+        "question": "Với tốc độ 22,22 m/s, chiếc xe đổi ra km/h sẽ đạt giá trị xấp xỉ bao nhiêu và có vi phạm tốc độ tối đa 70 km/h không?",
+        "options": {
+          "a": "Khoảng 60 km/h, không vi phạm.",
+          "b": "Khoảng 70 km/h, không vi phạm.",
+          "c": "Khoảng 80 km/h, có vi phạm.",
+          "d": "Khoảng 90 km/h, có vi phạm."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "mot_dap_an",
+        "question": "Mục đích chính của việc giữ đúng khoảng cách an toàn với xe chạy liền trước là gì?",
+        "options": {
+          "a": "Để tiết kiệm nhiên liệu cho xe.",
+          "b": "Giúp người lái xe có đủ thời gian phản xạ và xử lý tình huống bất ngờ, giảm thiểu tai nạn.",
+          "c": "Để cảnh sát giao thông dễ dàng ghi hình biển số xe.",
+          "d": "Để các phương tiện có thể chạy với tốc độ cao hơn mức cho phép."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "mot_dap_an",
+        "question": "Trên đồ thị quãng đường - thời gian của một người đi xe đạp, đoạn thẳng hướng lên có độ dốc càng lớn thì chứng tỏ điều gì?",
+        "options": {
+          "a": "Người đó đi với tốc độ càng chậm.",
+          "b": "Người đó đang dừng lại.",
+          "c": "Người đó đi với tốc độ càng nhanh.",
+          "d": "Người đó đang đi lùi lại vị trí xuất phát."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "mot_dap_an",
+        "question": "Nếu một xe đi với tốc độ 10 m/s, để đi được quãng đường dài 5 km thì xe phải mất bao nhiêu thời gian?",
+        "options": {
+          "a": "50 giây",
+          "b": "500 giây",
+          "c": "200 giây",
+          "d": "1000 giây"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "mot_dap_an",
+        "question": "Một con báo gê-pa có thể chạy với tốc độ 108 km/h. Vận tốc này tương đương với bao nhiêu m/s?",
+        "options": {
+          "a": "20 m/s",
+          "b": "25 m/s",
+          "c": "30 m/s",
+          "d": "35 m/s"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "mot_dap_an",
+        "question": "Dựa vào quy tắc 3 giây, nếu hệ thống cảnh báo trên xe báo rằng khoảng cách an toàn với xe phía trước đang là 45 mét, thì xe đó đang chạy với tốc độ bao nhiêu m/s?",
+        "options": {
+          "a": "10 m/s",
+          "b": "15 m/s",
+          "c": "20 m/s",
+          "d": "25 m/s"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "mot_dap_an",
+        "question": "Một chiếc ca nô đi trên mặt hồ với tốc độ không đổi 15 phút thì đi được 4,5 km. Tốc độ của ca nô là:",
+        "options": {
+          "a": "12 km/h",
+          "b": "18 km/h",
+          "c": "15 km/h",
+          "d": "24 km/h"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "mot_dap_an",
+        "question": "Đồ thị quãng đường - thời gian của một vật chuyển động với tốc độ không đổi là:",
+        "options": {
+          "a": "Một đường gấp khúc.",
+          "b": "Một đường cong đi lên.",
+          "c": "Một đường thẳng nằm nghiêng đi qua gốc tọa độ.",
+          "d": "Một đường tròn."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "mot_dap_an",
+        "question": "Tại sao trong các bài kiểm tra đo tốc độ dùng đồng hồ bấm giây thủ công thường có sai số lớn hơn so với dùng cổng quang điện?",
+        "options": {
+          "a": "Đồng hồ bấm giây bị hỏng hóc cơ học.",
+          "b": "Mắt người không thể nhìn rõ vạch đích.",
+          "c": "Do thời gian phản xạ của tay người bấm đồng hồ không thể nhanh và đồng nhất tuyệt đối.",
+          "d": "Cổng quang điện có khả năng làm vật chuyển động chậm lại."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "Sinh học 7",
+    "questions": [
+
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Sau khi thu thập mẫu vật, dữ liệu để nghiên cứu, các nhà khoa học lựa chọn các mẫu vật và dữ liệu có cùng đặc điểm chung giống nhau để sắp xếp thành các nhóm. Đây là kĩ năng nào?",
+        "options": {
+          "a": "Kĩ năng quan sát.",
+          "b": "Kĩ năng phân loại.",
+          "c": "Kĩ năng liên kết.",
+          "d": "Kĩ năng dự báo."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "nhieu_dap_an",
+        "question": "Cho các phát biểu sau: (1) Trong hoạt động sống của tế bào, trao đổi chất luôn đi kèm với chuyển hóa năng lượng. (2) Chuyển hóa năng lượng là sự biến đổi năng lượng từ dạng này sang dạng khác. (3) Trao đổi chất giữa cơ thể và môi trường gồm hai quá trình đó là lấy vào và thải ra. (4) Quá trình phân giải glucose trong tế bào có cả sự chuyển hóa các chất và năng lượng. Hãy chọn tất cả các phát biểu đúng.",
+        "options": {
+          "a": "Phát biểu (1)",
+          "b": "Phát biểu (2)",
+          "c": "Phát biểu (3)",
+          "d": "Phát biểu (4)"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Việc cho các loại cây thủy sinh (ví dụ như rong đuôi chó) vào các bể cá cảnh ngoài tác dụng tạo tính thẩm mĩ còn có tác dụng nào sau đây?",
+        "options": {
+          "a": "Cung cấp thêm oxygen cho sinh vật sống trong bể cá.",
+          "b": "Cung cấp thêm carbon dioxide cho sinh vật sống trong bể cá.",
+          "c": "Cung cấp thêm diệp lục cho sinh vật sống trong bể cá.",
+          "d": "Cung cấp thêm chất khoáng cho sinh vật sống trong bể cá."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "nhieu_dap_an",
+        "question": "Cho các biện pháp sau: (1) Hạn chế chơi thể thao và lao động nặng; (2) Tránh thiếu hụt oxygen; (3) Chế độ dinh dưỡng hợp lí; (4) Trồng nhiều cây xanh. Những biện pháp nào giúp đảm bảo quá trình hô hấp tế bào ở người diễn ra bình thường?",
+        "options": {
+          "a": "Biện pháp (1)",
+          "b": "Biện pháp (2)",
+          "c": "Biện pháp (3)",
+          "d": "Biện pháp (4)"
+        },
+        "answer": [
+          "b",
+          "c",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "nhieu_dap_an",
+        "question": "Các đặc trưng nhất định của cơ thể sống dùng để phân biệt với các dạng không sống (vật vô sinh) bao gồm:",
+        "options": {
+          "a": "Trao đổi chất và chuyển hóa năng lượng.",
+          "b": "Sinh trưởng và Phát triển.",
+          "c": "Cảm ứng.",
+          "d": "Sinh sản."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "dung_sai",
+        "question": "Khi nói về đặc điểm cấu tạo, hình thái của lá phù hợp với chức năng quang hợp, phát biểu \"Lá thường có dạng bản dẹt, phiến lá rộng giúp thu nhận được nhiều ánh sáng\" là đúng hay sai?",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "dung_sai",
+        "question": "Khi nói về đặc điểm cấu tạo, hình thái của lá phù hợp với chức năng quang hợp, phát biểu \"Các tế bào thịt lá chứa nhiều lục lạp giúp hấp thụ và chuyển hóa năng lượng ánh sáng\" là đúng hay sai?",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "dung_sai",
+        "question": "Khi nói về đặc điểm cấu tạo, hình thái của lá phù hợp với chức năng quang hợp, phát biểu \"Hệ thống gân lá giúp dẫn nước cho quá trình quang hợp và dẫn các sản phẩm quang hợp đến các cơ quan khác\" là đúng hay sai?",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "dung_sai",
+        "question": "Khi nói về đặc điểm cấu tạo, hình thái của lá phù hợp với chức năng quang hợp, phát biểu \"Ở các mấu thân hoặc cành, lá thường xếp song song và mặt lá thường tạo góc nghiêng với tia sáng mặt trời để thu được nhiều ánh sáng nhất\" là sai hay đúng?",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Khí khổng có cấu tạo phù hợp với chức năng điều hòa quá trình trao đổi khí và thoát hơi nước nhờ cơ chế nào sau đây?",
+        "options": {
+          "a": "Gồm hai tế bào hình hạt đậu, khi no nước thành mỏng căng ra làm khí khổng mở; khi mất nước thành co lại làm khí khổng đóng.",
+          "b": "Gồm một tế bào hình tròn lớn, luôn mở cố định để không khí lưu thông liên tục.",
+          "c": "Gồm hệ thống mạch gỗ đan chéo nhau, tự động đóng lại khi nhiệt độ ngoài trời quá nóng.",
+          "d": "Lớp cutin dày bao phủ toàn bộ khí khổng, tự động tan chảy khi cần thoát hơi nước."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Vì sao người nông dân thường thực hiện chế độ luân canh (trồng thay đổi các loài cây khác nhau trên cùng một diện tích đất trồng)?",
+        "options": {
+          "a": "Để tiêu diệt toàn bộ vi sinh vật có trong đất.",
+          "b": "Giúp tránh làm cạn kiệt các loại chất dinh dưỡng do mỗi loài cây có nhu cầu hấp thụ và độ sâu rễ khác nhau; đồng thời hạn chế sự tích tụ sâu bệnh hại.",
+          "c": "Để rễ của các loài cây khác nhau tự động tiết ra chất hóa học tiêu diệt lẫn nhau.",
+          "d": "Giúp đất trồng tự động sinh ra phân bón hóa học mà không cần bón thêm."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Trong trường hợp một người bị ngộ độc do ăn phải thức ăn bị ô nhiễm (có triệu chứng đau bụng quặn thắt, buồn nôn, tiêu chảy), cách xử lí ban đầu nào sau đây là KHÔNG chính xác?",
+        "options": {
+          "a": "Gây nôn để tống thức ăn bị ô nhiễm ra ngoài nếu người bệnh còn tỉnh táo.",
+          "b": "Cho uống thuốc cầm tiêu chảy ngay lập tức để giữ nước trong cơ thể.",
+          "c": "Cho uống bù nước và chất điện giải (oresol hoặc nước ấm).",
+          "d": "Giữ lại mẫu thức ăn và nhanh chóng đưa người bệnh đến cơ sở y tế gần nhất."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      }
+  
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "English 7",
+    "questions": [
+  
+      {
+        "number": 1,
+        "id": "q1",
+        "type": "mot_dap_an",
+        "question": "Do you like ___ models?",
+        "options": {
+          "a": "going",
+          "b": "making",
+          "c": "playing",
+          "d": "riding"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 2,
+        "id": "q2",
+        "type": "mot_dap_an",
+        "question": "My mother enjoys ___ comedies.",
+        "options": {
+          "a": "going",
+          "b": "watching",
+          "c": "playing",
+          "d": "collecting"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "Mai hates ___ judo.",
+        "options": {
+          "a": "going",
+          "b": "doing",
+          "c": "taking",
+          "d": "collecting"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "She likes ___. She goes to the swimming club every Sunday.",
+        "options": {
+          "a": "taking",
+          "b": "collecting",
+          "c": "playing",
+          "d": "swimming"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Nam adores ___ comic books.",
+        "options": {
+          "a": "playing",
+          "b": "reading",
+          "c": "going",
+          "d": "making"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "They don't like horse riding. They like ___ football.",
+        "options": {
+          "a": "playing",
+          "b": "collecting",
+          "c": "making",
+          "d": "going"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "Lan has a lot of dolls. Her favorite hobby is ___ dolls.",
+        "options": {
+          "a": "going",
+          "b": "collecting",
+          "c": "playing",
+          "d": "doing"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "My best friend Linh hates ___ computer games.",
+        "options": {
+          "a": "going",
+          "b": "collecting",
+          "c": "playing",
+          "d": "doing"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "I dislike ___ up early every morning.",
+        "options": {
+          "a": "making",
+          "b": "getting",
+          "c": "painting",
+          "d": "going"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "My cousin loves ___ stamps of countries in the world.",
+        "options": {
+          "a": "making",
+          "b": "collecting",
+          "c": "doing",
+          "d": "buying"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "Nick doesn't like ___ shopping with his mother at weekends.",
+        "options": {
+          "a": "going",
+          "b": "making",
+          "c": "walking",
+          "d": "cooking"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "Phong adores ___ models. This is the one that he made yesterday.",
+        "options": {
+          "a": "making",
+          "b": "to make",
+          "c": "makes",
+          "d": "make"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "mot_dap_an",
+        "question": "Hoa dislikes ___ English grammar. She thinks it's very difficult.",
+        "options": {
+          "a": "learns",
+          "b": "learning",
+          "c": "learn",
+          "d": "to learn"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "mot_dap_an",
+        "question": "I like cartoons, but I don't ___ them much.",
+        "options": {
+          "a": "watch",
+          "b": "to watch",
+          "c": "watches",
+          "d": "watching"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "mot_dap_an",
+        "question": "Do you enjoy ___ stamps?",
+        "options": {
+          "a": "collecting",
+          "b": "collect",
+          "c": "to collect",
+          "d": "collects"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "mot_dap_an",
+        "question": "Her uncle hates horse ___.",
+        "options": {
+          "a": "rides",
+          "b": "ride",
+          "c": "riding",
+          "d": "to ride"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "mot_dap_an",
+        "question": "She doesn't feel like ___ fish and vegetables.",
+        "options": {
+          "a": "to eat",
+          "b": "eating",
+          "c": "eat",
+          "d": "ate"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "mot_dap_an",
+        "question": "My sister ___ a bike yesterday.",
+        "options": {
+          "a": "rode",
+          "b": "went",
+          "c": "watched",
+          "d": "did"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "mot_dap_an",
+        "question": "Nam ___ absent at the company's meeting last Monday.",
+        "options": {
+          "a": "was",
+          "b": "were",
+          "c": "is",
+          "d": "are"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "mot_dap_an",
+        "question": "I ___ English seven years ago.",
+        "options": {
+          "a": "learned",
+          "b": "did learned",
+          "c": "learn",
+          "d": "learns"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "mot_dap_an",
+        "question": "Jolie ___ the question exactly.",
+        "options": {
+          "a": "answears",
+          "b": "answered",
+          "c": "answers",
+          "d": "answeres"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "mot_dap_an",
+        "question": "A man ___ in front of your house yesterday.",
+        "options": {
+          "a": "standded",
+          "b": "stood",
+          "c": "stands",
+          "d": "standing"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "mot_dap_an",
+        "question": "Lisa ___ a very beautiful portrait of her mother yesterday.",
+        "options": {
+          "a": "drawed",
+          "b": "drew",
+          "c": "draws",
+          "d": "drawing"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "mot_dap_an",
+        "question": "My sister ___ lots of flower on the balcony.",
+        "options": {
+          "a": "plant",
+          "b": "planted",
+          "c": "did planted",
+          "d": "was plant"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "mot_dap_an",
+        "question": "His uncle ___ a new house in the suburb.",
+        "options": {
+          "a": "buyed",
+          "b": "was buyed",
+          "c": "did bought",
+          "d": "bought"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "mot_dap_an",
+        "question": "Where ___ they last weekend?",
+        "options": {
+          "a": "was",
+          "b": "were",
+          "c": "be",
+          "d": "did be"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "mot_dap_an",
+        "question": "My mother ___ to work this morning.",
+        "options": {
+          "a": "didn't go",
+          "b": "not wont",
+          "c": "wasn't went",
+          "d": "didn't went"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "mot_dap_an",
+        "question": "The film that I ___ last night ___ very interesting.",
+        "options": {
+          "a": "see/ was",
+          "b": "saw/ were",
+          "c": "see/ wore",
+          "d": "saw/ was"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "mot_dap_an",
+        "question": "She ___ lots of things for charity.",
+        "options": {
+          "a": "did",
+          "b": "was do",
+          "c": "was did",
+          "d": "doed"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 30,
+        "id": "q30",
+        "type": "mot_dap_an",
+        "question": "Trinh Cong Son ___ many excellent songs.",
+        "options": {
+          "a": "was compose",
+          "b": "composed",
+          "c": "was composing",
+          "d": "did composed"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q31",
+        "type": "mot_dap_an",
+        "question": "We ___ the Louvre museum in Paris last week.",
+        "options": {
+          "a": "visitted",
+          "b": "visited",
+          "c": "did visited",
+          "d": "were visit"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q32",
+        "type": "mot_dap_an",
+        "question": "They ___ old people in the nursing home two days ago.",
+        "options": {
+          "a": "helped",
+          "b": "were helped",
+          "c": "was help",
+          "d": "helpped"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q33",
+        "type": "mot_dap_an",
+        "question": "I ___ him in the park yesterday afternoon.",
+        "options": {
+          "a": "did saw",
+          "b": "seed",
+          "c": "was see",
+          "d": "saw"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q34",
+        "type": "mot_dap_an",
+        "question": "It's better to keep silent about what ___.",
+        "options": {
+          "a": "happened",
+          "b": "happenning",
+          "c": "happens",
+          "d": "happenes"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q35",
+        "type": "mot_dap_an",
+        "question": "She ___ us a bag of sweets.",
+        "options": {
+          "a": "gived",
+          "b": "gave",
+          "c": "gives",
+          "d": "given"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q36",
+        "type": "mot_dap_an",
+        "question": "I like reading ___ listening to music.",
+        "options": {
+          "a": "but",
+          "b": "and",
+          "c": "or",
+          "d": "so"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q37",
+        "type": "mot_dap_an",
+        "question": "My sister likes cooking ___ drawing.",
+        "options": {
+          "a": "so",
+          "b": "but",
+          "c": "and",
+          "d": "or"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q38",
+        "type": "mot_dap_an",
+        "question": "Nam plays football ___ basketball after school.",
+        "options": {
+          "a": "or",
+          "b": "but",
+          "c": "so",
+          "d": "and"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q39",
+        "type": "mot_dap_an",
+        "question": "I have a pen ___ a notebook.",
+        "options": {
+          "a": "and",
+          "b": "but",
+          "c": "or",
+          "d": "so"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 40,
+        "id": "q40",
+        "type": "mot_dap_an",
+        "question": "She likes swimming ___ cycling.",
+        "options": {
+          "a": "but",
+          "b": "so",
+          "c": "and",
+          "d": "or"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 41,
+        "id": "q41",
+        "type": "mot_dap_an",
+        "question": "We clean the classroom ___ decorate it.",
+        "options": {
+          "a": "or",
+          "b": "and",
+          "c": "but",
+          "d": "so"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 42,
+        "id": "q42",
+        "type": "mot_dap_an",
+        "question": "My hobby is reading books ___ watching films.",
+        "options": {
+          "a": "so",
+          "b": "but",
+          "c": "or",
+          "d": "and"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 43,
+        "id": "q43",
+        "type": "mot_dap_an",
+        "question": "Peter plays the guitar ___ sings very well.",
+        "options": {
+          "a": "and",
+          "b": "or",
+          "c": "but",
+          "d": "so"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 44,
+        "id": "q44",
+        "type": "mot_dap_an",
+        "question": "I bought some flowers ___ a small gift.",
+        "options": {
+          "a": "but",
+          "b": "so",
+          "c": "and",
+          "d": "or"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 45,
+        "id": "q45",
+        "type": "mot_dap_an",
+        "question": "They enjoy playing games ___ watching TV.",
+        "options": {
+          "a": "or",
+          "b": "and",
+          "c": "so",
+          "d": "but"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 46,
+        "id": "q46",
+        "type": "mot_dap_an",
+        "question": "My brother goes to the Riders' Club every Sunday. His hobby is ___.",
+        "options": {
+          "a": "gardening",
+          "b": "making models",
+          "c": "horse riding",
+          "d": "swimming"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 47,
+        "id": "q47",
+        "type": "mot_dap_an",
+        "question": "I help my mum ___ vegetables in my free time.",
+        "options": {
+          "a": "play",
+          "b": "paint",
+          "c": "plant",
+          "d": "make"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 48,
+        "id": "q48",
+        "type": "mot_dap_an",
+        "question": "I really like ___ - especially in the sea.",
+        "options": {
+          "a": "jogging",
+          "b": "swimming",
+          "c": "cycling",
+          "d": "gardening"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 49,
+        "id": "q49",
+        "type": "mot_dap_an",
+        "question": "My brother is a big fan of ___. He often plays it after school.",
+        "options": {
+          "a": "judo",
+          "b": "swimming",
+          "c": "football",
+          "d": "cooking"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 50,
+        "id": "q50",
+        "type": "mot_dap_an",
+        "question": "She is very talented. She can make ___ like the real ones.",
+        "options": {
+          "a": "coins",
+          "b": "models",
+          "c": "paintings",
+          "d": "stamps"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 51,
+        "id": "q51",
+        "type": "mot_dap_an",
+        "question": "I've got ____ for days. It hurts. Why don't you use lip balm?",
+        "options": {
+          "a": "sunburn",
+          "b": "acne",
+          "c": "chapped skin",
+          "d": "chapped lips"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 52,
+        "id": "q52",
+        "type": "mot_dap_an",
+        "question": "The lamp doesn't give much light. It's quite ____.",
+        "options": {
+          "a": "dim",
+          "b": "fresh",
+          "c": "bright",
+          "d": "tasty"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 53,
+        "id": "q53",
+        "type": "mot_dap_an",
+        "question": "Her hands are red and ____ because of working outside all winter.",
+        "options": {
+          "a": "warm",
+          "b": "chapped",
+          "c": "healthy",
+          "d": "smooth"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 54,
+        "id": "q54",
+        "type": "mot_dap_an",
+        "question": "You will get ____ if you spend too much time in the sun.",
+        "options": {
+          "a": "suncream",
+          "b": "sunburn",
+          "c": "chapped lips",
+          "d": "skin condition"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 55,
+        "id": "q55",
+        "type": "mot_dap_an",
+        "question": "Tofu is a product from ____.",
+        "options": {
+          "a": "coloured vegetables",
+          "b": "meat",
+          "c": "soybeans",
+          "d": "fish"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 56,
+        "id": "q56",
+        "type": "mot_dap_an",
+        "question": "Many old people live in the ____ home to be cared for.",
+        "options": {
+          "a": "nursing",
+          "b": "orphan",
+          "c": "community",
+          "d": "rural"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 57,
+        "id": "q57",
+        "type": "mot_dap_an",
+        "question": "At school, teachers also help students develop some ____ skills.",
+        "options": {
+          "a": "plant",
+          "b": "life",
+          "c": "board",
+          "d": "paper"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 58,
+        "id": "q58",
+        "type": "mot_dap_an",
+        "question": "He is very rich. He wants to build a house for ____ people.",
+        "options": {
+          "a": "unkind",
+          "b": "homeless",
+          "c": "rural",
+          "d": "elderly"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 59,
+        "id": "q59",
+        "type": "mot_dap_an",
+        "question": "We ____ litter around our school.",
+        "options": {
+          "a": "pick up",
+          "b": "clean",
+          "c": "donate",
+          "d": "exchange"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 60,
+        "id": "q60",
+        "type": "mot_dap_an",
+        "question": "Mike is an ____. His parents died when he was a baby.",
+        "options": {
+          "a": "engineer",
+          "b": "astronaut",
+          "c": "orphan",
+          "d": "actress"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 61,
+        "id": "q61",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (care, competition, exciting, fish, responsibility, homework, develop): Anna brought a ____ because she could not bring a large animal to school.",
+        "answer": "fish",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 62,
+        "id": "q62",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (care, competition, exciting, fish, responsibility, homework, develop): During the event, students learned how to take ____ of their pets.",
+        "answer": "care",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 63,
+        "id": "q63",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (care, competition, exciting, fish, responsibility, homework, develop): Lucky won first prize because he could sit, stand and shake hands. The most exciting part was a pet ____.",
+        "answer": "competition",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 64,
+        "id": "q64",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (care, competition, exciting, fish, responsibility, homework, develop): At the end of the day, everyone agreed that it was a very ____ event.",
+        "answer": "exciting",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 65,
+        "id": "q65",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (care, competition, exciting, fish, responsibility, homework, develop): The students also learned that having a pet means having a lot of ____.",
+        "answer": "responsibility",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 66,
+        "id": "q66",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (creativity, experience, patient, popular, healthy, valuable): The Mona Lisa is a very famous painting by Leonardo da Vinci. It is in a museum in France. Many people from different countries visit the museum to see it. The painting is not very big, but it is very ____.",
+        "answer": "popular",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 67,
+        "id": "q67",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (creativity, experience, patient, popular, healthy, valuable): Today, many young people enjoy making their own pictures of the Mona Lisa. This activity can help them develop their ____. They can use different colours and ideas to make their pictures special.",
+        "answer": "creativity",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 68,
+        "id": "q68",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (creativity, experience, patient, popular, healthy, valuable): Visiting a museum can also be a great ____. People can learn about art and history while having fun.",
+        "answer": "experience",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 69,
+        "id": "q69",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (creativity, experience, patient, popular, healthy, valuable): The Mona Lisa can teach people many ____ lessons about art and history.",
+        "answer": "valuable",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 70,
+        "id": "q70",
+        "type": "dien_khuyet",
+        "question": "Fill in the blank with a suitable word from the list (creativity, experience, patient, popular, healthy, valuable): It also encourages young people to be ____ when they create their own artwork.",
+        "answer": "patient",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 71,
+        "id": "q71",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"In a small town in Indonesia, there is a very special library called the 'Garbage Library'. Unlike a normal library, children do not need money to borrow books. Instead, they can bring plastic bottles, paper and other rubbish to the library. The library was started by a man named Raden. He wanted to encourage children to read more and keep their surroundings clean. Every week, children collect rubbish from their neighbourhood and bring it to the library. Then, they can choose a book to read at home. The project has become very popular. Children enjoy reading books and taking part in clean-up activities. They also learn that small actions can make a big difference to their community. Raden hopes that more children will join the project and develop good habits in the future.\" What can children do to borrow books from the Garbage Library?",
+        "options": {
+          "a": "Pay some money.",
+          "b": "Bring trash.",
+          "c": "Bring food.",
+          "d": "Buy a book."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 72,
+        "id": "q72",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"In a small town in Indonesia, there is a very special library called the 'Garbage Library'. Unlike a normal library, children do not need money to borrow books. Instead, they can bring plastic bottles, paper and other rubbish to the library. The library was started by a man named Raden. He wanted to encourage children to read more and keep their surroundings clean. Every week, children collect rubbish from their neighbourhood and bring it to the library. Then, they can choose a book to read at home. The project has become very popular. Children enjoy reading books and taking part in clean-up activities. They also learn that small actions can make a big difference to their community. Raden hopes that more children will join the project and develop good habits in the future.\" The word \"THEY\" in paragraph 2 refers to ____.",
+        "options": {
+          "a": "books",
+          "b": "libraries",
+          "c": "children",
+          "d": "neighbors"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 73,
+        "id": "q73",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"In a small town in Indonesia, there is a very special library called the 'Garbage Library'. Unlike a normal library, children do not need money to borrow books. Instead, they can bring plastic bottles, paper and other rubbish to the library. The library was started by a man named Raden. He wanted to encourage children to read more and keep their surroundings clean. Every week, children collect rubbish from their neighbourhood and bring it to the library. Then, they can choose a book to read at home. The project has become very popular. Children enjoy reading books and taking part in clean-up activities. They also learn that small actions can make a big difference to their community. Raden hopes that more children will join the project and develop good habits in the future.\" The word \"ENCOURAGE\" in paragraph 2 is closest in meaning to ____.",
+        "options": {
+          "a": "make someone want to do something",
+          "b": "stop someone from doing something",
+          "c": "teach someone to do something badly",
+          "d": "ask someone to pay for something"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 74,
+        "id": "q74",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"In a small town in Indonesia, there is a very special library called the 'Garbage Library'. Unlike a normal library, children do not need money to borrow books. Instead, they can bring plastic bottles, paper and other rubbish to the library. The library was started by a man named Raden. He wanted to encourage children to read more and keep their surroundings clean. Every week, children collect rubbish from their neighbourhood and bring it to the library. Then, they can choose a book to read at home. The project has become very popular. Children enjoy reading books and taking part in clean-up activities. They also learn that small actions can make a big difference to their community. Raden hopes that more children will join the project and develop good habits in the future.\" Which of the following is NOT TRUE according to the passage?",
+        "options": {
+          "a": "The library is in Indonesia.",
+          "b": "Children can borrow books without paying money.",
+          "c": "Raden started the library.",
+          "d": "Children don't like to join in clean-up activities."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 75,
+        "id": "q75",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"In a small town in Indonesia, there is a very special library called the 'Garbage Library'. Unlike a normal library, children do not need money to borrow books. Instead, they can bring plastic bottles, paper and other rubbish to the library. The library was started by a man named Raden. He wanted to encourage children to read more and keep their surroundings clean. Every week, children collect rubbish from their neighbourhood and bring it to the library. Then, they can choose a book to read at home. The project has become very popular. Children enjoy reading books and taking part in clean-up activities. They also learn that small actions can make a big difference to their community. Raden hopes that more children will join the project and develop good habits in the future.\" What is the main idea of the passage?",
+        "options": {
+          "a": "How children can make money from rubbish",
+          "b": "A library that helps children read and protect the environment",
+          "c": "Why children should read books every day",
+          "d": "How to start a library in Indonesia"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 76,
+        "id": "q76",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"People around the world live in many different kinds of homes. The type of home often depends on the weather, the place and the local culture. In some cold countries, people build houses with thick walls and small windows. These houses help keep the rooms warm in winter. In very hot places, some homes have large windows and high ceilings. This helps the air move around the house and keeps it cool. In some parts of Southeast Asia, people build houses on stilts. The houses are above the ground, so they are safer when there is heavy rain or flooding. In some areas, people also use wood, bamboo or other local materials to build their homes. Although these homes look very different, they all have the same purpose: to give people a safe and comfortable place to live. Looking at homes around the world can also teach us about different cultures.\" What does the type of home often depend on?",
+        "options": {
+          "a": "The number of people in a family",
+          "b": "The weather, place and local culture",
+          "c": "The colour of the house",
+          "d": "The age of the house"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 77,
+        "id": "q77",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"People around the world live in many different kinds of homes. The type of home often depends on the weather, the place and the local culture. In some cold countries, people build houses with thick walls and small windows. These houses help keep the rooms warm in winter. In very hot places, some homes have large windows and high ceilings. This helps the air move around the house and keeps it cool. In some parts of Southeast Asia, people build houses on stilts. The houses are above the ground, so they are safer when there is heavy rain or flooding. In some areas, people also use wood, bamboo or other local materials to build their homes. Although these homes look very different, they all have the same purpose: to give people a safe and comfortable place to live. Looking at homes around the world can also teach us about different cultures.\" The word \"IT\" in paragraph 2 refers to ____.",
+        "options": {
+          "a": "the house",
+          "b": "the window",
+          "c": "the air",
+          "d": "the ceiling"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 78,
+        "id": "q78",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"People around the world live in many different kinds of homes. The type of home often depends on the weather, the place and the local culture. In some cold countries, people build houses with thick walls and small windows. These houses help keep the rooms warm in winter. In very hot places, some homes have large windows and high ceilings. This helps the air move around the house and keeps it cool. In some parts of Southeast Asia, people build houses on stilts. The houses are above the ground, so they are safer when there is heavy rain or flooding. In some areas, people also use wood, bamboo or other local materials to build their homes. Although these homes look very different, they all have the same purpose: to give people a safe and comfortable place to live. Looking at homes around the world can also teach us about different cultures.\" The word \"PURPOSE\" in paragraph 4 is closest in meaning to ____.",
+        "options": {
+          "a": "reason",
+          "b": "colour",
+          "c": "shape",
+          "d": "size"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 79,
+        "id": "q79",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"People around the world live in many different kinds of homes. The type of home often depends on the weather, the place and the local culture. In some cold countries, people build houses with thick walls and small windows. These houses help keep the rooms warm in winter. In very hot places, some homes have large windows and high ceilings. This helps the air move around the house and keeps it cool. In some parts of Southeast Asia, people build houses on stilts. The houses are above the ground, so they are safer when there is heavy rain or flooding. In some areas, people also use wood, bamboo or other local materials to build their homes. Although these homes look very different, they all have the same purpose: to give people a safe and comfortable place to live. Looking at homes around the world can also teach us about different cultures.\" Which of the following is NOT TRUE according to the passage?",
+        "options": {
+          "a": "Some houses in cold countries have thick walls.",
+          "b": "Some houses in hot places have high ceilings.",
+          "c": "Houses on stilts can help protect people from floods.",
+          "d": "People only use modern materials to build their homes."
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 80,
+        "id": "q80",
+        "type": "mot_dap_an",
+        "question": "Read the passage and answer the question: \"People around the world live in many different kinds of homes. The type of home often depends on the weather, the place and the local culture. In some cold countries, people build houses with thick walls and small windows. These houses help keep the rooms warm in winter. In very hot places, some homes have large windows and high ceilings. This helps the air move around the house and keeps it cool. In some parts of Southeast Asia, people build houses on stilts. The houses are above the ground, so they are safer when there is heavy rain or flooding. In some areas, people also use wood, bamboo or other local materials to build their homes. Although these homes look very different, they all have the same purpose: to give people a safe and comfortable place to live. Looking at homes around the world can also teach us about different cultures.\" What is the main idea of the passage?",
+        "options": {
+          "a": "How to build a comfortable house",
+          "b": "Why people like big houses",
+          "c": "Different types of homes around the world",
+          "d": "The most beautiful homes in the world"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 81,
+        "id": "q81",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: Many teenagers joining the campaign “Keep Our City Clean” last year.",
+        "options": {
+          "a": "Many",
+          "b": "joining",
+          "c": "the",
+          "d": "Our"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 82,
+        "id": "q82",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: He was on holiday last week. He get sunburn after swimming for many hours under the hot sun.",
+        "options": {
+          "a": "was",
+          "b": "on",
+          "c": "get",
+          "d": "swimming"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 83,
+        "id": "q83",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: My father doesn't drove to work because he was very busy yesterday.",
+        "options": {
+          "a": "doesn't drove",
+          "b": "work",
+          "c": "was",
+          "d": "very"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 84,
+        "id": "q84",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: She likes play basketball with her brother in the afternoon.",
+        "options": {
+          "a": "play",
+          "b": "with",
+          "c": "her",
+          "d": "afternoon"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 85,
+        "id": "q85",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: She drinked a full glass of milk before going to bed last night.",
+        "options": {
+          "a": "drinked",
+          "b": "a",
+          "c": "milk",
+          "d": "going"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 86,
+        "id": "q86",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: The Japanese enjoy eats a lot of fish so they are very intelligent.",
+        "options": {
+          "a": "The",
+          "b": "eats",
+          "c": "a",
+          "d": "are"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 87,
+        "id": "q87",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: Last night, Phong listens to music for two hours.",
+        "options": {
+          "a": "listens",
+          "b": "music",
+          "c": "for",
+          "d": "hours"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 88,
+        "id": "q88",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: Every year, we collect old books and clothes to helped poor children in mountainous areas.",
+        "options": {
+          "a": "collect",
+          "b": "helped",
+          "c": "children",
+          "d": "mountainous"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 89,
+        "id": "q89",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: When did they growed vegetables in the community garden for their school project last year?",
+        "options": {
+          "a": "did",
+          "b": "growed",
+          "c": "vegetables",
+          "d": "the"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 90,
+        "id": "q90",
+        "type": "mot_dap_an",
+        "question": "Find the mistake in the following sentence: My mom hates cooked on holidays. She wants to take a rest.",
+        "options": {
+          "a": "hates",
+          "b": "cooked",
+          "c": "wants",
+          "d": "rest"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 91,
+        "id": "q91",
+        "type": "dien_khuyet",
+        "question": "Rewrite the sentence using the word given in brackets, keeping its meaning unchanged: I like eating pizza. (ENJOY) -> I ____.",
+        "answer": "enjoy eating pizza",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 92,
+        "id": "q92",
+        "type": "dien_khuyet",
+        "question": "Rewrite the sentence using the word given in brackets, keeping its meaning unchanged: She enjoys listening to music. (LOVE) -> She ____.",
+        "answer": "loves listening to music",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 93,
+        "id": "q93",
+        "type": "dien_khuyet",
+        "question": "Rewrite the sentence using the word given in brackets, keeping its meaning unchanged: Tom loves playing video games. (LIKE) -> Tom ____.",
+        "answer": "likes playing video games",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 94,
+        "id": "q94",
+        "type": "dien_khuyet",
+        "question": "Rewrite the sentence using the word given in brackets, keeping its meaning unchanged: My brother doesn't like getting up early. (HATE) -> My brother ____.",
+        "answer": "hates getting up early",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 95,
+        "id": "q95",
+        "type": "dien_khuyet",
+        "question": "Rewrite the sentence using the word given in brackets, keeping its meaning unchanged: They hate doing homework at weekends. (DISLIKE) -> They ____.",
+        "answer": "dislike doing homework at weekends",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 96,
+        "id": "q96",
+        "type": "dien_khuyet",
+        "question": "Make a question for the underlined words in brackets: My sister goes jogging [every morning]. -> ____?",
+        "answer": "How often does your sister go jogging",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 97,
+        "id": "q97",
+        "type": "dien_khuyet",
+        "question": "Make a question for the underlined words in brackets: They visited [their grandparents] last Sunday. -> ____?",
+        "answer": "Who did they visit last Sunday",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 98,
+        "id": "q98",
+        "type": "dien_khuyet",
+        "question": "Make a question for the underlined words in brackets: Tom usually plays basketball [after school]. -> ____?",
+        "answer": "When does Tom usually play basketball",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 99,
+        "id": "q99",
+        "type": "dien_khuyet",
+        "question": "Make a question for the underlined words in brackets: Sarah bought [a new bicycle] last week. -> ____?",
+        "answer": "What did Sarah buy last week",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 100,
+        "id": "q100",
+        "type": "dien_khuyet",
+        "question": "Make a question for the underlined words in brackets: My parents go shopping [twice a month]. -> ____?",
+        "answer": "How often do your parents go shopping",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 101,
+        "id": "q101",
+        "type": "dien_khuyet",
+        "question": "Rewrite two given sentences into one simple sentence: Lan enjoys reading books. She enjoys listening to music, too. -> Lan ____.",
+        "answer": "enjoys reading books and listening to music.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 102,
+        "id": "q102",
+        "type": "dien_khuyet",
+        "question": "Rewrite two given sentences into one simple sentence: Tom played football yesterday. He went swimming yesterday, too. -> Tom ____.",
+        "answer": "played football and went swimming yesterday.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 103,
+        "id": "q103",
+        "type": "dien_khuyet",
+        "question": "Rewrite two given sentences into one simple sentence: Mai likes vegetables. Mai also likes fruit. -> Mai ____.",
+        "answer": "likes vegetables and fruit.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 104,
+        "id": "q104",
+        "type": "dien_khuyet",
+        "question": "Rewrite two given sentences into one simple sentence: We visited our grandparents last weekend. We helped them clean the house, too. -> We ____.",
+        "answer": "visited our grandparents and helped them clean the house last weekend.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 105,
+        "id": "q105",
+        "type": "dien_khuyet",
+        "question": "Rewrite two given sentences into one simple sentence: Nam went to the park last Sunday. He saws many of his friends. -> Nam ____.",
+        "answer": "went to the park and saw many of his friends last Sunday.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 106,
+        "id": "q106",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: yesterday / my mother / cooked / dinner",
+        "muc": [
+          "My mother",
+          "cooked",
+          "dinner",
+          "yesterday."
+        ],
+        "answer": [
+          "My mother",
+          "cooked",
+          "dinner",
+          "yesterday."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 107,
+        "id": "q107",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: last Sunday / to the park / went / we",
+        "muc": [
+          "We",
+          "went",
+          "to the park",
+          "last Sunday."
+        ],
+        "answer": [
+          "We",
+          "went",
+          "to the park",
+          "last Sunday."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 108,
+        "id": "q108",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: didn't / last night / I / TV / watch",
+        "muc": [
+          "I",
+          "didn't",
+          "watch",
+          "TV",
+          "last night."
+        ],
+        "answer": [
+          "I",
+          "didn't",
+          "watch",
+          "TV",
+          "last night."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 109,
+        "id": "q109",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: a new bicycle / bought / last month / Peter",
+        "muc": [
+          "Peter",
+          "bought",
+          "a new bicycle",
+          "last month."
+        ],
+        "answer": [
+          "Peter",
+          "bought",
+          "a new bicycle",
+          "last month."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 110,
+        "id": "q110",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: did / yesterday / what / you / do / ?",
+        "muc": [
+          "What",
+          "did",
+          "you",
+          "do",
+          "yesterday?"
+        ],
+        "answer": [
+          "What",
+          "did",
+          "you",
+          "do",
+          "yesterday?"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 111,
+        "id": "q111",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: didn't / because / she / sick / go / Mary / to school / yesterday / was",
+        "muc": [
+          "Mary",
+          "didn't",
+          "go",
+          "to school",
+          "yesterday",
+          "because",
+          "she",
+          "was",
+          "sick."
+        ],
+        "answer": [
+          "Mary",
+          "didn't",
+          "go",
+          "to school",
+          "yesterday",
+          "because",
+          "she",
+          "was",
+          "sick."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 112,
+        "id": "q112",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: some / photos / during the trip / took / my friends / interesting",
+        "muc": [
+          "My friends",
+          "took",
+          "some",
+          "interesting",
+          "photos",
+          "during the trip."
+        ],
+        "answer": [
+          "My friends",
+          "took",
+          "some",
+          "interesting",
+          "photos",
+          "during the trip."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 113,
+        "id": "q113",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: did / your brother / last weekend / visit / his grandparents / ?",
+        "muc": [
+          "Did",
+          "your brother",
+          "visit",
+          "his grandparents",
+          "last weekend?"
+        ],
+        "answer": [
+          "Did",
+          "your brother",
+          "visit",
+          "his grandparents",
+          "last weekend?"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 114,
+        "id": "q114",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: didn't / enough time / we / have / to finish / the homework / yesterday",
+        "muc": [
+          "We",
+          "didn't",
+          "have",
+          "enough time",
+          "to finish",
+          "the homework",
+          "yesterday."
+        ],
+        "answer": [
+          "We",
+          "didn't",
+          "have",
+          "enough time",
+          "to finish",
+          "the homework",
+          "yesterday."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 115,
+        "id": "q115",
+        "type": "sap_xep",
+        "question": "Put the words in the correct order to make a complete sentence: why / didn't / the meeting / attend / you / yesterday / ?",
+        "muc": [
+          "Why",
+          "didn't",
+          "you",
+          "attend",
+          "the meeting",
+          "yesterday?"
+        ],
+        "answer": [
+          "Why",
+          "didn't",
+          "you",
+          "attend",
+          "the meeting",
+          "yesterday?"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      }
+ 
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "English 71",
+    "questions": [
+      {
+        "number": 1,
+        "id": "cc3_mda_1",
+        "type": "mot_dap_an",
+        "question": "Kết quả của phép tính 3 x 4 là bao nhiêu?",
+        "options": {
+          "a": "12",
+          "b": "15",
+          "c": "9",
+          "d": "18"
+        },
+        "answer": "a",
+        "explanation": "Theo bảng cửu chương 3, ta có 3 x 4 = 12."
+      },
+      {
+        "number": 2,
+        "id": "cc3_mda_2",
+        "type": "mot_dap_an",
+        "question": "Phép tính nào sau đây có kết quả bằng 21?",
+        "options": {
+          "a": "3 x 7",
+          "b": "3 x 6",
+          "c": "3 x 8",
+          "d": "3 x 9"
+        },
+        "answer": "a",
+        "explanation": "Ta có 3 x 7 = 21."
+      },
+  
+      {
+        "number": 30,
+        "id": "cc3_sp_3",
+        "type": "speaking",
+        "question": "Hãy đọc câu khẳng định sau bằng Tiếng Anh: '3 nhân 10 là 30'.",
+        "answer": "three times ten is thirty",
+        "explanation": "Bạn có thể dùng 'equals' hoặc 'is' đều được. Đọc chuẩn: 'Three times ten is thirty'."
+      }
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "English 72",
+    "questions": [
+      {
+        "number": 1,
+        "id": "cc3_mda_1",
+        "type": "mot_dap_an",
+        "question": "Kết quả của phép tính 3 x 4 là bao nhiêu?",
+        "options": {
+          "a": "12",
+          "b": "15",
+          "c": "9",
+          "d": "18"
+        },
+        "answer": "a",
+        "explanation": "Theo bảng cửu chương 3, ta có 3 x 4 = 12."
+      },
+      {
+        "number": 2,
+        "id": "cc3_mda_2",
+        "type": "mot_dap_an",
+        "question": "Phép tính nào sau đây có kết quả bằng 21?",
+        "options": {
+          "a": "3 x 7",
+          "b": "3 x 6",
+          "c": "3 x 8",
+          "d": "3 x 9"
+        },
+        "answer": "a",
+        "explanation": "Ta có 3 x 7 = 21."
+      },
+  
+      {
+        "number": 30,
+        "id": "cc3_sp_3",
+        "type": "speaking",
+        "question": "Hãy đọc câu khẳng định sau bằng Tiếng Anh: '3 nhân 10 là 30'.",
+        "answer": "three times ten is thirty",
+        "explanation": "Bạn có thể dùng 'equals' hoặc 'is' đều được. Đọc chuẩn: 'Three times ten is thirty'."
+      }
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "English 73",
+    "questions": [
+      {
+        "number": 1,
+        "id": "cc3_mda_1",
+        "type": "mot_dap_an",
+        "question": "Kết quả của phép tính 3 x 4 là bao nhiêu?",
+        "options": {
+          "a": "12",
+          "b": "15",
+          "c": "9",
+          "d": "18"
+        },
+        "answer": "a",
+        "explanation": "Theo bảng cửu chương 3, ta có 3 x 4 = 12."
+      },
+      {
+        "number": 2,
+        "id": "cc3_mda_2",
+        "type": "mot_dap_an",
+        "question": "Phép tính nào sau đây có kết quả bằng 21?",
+        "options": {
+          "a": "3 x 7",
+          "b": "3 x 6",
+          "c": "3 x 8",
+          "d": "3 x 9"
+        },
+        "answer": "a",
+        "explanation": "Ta có 3 x 7 = 21."
+      },
+  
+      {
+        "number": 30,
+        "id": "cc3_sp_3",
+        "type": "speaking",
+        "question": "Hãy đọc câu khẳng định sau bằng Tiếng Anh: '3 nhân 10 là 30'.",
+        "answer": "three times ten is thirty",
+        "explanation": "Bạn có thể dùng 'equals' hoặc 'is' đều được. Đọc chuẩn: 'Three times ten is thirty'."
+      }
+    ]
+  },
+ {
+    "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
+    "subject":  "Ôn thi GKI-7",
+    "topic": "English 74",
+    "questions": [
+      {
+        "number": 1,
+        "id": "cc3_mda_1",
+        "type": "mot_dap_an",
+        "question": "Kết quả của phép tính 3 x 4 là bao nhiêu?",
+        "options": {
+          "a": "12",
+          "b": "15",
+          "c": "9",
+          "d": "18"
+        },
+        "answer": "a",
+        "explanation": "Theo bảng cửu chương 3, ta có 3 x 4 = 12."
+      },
+      {
+        "number": 2,
+        "id": "cc3_mda_2",
+        "type": "mot_dap_an",
+        "question": "Phép tính nào sau đây có kết quả bằng 21?",
+        "options": {
+          "a": "3 x 7",
+          "b": "3 x 6",
+          "c": "3 x 8",
+          "d": "3 x 9"
+        },
+        "answer": "a",
+        "explanation": "Ta có 3 x 7 = 21."
+      },
+  
+      {
+        "number": 30,
+        "id": "cc3_sp_3",
+        "type": "speaking",
+        "question": "Hãy đọc câu khẳng định sau bằng Tiếng Anh: '3 nhân 10 là 30'.",
+        "answer": "three times ten is thirty",
+        "explanation": "Bạn có thể dùng 'equals' hoặc 'is' đều được. Đọc chuẩn: 'Three times ten is thirty'."
+      }
+    ]
+  }
+]
+
+
+
+
+
