@@ -4504,50 +4504,4825 @@
         "_": "---",
         "_divider": "-----------------"
       }
- 
     ]
   },
  {
     "_Note": "DỮ LIỆU BÀI KIỂM TRA MẪU A90 ELITE",
-    "subject":  "Ôn thi HKI-7",
-    "topic": "English 71",
+    "subject":  "English Department 
+    "topic": "Term 2 Week 9 – CIE7 ",
     "questions": [
+ 
       {
         "number": 1,
-        "id": "cc3_mda_1",
+        "id": "q1",
         "type": "mot_dap_an",
-        "question": "Kết quả của phép tính 3 x 4 là bao nhiêu?",
+        "question": "Which term refers to an extreme outdoor sport that involves descending through narrow gorges using techniques such as rappelling, jumping, and swimming along flowing water?",
         "options": {
-          "a": "12",
-          "b": "15",
-          "c": "9",
-          "d": "18"
+          "a": "Paragliding",
+          "b": "Canyoning",
+          "c": "Glaciology",
+          "d": "Mountaineering"
         },
-        "answer": "a",
-        "explanation": "Theo bảng cửu chương 3, ta có 3 x 4 = 12."
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
       },
       {
         "number": 2,
-        "id": "cc3_mda_2",
+        "id": "q2",
         "type": "mot_dap_an",
-        "question": "Phép tính nào sau đây có kết quả bằng 21?",
+        "question": "A specialist who scientifically measures, designs, and compiles geographical representations of terrain, elevation, and political boundaries is professionally designated as a what?",
         "options": {
-          "a": "3 x 7",
-          "b": "3 x 6",
-          "c": "3 x 8",
-          "d": "3 x 9"
+          "a": "Cartographer",
+          "b": "Geologist",
+          "c": "Demographer",
+          "d": "Topographer"
         },
         "answer": "a",
-        "explanation": "Ta có 3 x 7 = 21."
+        "_": "---",
+        "_divider": "-----------------"
       },
-  
+      {
+        "number": 3,
+        "id": "q3",
+        "type": "mot_dap_an",
+        "question": "During the colonial era, many indigenous geographical names across North America were phonetically altered to conform to English spelling and pronunciation rules. Which verb accurately describes this linguistic process?",
+        "options": {
+          "a": "Inhabit",
+          "b": "Urbanize",
+          "c": "Anglicize",
+          "d": "Provincialize"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 4,
+        "id": "q4",
+        "type": "mot_dap_an",
+        "question": "Examine the meteorological observation: \"Look at the dense, dark cumulonimbus clouds rapidly gathering over the glacier. A severe blizzard ____.\" Select the grammatically and contextually accurate verb phrase.",
+        "options": {
+          "a": "will strike",
+          "b": "is going to strike",
+          "c": "strikes",
+          "d": "shall strike"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 5,
+        "id": "q5",
+        "type": "mot_dap_an",
+        "question": "Select the sentence that adheres strictly to standard English grammar when expressing a fixed public transportation timetable for tomorrow.",
+        "options": {
+          "a": "The express trains leaves the central station at 5:00 a.m. tomorrow.",
+          "b": "The express train will leave the central station at 5:00 a.m. tomorrow.",
+          "c": "The express train leaves the central station at 5:00 a.m. tomorrow.",
+          "d": "The express train is leaving the central station at 5:00 a.m. tomorrow."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 6,
+        "id": "q6",
+        "type": "mot_dap_an",
+        "question": "Which geological feature is accurately defined as a slow-moving, dense mass of compressed snow and ice formed over centuries in high-altitude or polar regions?",
+        "options": {
+          "a": "Volcano",
+          "b": "Glacier",
+          "c": "Landscape",
+          "d": "Province"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 7,
+        "id": "q7",
+        "type": "mot_dap_an",
+        "question": "\"I have already finalized the itinerary, purchased the flight tickets, and reserved the mountain lodge. I ____ to the northern province next Monday.\" Which structure best conveys a confirmed personal arrangement?",
+        "options": {
+          "a": "will fly",
+          "b": "am flying",
+          "c": "fly",
+          "d": "shall fly"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 8,
+        "id": "q8",
+        "type": "mot_dap_an",
+        "question": "In demographic geography, which term denotes the total number of individuals residing within a defined administrative territory at a specific point in time?",
+        "options": {
+          "a": "Province",
+          "b": "Inhabitant",
+          "c": "Population",
+          "d": "Landscape"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 9,
+        "id": "q9",
+        "type": "mot_dap_an",
+        "question": "\"I honestly think the volcanic ash cloud ____ across the eastern valleys by tomorrow afternoon, though meteorologists remain uncertain.\" Choose the most appropriate verb form.",
+        "options": {
+          "a": "is drifting",
+          "b": "drifts",
+          "c": "will drift",
+          "d": "is going to drift"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 10,
+        "id": "q10",
+        "type": "mot_dap_an",
+        "question": "Which verb is syntactically transitive and accurately means \"to live in or occupy a specific geographical region or ecological habitat\"?",
+        "options": {
+          "a": "Inhabit",
+          "b": "Anglicize",
+          "c": "Reside",
+          "d": "Dwell"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 11,
+        "id": "q11",
+        "type": "mot_dap_an",
+        "question": "A paragliding instructor warns a novice: \"Watch out! Your harness strap is loose; you ____ your balance on takeoff!\" Why is \"are going to lose\" superior to \"will lose\" in this context?",
+        "options": {
+          "a": "Because it refers to an official flight timetable.",
+          "b": "Because it expresses a spontaneous decision made at the moment of speaking.",
+          "c": "Because the prediction is grounded in immediate physical evidence.",
+          "d": "Because it describes a pre-booked personal appointment."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 12,
+        "id": "q12",
+        "type": "mot_dap_an",
+        "question": "When distinguishing between \"province\" and \"landscape\" in geographical writing, which analytical statement is accurate?",
+        "options": {
+          "a": "A province is defined by natural elevation, whereas a landscape is defined by legal borders.",
+          "b": "A province is a political administrative division, whereas a landscape refers to the visible physical features of an area.",
+          "c": "Both terms exclusively describe uninhabited wilderness regions.",
+          "d": "A landscape must contain a volcano or glacier to be classified accurately."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 13,
+        "id": "q13",
+        "type": "nhieu_dap_an",
+        "question": "Select all terms from Unit 5 that refer specifically to outdoor adventure sports rather than geographical or demographic concepts.",
+        "options": {
+          "a": "Paragliding",
+          "b": "Cartographer",
+          "c": "Canyoning",
+          "d": "Glacier"
+        },
+        "answer": [
+          "a",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 14,
+        "id": "q14",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following sentences correctly apply English future structures according to their strict grammatical functions?",
+        "options": {
+          "a": "The ferry to the volcanic island departs at 6:30 a.m. tomorrow.",
+          "b": "Look at that unstable boulder on the cliff edge; it is going to roll into the canyon.",
+          "c": "I promise I am calling the cartographer as soon as I reach the summit.",
+          "d": "We are meeting the expedition guide at base camp tomorrow evening; everything is booked."
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 15,
+        "id": "q15",
+        "type": "nhieu_dap_an",
+        "question": "Identify all statements that accurately describe the grammatical scope of the Simple Future tense (S + will/shall + V bare).",
+        "options": {
+          "a": "It is used for predictions based purely on personal belief, often paired with verbs like think or believe.",
+          "b": "It is used for fixed, published airport and railway schedules.",
+          "c": "It is used for spontaneous decisions made at the exact moment of speaking.",
+          "d": "It requires the main verb to remain in its base (bare infinitive) form without s, es, or ing."
+        },
+        "answer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 16,
+        "id": "q16",
+        "type": "nhieu_dap_an",
+        "question": "Which geographical nouns from Unit 5 directly describe large-scale physical landforms created by tectonic or climatic forces?",
+        "options": {
+          "a": "Volcano",
+          "b": "Glacier",
+          "c": "Population",
+          "d": "Province"
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 17,
+        "id": "q17",
+        "type": "dien_khuyet",
+        "question": "A skilled ____ spent three months surveying the remote mountain range to produce an updated topographic map for the expedition.",
+        "answer": "cartographer",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 18,
+        "id": "q18",
+        "type": "dien_khuyet",
+        "question": "According to the official railway schedule, the morning express ____ (depart) at 5:00 a.m. tomorrow without delay.",
+        "answer": "departs",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 19,
+        "id": "q19",
+        "type": "dien_khuyet",
+        "question": "Several rare alpine species ____ the rugged valleys surrounding the dormant volcano, adapting to freezing nocturnal temperatures.",
+        "answer": "inhabit",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 20,
+        "id": "q20",
+        "type": "dien_khuyet",
+        "question": "Look at the frayed rope holding the climber's supply pack. It is ____ to snap within seconds.",
+        "answer": "going",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 21,
+        "id": "q21",
+        "type": "dien_khuyet",
+        "question": "In the nineteenth century, European settlers chose to ____ many local river names so they would be easier for English speakers to pronounce.",
+        "answer": "anglicize",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 22,
+        "id": "q22",
+        "type": "dien_khuyet",
+        "question": "Because global temperatures are rising rapidly, scientists predict that the massive alpine ____ will shrink significantly over the next decade.",
+        "answer": "glacier",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 23,
+        "id": "q23",
+        "type": "noi",
+        "question": "Match each Unit 5 vocabulary term on the left with its precise academic definition on the right.",
+        "leftCol": [
+          "Paragliding",
+          "Canyoning",
+          "Glacier",
+          "Volcano"
+        ],
+        "rightCol": [
+          "A slow-moving mass of dense ice formed by compacted snow",
+          "An aerial sport involving launching from elevated slopes with a fabric wing",
+          "A crustal opening through which molten rock and gases erupt",
+          "The sport of navigating steep water-carved gorges via rappelling and swimming"
+        ],
+        "answer": {
+          "Paragliding": "An aerial sport involving launching from elevated slopes with a fabric wing",
+          "Canyoning": "The sport of navigating steep water-carved gorges via rappelling and swimming",
+          "Glacier": "A slow-moving mass of dense ice formed by compacted snow",
+          "Volcano": "A crustal opening through which molten rock and gases erupt"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 24,
+        "id": "q24",
+        "type": "noi",
+        "question": "Match each future grammatical structure on the left with its primary communicative function on the right.",
+        "leftCol": [
+          "Present continuous",
+          "Be going to + V (bare)",
+          "Simple future (will)",
+          "Simple present"
+        ],
+        "rightCol": [
+          "Fixed official timetables and transport schedules",
+          "Subjective predictions or spontaneous decisions",
+          "Pre-arranged, confirmed personal plans",
+          "Predictions supported by immediate physical evidence"
+        ],
+        "answer": {
+          "Present continuous": "Pre-arranged, confirmed personal plans",
+          "Be going to + V (bare)": "Predictions supported by immediate physical evidence",
+          "Simple future (will)": "Subjective predictions or spontaneous decisions",
+          "Simple present": "Fixed official timetables and transport schedules"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 25,
+        "id": "q25",
+        "type": "noi",
+        "question": "Match each geographical or linguistic term on the left with its accurate contextual meaning on the right.",
+        "leftCol": [
+          "Cartographer",
+          "Anglicize",
+          "Inhabit",
+          "Province"
+        ],
+        "rightCol": [
+          "To adapt a foreign term into English spelling or pronunciation",
+          "A principal administrative division within a country",
+          "A professional who designs and constructs maps",
+          "To reside permanently within a particular environment"
+        ],
+        "answer": {
+          "Cartographer": "A professional who designs and constructs maps",
+          "Anglicize": "To adapt a foreign term into English spelling or pronunciation",
+          "Inhabit": "To reside permanently within a particular environment",
+          "Province": "A principal administrative division within a country"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 26,
+        "id": "q26",
+        "type": "noi",
+        "question": "Match each sample sentence on the left with the grammatical structure it exemplifies on the right.",
+        "leftCol": [
+          "The shuttle departs at 6:00 a.m. tomorrow.",
+          "I am meeting the alpine guide next Friday.",
+          "Look at the melting snow; an avalanche is going to occur.",
+          "I think the expedition will succeed."
+        ],
+        "rightCol": [
+          "Simple future",
+          "Present continuous",
+          "Simple present",
+          "Be going to + V (bare)"
+        ],
+        "answer": {
+          "The shuttle departs at 6:00 a.m. tomorrow.": "Simple present",
+          "I am meeting the alpine guide next Friday.": "Present continuous",
+          "Look at the melting snow; an avalanche is going to occur.": "Be going to + V (bare)",
+          "I think the expedition will succeed.": "Simple future"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 27,
+        "id": "q27",
+        "type": "dropdown",
+        "question": "Complete the expedition briefing by selecting the accurate future forms: According to the official flight board, our plane [[leaves|will leave|is leaving]] at 7:15 a.m. tomorrow, and our research team [[is staying|stays|shall stay]] at a pre-booked lodge near the glacier.",
+        "answer": "leaves, is staying",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 28,
+        "id": "q28",
+        "type": "dropdown",
+        "question": "Select the precise Unit 5 terms to complete the geographical report: A renowned [[cartographer|population|province]] was hired to map the dramatic volcanic [[landscape|paragliding|canyoning]] before tourists arrived.",
+        "answer": "cartographer, landscape",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 29,
+        "id": "q29",
+        "type": "dropdown",
+        "question": "Choose the correct verb structures based on context: Watch that loose rock above the trail! It [[is going to fall|will fall|falls]] right onto the path. In contrast, I believe the afternoon weather [[will remain|is remaining|remains]] clear for our hike.",
+        "answer": "is going to fall, will remain",
+        "_": "---",
+        "_divider": "-----------------"
+      },
       {
         "number": 30,
-        "id": "cc3_sp_3",
+        "id": "q30",
+        "type": "dropdown",
+        "question": "Complete the historical geography summary: Over two million people currently [[inhabit|anglicize|paragliding]] this coastal [[province|glacier|volcano]], making it the most densely populated region in the nation.",
+        "answer": "inhabit, province",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 31,
+        "id": "q31",
+        "type": "dropdown",
+        "question": "Select the grammatically sound forms for the outdoor club announcement: The canyoning bus [[arrives|will arrive|is going to arrive]] at the main gate at 8:00 a.m. sharp, and the instructors [[are bringing|bring|shall bring]] all the safety harnesses they reserved yesterday.",
+        "answer": "arrives, are bringing",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 32,
+        "id": "q32",
+        "type": "dropdown",
+        "question": "Complete the adventure tourism analysis: Tourists seeking aerial views often choose [[paragliding|canyoning|cartographer]] over mountain ridges, while explorers who want to inspect ancient ice formations trek toward the northern [[glacier|province|population]].",
+        "answer": "paragliding, glacier",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 33,
+        "id": "q33",
+        "type": "dropdown",
+        "question": "Identify the accurate future tense pairings: \"I have already bought the train ticket; I [[am visiting|visit|will visit]] my colleague in the eastern province next week. Hopefully, the coastal winds [[will calm|are calming|calm]] down by then.\"",
+        "answer": "am visiting, will calm",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 34,
+        "id": "q34",
+        "type": "sap_xep",
+        "question": "Arrange the four English future structures in order from the most rigid external schedule (1) to the most subjective or spontaneous prediction (4).",
+        "muc": [
+          "Simple present (fixed official timetables)",
+          "Present continuous (confirmed personal arrangements)",
+          "Be going to + V bare (evidence-based predictions or prior intentions)",
+          "Simple future with will (subjective opinions or spontaneous decisions)"
+        ],
+        "answer": [
+          "Simple present (fixed official timetables)",
+          "Present continuous (confirmed personal arrangements)",
+          "Be going to + V bare (evidence-based predictions or prior intentions)",
+          "Simple future with will (subjective opinions or spontaneous decisions)"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 35,
+        "id": "q35",
+        "type": "sap_xep",
+        "question": "Arrange the stages of a cartographer's field expedition to map a newly active volcano in logical chronological sequence.",
+        "muc": [
+          "Consult the official flight timetable that departs at dawn for the remote province.",
+          "Observe the visible terrain and measure the surrounding volcanic landscape.",
+          "Record indigenous place names accurately without attempting to anglicize them.",
+          "Compile the verified coordinates into a final scientific map for the local population."
+        ],
+        "answer": [
+          "Consult the official flight timetable that departs at dawn for the remote province.",
+          "Observe the visible terrain and measure the surrounding volcanic landscape.",
+          "Record indigenous place names accurately without attempting to anglicize them.",
+          "Compile the verified coordinates into a final scientific map for the local population."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 36,
+        "id": "q36",
+        "type": "sap_xep",
+        "question": "Order the steps required to verify whether a sentence expressing the future should use Simple Present instead of Simple Future (will).",
+        "muc": [
+          "Check if the sentence contains a future time marker such as tomorrow or next week.",
+          "Determine whether the event is controlled by an official public timetable or institutional schedule.",
+          "Eliminate the auxiliary verb will despite the future time marker.",
+          "Conjugate the main verb in simple present, ensuring strict subject-verb agreement."
+        ],
+        "answer": [
+          "Check if the sentence contains a future time marker such as tomorrow or next week.",
+          "Determine whether the event is controlled by an official public timetable or institutional schedule.",
+          "Eliminate the auxiliary verb will despite the future time marker.",
+          "Conjugate the main verb in simple present, ensuring strict subject-verb agreement."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 37,
+        "id": "q37",
+        "type": "sap_xep",
+        "question": "Arrange the logical sequence of a decision-making process when selecting between \"will\" and \"be going to\" for a weather prediction.",
+        "muc": [
+          "Read the context carefully for any physical or sensory clues in the present moment.",
+          "Identify whether the speaker uses subjective markers such as I think or probably.",
+          "Choose be going to if immediate physical evidence (like dark storm clouds) is present.",
+          "Choose will if the forecast relies solely on personal opinion without direct sensory proof."
+        ],
+        "answer": [
+          "Read the context carefully for any physical or sensory clues in the present moment.",
+          "Identify whether the speaker uses subjective markers such as I think or probably.",
+          "Choose be going to if immediate physical evidence (like dark storm clouds) is present.",
+          "Choose will if the forecast relies solely on personal opinion without direct sensory proof."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 38,
+        "id": "q38",
+        "type": "phan_loai",
+        "question": "Classify the following Unit 5 vocabulary items into their exact lexical categories.",
+        "the": [
+          "Paragliding",
+          "Canyoning",
+          "Glacier",
+          "Volcano",
+          "Anglicize",
+          "Inhabit"
+        ],
+        "nhom": [
+          "Adventure Sports",
+          "Natural Landforms",
+          "Verbs"
+        ],
+        "dap_an": {
+          "Paragliding": 0,
+          "Canyoning": 0,
+          "Glacier": 1,
+          "Volcano": 1,
+          "Anglicize": 2,
+          "Inhabit": 2
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 39,
+        "id": "q39",
+        "type": "phan_loai",
+        "question": "Classify each future-reference clause according to the exact grammatical tense required by standard English.",
+        "the": [
+          "The mountain train leaves at 5:00 a.m. tomorrow",
+          "The museum opens at 9:00 a.m. next Monday",
+          "Look at that cat; it is going to fall off the tree",
+          "Look at those cracks in the glacier; the ice is going to collapse",
+          "I think it will be sunny tomorrow",
+          "She believes the population will double by 2050"
+        ],
+        "nhom": [
+          "Simple Present (Timetable)",
+          "Be Going To (Evidence)",
+          "Simple Future (Subjective Opinion)"
+        ],
+        "dap_an": {
+          "The mountain train leaves at 5:00 a.m. tomorrow": 0,
+          "The museum opens at 9:00 a.m. next Monday": 0,
+          "Look at that cat; it is going to fall off the tree": 1,
+          "Look at those cracks in the glacier; the ice is going to collapse": 1,
+          "I think it will be sunny tomorrow": 2,
+          "She believes the population will double by 2050": 2
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 40,
+        "id": "q40",
+        "type": "phan_loai",
+        "question": "Categorize each noun from Unit 5 based on whether it belongs to Human/Administrative Geography or Physical Geography.",
+        "the": [
+          "Population",
+          "Province",
+          "Cartographer",
+          "Glacier",
+          "Volcano",
+          "Landscape"
+        ],
+        "nhom": [
+          "Human and Administrative Geography",
+          "Physical Geography"
+        ],
+        "dap_an": {
+          "Population": 0,
+          "Province": 0,
+          "Cartographer": 0,
+          "Glacier": 1,
+          "Volcano": 1,
+          "Landscape": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 41,
+        "id": "q41",
+        "type": "phan_loai",
+        "question": "Sort the following sentences by whether they represent a Confirmed Personal Arrangement (Present Continuous) or a Fixed Institutional Schedule (Simple Present).",
+        "the": [
+          "I am coming to see you next month",
+          "We are flying to the northern province tomorrow morning with our tickets ready",
+          "The express train leaves at 5:00 a.m. tomorrow",
+          "The geography conference starts at 8:30 a.m. on Friday"
+        ],
+        "nhom": [
+          "Confirmed Personal Arrangement",
+          "Fixed Institutional Schedule"
+        ],
+        "dap_an": {
+          "I am coming to see you next month": 0,
+          "We are flying to the northern province tomorrow morning with our tickets ready": 0,
+          "The express train leaves at 5:00 a.m. tomorrow": 1,
+          "The geography conference starts at 8:30 a.m. on Friday": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 42,
+        "id": "q42",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The sentence 'The trains leaves at 5 a.m. tomorrow' is grammatically accurate because it uses the simple present tense for a fixed timetable.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 43,
+        "id": "q43",
+        "type": "dung_sai",
+        "question": "Nhận định: \"In the warning 'Look at that cat. It is going to fall off the tree', replacing 'is going to fall' with 'will fall' preserves the exact grammatical nuance of an evidence-based prediction.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 44,
+        "id": "q44",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The verb 'anglicize' describes the process of adapting a non-English place name, spelling, or cultural form to resemble English conventions.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 45,
+        "id": "q45",
+        "type": "listening",
+        "question": "Listen to the expedition coordinator's announcement. Which grammatical detail confirms that the train departure is a fixed schedule rather than a personal guess?",
+        "audio_text": "Attention all expedition members. Please check your gear tonight. Our charter train leaves the main terminal at 5:00 a.m. tomorrow. I think it will be quite chilly near the glacier, so pack thermal layers. Also, we are meeting the lead cartographer at 9:00 a.m. once we arrive in the northern province.",
+        "options": {
+          "a": "The coordinator uses the modal verb will to predict the departure time.",
+          "b": "The coordinator uses the simple present verb leaves despite mentioning tomorrow.",
+          "c": "The coordinator uses the present continuous are meeting to describe the train.",
+          "d": "The coordinator uses be going to because of the cold weather."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 46,
+        "id": "q46",
+        "type": "listening",
+        "question": "Listen to the dialogue between two adventure guides. Why does the second guide use \"is going to\" instead of \"will\"?",
+        "audio_text": "Guide 1: Should we launch the paragliding session from the eastern ridge now? Guide 2: Hold on! Look at the wind sock snapping violently and those black clouds rolling over the volcano. A severe storm is going to hit the valley within ten minutes. We must cancel immediately.",
+        "options": {
+          "a": "Because the storm is part of a published weather timetable.",
+          "b": "Because the guide is making a spontaneous promise.",
+          "c": "Because the guide bases the prediction on immediate visual evidence.",
+          "d": "Because the guide arranged the storm in advance."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 47,
+        "id": "q47",
+        "type": "listening",
+        "question": "Listen to the geography lecture excerpt. What is the main challenge the speaker associates with historical maps of the northern province?",
+        "audio_text": "When examining nineteenth-century maps of this coastal province, historians notice a recurring pattern. Early European cartographers struggled to transcribe the local languages of the communities who inhabit the glacial valleys. Consequently, they tended to anglicize original river and mountain names, permanently altering how the landscape appears on modern maps.",
+        "options": {
+          "a": "The cartographers refused to draw any glaciers or rivers.",
+          "b": "The local population migrated away from the province before maps were drawn.",
+          "c": "Early cartographers altered indigenous place names into English forms.",
+          "d": "Modern maps no longer show the coastal province."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 48,
+        "id": "q48",
         "type": "speaking",
-        "question": "Hãy đọc câu khẳng định sau bằng Tiếng Anh: '3 nhân 10 là 30'.",
-        "answer": "three times ten is thirty",
-        "explanation": "Bạn có thể dùng 'equals' hoặc 'is' đều được. Đọc chuẩn: 'Three times ten is thirty'."
+        "question": "Read the following academic sentence aloud clearly, paying close attention to word stress on the four-syllable profession noun:",
+        "answer": "The cartographer accurately mapped the volcanic landscape and the shrinking glacier.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 49,
+        "id": "q49",
+        "type": "speaking",
+        "question": "Read the following sentence aloud, emphasizing accurate pronunciation of the verb \"anglicize\" and clear intonation for a fixed future schedule:",
+        "answer": "The express train leaves at five a.m. tomorrow for the northern province where explorers once chose to anglicize local names.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 50,
+        "id": "q50",
+        "type": "speaking",
+        "question": "Read the following contrast aloud clearly, stressing the auxiliary structures that distinguish evidence-based prediction from subjective opinion:",
+        "answer": "Look at the dark clouds over the canyon; it is going to rain soon, although I think it will be sunny tomorrow for paragliding.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 51,
+        "id": "q51",
+        "type": "mot_dap_an",
+        "question": "Which sentence correctly uses the Present Continuous tense to express a pre-arranged future plan rather than an action occurring at the moment of speaking?",
+        "options": {
+          "a": "The volcanic magma is flowing slowly down the western slope right now.",
+          "b": "We are departing for the glacier research station next Thursday; all permits are approved.",
+          "c": "The local population is growing steadily every decade.",
+          "d": "The cartographer is drawing a map of the northern province at his desk."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 52,
+        "id": "q52",
+        "type": "mot_dap_an",
+        "question": "In the sentence \"Shall we inspect the canyon trail before dusk?\", what grammatical function does the auxiliary verb \"shall\" perform?",
+        "options": {
+          "a": "It states a fixed official timetable.",
+          "b": "It expresses a formal suggestion or offer for a future action with first-person subjects.",
+          "c": "It predicts an imminent physical event based on visible clouds.",
+          "d": "It describes a habitual geographical phenomenon."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 53,
+        "id": "q53",
+        "type": "mot_dap_an",
+        "question": "Read the geographical excerpt: \"Despite the harsh sub-zero climate, small nomadic communities continue to ____ the high-altitude plateau surrounding the glacier.\" Which word fits both grammatically and semantically?",
+        "options": {
+          "a": "population",
+          "b": "anglicize",
+          "c": "inhabit",
+          "d": "province"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 54,
+        "id": "q54",
+        "type": "nhieu_dap_an",
+        "question": "Select all sentences that contain a grammatical error in expressing the future.",
+        "options": {
+          "a": "The first shuttle to the paragliding ridge will leaving at 6:00 a.m. tomorrow.",
+          "b": "Look at the cracked ice bridge; it is going to collapse under that weight.",
+          "c": "The regional trains departs from platform four at 8:15 a.m. tomorrow.",
+          "d": "I am visiting the cartography museum next Saturday with my booked pass."
+        },
+        "answer": [
+          "a",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 55,
+        "id": "q55",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following pairs accurately match a Unit 5 vocabulary word with its grammatical part of speech?",
+        "options": {
+          "a": "Anglicize - Verb",
+          "b": "Cartographer - Noun",
+          "c": "Inhabit - Adjective",
+          "d": "Landscape - Noun"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 56,
+        "id": "q56",
+        "type": "dien_khuyet",
+        "question": "Before descending into the narrow waterfall gorge, every ____ participant must secure a helmet, wetsuit, and climbing harness.",
+        "answer": "canyoning",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 57,
+        "id": "q57",
+        "type": "dien_khuyet",
+        "question": "I think the expedition team ____ (reach) the summit of the dormant volcano before sunset, though the wind is unpredictable.",
+        "answer": "will reach",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 58,
+        "id": "q58",
+        "type": "noi",
+        "question": "Match each Unit 5 word on the left with the most logical contextual collocation on the right.",
+        "leftCol": [
+          "Population",
+          "Landscape",
+          "Glacier",
+          "Volcano"
+        ],
+        "rightCol": [
+          "Erupting with molten lava and ash",
+          "Melting rapidly due to rising global temperatures",
+          "Increasing density in coastal cities",
+          "Dramatic alpine scenery stretching across the valley"
+        ],
+        "answer": {
+          "Population": "Increasing density in coastal cities",
+          "Landscape": "Dramatic alpine scenery stretching across the valley",
+          "Glacier": "Melting rapidly due to rising global temperatures",
+          "Volcano": "Erupting with molten lava and ash"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 59,
+        "id": "q59",
+        "type": "noi",
+        "question": "Match each grammatical error on the left with the exact correction rule on the right.",
+        "leftCol": [
+          "The trains leaves at 5 a.m.",
+          "Look at the storm! It will rain in a minute.",
+          "I think it is going to be sunny next year.",
+          "She will going to the province tomorrow."
+        ],
+        "rightCol": [
+          "Modal will must be followed by a bare infinitive, not a participle",
+          "Enforce subject-verb agreement for plural subjects in simple present",
+          "Use be going to for predictions based on immediate visible evidence",
+          "Use simple future will for distant, subjective opinions"
+        ],
+        "answer": {
+          "The trains leaves at 5 a.m.": "Enforce subject-verb agreement for plural subjects in simple present",
+          "Look at the storm! It will rain in a minute.": "Use be going to for predictions based on immediate visible evidence",
+          "I think it is going to be sunny next year.": "Use simple future will for distant, subjective opinions",
+          "She will going to the province tomorrow.": "Modal will must be followed by a bare infinitive, not a participle"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 60,
+        "id": "q60",
+        "type": "dropdown",
+        "question": "Complete the travel advisory: Because of the tectonic tremors, geologists warn that the dormant [[volcano|glacier|province]] [[is going to erupt|erupts|shall erupt]] soon based on the rising seismic readings.",
+        "answer": "volcano, is going to erupt",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 61,
+        "id": "q61",
+        "type": "dropdown",
+        "question": "Select the accurate words for the historical note: When the royal [[cartographer|landscape|canyoning]] published the 1840 atlas, he decided to [[anglicize|inhabit|paragliding]] several indigenous names across the northern territory.",
+        "answer": "cartographer, anglicize",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 62,
+        "id": "q62",
+        "type": "dropdown",
+        "question": "Complete the itinerary statement: Our mountain bus [[departs|will depart|is going to depart]] at 6:30 a.m. tomorrow according to the station board, and we [[are meeting|meet|will meeting]] our paragliding instructor at the summit at 9:00 a.m.",
+        "answer": "departs, are meeting",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 63,
+        "id": "q63",
+        "type": "sap_xep",
+        "question": "Arrange the following steps in logical order to plan and execute a safe paragliding trip in a mountainous province.",
+        "muc": [
+          "Check the official bus timetable that leaves the city center at 5:00 a.m. tomorrow.",
+          "Confirm the pre-booked flight arrangement with the certified instructor.",
+          "Inspect the sky for dark clouds that signal a storm is going to strike.",
+          "Launch from the elevated ridge to observe the panoramic landscape below."
+        ],
+        "answer": [
+          "Check the official bus timetable that leaves the city center at 5:00 a.m. tomorrow.",
+          "Confirm the pre-booked flight arrangement with the certified instructor.",
+          "Inspect the sky for dark clouds that signal a storm is going to strike.",
+          "Launch from the elevated ridge to observe the panoramic landscape below."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 64,
+        "id": "q64",
+        "type": "phan_loai",
+        "question": "Classify the following future-reference sentences into Present Continuous (Arrangement) or Be Going To (Evidence-based Prediction).",
+        "the": [
+          "I am flying to the northern province next Monday; my seat is confirmed",
+          "We are hosting a cartography workshop on Friday afternoon",
+          "Look at that loose boulder; it is going to tumble down the cliff",
+          "The thermometer just dropped below zero; the lake surface is going to freeze tonight"
+        ],
+        "nhom": [
+          "Present Continuous (Arrangement)",
+          "Be Going To (Evidence-based Prediction)"
+        ],
+        "dap_an": {
+          "I am flying to the northern province next Monday; my seat is confirmed": 0,
+          "We are hosting a cartography workshop on Friday afternoon": 0,
+          "Look at that loose boulder; it is going to tumble down the cliff": 1,
+          "The thermometer just dropped below zero; the lake surface is going to freeze tonight": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 65,
+        "id": "q65",
+        "type": "phan_loai",
+        "question": "Categorize each Unit 5 term based on whether it describes an Action/Activity or a Geographical/Demographic Entity.",
+        "the": [
+          "Paragliding",
+          "Canyoning",
+          "Anglicize",
+          "Population",
+          "Province",
+          "Glacier"
+        ],
+        "nhom": [
+          "Action or Activity",
+          "Geographical or Demographic Entity"
+        ],
+        "dap_an": {
+          "Paragliding": 0,
+          "Canyoning": 0,
+          "Anglicize": 0,
+          "Population": 1,
+          "Province": 1,
+          "Glacier": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 66,
+        "id": "q66",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The Simple Present tense can never be used with the time expression 'tomorrow' in standard English.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 67,
+        "id": "q67",
+        "type": "listening",
+        "question": "Listen to the travel agency briefing. Which activity is confirmed as a pre-arranged personal plan for Tuesday?",
+        "audio_text": "Welcome to our northern province tour. Please note that the coastal ferry leaves at 7:00 a.m. tomorrow. On Tuesday, our group is going canyoning in the limestone gorge; all safety guides and wetsuits are already reserved. As for Wednesday, I think it will be sunny enough for paragliding, though we will confirm the wind speed later.",
+        "options": {
+          "a": "Taking the coastal ferry at 7:00 a.m.",
+          "b": "Going canyoning in the limestone gorge on Tuesday",
+          "c": "Going paragliding on Wednesday",
+          "d": "Measuring the wind speed on Monday"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 68,
+        "id": "q68",
+        "type": "listening",
+        "question": "Listen to the radio weather report. What evidence leads the forecaster to predict that the glacier trail will become hazardous?",
+        "audio_text": "Good morning, hikers. This is your alpine update. Look at the satellite radar showing heavy warm rain moving directly over the eastern glacier. Because of this sudden downpour, the snowpack is going to melt rapidly and flood the lower canyon. Meanwhile, the mountain rescue helicopter stands ready at base camp.",
+        "options": {
+          "a": "A published seasonal timetable",
+          "b": "Satellite radar showing heavy warm rain over the eastern glacier",
+          "c": "A personal guess from the mountain rescue pilot",
+          "d": "The rising population of the eastern province"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 69,
+        "id": "q69",
+        "type": "speaking",
+        "question": "Read the following sentence aloud clearly, focusing on accurate word stress in \"canyoning\" and \"population\":",
+        "answer": "Canyoning attracts adventurous travelers to this remote province despite its small local population.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 70,
+        "id": "q70",
+        "type": "speaking",
+        "question": "Read the following academic statement aloud, maintaining clear consonant clusters in \"landscape\" and \"inhabit\":",
+        "answer": "Rare wildlife species inhabit the frozen landscape surrounding the dormant volcano.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 71,
+        "id": "q71",
+        "type": "mot_dap_an",
+        "question": "A polygon has 4 sides that are all equal in length (each measuring $6\\\text{ cm}$), but its interior angles measure $60^\\\circ$, $120^\\\circ$, $60^\\\circ$, and $120^\\\circ$. How must this shape be classified?",
+        "options": {
+          "a": "Regular polygon, because all sides are equal.",
+          "b": "Irregular polygon, because its angles are not all equal.",
+          "c": "Congruent polygon, because opposite angles match.",
+          "d": "Circular polygon, because its interior angles sum to $360^\\\circ$."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 72,
+        "id": "q72",
+        "type": "mot_dap_an",
+        "question": "In a circle with center $O$ and radius $r = 7\\\text{ cm}$, a straight line segment connects two points $A$ and $B$ on the circumference without passing through center $O$. What is the exact mathematical name of segment $AB$?",
+        "options": {
+          "a": "Diameter",
+          "b": "Tangent",
+          "c": "Chord",
+          "d": "Circumference"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 73,
+        "id": "q73",
+        "type": "mot_dap_an",
+        "question": "A straight line $L$ lies outside a circle and touches the boundary of the circle at exactly one single point $P$, without crossing into the interior of the circle. What is line $L$ called?",
+        "options": {
+          "a": "Chord",
+          "b": "Radius",
+          "c": "Diameter",
+          "d": "Tangent"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 74,
+        "id": "q74",
+        "type": "mot_dap_an",
+        "question": "Which fraction is strictly in its simplest form (cannot be reduced any further)?",
+        "options": {
+          "a": "$\\\frac{6}{12}$",
+          "b": "$\\\frac{9}{15}$",
+          "c": "$\\\frac{7}{12}$",
+          "d": "$\\\frac{4}{10}$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 75,
+        "id": "q75",
+        "type": "mot_dap_an",
+        "question": "A student examines the fraction $\\\frac{8}{8}$ and claims it is a proper fraction because the numerator is not greater than the denominator. Why is this reasoning incorrect?",
+        "options": {
+          "a": "Because a proper fraction must be strictly smaller than $1$ (numerator $<$ denominator), whereas $\\\frac{8}{8} = 1$ is an improper fraction.",
+          "b": "Because $\\\frac{8}{8}$ is a mixed number.",
+          "c": "Because $\\\frac{8}{8}$ cannot be written as a percentage.",
+          "d": "Because the denominator of a proper fraction must be an odd number."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 76,
+        "id": "q76",
+        "type": "mot_dap_an",
+        "question": "Using a fraction as an operator, calculate $\\\frac{3}{5}$ of $45\\\text{ kg}$.",
+        "options": {
+          "a": "$9\\\text{ kg}$",
+          "b": "$15\\\text{ kg}$",
+          "c": "$27\\\text{ kg}$",
+          "d": "$30\\\text{ kg}$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 77,
+        "id": "q77",
+        "type": "mot_dap_an",
+        "question": "Two triangles, Triangle $ABC$ and Triangle $DEF$, have identical angles ($50^\\\circ, 60^\\\circ, 70^\\\circ$). However, the sides of Triangle $DEF$ are twice as long as the corresponding sides of Triangle $ABC$. Are the two triangles congruent?",
+        "options": {
+          "a": "Yes, because all corresponding angles are equal.",
+          "b": "No, because congruent shapes must have both the exact same shape and the exact same size.",
+          "c": "Yes, because both are regular polygons.",
+          "d": "No, because they have no line of symmetry."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 78,
+        "id": "q78",
+        "type": "mot_dap_an",
+        "question": "A circle has a radius of $9.5\\\text{ cm}$. What is the exact length of its diameter?",
+        "options": {
+          "a": "$4.75\\\text{ cm}$",
+          "b": "$18\\\text{ cm}$",
+          "c": "$19\\\text{ cm}$",
+          "d": "$28.5\\\text{ cm}$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 79,
+        "id": "q79",
+        "type": "mot_dap_an",
+        "question": "A student observes three even numbers ($2, 4, 6$) and forms a conclusion without mathematical proof that \"every even number is divisible by $4$\". What is this unproven statement called in mathematics?",
+        "options": {
+          "a": "Congruence",
+          "b": "Conjecture",
+          "c": "Operator",
+          "d": "Symmetry"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 80,
+        "id": "q80",
+        "type": "mot_dap_an",
+        "question": "Simplify the fraction $\\\frac{24}{36}$ completely to its simplest form.",
+        "options": {
+          "a": "$\\\frac{12}{18}$",
+          "b": "$\\\frac{6}{9}$",
+          "c": "$\\\frac{4}{6}$",
+          "d": "$\\\frac{2}{3}$"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 81,
+        "id": "q81",
+        "type": "nhieu_dap_an",
+        "question": "Select all statements that are mathematically true regarding the parts of a circle.",
+        "options": {
+          "a": "Every diameter is a chord, because it connects two points on the circumference.",
+          "b": "Every chord is a diameter, because it lies inside the circle.",
+          "c": "The circumference is the total distance around the outer boundary of the circle.",
+          "d": "A radius connects the exact center of the circle to any point on the circumference."
+        },
+        "answer": [
+          "a",
+          "c",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 82,
+        "id": "q82",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following fractions are equivalent to $\\\frac{3}{4}$?",
+        "options": {
+          "a": "$\\\frac{6}{8}$",
+          "b": "$\\\frac{9}{12}$",
+          "c": "$\\\frac{12}{15}$",
+          "d": "$\\\frac{75}{100}$"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 83,
+        "id": "q83",
+        "type": "nhieu_dap_an",
+        "question": "Identify all fractions below that are classified as improper fractions.",
+        "options": {
+          "a": "$\\\frac{7}{5}$",
+          "b": "$\\\frac{4}{4}$",
+          "c": "$\\\frac{3}{8}$",
+          "d": "$\\\frac{11}{3}$"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 84,
+        "id": "q84",
+        "type": "nhieu_dap_an",
+        "question": "Which geometric properties must a square satisfy?",
+        "options": {
+          "a": "It is a regular polygon with $4$ equal sides and $4$ equal angles of $90^\\\circ$.",
+          "b": "It has exactly $4$ lines of symmetry.",
+          "c": "It has rotational symmetry when rotated within a full turn of $360^\\\circ$.",
+          "d": "It is an irregular polygon because its diagonals are longer than its sides."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 85,
+        "id": "q85",
+        "type": "dien_khuyet",
+        "question": "In the fraction $\\\frac{5}{12}$, the bottom number $12$ tells you how many equal parts a whole has been divided into and is called the ____.",
+        "answer": "denominator",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 86,
+        "id": "q86",
+        "type": "dien_khuyet",
+        "question": "A full turn around a central point measures exactly ____ degrees.",
+        "answer": "360",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 87,
+        "id": "q87",
+        "type": "dien_khuyet",
+        "question": "The term ____ means the number of parts out of every hundred, represented by the symbol %.",
+        "answer": "percent",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 88,
+        "id": "q88",
+        "type": "dien_khuyet",
+        "question": "A number that combines a whole number and a proper fraction, such as $2\\\frac{3}{5}$, is called a ____ number.",
+        "answer": "mixed",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 89,
+        "id": "q89",
+        "type": "noi",
+        "question": "Match each circle term on the left with its precise geometric definition on the right.",
+        "leftCol": [
+          "Radius",
+          "Diameter",
+          "Chord",
+          "Tangent"
+        ],
+        "rightCol": [
+          "A straight line touching the circle at exactly one point",
+          "A segment connecting the center to a point on the circumference",
+          "A segment connecting two points on the circle without necessarily passing through the center",
+          "A chord passing directly through the center of the circle"
+        ],
+        "answer": {
+          "Radius": "A segment connecting the center to a point on the circumference",
+          "Diameter": "A chord passing directly through the center of the circle",
+          "Chord": "A segment connecting two points on the circle without necessarily passing through the center",
+          "Tangent": "A straight line touching the circle at exactly one point"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 90,
+        "id": "q90",
+        "type": "noi",
+        "question": "Match each fraction concept on the left with its correct mathematical example on the right.",
+        "leftCol": [
+          "Proper fraction",
+          "Improper fraction",
+          "Mixed number",
+          "Equivalent fractions"
+        ],
+        "rightCol": [
+          "$3\\\frac{1}{4}$",
+          "$\\\frac{2}{4}$ and $\\\frac{1}{2}$",
+          "$\\\frac{9}{4}$",
+          "$\\\frac{3}{7}$"
+        ],
+        "answer": {
+          "Proper fraction": "$\\\frac{3}{7}$",
+          "Improper fraction": "$\\\frac{9}{4}$",
+          "Mixed number": "$3\\\frac{1}{4}$",
+          "Equivalent fractions": "$\\\frac{2}{4}$ and $\\\frac{1}{2}$"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 91,
+        "id": "q91",
+        "type": "noi",
+        "question": "Match each Unit 8 symmetry and shape term on the left with its accurate definition on the right.",
+        "leftCol": [
+          "Line of symmetry",
+          "Rotational symmetry",
+          "Congruent",
+          "Regular polygon"
+        ],
+        "rightCol": [
+          "Identical in both shape and size",
+          "A polygon with all sides equal and all angles equal",
+          "A line dividing a figure into two mirror-image equal halves",
+          "A shape matching its original appearance during a rotation within $360^\\\circ$"
+        ],
+        "answer": {
+          "Line of symmetry": "A line dividing a figure into two mirror-image equal halves",
+          "Rotational symmetry": "A shape matching its original appearance during a rotation within $360^\\\circ$",
+          "Congruent": "Identical in both shape and size",
+          "Regular polygon": "A polygon with all sides equal and all angles equal"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 92,
+        "id": "q92",
+        "type": "dropdown",
+        "question": "Complete the fraction rule: In the fraction $\\\frac{7}{9}$, the top number $7$ is the [[numerator|denominator|operator]], and because $7$ is smaller than $9$, this fraction is classified as a [[proper fraction|improper fraction|mixed number]].",
+        "answer": "numerator, proper fraction",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 93,
+        "id": "q93",
+        "type": "dropdown",
+        "question": "Complete the geometric comparison: A circle has a diameter of $16\\\text{ cm}$, so its [[radius|circumference|tangent]] measures $8\\\text{ cm}$. Any straight segment joining two points on the circle without passing through the center is strictly a [[chord|diameter|full turn]].",
+        "answer": "radius, chord",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 94,
+        "id": "q94",
+        "type": "dropdown",
+        "question": "Complete the simplification statement: To express $\\\frac{18}{24}$ in its [[simplest form|improper form|mixed number]], divide both the numerator and the denominator by their highest common factor $6$ to obtain the [[equivalent fraction|conjecture|tangent]] $\\\frac{3}{4}$.",
+        "answer": "simplest form, equivalent fraction",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 95,
+        "id": "q95",
+        "type": "sap_xep",
+        "question": "Arrange the steps in the correct mathematical order to simplify the fraction $\\\frac{30}{45}$ to its simplest form.",
+        "muc": [
+          "Identify the numerator $30$ and the denominator $45$.",
+          "Find the highest common factor (HCF) of $30$ and $45$, which is $15$.",
+          "Divide both the numerator and the denominator by $15$.",
+          "Verify that the resulting fraction $\\\frac{2}{3}$ has no common factor other than $1$."
+        ],
+        "answer": [
+          "Identify the numerator $30$ and the denominator $45$.",
+          "Find the highest common factor (HCF) of $30$ and $45$, which is $15$.",
+          "Divide both the numerator and the denominator by $15$.",
+          "Verify that the resulting fraction $\\\frac{2}{3}$ has no common factor other than $1$."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 96,
+        "id": "q96",
+        "type": "sap_xep",
+        "question": "Arrange the following fractions in ascending order from smallest value (1) to largest value (4).",
+        "muc": [
+          "$\\\frac{1}{4}$",
+          "$\\\frac{1}{2}$",
+          "$\\\frac{3}{4}$",
+          "$\\\frac{5}{4}$"
+        ],
+        "answer": [
+          "$\\\frac{1}{4}$",
+          "$\\\frac{1}{2}$",
+          "$\\\frac{3}{4}$",
+          "$\\\frac{5}{4}$"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 97,
+        "id": "q97",
+        "type": "phan_loai",
+        "question": "Classify each mathematical expression into Proper Fraction, Improper Fraction, or Mixed Number.",
+        "the": [
+          "$\\\frac{2}{5}$",
+          "$\\\frac{7}{8}$",
+          "$\\\frac{5}{5}$",
+          "$\\\frac{9}{4}$",
+          "$1\\\frac{2}{3}$",
+          "$4\\\frac{1}{6}$"
+        ],
+        "nhom": [
+          "Proper Fraction",
+          "Improper Fraction",
+          "Mixed Number"
+        ],
+        "dap_an": {
+          "$\\\frac{2}{5}$": 0,
+          "$\\\frac{7}{8}$": 0,
+          "$\\\frac{5}{5}$": 1,
+          "$\\\frac{9}{4}$": 1,
+          "$1\\\frac{2}{3}$": 2,
+          "$4\\\frac{1}{6}$": 2
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 98,
+        "id": "q98",
+        "type": "phan_loai",
+        "question": "Classify each geometric figure as a Regular Polygon or an Irregular Polygon.",
+        "the": [
+          "Equilateral triangle (3 equal sides",
+          "all angles $60^\\\circ$)",
+          "Square (4 equal sides",
+          "all angles $90^\\\circ$)",
+          "Rhombus with angles $70^\\\circ$ and $110^\\\circ$ (4 equal sides)",
+          "Rectangle with length $8\\\text{ cm}$ and width $5\\\text{ cm}$ (all angles $90^\\\circ$)"
+        ],
+        "nhom": [
+          "Regular Polygon",
+          "Irregular Polygon"
+        ],
+        "dap_an": {
+          "Equilateral triangle (3 equal sides": 0,
+          "all angles $60^\\\circ$)": 0,
+          "Square (4 equal sides": 0,
+          "all angles $90^\\\circ$)": 0,
+          "Rhombus with angles $70^\\\circ$ and $110^\\\circ$ (4 equal sides)": 1,
+          "Rectangle with length $8\\\text{ cm}$ and width $5\\\text{ cm}$ (all angles $90^\\\circ$)": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 99,
+        "id": "q99",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Every rhombus is a regular polygon because all four of its sides are equal in length.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 100,
+        "id": "q100",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Every diameter of a circle is a chord, and it is the longest possible chord that can be drawn inside that circle.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 101,
+        "id": "q101",
+        "type": "mot_dap_an",
+        "question": "A regular hexagon has $6$ equal sides and $6$ equal interior angles. How many lines of symmetry does a regular hexagon have?",
+        "options": {
+          "a": "$3$",
+          "b": "$4$",
+          "c": "$6$",
+          "d": "$12$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 102,
+        "id": "q102",
+        "type": "mot_dap_an",
+        "question": "Convert the improper fraction $\\\frac{17}{5}$ into a mixed number.",
+        "options": {
+          "a": "$2\\\frac{7}{5}$",
+          "b": "$3\\\frac{2}{5}$",
+          "c": "$3\\\frac{1}{5}$",
+          "d": "$4\\\frac{3}{5}$"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 103,
+        "id": "q103",
+        "type": "mot_dap_an",
+        "question": "Convert the mixed number $4\\\frac{3}{7}$ into an improper fraction.",
+        "options": {
+          "a": "$\\\frac{14}{7}$",
+          "b": "$\\\frac{28}{7}$",
+          "c": "$\\\frac{31}{7}$",
+          "d": "$\\\frac{19}{7}$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 104,
+        "id": "q104",
+        "type": "mot_dap_an",
+        "question": "A rectangle has a length of $10\\\text{ cm}$ and a width of $4\\\text{ cm}$. How many lines of symmetry does this non-square rectangle have?",
+        "options": {
+          "a": "$1$",
+          "b": "$2$",
+          "c": "$4$",
+          "d": "$0$"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 105,
+        "id": "q105",
+        "type": "mot_dap_an",
+        "question": "Express the fraction $\\\frac{9}{20}$ as a percentage.",
+        "options": {
+          "a": "$9\\\%$",
+          "b": "$18\\\%$",
+          "c": "$45\\\%$",
+          "d": "$90\\\%$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 106,
+        "id": "q106",
+        "type": "mot_dap_an",
+        "question": "Using a fraction as an operator, find $\\\frac{5}{8}$ of $64\\\text{ liters}$.",
+        "options": {
+          "a": "$8\\\text{ liters}$",
+          "b": "$32\\\text{ liters}$",
+          "c": "$40\\\text{ liters}$",
+          "d": "$48\\\text{ liters}$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 107,
+        "id": "q107",
+        "type": "mot_dap_an",
+        "question": "What is the order of rotational symmetry of an equilateral triangle when rotated through one full turn of $360^\\\circ$?",
+        "options": {
+          "a": "$1$",
+          "b": "$2$",
+          "c": "$3$",
+          "d": "$6$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 108,
+        "id": "q108",
+        "type": "mot_dap_an",
+        "question": "A circle has a diameter of $22\\\text{ cm}$. A student draws a straight line segment inside the circle connecting two points on the circumference, and its measured length is $24\\\text{ cm}$. Why is this measurement geometrically impossible?",
+        "options": {
+          "a": "Because a tangent must be shorter than the radius.",
+          "b": "Because the diameter ($22\\\text{ cm}$) is the longest possible chord in any circle.",
+          "c": "Because the circumference is always smaller than the diameter.",
+          "d": "Because chords cannot have even lengths."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 109,
+        "id": "q109",
+        "type": "mot_dap_an",
+        "question": "Which of the following fractions is NOT equivalent to $\\\frac{2}{3}$?",
+        "options": {
+          "a": "$\\\frac{8}{12}$",
+          "b": "$\\\frac{14}{21}$",
+          "c": "$\\\frac{16}{24}$",
+          "d": "$\\\frac{18}{24}$"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 110,
+        "id": "q110",
+        "type": "mot_dap_an",
+        "question": "A student makes the conjecture: \"All quadrilaterals with $4$ equal angles are regular polygons.\" Which shape serves as a valid counterexample to disprove this conjecture?",
+        "options": {
+          "a": "A square with side length $5\\\text{ cm}$",
+          "b": "A rectangle with length $9\\\text{ cm}$ and width $4\\\text{ cm}$",
+          "c": "An equilateral triangle with side length $6\\\text{ cm}$",
+          "d": "A regular pentagon with side length $5\\\text{ cm}$"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 111,
+        "id": "q111",
+        "type": "mot_dap_an",
+        "question": "Convert $35\\\%$ into a fraction in its simplest form.",
+        "options": {
+          "a": "$\\\frac{35}{100}$",
+          "b": "$\\\frac{7}{20}$",
+          "c": "$\\\frac{3}{5}$",
+          "d": "$\\\frac{7}{10}$"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 112,
+        "id": "q112",
+        "type": "mot_dap_an",
+        "question": "Two circles, Circle $A$ and Circle $B$, are congruent. If Circle $A$ has a radius of $6\\\text{ cm}$, what is the diameter of Circle $B$?",
+        "options": {
+          "a": "$3\\\text{ cm}$",
+          "b": "$6\\\text{ cm}$",
+          "c": "$12\\\text{ cm}$",
+          "d": "$18\\\text{ cm}$"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 113,
+        "id": "q113",
+        "type": "mot_dap_an",
+        "question": "In a school survey of $200$ students, $70$ students prefer table tennis. What percentage of the surveyed students prefer table tennis?",
+        "options": {
+          "a": "$35\\\%$",
+          "b": "$70\\\%$",
+          "c": "$14\\\%$",
+          "d": "$28\\\%$"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 114,
+        "id": "q114",
+        "type": "mot_dap_an",
+        "question": "Which statement accurately describes the relationship between a tangent and a radius drawn to the exact point of contact on a circle?",
+        "options": {
+          "a": "They are parallel to each other.",
+          "b": "The tangent passes through the center of the circle.",
+          "c": "The tangent touches the circle only at that single point on the circumference.",
+          "d": "The tangent is always shorter than the radius."
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 115,
+        "id": "q115",
+        "type": "nhieu_dap_an",
+        "question": "Select all statements that are true about a regular pentagon ($5$ equal sides and $5$ equal angles).",
+        "options": {
+          "a": "It has exactly $5$ lines of symmetry.",
+          "b": "It has rotational symmetry of order $5$ within a full turn of $360^\\\circ$.",
+          "c": "It is an irregular polygon because $5$ is an odd number.",
+          "d": "Each rotation of $72^\\\circ$ maps the pentagon onto itself."
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 116,
+        "id": "q116",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following values are mathematically equal to $25\\\%$?",
+        "options": {
+          "a": "$\\\frac{25}{100}$",
+          "b": "$\\\frac{1}{4}$",
+          "c": "$\\\frac{5}{20}$",
+          "d": "$\\\frac{2}{5}$"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 117,
+        "id": "q117",
+        "type": "nhieu_dap_an",
+        "question": "Identify all fractions below that are already in their simplest form.",
+        "options": {
+          "a": "$\\\frac{5}{9}$",
+          "b": "$\\\frac{8}{15}$",
+          "c": "$\\\frac{9}{12}$",
+          "d": "$\\\frac{11}{16}$"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 118,
+        "id": "q118",
+        "type": "nhieu_dap_an",
+        "question": "Select all geometric conditions that must be satisfied for two polygons to be congruent.",
+        "options": {
+          "a": "They must have the exact same shape.",
+          "b": "They must have the exact same size (equal corresponding side lengths).",
+          "c": "They must have equal corresponding interior angles.",
+          "d": "They must both be regular polygons."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 119,
+        "id": "q119",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following statements about improper fractions and mixed numbers are correct?",
+        "options": {
+          "a": "Every improper fraction has a value greater than or equal to $1$.",
+          "b": "$\\\frac{10}{10}$ is an improper fraction.",
+          "c": "A mixed number consists of a whole number and an improper fraction.",
+          "d": "$2\\\frac{1}{3}$ is equivalent to $\\\frac{7}{3}$."
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 120,
+        "id": "q120",
+        "type": "nhieu_dap_an",
+        "question": "Which shapes below have at least $2$ lines of symmetry?",
+        "options": {
+          "a": "Square",
+          "b": "Non-square rectangle",
+          "c": "Equilateral triangle",
+          "d": "Scalene triangle (all $3$ sides different)"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 121,
+        "id": "q121",
+        "type": "dien_khuyet",
+        "question": "The outer boundary or perimeter distance all the way around a circle is called its ____.",
+        "answer": "circumference",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 122,
+        "id": "q122",
+        "type": "dien_khuyet",
+        "question": "In the fraction $\\\frac{4}{9}$, the top number $4$ indicates how many parts you have and is called the ____.",
+        "answer": "numerator",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 123,
+        "id": "q123",
+        "type": "dien_khuyet",
+        "question": "When simplified completely to its simplest form, the fraction $\\\frac{16}{24}$ equals $\\\frac{2}{...}$.",
+        "answer": "3",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 124,
+        "id": "q124",
+        "type": "dien_khuyet",
+        "question": "An opinion or mathematical conclusion formed based on incomplete information without formal proof is called a ____.",
+        "answer": "conjecture",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 125,
+        "id": "q125",
+        "type": "dien_khuyet",
+        "question": "Using $\\\frac{2}{3}$ as an operator on $36$ gives the exact value ____.",
+        "answer": "24",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 126,
+        "id": "q126",
+        "type": "dien_khuyet",
+        "question": "Two shapes that are completely identical in both shape and size are described mathematically as ____.",
+        "answer": "congruent",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 127,
+        "id": "q127",
+        "type": "noi",
+        "question": "Match each fraction on the left with its simplest form on the right.",
+        "leftCol": [
+          "$\\\frac{10}{15}$",
+          "$\\\frac{12}{16}$",
+          "$\\\frac{14}{35}$",
+          "$\\\frac{15}{18}$"
+        ],
+        "rightCol": [
+          "$\\\frac{5}{6}$",
+          "$\\\frac{2}{3}$",
+          "$\\\frac{2}{5}$",
+          "$\\\frac{3}{4}$"
+        ],
+        "answer": {
+          "$\\\frac{10}{15}$": "$\\\frac{2}{3}$",
+          "$\\\frac{12}{16}$": "$\\\frac{3}{4}$",
+          "$\\\frac{14}{35}$": "$\\\frac{2}{5}$",
+          "$\\\frac{15}{18}$": "$\\\frac{5}{6}$"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 128,
+        "id": "q128",
+        "type": "noi",
+        "question": "Match each percentage on the left with its equivalent fraction in simplest form on the right.",
+        "leftCol": [
+          "$50\\\%$",
+          "$20\\\%$",
+          "$75\\\%$",
+          "$40\\\%$"
+        ],
+        "rightCol": [
+          "$\\\frac{3}{4}$",
+          "$\\\frac{2}{5}$",
+          "$\\\frac{1}{2}$",
+          "$\\\frac{1}{5}$"
+        ],
+        "answer": {
+          "$50\\\%$": "$\\\frac{1}{2}$",
+          "$20\\\%$": "$\\\frac{1}{5}$",
+          "$75\\\%$": "$\\\frac{3}{4}$",
+          "$40\\\%$": "$\\\frac{2}{5}$"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 129,
+        "id": "q129",
+        "type": "noi",
+        "question": "Match each polygon on the left with its exact number of lines of symmetry on the right.",
+        "leftCol": [
+          "Equilateral triangle",
+          "Square",
+          "Non-square rectangle",
+          "Scalene triangle"
+        ],
+        "rightCol": [
+          "$0$ lines of symmetry",
+          "$2$ lines of symmetry",
+          "$3$ lines of symmetry",
+          "$4$ lines of symmetry"
+        ],
+        "answer": {
+          "Equilateral triangle": "$3$ lines of symmetry",
+          "Square": "$4$ lines of symmetry",
+          "Non-square rectangle": "$2$ lines of symmetry",
+          "Scalene triangle": "$0$ lines of symmetry"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 130,
+        "id": "q130",
+        "type": "noi",
+        "question": "Match each improper fraction on the left with its equivalent mixed number on the right.",
+        "leftCol": [
+          "$\\\frac{7}{2}$",
+          "$\\\frac{11}{4}$",
+          "$\\\frac{13}{5}$",
+          "$\\\frac{10}{3}$"
+        ],
+        "rightCol": [
+          "$3\\\frac{1}{3}$",
+          "$2\\\frac{3}{4}$",
+          "$3\\\frac{1}{2}$",
+          "$2\\\frac{3}{5}$"
+        ],
+        "answer": {
+          "$\\\frac{7}{2}$": "$3\\\frac{1}{2}$",
+          "$\\\frac{11}{4}$": "$2\\\frac{3}{4}$",
+          "$\\\frac{13}{5}$": "$2\\\frac{3}{5}$",
+          "$\\\frac{10}{3}$": "$3\\\frac{1}{3}$"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 131,
+        "id": "q131",
+        "type": "noi",
+        "question": "Match each Unit 7 mathematical term on the left with its exact operational description on the right.",
+        "leftCol": [
+          "Operator",
+          "Simplify a fraction",
+          "Percent",
+          "Denominator"
+        ],
+        "rightCol": [
+          "The bottom number indicating how many equal parts form one whole",
+          "Number of parts out of every hundred",
+          "Using a fraction to calculate a specific portion of a total quantity",
+          "Reducing both numerator and denominator to smaller equivalent numbers"
+        ],
+        "answer": {
+          "Operator": "Using a fraction to calculate a specific portion of a total quantity",
+          "Simplify a fraction": "Reducing both numerator and denominator to smaller equivalent numbers",
+          "Percent": "Number of parts out of every hundred",
+          "Denominator": "The bottom number indicating how many equal parts form one whole"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 132,
+        "id": "q132",
+        "type": "dropdown",
+        "question": "Complete the polygon rule: A polygon is classified as a [[regular polygon|irregular polygon|congruent polygon]] only when all of its sides are equal in length and all of its [[angles|diagonals|tangents]] are equal in size.",
+        "answer": "regular polygon, angles",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 133,
+        "id": "q133",
+        "type": "dropdown",
+        "question": "Complete the circle measurement relationship: In any circle, the [[diameter|chord|tangent]] passes through the center and is always equal to [[twice|half|four times]] the length of the radius.",
+        "answer": "diameter, twice",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 134,
+        "id": "q134",
+        "type": "dropdown",
+        "question": "Complete the fraction classification: Because the numerator of $\\\frac{9}{9}$ is equal to its denominator, its value equals $1$ and it is classified as an [[improper fraction|proper fraction|mixed number]], whereas $\\\frac{5}{9}$ is smaller than $1$ and is a [[proper fraction|improper fraction|percent]].",
+        "answer": "improper fraction, proper fraction",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 135,
+        "id": "q135",
+        "type": "dropdown",
+        "question": "Complete the symmetry explanation: A [[line of symmetry|tangent|chord]] divides a 2D figure into two equal mirror halves, while [[rotational symmetry|conjecture|operator]] describes a shape that matches its original appearance during a full turn of $360^\\\circ$.",
+        "answer": "line of symmetry, rotational symmetry",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 136,
+        "id": "q136",
+        "type": "dropdown",
+        "question": "Complete the percentage conversion: To convert $\\\frac{3}{5}$ into a percentage, multiply both numerator and denominator by $20$ to get the [[equivalent fraction|simplest form|mixed number]] $\\\frac{60}{100}$, which equals [[60%|35%|30%]].",
+        "answer": "equivalent fraction, 60%",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 137,
+        "id": "q137",
+        "type": "dropdown",
+        "question": "Complete the operator calculation: When using $\\\frac{4}{7}$ as an [[operator|denominator|conjecture]] on $35$, first divide $35$ by $7$ to get $5$, then multiply by $4$ to obtain [[20|28|15]].",
+        "answer": "operator, 20",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 138,
+        "id": "q138",
+        "type": "dropdown",
+        "question": "Complete the congruence statement: If Triangle $PQR$ is [[congruent|similar|irregular]] to Triangle $XYZ$, then both triangles must have the exact same shape and the exact same [[size|position|orientation]].",
+        "answer": "congruent, size",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 139,
+        "id": "q139",
+        "type": "sap_xep",
+        "question": "Arrange the following steps in the correct order to convert the mixed number $3\\\frac{2}{5}$ into an improper fraction.",
+        "muc": [
+          "Identify the whole number ($3$), numerator ($2$), and denominator ($5$).",
+          "Multiply the whole number $3$ by the denominator $5$ to get $15$.",
+          "Add the numerator $2$ to $15$ to obtain the new numerator $17$.",
+          "Write the final improper fraction $\\\frac{17}{5}$ keeping the original denominator $5$."
+        ],
+        "answer": [
+          "Identify the whole number ($3$), numerator ($2$), and denominator ($5$).",
+          "Multiply the whole number $3$ by the denominator $5$ to get $15$.",
+          "Add the numerator $2$ to $15$ to obtain the new numerator $17$.",
+          "Write the final improper fraction $\\\frac{17}{5}$ keeping the original denominator $5$."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 140,
+        "id": "q140",
+        "type": "sap_xep",
+        "question": "Arrange the following polygons in ascending order based on their number of lines of symmetry, from fewest (1) to most (4).",
+        "muc": [
+          "Scalene triangle ($0$ lines of symmetry)",
+          "Isosceles non-equilateral triangle ($1$ line of symmetry)",
+          "Non-square rectangle ($2$ lines of symmetry)",
+          "Regular hexagon ($6$ lines of symmetry)"
+        ],
+        "answer": [
+          "Scalene triangle ($0$ lines of symmetry)",
+          "Isosceles non-equilateral triangle ($1$ line of symmetry)",
+          "Non-square rectangle ($2$ lines of symmetry)",
+          "Regular hexagon ($6$ lines of symmetry)"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 141,
+        "id": "q141",
+        "type": "sap_xep",
+        "question": "Arrange the following steps in logical order to test a mathematical conjecture about polygons.",
+        "muc": [
+          "State the conjecture clearly based on initial observations.",
+          "Test the statement against multiple geometric shapes, including edge cases like rhombuses and rectangles.",
+          "Search for a single counterexample that satisfies the premise but violates the conclusion.",
+          "Conclude that the conjecture is false if a counterexample is found, or construct a formal proof if none exists."
+        ],
+        "answer": [
+          "State the conjecture clearly based on initial observations.",
+          "Test the statement against multiple geometric shapes, including edge cases like rhombuses and rectangles.",
+          "Search for a single counterexample that satisfies the premise but violates the conclusion.",
+          "Conclude that the conjecture is false if a counterexample is found, or construct a formal proof if none exists."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 142,
+        "id": "q142",
+        "type": "sap_xep",
+        "question": "Arrange the following values in ascending order from smallest (1) to largest (4).",
+        "muc": [
+          "$20\\\%$",
+          "$\\\frac{1}{4}$",
+          "$\\\frac{2}{5}$",
+          "$50\\\%$"
+        ],
+        "answer": [
+          "$20\\\%$",
+          "$\\\frac{1}{4}$",
+          "$\\\frac{2}{5}$",
+          "$50\\\%$"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 143,
+        "id": "q143",
+        "type": "phan_loai",
+        "question": "Classify each geometric description into Parts of a Circle or Symmetry and Congruence Concepts.",
+        "the": [
+          "Radius",
+          "Chord",
+          "Tangent",
+          "Circumference",
+          "Line of symmetry",
+          "Rotational symmetry"
+        ],
+        "nhom": [
+          "Parts of a Circle",
+          "Symmetry and Congruence Concepts"
+        ],
+        "dap_an": {
+          "Radius": 0,
+          "Chord": 0,
+          "Tangent": 0,
+          "Circumference": 0,
+          "Line of symmetry": 1,
+          "Rotational symmetry": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 144,
+        "id": "q144",
+        "type": "phan_loai",
+        "question": "Classify each fraction based on whether it is Already in Simplest Form or Can Be Simplified Further.",
+        "the": [
+          "$\\\frac{3}{7}$",
+          "$\\\frac{8}{11}$",
+          "$\\\frac{5}{12}$",
+          "$\\\frac{6}{9}$",
+          "$\\\frac{10}{25}$",
+          "$\\\frac{14}{21}$"
+        ],
+        "nhom": [
+          "Already in Simplest Form",
+          "Can Be Simplified Further"
+        ],
+        "dap_an": {
+          "$\\\frac{3}{7}$": 0,
+          "$\\\frac{8}{11}$": 0,
+          "$\\\frac{5}{12}$": 0,
+          "$\\\frac{6}{9}$": 1,
+          "$\\\frac{10}{25}$": 1,
+          "$\\\frac{14}{21}$": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 145,
+        "id": "q145",
+        "type": "phan_loai",
+        "question": "Classify each fraction according to whether its equivalent percentage is Less Than 50%, Exactly 50%, or Greater Than 50%.",
+        "the": [
+          "$\\\frac{1}{4}$",
+          "$\\\frac{2}{5}$",
+          "$\\\frac{6}{12}$",
+          "$\\\frac{50}{100}$",
+          "$\\\frac{3}{4}$",
+          "$\\\frac{4}{5}$"
+        ],
+        "nhom": [
+          "Less Than 50%",
+          "Exactly 50%",
+          "Greater Than 50%"
+        ],
+        "dap_an": {
+          "$\\\frac{1}{4}$": 0,
+          "$\\\frac{2}{5}$": 0,
+          "$\\\frac{6}{12}$": 1,
+          "$\\\frac{50}{100}$": 1,
+          "$\\\frac{3}{4}$": 2,
+          "$\\\frac{4}{5}$": 2
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 146,
+        "id": "q146",
+        "type": "phan_loai",
+        "question": "Classify each circle segment or line based on whether it Lies Completely Inside the Circle (including endpoints on boundary) or Touches Only Outside the Circle.",
+        "the": [
+          "Radius",
+          "Diameter",
+          "Chord",
+          "Tangent"
+        ],
+        "nhom": [
+          "Lies Inside the Circle",
+          "Touches Outside the Circle"
+        ],
+        "dap_an": {
+          "Radius": 0,
+          "Diameter": 0,
+          "Chord": 0,
+          "Tangent": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 147,
+        "id": "q147",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A tangent to a circle always crosses through the interior of the circle and intersects the circumference at two distinct points.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 148,
+        "id": "q148",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Two rectangles with the exact same area ($24\\\text{ cm}^2$) are always congruent.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 149,
+        "id": "q149",
+        "type": "dung_sai",
+        "question": "Nhận định: \"The fraction $\\\frac{6}{6}$ is classified as an improper fraction because its numerator is greater than or equal to its denominator.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 150,
+        "id": "q150",
+        "type": "dung_sai",
+        "question": "Nhận định: \"A full turn equals $180^\\\circ$, which is the angle required to rotate a shape completely back to its starting position.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 151,
+        "id": "q151",
+        "type": "mot_dap_an",
+        "question": "An engineer needs to select a material to manufacture thin electrical cables that carry current efficiently inside a building. Which pair of properties makes copper ideal for this core wire?",
+        "options": {
+          "a": "Brittle and insulator",
+          "b": "Ductile and conductor",
+          "c": "Dull and magnetic",
+          "d": "Sonorous and insulator"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 152,
+        "id": "q152",
+        "type": "mot_dap_an",
+        "question": "A blacksmith heats a bar of iron and hammers it repeatedly until it flattens into a thin, curved metal sheet without cracking. Which specific physical property of metals does this process demonstrate?",
+        "options": {
+          "a": "Ductility",
+          "b": "Malleability",
+          "c": "Sonority",
+          "d": "Brittleness"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 153,
+        "id": "q153",
+        "type": "mot_dap_an",
+        "question": "Where are metals and non-metals generally located on the Periodic Table of elements?",
+        "options": {
+          "a": "Metals are on the right side and non-metals are on the left side.",
+          "b": "Metals are on the left side and non-metals are on the right side.",
+          "c": "Metals and non-metals are mixed randomly without any pattern.",
+          "d": "Only non-metals appear on the Periodic Table."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 154,
+        "id": "q154",
+        "type": "mot_dap_an",
+        "question": "A student tests an unknown solid element in the laboratory. It has a dull surface, shatters immediately when struck with a hammer, and does not light up a bulb in an electrical circuit. How should this element be classified?",
+        "options": {
+          "a": "As a magnetic metal",
+          "b": "As a non-metal",
+          "c": "As a ductile conductor",
+          "d": "As a sonorous metal"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 155,
+        "id": "q155",
+        "type": "mot_dap_an",
+        "question": "Which of the following statements about magnetic metals is scientifically accurate?",
+        "options": {
+          "a": "All metals are attracted to a magnet.",
+          "b": "Only iron, nickel, and cobalt are magnetic metals.",
+          "c": "All shiny elements are magnetic, including gold and aluminum.",
+          "d": "Non-metals like sulfur are strongly magnetic."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 156,
+        "id": "q156",
+        "type": "mot_dap_an",
+        "question": "When a bronze school bell is struck by a clapper, it produces a clear, sustained ringing sound. Which property of metals is responsible for this acoustic behavior?",
+        "options": {
+          "a": "Shiny",
+          "b": "Ductile",
+          "c": "Sonorous",
+          "d": "Magnetic"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 157,
+        "id": "q157",
+        "type": "mot_dap_an",
+        "question": "What is the exact scientific definition of an element?",
+        "options": {
+          "a": "A mixture of two or more different metals melted together.",
+          "b": "A substance made of only one type of atom.",
+          "c": "Any material that conducts heat and electricity.",
+          "d": "A solid that shatters when bent."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 158,
+        "id": "q158",
+        "type": "mot_dap_an",
+        "question": "Why are the handles of metal cooking pans usually covered with thick plastic or wood?",
+        "options": {
+          "a": "Because plastic and wood are good conductors that speed up cooking.",
+          "b": "Because plastic and wood are insulators that prevent heat from passing easily to the hand.",
+          "c": "Because plastic and wood are sonorous and shiny.",
+          "d": "Because plastic and wood have higher melting points than iron."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 159,
+        "id": "q159",
+        "type": "mot_dap_an",
+        "question": "The exact temperature at which a solid substance changes state into a liquid is defined as its what?",
+        "options": {
+          "a": "Conductivity",
+          "b": "Melting point",
+          "c": "Magnetic threshold",
+          "d": "Brittleness limit"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 160,
+        "id": "q160",
+        "type": "mot_dap_an",
+        "question": "A recycling plant uses a powerful electromagnet suspended over a conveyor belt to separate crushed scrap materials. Which metal will be lifted off the belt by the magnet?",
+        "options": {
+          "a": "Copper wire",
+          "b": "Aluminum cans",
+          "c": "Iron nails",
+          "d": "Gold rings"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 161,
+        "id": "q161",
+        "type": "mot_dap_an",
+        "question": "Which pair of terms correctly contrasts the optical appearance of a typical freshly polished metal and a typical solid non-metal?",
+        "options": {
+          "a": "Dull versus brittle",
+          "b": "Shiny versus dull",
+          "c": "Malleable versus ductile",
+          "d": "Conductor versus magnetic"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 162,
+        "id": "q162",
+        "type": "mot_dap_an",
+        "question": "An astronaut has a mass of $70\\\text{ kg}$ on Earth, where gravitational field strength is $10\\\text{ N/kg}$. If the astronaut travels to the Moon, where gravity is much weaker, what happens to the astronaut's mass and weight?",
+        "options": {
+          "a": "Both mass and weight decrease.",
+          "b": "Mass remains $70\\\text{ kg}$, while weight decreases significantly.",
+          "c": "Weight remains $700\\\text{ N}$, while mass decreases.",
+          "d": "Both mass and weight increase."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 163,
+        "id": "q163",
+        "type": "mot_dap_an",
+        "question": "In which direction does the force of gravity on Earth always act on an object near the planet's surface?",
+        "options": {
+          "a": "Parallel to the equator",
+          "b": "Away from the surface into space",
+          "c": "Towards the centre of the Earth",
+          "d": "In the direction of the wind"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 164,
+        "id": "q164",
+        "type": "mot_dap_an",
+        "question": "Why does a spacecraft orbiting Earth in outer space continue moving at a constant speed without needing its engines to fire continuously?",
+        "options": {
+          "a": "Because outer space is a vacuum with no air resistance to slow it down.",
+          "b": "Because there is no gravity in space.",
+          "c": "Because the spacecraft has zero mass in orbit.",
+          "d": "Because air resistance pushes the spacecraft forward."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 165,
+        "id": "q165",
+        "type": "mot_dap_an",
+        "question": "What is the primary cause of ocean tides (the regular rise and fall of sea levels) observed in coastal harbours on Earth?",
+        "options": {
+          "a": "Underground earthquakes beneath the ocean floor",
+          "b": "The gravitational force of attraction (tidal force) exerted mainly by the Moon and the Sun",
+          "c": "Strong surface winds blowing across the ocean",
+          "d": "The melting point of polar glaciers"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 166,
+        "id": "q166",
+        "type": "nhieu_dap_an",
+        "question": "Select all physical properties that are typically associated with metals.",
+        "options": {
+          "a": "Good conductor of heat and electricity",
+          "b": "Malleable and ductile",
+          "c": "Brittle when hit with a hammer",
+          "d": "Shiny and sonorous"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 167,
+        "id": "q167",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following elements are magnetic metals?",
+        "options": {
+          "a": "Iron",
+          "b": "Nickel",
+          "c": "Cobalt",
+          "d": "Copper"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 168,
+        "id": "q168",
+        "type": "nhieu_dap_an",
+        "question": "Select all physical properties that typically describe solid non-metals.",
+        "options": {
+          "a": "Dull (does not reflect much light)",
+          "b": "Brittle (breaks or shatters easily when hit)",
+          "c": "Insulator (poor conductor of heat and electricity)",
+          "d": "Ductile (easily pulled into thin wires)"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 169,
+        "id": "q169",
+        "type": "nhieu_dap_an",
+        "question": "Which statements accurately distinguish between mass and weight in Unit 3 (Forces and Energy)?",
+        "options": {
+          "a": "Mass is measured in kilograms (kg).",
+          "b": "Weight is a force measured in newtons (N).",
+          "c": "Weight is the quantity of matter in an object and never changes.",
+          "d": "Weight depends on the strength of gravity acting on the mass."
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 170,
+        "id": "q170",
+        "type": "nhieu_dap_an",
+        "question": "Select all true statements about the formation and movement of objects in space (Unit 3).",
+        "options": {
+          "a": "Stars and planets formed from giant clouds of dust and gas called a nebula.",
+          "b": "Planets follow an orbit around the Sun due to the force of gravity.",
+          "c": "Air resistance in the vacuum of space slows down orbiting planets every year.",
+          "d": "A scientific model can have limitations and may be updated if new evidence contradicts it."
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 171,
+        "id": "q171",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following terms are directly related to ocean tides and coastal depth changes?",
+        "options": {
+          "a": "Tidal range",
+          "b": "Harbour",
+          "c": "Tidal force",
+          "d": "Melting point"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 172,
+        "id": "q172",
+        "type": "dien_khuyet",
+        "question": "A material that breaks or shatters easily when it is hit or bent is described as ____.",
+        "answer": "brittle",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 173,
+        "id": "q173",
+        "type": "dien_khuyet",
+        "question": "A material that lets heat or electricity pass through it easily is called a ____.",
+        "answer": "conductor",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 174,
+        "id": "q174",
+        "type": "dien_khuyet",
+        "question": "The ability of a metal to be pulled out into a thin wire without snapping is called being ____.",
+        "answer": "ductile",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 175,
+        "id": "q175",
+        "type": "dien_khuyet",
+        "question": "A substance that does not allow heat or electricity to pass through it easily is known as an ____.",
+        "answer": "insulator",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 176,
+        "id": "q176",
+        "type": "dien_khuyet",
+        "question": "The standard scientific unit used to measure weight (the force of gravity on an object) is the ____.",
+        "answer": "newton",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 177,
+        "id": "q177",
+        "type": "dien_khuyet",
+        "question": "Outer space contains almost no air particles, which means it is a ____ with no air resistance.",
+        "answer": "vacuum",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 178,
+        "id": "q178",
+        "type": "noi",
+        "question": "Match each material property on the left with its precise scientific definition on the right.",
+        "leftCol": [
+          "Malleable",
+          "Ductile",
+          "Sonorous",
+          "Brittle"
+        ],
+        "rightCol": [
+          "Makes a ringing sound when hit",
+          "Breaks or shatters easily when hit or bent",
+          "Can be pulled out into a thin wire",
+          "Can be hammered or bent into a new shape without breaking"
+        ],
+        "answer": {
+          "Malleable": "Can be hammered or bent into a new shape without breaking",
+          "Ductile": "Can be pulled out into a thin wire",
+          "Sonorous": "Makes a ringing sound when hit",
+          "Brittle": "Breaks or shatters easily when hit or bent"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 179,
+        "id": "q179",
+        "type": "noi",
+        "question": "Match each Unit 5.1 term on the left with its accurate description on the right.",
+        "leftCol": [
+          "Element",
+          "Periodic table",
+          "Property",
+          "Melting point"
+        ],
+        "rightCol": [
+          "A feature describing what a material is like or how it behaves",
+          "A chart of all elements with metals on the left and non-metals on the right",
+          "The temperature at which a solid changes into a liquid",
+          "A substance made of only one type of atom"
+        ],
+        "answer": {
+          "Element": "A substance made of only one type of atom",
+          "Periodic table": "A chart of all elements with metals on the left and non-metals on the right",
+          "Property": "A feature describing what a material is like or how it behaves",
+          "Melting point": "The temperature at which a solid changes into a liquid"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 180,
+        "id": "q180",
+        "type": "noi",
+        "question": "Match each optical or electrical property on the left with its correct definition on the right.",
+        "leftCol": [
+          "Shiny",
+          "Dull",
+          "Conductor",
+          "Insulator"
+        ],
+        "rightCol": [
+          "Does not let heat or electricity pass through easily",
+          "Reflects light well",
+          "Lets heat or electricity pass through easily",
+          "Not shiny; does not reflect much light"
+        ],
+        "answer": {
+          "Shiny": "Reflects light well",
+          "Dull": "Not shiny; does not reflect much light",
+          "Conductor": "Lets heat or electricity pass through easily",
+          "Insulator": "Does not let heat or electricity pass through easily"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 181,
+        "id": "q181",
+        "type": "noi",
+        "question": "Match each Unit 3 Forces and Space term on the left with its scientific meaning on the right.",
+        "leftCol": [
+          "Mass",
+          "Weight",
+          "Nebula",
+          "Orbit"
+        ],
+        "rightCol": [
+          "The curved path of a planet or moon around another body in space",
+          "A giant cloud of dust and gas in space where stars form",
+          "The force of gravity acting on an object, measured in newtons",
+          "The quantity of matter in an object, measured in kilograms"
+        ],
+        "answer": {
+          "Mass": "The quantity of matter in an object, measured in kilograms",
+          "Weight": "The force of gravity acting on an object, measured in newtons",
+          "Nebula": "A giant cloud of dust and gas in space where stars form",
+          "Orbit": "The curved path of a planet or moon around another body in space"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 182,
+        "id": "q182",
+        "type": "noi",
+        "question": "Match each practical engineering application on the left with the primary material property required on the right.",
+        "leftCol": [
+          "Making copper electrical wires",
+          "Making church bells",
+          "Coating screwdriver handles for safety",
+          "Hammering gold into decorative thin sheets"
+        ],
+        "rightCol": [
+          "Insulator",
+          "Malleable",
+          "Ductile and conductor",
+          "Sonorous"
+        ],
+        "answer": {
+          "Making copper electrical wires": "Ductile and conductor",
+          "Making church bells": "Sonorous",
+          "Coating screwdriver handles for safety": "Insulator",
+          "Hammering gold into decorative thin sheets": "Malleable"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 183,
+        "id": "q183",
+        "type": "dropdown",
+        "question": "Complete the Periodic Table rule: On the Periodic Table, [[metals|non-metals|insulators]] are located primarily on the left side, while [[non-metals|metals|conductors]] are positioned on the right side.",
+        "answer": "metals, non-metals",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 184,
+        "id": "q184",
+        "type": "dropdown",
+        "question": "Complete the material contrast: A typical metal is [[shiny|dull|brittle]] and can be hammered into new shapes because it is [[malleable|insulating|fragile]].",
+        "answer": "shiny, malleable",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 185,
+        "id": "q185",
+        "type": "dropdown",
+        "question": "Complete the wire manufacturing explanation: Copper is used inside power cables because it is [[ductile|brittle|dull]], allowing it to be pulled into thin wires, and it is a good [[conductor|insulator|magnet]] of electricity.",
+        "answer": "ductile, conductor",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 186,
+        "id": "q186",
+        "type": "dropdown",
+        "question": "Complete the non-metal description: Solid sulfur is a typical non-metal; it looks [[dull|shiny|sonorous]] rather than reflective, and it shatters when hit with a hammer because it is [[brittle|malleable|ductile]].",
+        "answer": "dull, brittle",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 187,
+        "id": "q187",
+        "type": "dropdown",
+        "question": "Complete the magnetism clarification: Not all metals are [[magnetic|shiny|elements]]; only specific metals such as [[iron, nickel, and cobalt|copper, gold, and silver|carbon, sulfur, and oxygen]] are attracted to a magnet.",
+        "answer": "magnetic, iron, nickel, and cobalt",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 188,
+        "id": "q188",
+        "type": "dropdown",
+        "question": "Complete the gravity formula explanation: The [[mass|weight|force]] of an object is measured in kilograms and stays constant everywhere, while its [[weight|mass|volume]] is a force measured in newtons that depends on gravity.",
+        "answer": "mass, weight",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 189,
+        "id": "q189",
+        "type": "dropdown",
+        "question": "Complete the scientific method statement (Unit 3): A scientist proposes a [[hypothesis|vacuum|harbour]] to explain planetary orbits, and if new experimental [[evidence|gravity|tides]] contradicts the prediction, the model must be revised.",
+        "answer": "hypothesis, evidence",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 190,
+        "id": "q190",
+        "type": "sap_xep",
+        "question": "Arrange the steps of a laboratory investigation in logical order to determine whether an unknown solid element is a metal or a non-metal.",
+        "muc": [
+          "Observe the surface appearance under light to check if it is shiny or dull.",
+          "Gently tap the sample with a hammer to test whether it is malleable or brittle.",
+          "Connect the sample into a simple circuit with a battery and bulb to test electrical conductivity.",
+          "Compare all recorded properties against the Periodic Table criteria to classify the element."
+        ],
+        "answer": [
+          "Observe the surface appearance under light to check if it is shiny or dull.",
+          "Gently tap the sample with a hammer to test whether it is malleable or brittle.",
+          "Connect the sample into a simple circuit with a battery and bulb to test electrical conductivity.",
+          "Compare all recorded properties against the Periodic Table criteria to classify the element."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 191,
+        "id": "q191",
+        "type": "sap_xep",
+        "question": "Arrange the stages of solar system formation from a nebula (Unit 3) in chronological order.",
+        "muc": [
+          "A giant cloud of dust and gas called a nebula exists in space.",
+          "The force of gravity pulls dust and gas particles inward towards the centre.",
+          "The collapsing cloud begins to spin faster and flattens into a disk.",
+          "A star forms at the centre while remaining particles clump together into orbiting planets."
+        ],
+        "answer": [
+          "A giant cloud of dust and gas called a nebula exists in space.",
+          "The force of gravity pulls dust and gas particles inward towards the centre.",
+          "The collapsing cloud begins to spin faster and flattens into a disk.",
+          "A star forms at the centre while remaining particles clump together into orbiting planets."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 192,
+        "id": "q192",
+        "type": "sap_xep",
+        "question": "Arrange the steps in logical order to calculate the weight of a $12\\\text{ kg}$ crate on Earth ($g = 10\\\text{ N/kg}$) using the formula triangle.",
+        "muc": [
+          "Identify the given mass ($12\\\text{ kg}$) and gravitational field strength ($10\\\text{ N/kg}$).",
+          "Select the correct relationship from the formula triangle: $\\\text{Weight} = \\\text{Mass} \\\times \\\text{Gravity}$.",
+          "Multiply $12\\\text{ kg}$ by $10\\\text{ N/kg}$ to obtain $120$.",
+          "Write the final answer with the correct force unit: $120\\\text{ N}$."
+        ],
+        "answer": [
+          "Identify the given mass ($12\\\text{ kg}$) and gravitational field strength ($10\\\text{ N/kg}$).",
+          "Select the correct relationship from the formula triangle: $\\\text{Weight} = \\\text{Mass} \\\times \\\text{Gravity}$.",
+          "Multiply $12\\\text{ kg}$ by $10\\\text{ N/kg}$ to obtain $120$.",
+          "Write the final answer with the correct force unit: $120\\\text{ N}$."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 193,
+        "id": "q193",
+        "type": "sap_xep",
+        "question": "Arrange the sequence of events explaining how a tidal force affects ships in a coastal harbour.",
+        "muc": [
+          "The Moon exerts a gravitational force of attraction on Earth's oceans.",
+          "Water is pulled towards the side of Earth facing the Moon, creating a high tide.",
+          "Water depth in the coastal harbour increases across the tidal range.",
+          "Large cargo ships safely enter the harbour when the water depth is sufficient."
+        ],
+        "answer": [
+          "The Moon exerts a gravitational force of attraction on Earth's oceans.",
+          "Water is pulled towards the side of Earth facing the Moon, creating a high tide.",
+          "Water depth in the coastal harbour increases across the tidal range.",
+          "Large cargo ships safely enter the harbour when the water depth is sufficient."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 194,
+        "id": "q194",
+        "type": "phan_loai",
+        "question": "Classify the following properties into Typical Metal Properties or Typical Non-metal Properties.",
+        "the": [
+          "Shiny",
+          "Malleable",
+          "Ductile",
+          "Sonorous",
+          "Dull",
+          "Brittle",
+          "Insulator"
+        ],
+        "nhom": [
+          "Typical Metal Properties",
+          "Typical Non-metal Properties"
+        ],
+        "dap_an": {
+          "Shiny": 0,
+          "Malleable": 0,
+          "Ductile": 0,
+          "Sonorous": 0,
+          "Dull": 1,
+          "Brittle": 1,
+          "Insulator": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 195,
+        "id": "q195",
+        "type": "phan_loai",
+        "question": "Classify the following metallic elements into Magnetic Metals or Non-magnetic Metals.",
+        "the": [
+          "Iron",
+          "Nickel",
+          "Cobalt",
+          "Copper",
+          "Aluminum",
+          "Gold"
+        ],
+        "nhom": [
+          "Magnetic Metals",
+          "Non-magnetic Metals"
+        ],
+        "dap_an": {
+          "Iron": 0,
+          "Nickel": 0,
+          "Cobalt": 0,
+          "Copper": 1,
+          "Aluminum": 1,
+          "Gold": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 196,
+        "id": "q196",
+        "type": "phan_loai",
+        "question": "Classify each physical quantity or concept into Mass Characteristics or Weight Characteristics.",
+        "the": [
+          "Measured in kilograms (kg)",
+          "Quantity of matter in an object",
+          "Remains unchanged on the Moon",
+          "Measured in newtons (N)",
+          "Force of gravity acting on an object",
+          "Decreases where gravity is weaker"
+        ],
+        "nhom": [
+          "Mass Characteristics",
+          "Weight Characteristics"
+        ],
+        "dap_an": {
+          "Measured in kilograms (kg)": 0,
+          "Quantity of matter in an object": 0,
+          "Remains unchanged on the Moon": 0,
+          "Measured in newtons (N)": 1,
+          "Force of gravity acting on an object": 1,
+          "Decreases where gravity is weaker": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 197,
+        "id": "q197",
+        "type": "phan_loai",
+        "question": "Classify each material based on whether it functions primarily as an Electrical Conductor or an Electrical Insulator.",
+        "the": [
+          "Copper wire",
+          "Iron rod",
+          "Aluminum foil",
+          "Plastic cable coating",
+          "Dry wood",
+          "Solid sulfur"
+        ],
+        "nhom": [
+          "Electrical Conductor",
+          "Electrical Insulator"
+        ],
+        "dap_an": {
+          "Copper wire": 0,
+          "Iron rod": 0,
+          "Aluminum foil": 0,
+          "Plastic cable coating": 1,
+          "Dry wood": 1,
+          "Solid sulfur": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 198,
+        "id": "q198",
+        "type": "dung_sai",
+        "question": "Nhận định: \"All metals are magnetic and will be strongly attracted to a bar magnet.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 199,
+        "id": "q199",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Malleable and ductile mean the exact same thing: both describe a material shattering into small pieces when struck.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 200,
+        "id": "q200",
+        "type": "dung_sai",
+        "question": "Nhận định: \"An astronaut's mass in kilograms stays the same on Earth and on the Moon, even though their weight in newtons is much smaller on the Moon.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 201,
+        "id": "q201",
+        "type": "mot_dap_an",
+        "question": "What is the standard SI unit used to measure all forms of energy?",
+        "options": {
+          "a": "Newton (N)",
+          "b": "Kilogram (kg)",
+          "c": "Joule (J)",
+          "d": "Degree Celsius"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 202,
+        "id": "q202",
+        "type": "mot_dap_an",
+        "question": "When an archer pulls back the string of a bow and bends the wooden limbs before releasing the arrow, which energy store increases in the stretched bow?",
+        "options": {
+          "a": "Chemical energy",
+          "b": "Elastic potential energy",
+          "c": "Gravitational potential energy",
+          "d": "Thermal energy"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 203,
+        "id": "q203",
+        "type": "mot_dap_an",
+        "question": "A natural gas power station burns fuel to boil water, spin a turbine, and drive a generator. Which initial energy store is contained inside the natural gas before it is burned?",
+        "options": {
+          "a": "Kinetic energy",
+          "b": "Chemical energy",
+          "c": "Electrical energy",
+          "d": "Sound energy"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 204,
+        "id": "q204",
+        "type": "mot_dap_an",
+        "question": "An electric lamp receives $100\\\text{ J}$ of electrical energy. It outputs $25\\\text{ J}$ as light energy and $75\\\text{ J}$ as thermal energy that warms the surrounding air. How is the $75\\\text{ J}$ of thermal energy scientifically classified?",
+        "options": {
+          "a": "Useful energy",
+          "b": "Recovered energy",
+          "c": "Wasted or dissipated energy",
+          "d": "Gravitational potential energy"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 205,
+        "id": "q205",
+        "type": "mot_dap_an",
+        "question": "Which energy store is directly associated with an object's movement?",
+        "options": {
+          "a": "Kinetic energy",
+          "b": "Chemical energy",
+          "c": "Elastic potential energy",
+          "d": "Gravitational potential energy"
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 206,
+        "id": "q206",
+        "type": "mot_dap_an",
+        "question": "Objects such as the Sun, a lit candle flame, and a glowing LED bulb produce and emit their own light energy. What scientific term describes these objects?",
+        "options": {
+          "a": "Vibrating objects",
+          "b": "Luminous objects",
+          "c": "Magnetic objects",
+          "d": "Conducting objects"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 207,
+        "id": "q207",
+        "type": "mot_dap_an",
+        "question": "Which physical mechanism is always required to produce sound energy?",
+        "options": {
+          "a": "Stretching a rubber band without moving it",
+          "b": "Vibrating objects",
+          "c": "Raising an object to a higher shelf",
+          "d": "Cooling a metal rod"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 208,
+        "id": "q208",
+        "type": "mot_dap_an",
+        "question": "Why can dissipated energy generally NOT be reused to power a machine again?",
+        "options": {
+          "a": "Because energy is destroyed as soon as a machine stops.",
+          "b": "Because dissipated energy spreads out into the surroundings and cannot be easily recovered.",
+          "c": "Because dissipated energy turns into solid matter.",
+          "d": "Because dissipated energy only exists in outer space."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 209,
+        "id": "q209",
+        "type": "mot_dap_an",
+        "question": "Which of the following is NOT one of the seven standard characteristics of all living organisms?",
+        "options": {
+          "a": "Respiration",
+          "b": "Excretion",
+          "c": "Sensitivity",
+          "d": "Photosynthesis"
+        },
+        "answer": "d",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 210,
+        "id": "q210",
+        "type": "mot_dap_an",
+        "question": "Why do most scientists argue that a virus, such as the influenza virus, is NOT a complete living organism?",
+        "options": {
+          "a": "Because viruses are too large to be seen under a light microscope.",
+          "b": "Because viruses cannot replicate independently and must infect a living host cell to reproduce.",
+          "c": "Because viruses are made entirely of metallic elements.",
+          "d": "Because viruses perform all seven life processes on their own."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 211,
+        "id": "q211",
+        "type": "mot_dap_an",
+        "question": "Which specialized laboratory instrument is required to observe the tiny structure of a virus, including its protein coat?",
+        "options": {
+          "a": "Magnifying glass",
+          "b": "Electron microscope",
+          "c": "Telescope",
+          "d": "Formula triangle"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 212,
+        "id": "q212",
+        "type": "mot_dap_an",
+        "question": "A horse and a donkey belong to different species. When they reproduce, they produce a mule, which is a hybrid. Why does this confirm that horses and donkeys are separate species?",
+        "options": {
+          "a": "Because the mule is identical to a horse.",
+          "b": "Because the mule is infertile and cannot produce its own offspring.",
+          "c": "Because the mule has no characteristics of either parent.",
+          "d": "Because horses and donkeys cannot live in the same habitat."
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 213,
+        "id": "q213",
+        "type": "mot_dap_an",
+        "question": "What is the defining structural rule of a dichotomous key used by biologists to identify an unknown specimen?",
+        "options": {
+          "a": "Each step offers exactly two contrasting choices based on observable features.",
+          "b": "Each step lists ten different species names at once.",
+          "c": "It classifies organisms solely by their weight in newtons.",
+          "d": "It only works for identifying viruses."
+        },
+        "answer": "a",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 214,
+        "id": "q214",
+        "type": "mot_dap_an",
+        "question": "Which characteristic of living organisms specifically refers to the removal of toxic waste products produced by chemical reactions inside cells?",
+        "options": {
+          "a": "Nutrition",
+          "b": "Excretion",
+          "c": "Sensitivity",
+          "d": "Growth"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 215,
+        "id": "q215",
+        "type": "mot_dap_an",
+        "question": "Inside an influenza virus particle, which two main biological components are present?",
+        "options": {
+          "a": "A cell wall and a nucleus",
+          "b": "Genetic material (RNA) enclosed inside a protein coat",
+          "c": "Chloroplasts and mitochondria",
+          "d": "Iron and nickel atoms"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 216,
+        "id": "q216",
+        "type": "nhieu_dap_an",
+        "question": "Select all valid examples of energy stores studied in Unit 3.",
+        "options": {
+          "a": "Kinetic energy",
+          "b": "Chemical energy",
+          "c": "Gravitational potential energy",
+          "d": "Elastic potential energy"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 217,
+        "id": "q217",
+        "type": "nhieu_dap_an",
+        "question": "Which statements accurately describe energy transfers in a power station burning natural gas?",
+        "options": {
+          "a": "Chemical energy in natural gas is converted into thermal energy when burned.",
+          "b": "A generator converts kinetic energy from spinning turbines into electrical energy.",
+          "c": "Some thermal energy is dissipated as wasted energy into the surroundings.",
+          "d": "100 percent of the chemical energy is converted into useful electrical energy with zero waste."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 218,
+        "id": "q218",
+        "type": "nhieu_dap_an",
+        "question": "Select all items below that belong to the seven characteristics of living organisms (MRS GREN).",
+        "options": {
+          "a": "Respiration",
+          "b": "Sensitivity",
+          "c": "Reproduction",
+          "d": "Excretion"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 219,
+        "id": "q219",
+        "type": "nhieu_dap_an",
+        "question": "Which statements are scientifically accurate regarding viruses?",
+        "options": {
+          "a": "Viruses contain genetic material such as RNA inside a protein coat.",
+          "b": "Viruses must infect a living host cell in order to replicate.",
+          "c": "Influenza is an infectious disease caused by a virus.",
+          "d": "Viruses can grow and carry out nutrition independently on a dry metal table."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 220,
+        "id": "q220",
+        "type": "nhieu_dap_an",
+        "question": "Which statements correctly describe the biological concept of species and variation?",
+        "options": {
+          "a": "Members of the same species share similar characteristics and can produce fertile offspring.",
+          "b": "Individuals within the same species still show variation rather than being completely identical.",
+          "c": "Offspring produced by mating two different species are called hybrids and are usually infertile.",
+          "d": "All organisms that live in the same forest automatically belong to the same species."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 221,
+        "id": "q221",
+        "type": "nhieu_dap_an",
+        "question": "When constructing a dichotomous or branching key to classify insect specimens, which features are scientifically useful to observe?",
+        "options": {
+          "a": "Number of wings (e.g., two wings versus four wings)",
+          "b": "Presence or absence of antennae",
+          "c": "Shape of the legs or body segments",
+          "d": "Whether the insect feels happy or sad"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 222,
+        "id": "q222",
+        "type": "dien_khuyet",
+        "question": "When a heavy box is lifted from the floor onto a high shelf, its ____ potential energy store increases.",
+        "answer": "gravitational",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 223,
+        "id": "q223",
+        "type": "dien_khuyet",
+        "question": "Energy that spreads out into the surroundings as wasted thermal or sound energy and cannot be easily recovered is called ____ energy.",
+        "answer": "dissipated",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 224,
+        "id": "q224",
+        "type": "dien_khuyet",
+        "question": "In a power station, a machine called a ____ converts kinetic energy from spinning turbines into electrical energy.",
+        "answer": "generator",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 225,
+        "id": "q225",
+        "type": "dien_khuyet",
+        "question": "A virus cannot reproduce on its own; it must enter and take over a living ____ cell to replicate.",
+        "answer": "host",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 226,
+        "id": "q226",
+        "type": "dien_khuyet",
+        "question": "An offspring produced by the reproduction of two organisms from different species, such as a mule, is called a ____.",
+        "answer": "hybrid",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 227,
+        "id": "q227",
+        "type": "dien_khuyet",
+        "question": "A step-by-step identification tool that offers two contrasting choices at each stage based on observable features is called a ____ key.",
+        "answer": "dichotomous",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 228,
+        "id": "q228",
+        "type": "noi",
+        "question": "Match each energy store on the left with its correct physical example on the right.",
+        "leftCol": [
+          "Kinetic energy",
+          "Chemical energy",
+          "Elastic potential energy",
+          "Gravitational potential energy"
+        ],
+        "rightCol": [
+          "A stretched rubber band",
+          "A book resting on the top shelf of a bookcase",
+          "Natural gas stored in a tank",
+          "A speeding bicycle rolling down a road"
+        ],
+        "answer": {
+          "Kinetic energy": "A speeding bicycle rolling down a road",
+          "Chemical energy": "Natural gas stored in a tank",
+          "Elastic potential energy": "A stretched rubber band",
+          "Gravitational potential energy": "A book resting on the top shelf of a bookcase"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 229,
+        "id": "q229",
+        "type": "noi",
+        "question": "Match each characteristic of living organisms on the left with its exact biological meaning on the right.",
+        "leftCol": [
+          "Respiration",
+          "Sensitivity",
+          "Excretion",
+          "Nutrition"
+        ],
+        "rightCol": [
+          "Detecting and responding to changes in the environment",
+          "Taking in materials for energy, growth, and development",
+          "Releasing energy from food inside living cells",
+          "Removing toxic metabolic waste products from the body"
+        ],
+        "answer": {
+          "Respiration": "Releasing energy from food inside living cells",
+          "Sensitivity": "Detecting and responding to changes in the environment",
+          "Excretion": "Removing toxic metabolic waste products from the body",
+          "Nutrition": "Taking in materials for energy, growth, and development"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 230,
+        "id": "q230",
+        "type": "noi",
+        "question": "Match each virus-related term on the left with its accurate scientific role on the right.",
+        "leftCol": [
+          "Protein coat",
+          "RNA",
+          "Host cell",
+          "Electron microscope"
+        ],
+        "rightCol": [
+          "The living cell hijacked by a virus to make copies of itself",
+          "The high-powered instrument required to visualize viruses",
+          "The genetic material inside viruses such as influenza",
+          "The outer protective shell surrounding viral genetic material"
+        ],
+        "answer": {
+          "Protein coat": "The outer protective shell surrounding viral genetic material",
+          "RNA": "The genetic material inside viruses such as influenza",
+          "Host cell": "The living cell hijacked by a virus to make copies of itself",
+          "Electron microscope": "The high-powered instrument required to visualize viruses"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 231,
+        "id": "q231",
+        "type": "noi",
+        "question": "Match each species and classification term on the left with its definition on the right.",
+        "leftCol": [
+          "Species",
+          "Fertile",
+          "Infertile",
+          "Variation"
+        ],
+        "rightCol": [
+          "Unable to reproduce and produce offspring",
+          "Differences in characteristics among individuals of the same species",
+          "A group of organisms that can reproduce to produce fertile offspring",
+          "Able to reproduce and produce offspring"
+        ],
+        "answer": {
+          "Species": "A group of organisms that can reproduce to produce fertile offspring",
+          "Fertile": "Able to reproduce and produce offspring",
+          "Infertile": "Unable to reproduce and produce offspring",
+          "Variation": "Differences in characteristics among individuals of the same species"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 232,
+        "id": "q232",
+        "type": "noi",
+        "question": "Match each energy transfer concept on the left with its accurate description on the right.",
+        "leftCol": [
+          "Useful energy",
+          "Wasted energy",
+          "Dissipated energy",
+          "Surroundings"
+        ],
+        "rightCol": [
+          "Energy that spreads out and cannot be easily recovered",
+          "The environment around an object or machine that absorbs wasted heat",
+          "Energy transferred into the intended form needed for a task",
+          "Energy transferred into unintended forms that do not perform the desired job"
+        ],
+        "answer": {
+          "Useful energy": "Energy transferred into the intended form needed for a task",
+          "Wasted energy": "Energy transferred into unintended forms that do not perform the desired job",
+          "Dissipated energy": "Energy that spreads out and cannot be easily recovered",
+          "Surroundings": "The environment around an object or machine that absorbs wasted heat"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 233,
+        "id": "q233",
+        "type": "dropdown",
+        "question": "Complete the energy transfer description of a flashlight: Chemical energy stored in the battery is transferred into [[electrical energy|gravitational potential energy|elastic potential energy]] in the wires, which the bulb converts into useful [[light energy|sound energy|chemical energy]] and wasted thermal energy.",
+        "answer": "electrical energy, light energy",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 234,
+        "id": "q234",
+        "type": "dropdown",
+        "question": "Complete the energy dissipation rule: Whenever a car engine runs, a large portion of energy is transferred as [[wasted energy|useful energy|recovered energy]] in the form of thermal and sound energy, which becomes [[dissipated|stored|created]] into the surroundings.",
+        "answer": "wasted energy, dissipated",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 235,
+        "id": "q235",
+        "type": "dropdown",
+        "question": "Complete the virus replication summary: An influenza virus consists of [[RNA|cells|metals]] surrounded by a [[protein coat|cell wall|skeleton]], and it can only replicate after it infects a living host cell.",
+        "answer": "RNA, protein coat",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 236,
+        "id": "q236",
+        "type": "dropdown",
+        "question": "Complete the species definition: Two organisms belong to the same [[species|hybrid|specimen]] only if they can reproduce together to produce [[fertile|infertile|identical]] offspring.",
+        "answer": "species, fertile",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 237,
+        "id": "q237",
+        "type": "dropdown",
+        "question": "Complete the key classification rule: Biologists use a [[dichotomous key|periodic table|formula triangle]] to identify an unknown [[specimen|energy store|vacuum]] by answering a series of two-choice questions about its observable features.",
+        "answer": "dichotomous key, specimen",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 238,
+        "id": "q238",
+        "type": "dropdown",
+        "question": "Complete the sound and light comparison: Objects that emit their own light are called [[luminous objects|vibrating objects|insulators]], whereas sound energy is always produced by [[vibrating objects|luminous objects|magnetic metals]].",
+        "answer": "luminous objects, vibrating objects",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 239,
+        "id": "q239",
+        "type": "dropdown",
+        "question": "Complete the hybrid explanation: When a lion and a tiger mate, their offspring is a [[hybrid|species|virus]] called a liger, which is usually [[infertile|fertile|luminous]] because its parents belong to two different species.",
+        "answer": "hybrid, infertile",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 240,
+        "id": "q240",
+        "type": "sap_xep",
+        "question": "Arrange the energy transfer chain inside a natural gas power station in the correct chronological sequence from fuel to electricity.",
+        "muc": [
+          "Chemical energy is stored inside natural gas fuel.",
+          "Burning the natural gas transfers chemical energy into thermal energy to boil water into steam.",
+          "High-pressure steam spins the turbines, transferring energy into kinetic energy.",
+          "A generator converts the kinetic energy of the spinning turbines into electrical energy."
+        ],
+        "answer": [
+          "Chemical energy is stored inside natural gas fuel.",
+          "Burning the natural gas transfers chemical energy into thermal energy to boil water into steam.",
+          "High-pressure steam spins the turbines, transferring energy into kinetic energy.",
+          "A generator converts the kinetic energy of the spinning turbines into electrical energy."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 241,
+        "id": "q241",
+        "type": "sap_xep",
+        "question": "Arrange the stages of how a virus replicates using a living host cell in chronological order.",
+        "muc": [
+          "The virus attaches to the surface of a living host cell and infects it.",
+          "The virus inserts its genetic material (RNA) into the host cell.",
+          "The host cell is forced to manufacture new viral RNA and protein coats.",
+          "New virus particles assemble and burst out of the host cell to infect other cells."
+        ],
+        "answer": [
+          "The virus attaches to the surface of a living host cell and infects it.",
+          "The virus inserts its genetic material (RNA) into the host cell.",
+          "The host cell is forced to manufacture new viral RNA and protein coats.",
+          "New virus particles assemble and burst out of the host cell to infect other cells."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 242,
+        "id": "q242",
+        "type": "sap_xep",
+        "question": "Arrange the logical steps a biologist follows when using a dichotomous key to identify an unknown plant specimen.",
+        "muc": [
+          "Observe the physical features of the unknown plant specimen carefully.",
+          "Start at question 1 of the dichotomous key and read both contrasting choices.",
+          "Select the choice that accurately matches the specimen and follow the directed next step.",
+          "Repeat the two-choice selection until the key leads to the exact species name."
+        ],
+        "answer": [
+          "Observe the physical features of the unknown plant specimen carefully.",
+          "Start at question 1 of the dichotomous key and read both contrasting choices.",
+          "Select the choice that accurately matches the specimen and follow the directed next step.",
+          "Repeat the two-choice selection until the key leads to the exact species name."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 243,
+        "id": "q243",
+        "type": "sap_xep",
+        "question": "Arrange the energy changes that occur when a rubber ball is dropped from a high balcony and hits the ground.",
+        "muc": [
+          "At the balcony, the stationary ball holds maximum gravitational potential energy.",
+          "As the ball falls downward, gravitational potential energy transfers into kinetic energy.",
+          "Upon hitting the ground, kinetic energy briefly compresses the ball into elastic potential energy.",
+          "During impact, some energy dissipates as sound and thermal energy into the surroundings."
+        ],
+        "answer": [
+          "At the balcony, the stationary ball holds maximum gravitational potential energy.",
+          "As the ball falls downward, gravitational potential energy transfers into kinetic energy.",
+          "Upon hitting the ground, kinetic energy briefly compresses the ball into elastic potential energy.",
+          "During impact, some energy dissipates as sound and thermal energy into the surroundings."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 244,
+        "id": "q244",
+        "type": "phan_loai",
+        "question": "Classify each item into Useful Energy Output or Wasted (Dissipated) Energy Output for the specified device.",
+        "the": [
+          "Light energy from a desk lamp",
+          "Kinetic energy moving a car forward",
+          "Sound energy from a television speaker",
+          "Thermal energy heating the glass of a desk lamp",
+          "Sound noise from a car engine",
+          "Thermal energy warming the back of a television"
+        ],
+        "nhom": [
+          "Useful Energy Output",
+          "Wasted Energy Output"
+        ],
+        "dap_an": {
+          "Light energy from a desk lamp": 0,
+          "Kinetic energy moving a car forward": 0,
+          "Sound energy from a television speaker": 0,
+          "Thermal energy heating the glass of a desk lamp": 1,
+          "Sound noise from a car engine": 1,
+          "Thermal energy warming the back of a television": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 245,
+        "id": "q245",
+        "type": "phan_loai",
+        "question": "Classify each biological feature into Characteristics of Living Organisms or Features Specific to Viruses.",
+        "the": [
+          "Respiration",
+          "Excretion",
+          "Nutrition",
+          "Sensitivity",
+          "Requires a host cell to replicate",
+          "Consists only of genetic material inside a protein coat"
+        ],
+        "nhom": [
+          "Characteristics of Living Organisms",
+          "Features Specific to Viruses"
+        ],
+        "dap_an": {
+          "Respiration": 0,
+          "Excretion": 0,
+          "Nutrition": 0,
+          "Sensitivity": 0,
+          "Requires a host cell to replicate": 1,
+          "Consists only of genetic material inside a protein coat": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 246,
+        "id": "q246",
+        "type": "phan_loai",
+        "question": "Classify each everyday example according to its primary Energy Store: Chemical Energy, Kinetic Energy, or Elastic Potential Energy.",
+        "the": [
+          "Natural gas fuel",
+          "Food inside a lunchbox",
+          "A spinning wind turbine blade",
+          "A running athlete",
+          "A squeezed sponge or spring",
+          "A stretched bowstring"
+        ],
+        "nhom": [
+          "Chemical Energy",
+          "Kinetic Energy",
+          "Elastic Potential Energy"
+        ],
+        "dap_an": {
+          "Natural gas fuel": 0,
+          "Food inside a lunchbox": 0,
+          "A spinning wind turbine blade": 1,
+          "A running athlete": 1,
+          "A squeezed sponge or spring": 2,
+          "A stretched bowstring": 2
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 247,
+        "id": "q247",
+        "type": "phan_loai",
+        "question": "Classify each biological statement into Same Species or Different Species.",
+        "the": [
+          "Two dogs of different breeds that produce fertile puppies",
+          "Two oak trees that produce fertile acorns",
+          "A horse and a donkey that produce an infertile mule",
+          "A lion and a tiger that produce an infertile hybrid liger"
+        ],
+        "nhom": [
+          "Same Species",
+          "Different Species"
+        ],
+        "dap_an": {
+          "Two dogs of different breeds that produce fertile puppies": 0,
+          "Two oak trees that produce fertile acorns": 0,
+          "A horse and a donkey that produce an infertile mule": 1,
+          "A lion and a tiger that produce an infertile hybrid liger": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 248,
+        "id": "q248",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Viruses are complete living organisms because they can reproduce independently without needing any other cells.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 249,
+        "id": "q249",
+        "type": "dung_sai",
+        "question": "Nhận định: \"When energy is wasted as heat in a machine, that energy is completely destroyed and disappears from the universe.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 250,
+        "id": "q250",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Two individuals belonging to the same species must be 100 percent identical with zero variation between them.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 251,
+        "id": "q251",
+        "type": "mot_dap_an",
+        "question": "Which academic noun phrase refers to a competitive assessment that prospective students must pass to gain admission to a specialized high school or university?",
+        "options": {
+          "a": "Midterm",
+          "b": "Entrance exam",
+          "c": "Facility",
+          "d": "Outdoor activity"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 252,
+        "id": "q252",
+        "type": "mot_dap_an",
+        "question": "Select the exact adjective used in academic English to describe a student who demonstrates exceptional natural intellectual or creative talent.",
+        "options": {
+          "a": "Outdoor",
+          "b": "Midterm",
+          "c": "Gifted",
+          "d": "Facility"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 253,
+        "id": "q253",
+        "type": "mot_dap_an",
+        "question": "\"The school recently upgraded its science laboratory and sports ____ to support hands-on research.\" Which noun completes the sentence accurately?",
+        "options": {
+          "a": "gifted",
+          "b": "outdoor",
+          "c": "facilities",
+          "d": "midterms"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 254,
+        "id": "q254",
+        "type": "mot_dap_an",
+        "question": "Choose the grammatically accurate preposition of time: \"The national entrance exam for gifted students begins strictly ____ 8:00 a.m.\"",
+        "options": {
+          "a": "in",
+          "b": "on",
+          "c": "at",
+          "d": "to"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 255,
+        "id": "q255",
+        "type": "mot_dap_an",
+        "question": "\"Our class conducts botanical observations ____ the school garden whenever the weather is clear.\" Which preposition of place is required?",
+        "options": {
+          "a": "at",
+          "b": "on",
+          "c": "in",
+          "d": "from"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 256,
+        "id": "q256",
+        "type": "mot_dap_an",
+        "question": "\"Please review the seating chart posted ____ the classroom board before the midterm exam starts.\" Which preposition correctly expresses contact with a surface?",
+        "options": {
+          "a": "in",
+          "b": "at",
+          "c": "on",
+          "d": "into"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 257,
+        "id": "q257",
+        "type": "mot_dap_an",
+        "question": "Select the correct preposition for a specific day combined with a part of the day: \"The oral interview for the gifted program is scheduled ____ Monday morning.\"",
+        "options": {
+          "a": "in",
+          "b": "at",
+          "c": "on",
+          "d": "by"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 258,
+        "id": "q258",
+        "type": "mot_dap_an",
+        "question": "\"The newly renovated computer facility is located ____ the second floor of the main academic building.\" Which preposition is grammatically correct?",
+        "options": {
+          "a": "in",
+          "b": "at",
+          "c": "on",
+          "d": "inside"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 259,
+        "id": "q259",
+        "type": "mot_dap_an",
+        "question": "\"Students are allowed to eat snacks and socialize ____ break time, but not during the midterm examination.\" Which preposition is required?",
+        "options": {
+          "a": "on",
+          "b": "in",
+          "c": "at",
+          "d": "during of"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 260,
+        "id": "q260",
+        "type": "mot_dap_an",
+        "question": "\"The academy was founded ____ 2020 and hosts its annual science fair ____ December.\" Choose the correct pair of prepositions.",
+        "options": {
+          "a": "on / on",
+          "b": "at / in",
+          "c": "in / in",
+          "d": "in / on"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 261,
+        "id": "q261",
+        "type": "mot_dap_an",
+        "question": "\"Although she usually studies ____ home, she stayed ____ school until 5:00 p.m. to prepare for the entrance exam.\" Select the accurate pair of prepositions.",
+        "options": {
+          "a": "in / on",
+          "b": "at / at",
+          "c": "on / in",
+          "d": "at / on"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 262,
+        "id": "q262",
+        "type": "mot_dap_an",
+        "question": "\"The final results of the entrance exam will be announced ____ January 18th.\" Which preposition must precede a specific calendar date?",
+        "options": {
+          "a": "in",
+          "b": "at",
+          "c": "on",
+          "d": "to"
+        },
+        "answer": "c",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 263,
+        "id": "q263",
+        "type": "nhieu_dap_an",
+        "question": "Select all sentences that use prepositions of time (at, in, on) with complete grammatical accuracy.",
+        "options": {
+          "a": "The midterm exam finishes at noon.",
+          "b": "Our gifted students will present their projects on Friday afternoon.",
+          "c": "The new sports facility opened in December 2020.",
+          "d": "We always have outdoor training on the morning."
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 264,
+        "id": "q264",
+        "type": "nhieu_dap_an",
+        "question": "Which of the following phrases correctly use prepositions of place according to standard English rules?",
+        "options": {
+          "a": "on the wall",
+          "b": "in the playground",
+          "c": "at the second floor",
+          "d": "at work"
+        },
+        "answer": [
+          "a",
+          "b",
+          "d"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 265,
+        "id": "q265",
+        "type": "nhieu_dap_an",
+        "question": "Identify all vocabulary items from the MOET review list that function grammatically as adjectives.",
+        "options": {
+          "a": "outdoor",
+          "b": "gifted",
+          "c": "facility",
+          "d": "midterm"
+        },
+        "answer": [
+          "a",
+          "b"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 266,
+        "id": "q266",
+        "type": "nhieu_dap_an",
+        "question": "Select all time expressions that strictly require the preposition \"on\".",
+        "options": {
+          "a": "Monday",
+          "b": "January 18th",
+          "c": "Christmas Day",
+          "d": "six o'clock"
+        },
+        "answer": [
+          "a",
+          "b",
+          "c"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 267,
+        "id": "q267",
+        "type": "dien_khuyet",
+        "question": "The school built a modern ____ sports field so students can practice athletics in the fresh air.",
+        "answer": "outdoor",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 268,
+        "id": "q268",
+        "type": "dien_khuyet",
+        "question": "Students must review Units 1 through 4 carefully to achieve a high score on their ____ examination next week.",
+        "answer": "midterm",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 269,
+        "id": "q269",
+        "type": "dien_khuyet",
+        "question": "The chemistry teacher wrote the laboratory safety rules ____ the board before the experiment began.",
+        "answer": "on",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 270,
+        "id": "q270",
+        "type": "dien_khuyet",
+        "question": "All candidates must arrive ____ six o'clock sharp so that identity verification can finish before the entrance exam starts.",
+        "answer": "at",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 271,
+        "id": "q271",
+        "type": "dien_khuyet",
+        "question": "My older brother is currently ____ work, so he will check my practice essay when he returns home this evening.",
+        "answer": "at",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 272,
+        "id": "q272",
+        "type": "dien_khuyet",
+        "question": "The annual ceremony for ____ students takes place in the main auditorium to honor top academic achievers.",
+        "answer": "gifted",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 273,
+        "id": "q273",
+        "type": "noi",
+        "question": "Match each MOET vocabulary term on the left with its accurate English definition on the right.",
+        "leftCol": [
+          "entrance exam",
+          "facility",
+          "midterm",
+          "gifted"
+        ],
+        "rightCol": [
+          "Having exceptional natural talent or intelligence",
+          "An examination taken halfway through a school term",
+          "A test required for admission into a school or program",
+          "Buildings, equipment, or services provided for a specific purpose"
+        ],
+        "answer": {
+          "entrance exam": "A test required for admission into a school or program",
+          "facility": "Buildings, equipment, or services provided for a specific purpose",
+          "midterm": "An examination taken halfway through a school term",
+          "gifted": "Having exceptional natural talent or intelligence"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 274,
+        "id": "q274",
+        "type": "noi",
+        "question": "Match each preposition of place on the left with its core spatial rule and example on the right.",
+        "leftCol": [
+          "at (place)",
+          "in (place)",
+          "on (place)"
+        ],
+        "rightCol": [
+          "On the surface of something (e.g., on the board, on the second floor)",
+          "A certain point or institution (e.g., at home, at school)",
+          "Inside something or a bounded place (e.g., in the classroom, in the playground)"
+        ],
+        "answer": {
+          "at (place)": "A certain point or institution (e.g., at home, at school)",
+          "in (place)": "Inside something or a bounded place (e.g., in the classroom, in the playground)",
+          "on (place)": "On the surface of something (e.g., on the board, on the second floor)"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 275,
+        "id": "q275",
+        "type": "noi",
+        "question": "Match each preposition of time on the left with its exact temporal rule on the right.",
+        "leftCol": [
+          "at (time)",
+          "in (time)",
+          "on (time)"
+        ],
+        "rightCol": [
+          "A day, specific date, or named part of a specific day (e.g., on Monday, on January 18th)",
+          "A period of time longer or shorter than a day (e.g., in the morning, in December, in 2020)",
+          "A specific point of time (e.g., at six o'clock, at noon, at break time)"
+        ],
+        "answer": {
+          "at (time)": "A specific point of time (e.g., at six o'clock, at noon, at break time)",
+          "in (time)": "A period of time longer or shorter than a day (e.g., in the morning, in December, in 2020)",
+          "on (time)": "A day, specific date, or named part of a specific day (e.g., on Monday, on January 18th)"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 276,
+        "id": "q276",
+        "type": "noi",
+        "question": "Match each phonetic transcription on the left with the correct MOET vocabulary word on the right.",
+        "leftCol": [
+          "/fəˈsɪləti/",
+          "/ˈmɪdtɜːm/",
+          "/ˈɡɪftɪd/",
+          "/ˈaʊtˌdɔːr/"
+        ],
+        "rightCol": [
+          "gifted",
+          "outdoor",
+          "facility",
+          "midterm"
+        ],
+        "answer": {
+          "/fəˈsɪləti/": "facility",
+          "/ˈmɪdtɜːm/": "midterm",
+          "/ˈɡɪftɪd/": "gifted",
+          "/ˈaʊtˌdɔːr/": "outdoor"
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 277,
+        "id": "q277",
+        "type": "dropdown",
+        "question": "Complete the exam notice: The mathematics [[midterm|outdoor|facility]] begins strictly [[at|in|on]] noon, and all students must remain seated [[in|on|at]] the classroom until the bell rings.",
+        "answer": "midterm, at, in",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 278,
+        "id": "q278",
+        "type": "dropdown",
+        "question": "Complete the campus tour announcement: Our new science [[facility|gifted|midterm]] is located [[on|in|at]] the second floor, while our [[outdoor|entrance exam|midterm]] botanical lab is situated [[in|on|at]] the school garden.",
+        "answer": "facility, on, outdoor, in",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 279,
+        "id": "q279",
+        "type": "dropdown",
+        "question": "Complete the admission schedule: The [[entrance exam|facility|outdoor]] for [[gifted|midterm|facility]] applicants will be held [[on|in|at]] January 18th, with orientation starting [[in|on|at]] the morning.",
+        "answer": "entrance exam, gifted, on, in",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 280,
+        "id": "q280",
+        "type": "dropdown",
+        "question": "Choose the accurate prepositions for the timetable: Students usually relax [[in|on|at]] the playground [[at|in|on]] break time, and important notices are always displayed [[on|in|at]] the wall outside the library.",
+        "answer": "in, at, on",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 281,
+        "id": "q281",
+        "type": "dropdown",
+        "question": "Select the correct prepositions to avoid the day-part trap: We normally hold choir practice [[in|on|at]] the evening, but this week our rehearsal is moved to a special session [[on|in|at]] Friday evening.",
+        "answer": "in, on",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 282,
+        "id": "q282",
+        "type": "dropdown",
+        "question": "Complete the holiday schedule: The academy closes [[in|on|at]] December for winter break, and no classes are held [[on|in|at]] Christmas Day, so all teachers stay [[at|in|on]] home.",
+        "answer": "in, on, at",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 283,
+        "id": "q283",
+        "type": "dropdown",
+        "question": "Complete the historical summary: The school for [[gifted|outdoor|midterm]] youth opened [[in|on|at]] 2020, and its first official classes started [[on|in|at]] Monday [[at|in|on]] six o'clock in the morning.",
+        "answer": "gifted, in, on, at",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 284,
+        "id": "q284",
+        "type": "dropdown",
+        "question": "Complete the classroom instruction: Please check the diagrams pinned [[on|in|at]] the board while you are [[at|on|in]] school, and review your notes again when you arrive [[at|in|on]] home.",
+        "answer": "on, at, at",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 285,
+        "id": "q285",
+        "type": "sap_xep",
+        "question": "Arrange the following time expressions from the smallest, most specific point of time (1) to the longest period of time (4).",
+        "muc": [
+          "at six o'clock",
+          "on Monday",
+          "in December",
+          "in 2020"
+        ],
+        "answer": [
+          "at six o'clock",
+          "on Monday",
+          "in December",
+          "in 2020"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 286,
+        "id": "q286",
+        "type": "sap_xep",
+        "question": "Arrange the steps in logical order to choose the correct preposition of time (at, in, or on) for any English sentence.",
+        "muc": [
+          "Identify whether the time expression refers to an exact clock time or point like noon or break time; if so, choose at.",
+          "Check whether the expression names a specific day, date, or day-plus-part-of-day like Monday morning; if so, choose on.",
+          "Check whether the expression refers to a general part of the day, a month, or a year; if so, choose in.",
+          "Read the complete sentence aloud to verify natural flow and accuracy."
+        ],
+        "answer": [
+          "Identify whether the time expression refers to an exact clock time or point like noon or break time; if so, choose at.",
+          "Check whether the expression names a specific day, date, or day-plus-part-of-day like Monday morning; if so, choose on.",
+          "Check whether the expression refers to a general part of the day, a month, or a year; if so, choose in.",
+          "Read the complete sentence aloud to verify natural flow and accuracy."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 287,
+        "id": "q287",
+        "type": "sap_xep",
+        "question": "Arrange the spatial scale of place prepositions from a surface contact (1), to an enclosed room (2), to a general institutional point (3).",
+        "muc": [
+          "on the board",
+          "in the classroom",
+          "at school"
+        ],
+        "answer": [
+          "on the board",
+          "in the classroom",
+          "at school"
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 288,
+        "id": "q288",
+        "type": "sap_xep",
+        "question": "Arrange the academic milestones of a student entering a specialized high school in chronological order.",
+        "muc": [
+          "Prepare diligently at home and in the classroom for the competitive entrance exam.",
+          "Sit for the official entrance exam on January 18th at 8:00 a.m.",
+          "Receive admission into the program for gifted students and explore every school facility.",
+          "Complete the first midterm assessment halfway through the semester."
+        ],
+        "answer": [
+          "Prepare diligently at home and in the classroom for the competitive entrance exam.",
+          "Sit for the official entrance exam on January 18th at 8:00 a.m.",
+          "Receive admission into the program for gifted students and explore every school facility.",
+          "Complete the first midterm assessment halfway through the semester."
+        ],
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 289,
+        "id": "q289",
+        "type": "phan_loai",
+        "question": "Classify the following time expressions according to their required preposition: AT, IN, or ON.",
+        "the": [
+          "six o'clock",
+          "noon",
+          "break time",
+          "the morning",
+          "December",
+          "2020",
+          "Monday",
+          "January 18th",
+          "Christmas Day"
+        ],
+        "nhom": [
+          "AT",
+          "IN",
+          "ON"
+        ],
+        "dap_an": {
+          "2020": 1,
+          "six o'clock": 0,
+          "noon": 0,
+          "break time": 0,
+          "the morning": 1,
+          "December": 1,
+          "Monday": 2,
+          "January 18th": 2,
+          "Christmas Day": 2
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 290,
+        "id": "q290",
+        "type": "phan_loai",
+        "question": "Classify the following place expressions according to their required preposition: AT, IN, or ON.",
+        "the": [
+          "home",
+          "school",
+          "work",
+          "the classroom",
+          "the school garden",
+          "the playground",
+          "the board",
+          "the wall",
+          "the second floor"
+        ],
+        "nhom": [
+          "AT",
+          "IN",
+          "ON"
+        ],
+        "dap_an": {
+          "home": 0,
+          "school": 0,
+          "work": 0,
+          "the classroom": 1,
+          "the school garden": 1,
+          "the playground": 1,
+          "the board": 2,
+          "the wall": 2,
+          "the second floor": 2
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 291,
+        "id": "q291",
+        "type": "phan_loai",
+        "question": "Classify the following MOET vocabulary words into Nouns/Noun Phrases or Adjectives.",
+        "the": [
+          "entrance exam",
+          "facility",
+          "midterm",
+          "outdoor",
+          "gifted"
+        ],
+        "nhom": [
+          "Nouns or Noun Phrases",
+          "Adjectives"
+        ],
+        "dap_an": {
+          "entrance exam": 0,
+          "facility": 0,
+          "midterm": 0,
+          "outdoor": 1,
+          "gifted": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 292,
+        "id": "q292",
+        "type": "phan_loai",
+        "question": "Classify each phrase by whether it uses \"in\" (General Part of Day) or \"on\" (Specific Day + Part of Day).",
+        "the": [
+          "the morning",
+          "the afternoon",
+          "the evening",
+          "Monday morning",
+          "Friday afternoon",
+          "Sunday evening"
+        ],
+        "nhom": [
+          "Uses IN",
+          "Uses ON"
+        ],
+        "dap_an": {
+          "the morning": 0,
+          "the afternoon": 0,
+          "the evening": 0,
+          "Monday morning": 1,
+          "Friday afternoon": 1,
+          "Sunday evening": 1
+        },
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 293,
+        "id": "q293",
+        "type": "dung_sai",
+        "question": "Nhận định: \"Because we say 'in the morning', it is also grammatically correct to say 'in Monday morning'.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "sai",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 294,
+        "id": "q294",
+        "type": "dung_sai",
+        "question": "Nhận định: \"In English, 'on the second floor' is correct because building floors are treated as surfaces, whereas 'in the classroom' is correct because a classroom is an enclosed space.\"",
+        "options": {
+          "dung": "ĐÚNG",
+          "sai": "SAI"
+        },
+        "answer": "dung",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 295,
+        "id": "q295",
+        "type": "listening",
+        "question": "Listen to the school principal's announcement. Where and when will the entrance exam for gifted students take place?",
+        "audio_text": "Good morning, parents and students. This is an important reminder about our upcoming entrance exam for gifted students. The test will be held on January 18th at six o'clock in the evening? No, pardon me, it starts at eight o'clock in the morning, in the main auditorium on the second floor. Please check the room numbers posted on the board near the gate.",
+        "options": {
+          "a": "In December, in the school garden",
+          "b": "On January 18th at 8:00 a.m., on the second floor",
+          "c": "On Christmas Day at noon, at home",
+          "d": "On Monday evening, in the playground"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 296,
+        "id": "q296",
+        "type": "listening",
+        "question": "Listen to the student's description of her school day. Which activity happens at break time?",
+        "audio_text": "I really love my new school because every facility is modern and clean. In the morning, we study science in the classroom and read notes on the board. At break time, my friends and I always go out to enjoy outdoor games in the playground. After school, we prepare at home for our midterm exams in December.",
+        "options": {
+          "a": "Studying science in the classroom",
+          "b": "Enjoying outdoor games in the playground",
+          "c": "Preparing at home for midterm exams",
+          "d": "Reading notes on the board"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 297,
+        "id": "q297",
+        "type": "listening",
+        "question": "Listen to the teacher's reminder. Why must students check the schedule posted on the wall?",
+        "audio_text": "Attention class. Remember that our midterm review sessions begin on Monday morning. Although we normally meet in the afternoon, this week our schedule has changed. Please check the updated timetable pinned on the wall outside the science facility so you do not miss your session at noon.",
+        "options": {
+          "a": "Because the school is closed on Christmas Day",
+          "b": "Because the midterm review schedule has changed to Monday morning and noon",
+          "c": "Because the entrance exam was moved to 2020",
+          "d": "Because all outdoor activities were canceled"
+        },
+        "answer": "b",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 298,
+        "id": "q298",
+        "type": "speaking",
+        "question": "Read the following sentence aloud clearly, paying strict attention to the word stress in \"facility\" and \"entrance exam\":",
+        "answer": "Every modern facility at our school helps gifted students prepare for the entrance exam.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 299,
+        "id": "q299",
+        "type": "speaking",
+        "question": "Read the following schedule sentence aloud, articulating the prepositions \"on\", \"at\", and \"in\" distinctly:",
+        "answer": "Our midterm exam starts at noon on Monday in the classroom on the second floor.",
+        "_": "---",
+        "_divider": "-----------------"
+      },
+      {
+        "number": 300,
+        "id": "q300",
+        "type": "speaking",
+        "question": "Read the following sentence aloud clearly, emphasizing accurate pronunciation of \"outdoor\" and the time prepositions:",
+        "answer": "We enjoy outdoor activities in the school garden in the morning, but we stay at home on Christmas Day.",
+        "_": "---",
+        "_divider": "-----------------"
       }
     ]
   },
